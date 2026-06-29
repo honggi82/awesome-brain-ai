@@ -93,13 +93,13 @@ SKILL2_PROVENANCE_JSON = "paper_curation_skill2_provenance.json"
 
 LANGUAGES = {
     "en": "English",
-    "ko": "Korean",
-    "zh": "Chinese",
-    "ja": "Japanese",
+    "ko": "한국어",
+    "zh": "中文",
+    "ja": "日本語",
 }
 
 UI_LABELS = {
-    code: {
+    "en": {
         "papers": "papers",
         "years": "active years",
         "citations": "citations",
@@ -108,8 +108,97 @@ UI_LABELS = {
         "strengths": "Strengths",
         "limitations": "Limitations",
         "noKeyword": "No keyword selected.",
-    }
-    for code in LANGUAGES
+        "overview": "Category Overview",
+        "researchLimitations": "Research Limitations",
+        "allTaxonomies": "All Taxonomies",
+        "topPaper": "Top paper",
+        "showing": "Showing",
+        "of": "of",
+        "matchingPapers": "matching papers",
+        "completeSet": "The complete set is in the data files.",
+        "selected": "selected",
+        "allTaxonomiesDescription": "All papers matching the current period and keyword filters, sorted by citation count across every taxonomy.",
+        "categorySpecificLimitations": "Use the individual taxonomy rows below for category-specific context and limitations.",
+        "paperLink": "paper",
+        "influentialCitations": "influential citations",
+        "score": "score",
+        "noPapers": "No papers match the current filters.",
+    },
+    "ko": {
+        "papers": "논문",
+        "years": "활성 연도",
+        "citations": "인용",
+        "categories": "분류",
+        "keyIdea": "핵심 아이디어",
+        "strengths": "강점",
+        "limitations": "한계",
+        "noKeyword": "선택된 키워드가 없습니다.",
+        "overview": "분류 개요",
+        "researchLimitations": "연구상 한계",
+        "allTaxonomies": "전체 분류",
+        "topPaper": "대표 상위 논문",
+        "showing": "표시 중",
+        "of": "/",
+        "matchingPapers": "일치 논문",
+        "completeSet": "전체 목록은 데이터 파일에 있습니다.",
+        "selected": "선택됨",
+        "allTaxonomiesDescription": "현재 기간과 키워드 필터에 맞는 모든 논문을 분류 전체에서 인용 수 순으로 정렬했습니다.",
+        "categorySpecificLimitations": "아래 개별 분류 행에서 분류별 맥락과 한계를 확인하세요.",
+        "paperLink": "논문",
+        "influentialCitations": "영향력 인용",
+        "score": "점수",
+        "noPapers": "현재 필터와 일치하는 논문이 없습니다.",
+    },
+    "zh": {
+        "papers": "论文",
+        "years": "活跃年份",
+        "citations": "引用",
+        "categories": "分类",
+        "keyIdea": "核心思想",
+        "strengths": "优势",
+        "limitations": "局限",
+        "noKeyword": "未选择关键词。",
+        "overview": "分类概览",
+        "researchLimitations": "研究局限",
+        "allTaxonomies": "全部分类",
+        "topPaper": "代表论文",
+        "showing": "正在显示",
+        "of": "/",
+        "matchingPapers": "篇匹配论文",
+        "completeSet": "完整集合见数据文件。",
+        "selected": "已选择",
+        "allTaxonomiesDescription": "按引用次数排序，显示当前年份和关键词筛选下跨全部分类的论文。",
+        "categorySpecificLimitations": "请查看下方各分类行，了解分类特定的背景与局限。",
+        "paperLink": "论文",
+        "influentialCitations": "高影响引用",
+        "score": "得分",
+        "noPapers": "当前筛选条件下没有匹配论文。",
+    },
+    "ja": {
+        "papers": "論文",
+        "years": "対象年",
+        "citations": "引用",
+        "categories": "分類",
+        "keyIdea": "主要アイデア",
+        "strengths": "強み",
+        "limitations": "限界",
+        "noKeyword": "キーワードは選択されていません。",
+        "overview": "分類概要",
+        "researchLimitations": "研究上の限界",
+        "allTaxonomies": "全分類",
+        "topPaper": "代表論文",
+        "showing": "表示中",
+        "of": "/",
+        "matchingPapers": "件の該当論文",
+        "completeSet": "完全な一覧はデータファイルにあります。",
+        "selected": "選択中",
+        "allTaxonomiesDescription": "現在の期間とキーワード条件に合う全分類の論文を、引用数順に並べています。",
+        "categorySpecificLimitations": "下の各分類行で、分類ごとの文脈と限界を確認してください。",
+        "paperLink": "論文",
+        "influentialCitations": "影響力のある引用",
+        "score": "スコア",
+        "noPapers": "現在の条件に一致する論文はありません。",
+    },
 }
 
 RELEVANCE_TERMS = [
@@ -677,6 +766,166 @@ KEYWORD_CONVENTION = [
     ("github", "Papers with an official GitHub or code repository link identified in the metadata audit.", "24292f"),
 ]
 KEYWORD_COLORS = {keyword: color for keyword, _, color in KEYWORD_CONVENTION}
+
+KEYWORD_DESCRIPTION_I18N = {
+    "brain-structure": {
+        "ko": "피질, 해마, 소뇌, 뇌간, 구조 MRI, 확산 MRI, atlas, parcellation 등 뇌 해부학적 구조를 다루는 논문.",
+        "zh": "涉及皮层、海马、小脑、脑干、结构 MRI、扩散 MRI、图谱或脑区分区等脑解剖结构的论文。",
+        "ja": "皮質、海馬、小脳、脳幹、構造 MRI、拡散 MRI、アトラス、区画化など脳構造を扱う論文。",
+    },
+    "connectome": {
+        "ko": "뇌 연결성, connectome, graph 구조, tractography, 기능적 네트워크를 다루는 논문.",
+        "zh": "涉及脑连接组、连接性、图结构、纤维束追踪或功能网络的论文。",
+        "ja": "脳コネクトーム、結合性、グラフ構造、トラクトグラフィ、機能ネットワークを扱う論文。",
+    },
+    "machine-learning": {
+        "ko": "머신러닝, 분류, 예측, SVM, 랜덤 포레스트, 데이터 기반 모델링을 사용하는 논문.",
+        "zh": "使用机器学习、分类、预测、支持向量机、随机森林或数据驱动建模的论文。",
+        "ja": "機械学習、分類、予測、SVM、ランダムフォレスト、データ駆動モデルを用いる論文。",
+    },
+    "deep-learning": {
+        "ko": "딥러닝, 표현학습, CNN, Transformer, GNN, embedding을 사용하는 논문.",
+        "zh": "使用深度学习、表示学习、卷积网络、Transformer、图神经网络或嵌入表示的论文。",
+        "ja": "深層学習、表現学習、CNN、Transformer、GNN、埋め込み表現を用いる論文。",
+    },
+    "decoding": {
+        "ko": "뇌 decoding, encoding model, neural representation, BCI classifier, 신호-행동 예측을 다루는 논문.",
+        "zh": "涉及脑解码、编码模型、神经表征、BCI 分类器或神经信号到行为预测的论文。",
+        "ja": "脳デコーディング、符号化モデル、神経表現、BCI 分類器、信号から行動への予測を扱う論文。",
+    },
+    "brain-inspired-ai": {
+        "ko": "brain-inspired AI, 계산신경과학, 인지 아키텍처, predictive coding, 강화학습, 신경계산을 연결하는 논문.",
+        "zh": "连接脑启发 AI、计算神经科学、认知架构、预测编码、强化学习或神经计算的论文。",
+        "ja": "脳型 AI、計算神経科学、認知アーキテクチャ、予測符号化、強化学習、神経計算を結ぶ論文。",
+    },
+    "neuroimaging": {
+        "ko": "MRI, fMRI, PET, DTI, 영상 registration/segmentation, neuroimaging biomarker를 다루는 논문.",
+        "zh": "涉及 MRI、fMRI、PET、DTI、影像配准/分割或神经影像生物标志物的论文。",
+        "ja": "MRI、fMRI、PET、DTI、画像レジストレーション/セグメンテーション、神経画像バイオマーカーを扱う論文。",
+    },
+    "neural-signals": {
+        "ko": "EEG, MEG, ECoG, spike, oscillation, electrophysiology, 시간 신경신호 처리를 다루는 논문.",
+        "zh": "涉及 EEG、MEG、ECoG、脉冲、振荡、电生理或时间神经信号处理的论文。",
+        "ja": "EEG、MEG、ECoG、スパイク、振動、電気生理、時間的神経信号処理を扱う論文。",
+    },
+    "clinical-neuroai": {
+        "ko": "진단, 예후, 뇌질환, biomarker, 치료 반응 등 임상 NeuroAI와 관련된 논문.",
+        "zh": "与诊断、预后、脑疾病、生物标志物、治疗反应等临床 NeuroAI 相关的论文。",
+        "ja": "診断、予後、脳疾患、バイオマーカー、治療反応など臨床 NeuroAI に関わる論文。",
+    },
+    "neuromorphic-bci": {
+        "ko": "neuromorphic computing, spiking system, implant, stimulation, closed-loop, neurotechnology, BCI를 다루는 논문.",
+        "zh": "涉及类脑计算、脉冲系统、植入、刺激、闭环控制、神经技术或 BCI 的论文。",
+        "ja": "ニューロモルフィック計算、スパイキングシステム、インプラント、刺激、閉ループ、神経技術、BCI を扱う論文。",
+    },
+    "github": {
+        "ko": "메타데이터 감사에서 공식 GitHub 또는 code repository 링크가 확인된 논문.",
+        "zh": "在元数据审计中识别出官方 GitHub 或代码仓库链接的论文。",
+        "ja": "メタデータ監査で公式 GitHub またはコードリポジトリが確認された論文。",
+    },
+}
+
+CATEGORY_TEXT_I18N = {
+    "Structural Neuroimaging and AI": {
+        "ko": {
+            "overview": [
+                "구조 및 기능적 뇌영상은 segmentation, prediction, registration, diagnosis를 위한 AI feature space가 됩니다.",
+                "이 분류의 고인용 논문은 atlas, preprocessing, statistical map, machine-learning pipeline 같은 재사용 가능한 기반을 제공합니다.",
+            ],
+            "limitations": [
+                "Scanner, site, protocol, preprocessing 차이가 AI 모델의 shortcut으로 학습될 수 있습니다.",
+                "높은 예측 성능이 곧 해부학적 타당성이나 인과적 해석을 보장하지는 않습니다.",
+            ],
+        },
+        "zh": {
+            "overview": [
+                "结构和功能脑影像为 AI 分割、预测、配准和诊断提供可建模的特征空间。",
+                "该分类中的高引用论文常成为脑图谱、预处理、统计图和机器学习流程的可复用基础设施。",
+            ],
+            "limitations": [
+                "扫描仪、站点、协议和预处理差异可能被 AI 模型学成捷径。",
+                "高预测性能并不等同于解剖学有效性或因果解释。",
+            ],
+        },
+        "ja": {
+            "overview": [
+                "構造・機能脳画像は、AI によるセグメンテーション、予測、位置合わせ、診断の特徴空間になります。",
+                "この分類の高被引用論文は、アトラス、前処理、統計地図、機械学習パイプラインの再利用基盤になります。",
+            ],
+            "limitations": [
+                "スキャナ、施設、プロトコル、前処理の差が AI モデルのショートカットとして学習される可能性があります。",
+                "高い予測性能は、解剖学的妥当性や因果解釈を保証しません。",
+            ],
+        },
+    },
+    "Connectomics, Graph Models, and Brain Networks": {
+        "ko": {
+            "overview": ["Connectomics는 뇌 구조를 graph로 표현해 graph AI와 자연스럽게 만나는 축입니다.", "논문들은 node, edge, community, dynamic network 관점으로 뇌 연결성과 AI 표현학습을 연결합니다."],
+            "limitations": ["Graph 결과는 parcellation, threshold, acquisition, preprocessing 선택에 민감합니다.", "상관 기반 네트워크를 인과 구조로 과해석하지 않도록 주의해야 합니다."],
+        },
+        "zh": {
+            "overview": ["连接组学把脑结构表示为图，因此自然连接到图 AI。", "这些论文用节点、边、社区和动态网络来连接脑连接性与 AI 表征学习。"],
+            "limitations": ["图结果对脑区分区、阈值、采集和预处理选择很敏感。", "相关网络不应被过度解释为因果结构。"],
+        },
+        "ja": {
+            "overview": ["コネクトミクスは脳構造をグラフとして表現し、グラフ AI と自然に接続します。", "ノード、エッジ、コミュニティ、動的ネットワークの観点から脳結合性と AI 表現学習を結びます。"],
+            "limitations": ["グラフ結果は区画化、閾値、取得条件、前処理に強く依存します。", "相関ネットワークを因果構造として過度に解釈しない注意が必要です。"],
+        },
+    },
+    "Brain Decoding, Representation Learning, and BCI": {
+        "ko": {
+            "overview": ["뇌 decoding과 BCI는 neural activity를 지각, 운동, 언어, 의도, 제어 신호로 매핑합니다.", "수작업 feature에서 representation learning, adaptive interface, closed-loop system으로 이동하고 있습니다."],
+            "limitations": ["소규모 cohort, session drift, invasive risk, nonstationary signal이 일반화를 제한합니다.", "오프라인 decoding 정확도는 실시간 사용성과 장기 안정성을 보장하지 않습니다."],
+        },
+        "zh": {
+            "overview": ["脑解码和 BCI 将神经活动映射到知觉、运动、语言、意图或控制信号。", "该领域正从手工特征转向表示学习、自适应接口和闭环系统。"],
+            "limitations": ["小样本、会话漂移、侵入风险和非平稳信号限制泛化。", "离线解码准确率不能保证实时可用性或长期稳定性。"],
+        },
+        "ja": {
+            "overview": ["脳デコーディングと BCI は神経活動を知覚、運動、言語、意図、制御信号へ写像します。", "手作り特徴から表現学習、適応インターフェース、閉ループシステムへ移行しています。"],
+            "limitations": ["小規模コホート、セッションドリフト、侵襲リスク、非定常信号が汎化を制限します。", "オフライン精度はリアルタイム使用性や長期安定性を保証しません。"],
+        },
+    },
+    "Computational Neuroscience and Brain-Inspired AI": {
+        "ko": {
+            "overview": ["계산신경과학은 학습, 추론, 제어, representation을 형식 모델로 바꿉니다.", "Brain-inspired AI는 neural circuit, predictive coding, reinforcement learning, neuromorphic idea를 설계 제약으로 사용합니다."],
+            "limitations": ["모델 적합도가 곧 생물학적 메커니즘의 증거는 아닙니다.", "Brain-inspired 주장은 측정 가능한 신경 증거와 연결되어야 합니다."],
+        },
+        "zh": {
+            "overview": ["计算神经科学把学习、推理、控制和表征转化为形式模型。", "脑启发 AI 将神经回路、预测编码、强化学习和类脑思想作为设计约束。"],
+            "limitations": ["模型拟合本身不能证明生物机制。", "脑启发主张需要连接到可测量的神经证据。"],
+        },
+        "ja": {
+            "overview": ["計算神経科学は学習、推論、制御、表現を形式モデルへ変換します。", "脳型 AI は神経回路、予測符号化、強化学習、ニューロモルフィックな考えを設計制約として使います。"],
+            "limitations": ["モデル適合だけでは生物学的機構の証拠になりません。", "脳型 AI の主張は測定可能な神経証拠と結びつける必要があります。"],
+        },
+    },
+    "Cellular, Synaptic, and Neuromorphic Foundations": {
+        "ko": {"overview": ["세포와 synapse 연구는 neural computation, plasticity, spiking model, neuromorphic AI의 생물학적 기반을 제공합니다."], "limitations": ["세포 수준 메커니즘은 현대 AI architecture나 whole-brain behavior로 직접 확장되기 어렵습니다."]},
+        "zh": {"overview": ["细胞和突触研究为神经计算、可塑性、脉冲模型和类脑 AI 提供生物基础。"], "limitations": ["细胞层面的机制不容易直接扩展到现代 AI 架构或全脑行为。"]},
+        "ja": {"overview": ["細胞・シナプス研究は神経計算、可塑性、スパイキングモデル、脳型 AI の生物学的基盤を与えます。"], "limitations": ["細胞レベルの機構は現代 AI アーキテクチャや全脳行動へ直接拡張しにくいです。"]},
+    },
+    "Cognitive Architectures, Learning, and Systems Neuroscience": {
+        "ko": {"overview": ["시스템 신경과학은 지각, 주의, 기억, 의사결정, 학습처럼 AI도 모델링하려는 기능을 뇌 회로와 연결합니다."], "limitations": ["과제 설계가 cognition을 단순화하면 실제 행동으로의 일반화가 제한됩니다."]},
+        "zh": {"overview": ["系统神经科学把知觉、注意、记忆、决策和学习等 AI 也试图建模的功能连接到脑回路。"], "limitations": ["任务设计若过度简化认知，会限制对真实行为的泛化。"]},
+        "ja": {"overview": ["システム神経科学は知覚、注意、記憶、意思決定、学習など AI もモデル化する機能を脳回路と結びます。"], "limitations": ["課題設計が認知を単純化しすぎると、実世界行動への汎化が制限されます。"]},
+    },
+    "Clinical NeuroAI and Brain Disorders": {
+        "ko": {"overview": ["Clinical NeuroAI는 뇌 데이터로 진단, 예후, 환자 stratification, 치료 계획을 지원합니다."], "limitations": ["임상 모델은 prospective validation, calibration, fairness check, workflow integration이 필요합니다."]},
+        "zh": {"overview": ["临床 NeuroAI 使用脑数据支持诊断、预后、患者分层和治疗规划。"], "limitations": ["临床模型需要前瞻性验证、校准、公平性检查和工作流整合。"]},
+        "ja": {"overview": ["臨床 NeuroAI は脳データで診断、予後、患者層別化、治療計画を支援します。"], "limitations": ["臨床モデルには前向き検証、較正、公平性確認、ワークフロー統合が必要です。"]},
+    },
+    "Electrophysiology, Neural Signals, and AI Decoding": {
+        "ko": {"overview": ["Electrophysiology는 AI decoding, 상태 추정, seizure detection, cognitive modeling을 위한 고시간해상도 신호를 제공합니다."], "limitations": ["Artifact, montage, source localization, session drift가 model performance를 좌우할 수 있습니다."]},
+        "zh": {"overview": ["电生理为 AI 解码、状态估计、癫痫检测和认知建模提供高时间分辨率信号。"], "limitations": ["伪迹、导联、源定位和会话漂移可能主导模型表现。"]},
+        "ja": {"overview": ["電気生理は AI デコーディング、状態推定、発作検出、認知モデリングに高時間分解能信号を提供します。"], "limitations": ["アーティファクト、モンタージュ、信号源推定、セッションドリフトが性能を左右します。"]},
+    },
+    "General Brain-AI Structure Reviews and Methods": {
+        "ko": {"overview": ["리뷰와 방법론 논문은 뇌 구조, 신경과학 증거, AI 개념을 여러 scale에서 연결합니다."], "limitations": ["Bridge 용어는 neural network, intelligence, biological plausibility 주변에서 모호할 수 있습니다."]},
+        "zh": {"overview": ["综述和方法论文在多个尺度上连接脑结构、神经科学证据和 AI 概念。"], "limitations": ["围绕神经网络、智能和生物合理性的桥接术语可能存在歧义。"]},
+        "ja": {"overview": ["レビューと方法論論文は、脳構造、神経科学的証拠、AI 概念を複数スケールで結びます。"], "limitations": ["神経ネットワーク、知能、生物学的妥当性に関する橋渡し用語は曖昧になり得ます。"]},
+    },
+}
 
 RECOGNIZED_VENUES = [
     "Nature",
@@ -1454,58 +1703,121 @@ def research_overview_html():
 
 
 def research_copy():
-    common = """
-      <h2 id="research-timeline-title">Research Timeline</h2>
-      <div class="timeline-copy">
-        <p>The 1900-2026 brain-AI corpus follows a long arc from neuroanatomy, physiology, and early neural computation toward neuroimaging, connectomics, neural decoding, brain-computer interfaces, neuromorphic ideas, and machine-learning models of brain structure and function.</p>
-        <p>The map is citation-ranked but taxonomy-first: it treats AI as a set of modeling, prediction, decoding, graph, representation, and brain-inspired methods that interact with structural and functional evidence about the brain.</p>
-      </div>
-      <h2>Research Insights</h2>
-      <div class="research-insights">
-        <article class="insight-box"><div class="insight-label">Bridge</div><h3>Brain structure becomes model input</h3><p>Structural MRI, functional connectivity, electrophysiology, and connectome papers increasingly become reusable feature spaces for AI systems.</p><p class="insight-implication">Implication: model validation should test whether learned features correspond to stable neurobiological structure.</p></article>
-        <article class="insight-box"><div class="insight-label">Computation</div><h3>Neuroscience also shapes AI concepts</h3><p>Learning rules, neural coding, predictive coding, reinforcement learning, and cognitive architectures create conceptual traffic from brain science into AI.</p><p class="insight-implication">Implication: brain-inspired claims should be tied to measurable mechanisms, not only analogy.</p></article>
-        <article class="insight-box"><div class="insight-label">Translation</div><h3>Clinical NeuroAI raises the evidence bar</h3><p>Disease prediction, diagnosis, prognosis, and treatment-response models need cohort diversity, calibration, and prospective validation.</p><p class="insight-implication">Implication: citation rank is a navigation signal, not a substitute for clinical evidence.</p></article>
-      </div>
-"""
-    return {code: common for code in LANGUAGES}
+    return {
+        "en": """
+          <h2 id="research-timeline-title">Research Timeline</h2>
+          <div class="timeline-copy">
+            <p>The 1900-2026 brain-AI corpus follows a long arc from neuroanatomy, physiology, and early neural computation toward neuroimaging, connectomics, neural decoding, brain-computer interfaces, neuromorphic ideas, and machine-learning models of brain structure and function.</p>
+            <p>The map is citation-ranked but taxonomy-first: it treats AI as a set of modeling, prediction, decoding, graph, representation, and brain-inspired methods that interact with structural and functional evidence about the brain.</p>
+          </div>
+          <h2>Research Insights</h2>
+          <div class="research-insights">
+            <article class="insight-box"><div class="insight-label">Bridge</div><h3>Brain structure becomes model input</h3><p>Structural MRI, functional connectivity, electrophysiology, and connectome papers increasingly become reusable feature spaces for AI systems.</p><p class="insight-implication">Implication: model validation should test whether learned features correspond to stable neurobiological structure.</p></article>
+            <article class="insight-box"><div class="insight-label">Computation</div><h3>Neuroscience also shapes AI concepts</h3><p>Learning rules, neural coding, predictive coding, reinforcement learning, and cognitive architectures create conceptual traffic from brain science into AI.</p><p class="insight-implication">Implication: brain-inspired claims should be tied to measurable mechanisms, not only analogy.</p></article>
+            <article class="insight-box"><div class="insight-label">Translation</div><h3>Clinical NeuroAI raises the evidence bar</h3><p>Disease prediction, diagnosis, prognosis, and treatment-response models need cohort diversity, calibration, and prospective validation.</p><p class="insight-implication">Implication: citation rank is a navigation signal, not a substitute for clinical evidence.</p></article>
+          </div>
+        """,
+        "ko": """
+          <h2 id="research-timeline-title">연구 타임라인</h2>
+          <div class="timeline-copy">
+            <p>1900-2026년 brain-AI corpus는 신경해부학, 생리학, 초기 신경계산에서 출발해 neuroimaging, connectomics, neural decoding, BCI, neuromorphic idea, 뇌 구조와 기능을 모델링하는 machine-learning 연구로 확장됩니다.</p>
+            <p>이 지도는 인용 순위 기반이지만 taxonomy-first 방식입니다. AI를 modeling, prediction, decoding, graph, representation, brain-inspired method의 묶음으로 보고, 이를 뇌의 구조적·기능적 증거와 연결합니다.</p>
+          </div>
+          <h2>연구 인사이트</h2>
+          <div class="research-insights">
+            <article class="insight-box"><div class="insight-label">연결</div><h3>뇌 구조가 모델 입력이 됩니다</h3><p>구조 MRI, 기능적 연결성, 전기생리, connectome 논문은 점점 AI 시스템이 재사용할 수 있는 feature space가 됩니다.</p><p class="insight-implication">시사점: 모델 검증은 학습된 특징이 안정적인 신경생물학적 구조와 대응하는지 확인해야 합니다.</p></article>
+            <article class="insight-box"><div class="insight-label">계산</div><h3>신경과학은 AI 개념도 형성합니다</h3><p>학습 규칙, neural coding, predictive coding, reinforcement learning, cognitive architecture는 뇌과학에서 AI로 이어지는 개념적 통로를 만듭니다.</p><p class="insight-implication">시사점: brain-inspired 주장은 단순 비유가 아니라 측정 가능한 메커니즘과 연결되어야 합니다.</p></article>
+            <article class="insight-box"><div class="insight-label">임상 전환</div><h3>Clinical NeuroAI는 더 높은 증거 기준을 요구합니다</h3><p>질병 예측, 진단, 예후, 치료 반응 모델은 cohort 다양성, calibration, prospective validation이 필요합니다.</p><p class="insight-implication">시사점: 인용 순위는 탐색 신호이지 임상 근거를 대신하지 않습니다.</p></article>
+          </div>
+        """,
+        "zh": """
+          <h2 id="research-timeline-title">研究时间线</h2>
+          <div class="timeline-copy">
+            <p>1900-2026 年的 brain-AI 语料从神经解剖、生理学和早期神经计算，延伸到神经影像、连接组学、神经解码、脑机接口、类脑思想，以及脑结构和功能的机器学习模型。</p>
+            <p>这张地图按引用排序，但以分类体系为先：它把 AI 视为建模、预测、解码、图、表示和脑启发方法的集合，并将这些方法与脑的结构和功能证据连接起来。</p>
+          </div>
+          <h2>研究洞察</h2>
+          <div class="research-insights">
+            <article class="insight-box"><div class="insight-label">桥接</div><h3>脑结构成为模型输入</h3><p>结构 MRI、功能连接、电生理和连接组论文越来越成为 AI 系统可复用的特征空间。</p><p class="insight-implication">启示：模型验证应检验学习到的特征是否对应稳定的神经生物结构。</p></article>
+            <article class="insight-box"><div class="insight-label">计算</div><h3>神经科学也塑造 AI 概念</h3><p>学习规则、神经编码、预测编码、强化学习和认知架构构成了从脑科学通向 AI 的概念通道。</p><p class="insight-implication">启示：脑启发主张应连接到可测量机制，而不仅是类比。</p></article>
+            <article class="insight-box"><div class="insight-label">转化</div><h3>临床 NeuroAI 提高了证据门槛</h3><p>疾病预测、诊断、预后和治疗反应模型需要队列多样性、校准和前瞻性验证。</p><p class="insight-implication">启示：引用排名是导航信号，不能替代临床证据。</p></article>
+          </div>
+        """,
+        "ja": """
+          <h2 id="research-timeline-title">研究タイムライン</h2>
+          <div class="timeline-copy">
+            <p>1900-2026 年の brain-AI コーパスは、神経解剖学、生理学、初期の神経計算から、神経画像、コネクトミクス、神経デコーディング、BCI、ニューロモルフィックな発想、脳構造と機能の機械学習モデルへ広がっています。</p>
+            <p>この地図は引用順位に基づきますが、分類体系を優先します。AI をモデリング、予測、デコーディング、グラフ、表現、脳型手法の集合として扱い、脳の構造的・機能的証拠と接続します。</p>
+          </div>
+          <h2>研究インサイト</h2>
+          <div class="research-insights">
+            <article class="insight-box"><div class="insight-label">橋渡し</div><h3>脳構造がモデル入力になります</h3><p>構造 MRI、機能的結合、電気生理、コネクトームの論文は、AI システムが再利用できる特徴空間になりつつあります。</p><p class="insight-implication">示唆：モデル検証では、学習特徴が安定した神経生物学的構造に対応するか確認すべきです。</p></article>
+            <article class="insight-box"><div class="insight-label">計算</div><h3>神経科学は AI 概念も形作ります</h3><p>学習則、神経符号化、予測符号化、強化学習、認知アーキテクチャは、脳科学から AI への概念的な流れを作ります。</p><p class="insight-implication">示唆：脳型 AI の主張は単なる比喩ではなく、測定可能な機構に結びつける必要があります。</p></article>
+            <article class="insight-box"><div class="insight-label">臨床応用</div><h3>臨床 NeuroAI は証拠水準を引き上げます</h3><p>疾患予測、診断、予後、治療反応モデルには、コホート多様性、較正、前向き検証が必要です。</p><p class="insight-implication">示唆：引用順位はナビゲーション信号であり、臨床証拠の代替ではありません。</p></article>
+          </div>
+        """,
+    }
 
 
 def overall_research_templates():
-    template = {
-        "timelineTitle": "Research Timeline",
-        "summary": [
-            "For {range}, this brain-AI corpus contains {papers} selected papers across {activeYears} active years, with {citations} citations. The strongest taxonomy signals are {topCategories}, and the most active year is {peakYear} ({peakYearCount} papers).",
-            "The leading citation-ranked paper is \"{topPaper}\" ({topPaperYear}, {topPaperCitations} citations) in {topPaperCategory}. Keywords such as {topKeywords} show how the period connects brain structure, neural signals, computation, and AI modeling.",
-        ],
-        "insightsTitle": "Research Insights",
-        "insights": [
-            {
-                "label": "Period Shape",
-                "title": "The selected range changes the brain-AI map",
-                "body": "{topCategory} accounts for {topCategoryCount} papers, so the visible corpus is anchored by the taxonomies that were strongest in {range}.",
-                "implication": "Implication: compare adjacent periods before treating one taxonomy as the field's long-term center.",
-            },
-            {
-                "label": "Citation Mass",
-                "title": "Citation concentration identifies shared infrastructure",
-                "body": "The range carries {citations} citations, with the citation peak around {peakCitationYear}. Highly cited papers often define reusable atlases, protocols, cohorts, models, or analysis tools.",
-                "implication": "Implication: durable brain-AI impact often comes from resources that other subfields can reuse.",
-            },
-            {
-                "label": "Methods",
-                "title": "Keywords expose the period's methodological spine",
-                "body": "Frequent tags such as {topKeywords} indicate which instruments, models, or research settings organize the selected years.",
-                "implication": "Implication: keyword shifts are useful early signals before citation counts fully mature.",
-            },
-            {
-                "label": "Review Priority",
-                "title": "What deserves full-text review next",
-                "body": "This metadata-adapter insight flags {topCategories} and {topKeywords} as the period's highest-priority reading lanes.",
-                "implication": "Implication: full PDF review remains the next step for causal claims, reproducibility, and experimental detail.",
-            },
-        ],
+    return {
+        "en": {
+            "timelineTitle": "Research Timeline",
+            "summary": [
+                "For {range}, this brain-AI corpus contains {papers} selected papers across {activeYears} active years, with {citations} citations. The strongest taxonomy signals are {topCategories}, and the most active year is {peakYear} ({peakYearCount} papers).",
+                "The leading citation-ranked paper is \"{topPaper}\" ({topPaperYear}, {topPaperCitations} citations) in {topPaperCategory}. Keywords such as {topKeywords} show how the period connects brain structure, neural signals, computation, and AI modeling.",
+            ],
+            "insightsTitle": "Research Insights",
+            "insights": [
+                {"label": "Period Shape", "title": "The selected range changes the brain-AI map", "body": "{topCategory} accounts for {topCategoryCount} papers, so the visible corpus is anchored by the taxonomies that were strongest in {range}.", "implication": "Implication: compare adjacent periods before treating one taxonomy as the field's long-term center."},
+                {"label": "Citation Mass", "title": "Citation concentration identifies shared infrastructure", "body": "The range carries {citations} citations, with the citation peak around {peakCitationYear}. Highly cited papers often define reusable atlases, protocols, cohorts, models, or analysis tools.", "implication": "Implication: durable brain-AI impact often comes from resources that other subfields can reuse."},
+                {"label": "Methods", "title": "Keywords expose the period's methodological spine", "body": "Frequent tags such as {topKeywords} indicate which instruments, models, or research settings organize the selected years.", "implication": "Implication: keyword shifts are useful early signals before citation counts fully mature."},
+                {"label": "Review Priority", "title": "What deserves full-text review next", "body": "This metadata-adapter insight flags {topCategories} and {topKeywords} as the period's highest-priority reading lanes.", "implication": "Implication: full PDF review remains the next step for causal claims, reproducibility, and experimental detail."},
+            ],
+        },
+        "ko": {
+            "timelineTitle": "연구 타임라인",
+            "summary": [
+                "{range} 기간의 brain-AI corpus는 {activeYears}개 활성 연도에서 선별된 논문 {papers}편과 인용 {citations}회를 포함합니다. 가장 강한 분류 신호는 {topCategories}이며, 논문 수가 가장 많은 해는 {peakYear}년({peakYearCount}편)입니다.",
+                "인용 순위 최상위 논문은 \"{topPaper}\"({topPaperYear}, {topPaperCitations}회 인용)이며 분류는 {topPaperCategory}입니다. {topKeywords} 같은 키워드는 이 기간이 뇌 구조, 신경 신호, 계산, AI 모델링을 어떻게 연결하는지 보여줍니다.",
+            ],
+            "insightsTitle": "연구 인사이트",
+            "insights": [
+                {"label": "기간 구조", "title": "선택한 기간이 brain-AI 지도를 바꿉니다", "body": "{topCategory}가 {topCategoryCount}편을 차지하므로, 현재 보이는 corpus는 {range}에서 강했던 분류 축에 의해 고정됩니다.", "implication": "시사점: 한 분류를 장기 중심으로 보기 전에 인접 기간과 비교해야 합니다."},
+                {"label": "인용 밀도", "title": "인용 집중은 공유 인프라를 드러냅니다", "body": "이 기간은 인용 {citations}회를 포함하며 인용 피크는 {peakCitationYear}년 부근입니다. 고인용 논문은 atlas, protocol, cohort, model, analysis tool처럼 재사용 가능한 자원을 정의하는 경우가 많습니다.", "implication": "시사점: 지속적인 brain-AI 영향력은 여러 하위 분야가 재사용할 수 있는 자원에서 자주 나옵니다."},
+                {"label": "방법", "title": "키워드는 기간의 방법론적 척추를 보여줍니다", "body": "{topKeywords} 같은 빈번한 태그는 선택 연도를 조직하는 도구, 모델, 연구 환경을 보여줍니다.", "implication": "시사점: 키워드 변화는 인용이 충분히 쌓이기 전에도 유용한 초기 신호입니다."},
+                {"label": "검토 우선순위", "title": "다음으로 전문 검토가 필요한 곳", "body": "이 metadata-adapter 인사이트는 {topCategories}와 {topKeywords}를 이 기간의 우선 읽기 경로로 표시합니다.", "implication": "시사점: 인과 주장, 재현성, 실험 세부사항에는 여전히 PDF 전문 검토가 필요합니다."},
+            ],
+        },
+        "zh": {
+            "timelineTitle": "研究时间线",
+            "summary": [
+                "在 {range} 期间，brain-AI 语料包含 {activeYears} 个活跃年份中的 {papers} 篇精选论文和 {citations} 次引用。最强的分类信号是 {topCategories}，论文数量最多的年份是 {peakYear}（{peakYearCount} 篇）。",
+                "引用排名最高的论文是 \"{topPaper}\"（{topPaperYear}，{topPaperCitations} 次引用），分类为 {topPaperCategory}。{topKeywords} 等关键词显示这一时期如何连接脑结构、神经信号、计算和 AI 建模。",
+            ],
+            "insightsTitle": "研究洞察",
+            "insights": [
+                {"label": "时期形态", "title": "所选年份范围会改变 brain-AI 地图", "body": "{topCategory} 占 {topCategoryCount} 篇，因此可见语料由 {range} 期间最强的分类轴支撑。", "implication": "启示：在把某一分类视为长期中心之前，应先比较相邻时期。"},
+                {"label": "引用集中", "title": "引用集中度识别共享基础设施", "body": "该范围包含 {citations} 次引用，引用峰值约在 {peakCitationYear}。高引用论文常定义可复用的图谱、协议、队列、模型或分析工具。", "implication": "启示：持久的 brain-AI 影响力往往来自其他子领域可以复用的资源。"},
+                {"label": "方法", "title": "关键词揭示时期的方法主干", "body": "{topKeywords} 等高频标签显示哪些工具、模型或研究场景组织了所选年份。", "implication": "启示：在引用数充分成熟前，关键词变化就是有用的早期信号。"},
+                {"label": "阅读优先级", "title": "下一步值得全文审读的内容", "body": "这个 metadata-adapter 洞察将 {topCategories} 和 {topKeywords} 标为该时期最高优先级的阅读路径。", "implication": "启示：因果主张、可复现性和实验细节仍需要 PDF 全文审读。"},
+            ],
+        },
+        "ja": {
+            "timelineTitle": "研究タイムライン",
+            "summary": [
+                "{range} の brain-AI コーパスには、{activeYears} の対象年から選ばれた {papers} 本の論文と {citations} 件の引用が含まれます。最も強い分類シグナルは {topCategories} で、論文数が最も多い年は {peakYear} 年（{peakYearCount} 本）です。",
+                "引用順位トップの論文は \"{topPaper}\"（{topPaperYear}、{topPaperCitations} 件の引用）で、分類は {topPaperCategory} です。{topKeywords} などのキーワードは、この時期が脳構造、神経信号、計算、AI モデリングをどう結びつけるかを示します。",
+            ],
+            "insightsTitle": "研究インサイト",
+            "insights": [
+                {"label": "期間の形", "title": "選択範囲が brain-AI 地図を変えます", "body": "{topCategory} が {topCategoryCount} 本を占めるため、表示中のコーパスは {range} で強かった分類軸に支えられています。", "implication": "示唆：一つの分類を長期的中心とみなす前に、隣接期間と比較してください。"},
+                {"label": "引用集中", "title": "引用の集中は共有インフラを示します", "body": "この範囲は {citations} 件の引用を持ち、引用ピークは {peakCitationYear} 年付近です。高被引用論文は、再利用可能なアトラス、プロトコル、コホート、モデル、分析ツールを定義することがよくあります。", "implication": "示唆：持続的な brain-AI の影響は、他分野が再利用できる資源から生まれることが多いです。"},
+                {"label": "方法", "title": "キーワードは時期の方法論的な骨格を示します", "body": "{topKeywords} などの頻出タグは、選択年を組織する装置、モデル、研究環境を示します。", "implication": "示唆：キーワードの変化は、引用数が成熟する前の早期シグナルとして有用です。"},
+                {"label": "レビュー優先度", "title": "次に全文レビューすべきもの", "body": "この metadata-adapter インサイトは、{topCategories} と {topKeywords} をこの期間の最優先の読解ルートとして示します。", "implication": "示唆：因果主張、再現性、実験詳細には、なお PDF 全文レビューが必要です。"},
+            ],
+        },
     }
-    return {code: template for code in LANGUAGES}
 
 
 def overall_period_summary(rows, start, end, by_year):
@@ -1564,57 +1876,9 @@ def _insight_names(items, key="name", limit=3, fallback="metadata-ranked signals
 
 
 def paper_curation_period_insights(summary, corpus_label):
-    categories = summary.get("topCategories") or []
-    keywords = summary.get("topKeywords") or []
-    top_category = categories[0] if categories else {}
-    top_paper = summary.get("topPaper") or {}
-    range_label = summary.get("rangeLabel") or f"{summary.get('startYear')}-{summary.get('endYear')}"
-    top_category_name = top_category.get("name") or "the leading taxonomy"
-    top_category_count = _insight_number(top_category.get("count"))
-    category_names = _insight_names(categories)
-    keyword_names = _insight_names(keywords, fallback="keyword convention signals")
-    citations = _insight_number(summary.get("citationCount"))
-    papers = _insight_number(summary.get("totalPapers"))
-    peak_year = summary.get("peakYear") or "n/a"
-    peak_citation_year = summary.get("peakCitationYear") or "n/a"
-    top_paper_title = top_paper.get("title") or "the leading paper"
-    top_paper_year = top_paper.get("year") or "n/a"
-    top_paper_citations = _insight_number(top_paper.get("citations"))
-    top_paper_category = top_paper.get("category") or top_category_name
-
     return {
-        "en": [
-            {
-                "label": "Period Shape",
-                "title": f"{range_label} is led by {top_category_name}",
-                "body": f"{top_category_name} contributes {top_category_count} selected papers, with {category_names} forming the visible taxonomy backbone for this period.",
-                "implication": "Implication: period changes should be read as changes in the research map, not just as a shorter paper list.",
-            },
-            {
-                "label": "Citation Backbone",
-                "title": f"{peak_citation_year} carries the citation center of gravity",
-                "body": f"The selected {corpus_label} range contains {papers} papers and {citations} citations; citation mass peaks around {peak_citation_year}, while paper volume peaks around {peak_year}.",
-                "implication": "Implication: paper-curation period views help separate durable infrastructure papers from fast-moving recent topics.",
-            },
-            {
-                "label": "Keyword Signals",
-                "title": f"Keyword evidence points to {keyword_names}",
-                "body": f"The period-specific keyword convention highlights {keyword_names}, giving a method-level reading that complements taxonomy and citation rank.",
-                "implication": "Implication: keyword shifts are useful early signals before citations fully mature.",
-            },
-            {
-                "label": "Representative Paper",
-                "title": f"\"{top_paper_title}\" anchors the selected range",
-                "body": f"The leading citation-ranked paper is from {top_paper_year} in {top_paper_category}, with {top_paper_citations} citations.",
-                "implication": "Implication: use the top paper as an entry point, then compare it with adjacent taxonomy clusters before drawing broad conclusions.",
-            },
-            {
-                "label": "Review Priority",
-                "title": "What deserves full-text review next",
-                "body": f"This metadata-adapter insight is generated in the spirit of paper-curation: it flags {category_names} and {keyword_names} as the period's highest-priority reading lanes.",
-                "implication": "Implication: full PDF review remains the next step for causal claims, reproducibility, and experimental detail.",
-            },
-        ]
+        code: template["insights"]
+        for code, template in overall_research_templates().items()
     }
 
 
@@ -1934,15 +2198,23 @@ def write_site(selected):
             "accent": item["accent"],
             "overview": item["overview"],
             "limitations": item["limitations"],
+            "localized": CATEGORY_TEXT_I18N.get(item["name"], {}),
             "icon": f"assets/taxonomy/{item['slug']}.png",
         }
         for item in CATEGORIES
     ]
-    keyword_info = [{"name": keyword, "description": desc, "color": color} for keyword, desc, color in KEYWORD_CONVENTION]
+    keyword_info = [
+        {
+            "name": keyword,
+            "description": {"en": desc, **KEYWORD_DESCRIPTION_I18N.get(keyword, {})},
+            "color": color,
+        }
+        for keyword, desc, color in KEYWORD_CONVENTION
+    ]
     payload = json.dumps(site_rows(selected), ensure_ascii=False)
     category_payload = json.dumps(categories, ensure_ascii=False)
     keyword_payload = json.dumps(keyword_info, ensure_ascii=False)
-    research_overview = research_overview_html().strip()
+    research_overview = f'<section class="research-brief" id="researchBrief" aria-labelledby="research-timeline-title">{research_copy()["en"]}</section>'
     research_copy_payload = json.dumps(research_copy(), ensure_ascii=False)
     overall_research_templates_payload = json.dumps(overall_research_templates(), ensure_ascii=False)
     ui_labels_payload = json.dumps(UI_LABELS, ensure_ascii=False)
@@ -2122,7 +2394,7 @@ def write_site(selected):
       const activeYears = new Set(rows.map(p => p.year)).size;
       const citations = rows.reduce((sum, p) => sum + p.citationCount, 0);
       const cats = new Set(rows.map(p => p.category)).size;
-      const l = labels[state.lang];
+      const l = labels[state.lang] || labels.en;
       document.getElementById('stats').innerHTML = `
         <div class="stat"><strong>${{fmt(rows.length)}}</strong>${{l.papers}}</div>
         <div class="stat"><strong>${{fmt(activeYears)}}</strong>${{l.years}}</div>
@@ -2132,6 +2404,22 @@ def write_site(selected):
     function escapeHtml(value) {{
       const escapeMap = {{ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }};
       return String(value ?? '').replace(/[&<>"']/g, ch => escapeMap[ch]);
+    }}
+    function t(name) {{
+      const current = labels[state.lang] || labels.en || {{}};
+      const english = labels.en || {{}};
+      return current[name] || english[name] || name;
+    }}
+    function localized(value) {{
+      if (!value || typeof value !== 'object' || Array.isArray(value)) return value;
+      return value[state.lang] || value.en || Object.values(value)[0] || '';
+    }}
+    function localizedCategoryList(category, field) {{
+      const languageBlock = category.localized?.[state.lang] || category.localized?.en || null;
+      return (languageBlock && languageBlock[field]) || category[field] || [];
+    }}
+    function listItems(items) {{
+      return (items || []).map(item => `<li>${{escapeHtml(item)}}</li>`).join('');
     }}
     function names(items, key = 'name') {{
       return (items || []).slice(0, 3).map(item => item[key]).filter(Boolean).join(', ') || 'n/a';
@@ -2170,7 +2458,7 @@ def write_site(selected):
       const copy = OVERALL_RESEARCH_TEMPLATES[state.lang] || OVERALL_RESEARCH_TEMPLATES.en;
       const data = researchTemplateData(metric);
       const summaryHtml = (copy.summary || []).map(text => `<p>${{applyTemplate(text, data)}}</p>`).join('');
-      const insightItems = metric?.periodInsights?.[state.lang] || metric?.periodInsights?.en || copy.insights || [];
+      const insightItems = metric?.periodInsights?.[state.lang] || copy.insights || metric?.periodInsights?.en || [];
       const insightHtml = insightItems.map(item => `
         <article class="insight-box">
           <div class="insight-label">${{escapeHtml(item.label)}}</div>
@@ -2197,14 +2485,14 @@ def write_site(selected):
         const pressed = state.keyword === k.name ? 'true' : 'false';
         return `<button class="keyword-button" type="button" data-keyword="${{escapeHtml(k.name)}}" aria-pressed="${{pressed}}" style="--keyword-color:#${{k.color}}">
           <span class="keyword-chip"><span class="keyword-dot"></span><span>${{escapeHtml(k.name)}}</span></span>
-          <span class="keyword-description">${{escapeHtml(k.description)}}</span>
-          <span class="keyword-count">${{fmt(matchCount)}} papers</span>
+          <span class="keyword-description">${{escapeHtml(localized(k.description))}}</span>
+          <span class="keyword-count">${{fmt(matchCount)}} ${{t('papers')}}</span>
         </button>`;
       }}).join('');
       if (state.keyword) {{
-        keywordStatus.textContent = `${{state.keyword}} selected - ${{fmt(rows.length)}} matching papers.`;
+        keywordStatus.textContent = `${{state.keyword}} ${{t('selected')}} - ${{fmt(rows.length)}} ${{t('matchingPapers')}}.`;
       }} else {{
-        keywordStatus.textContent = labels[state.lang].noKeyword;
+        keywordStatus.textContent = t('noKeyword');
       }}
     }}
     keywordPanel.addEventListener('click', event => {{
@@ -2266,34 +2554,39 @@ def write_site(selected):
       }}).join('');
     }}
     function paperCard(p) {{
-      const l = labels[state.lang];
-      const links = `<a href="${{p.url}}">paper</a>${{p.semanticScholarUrl ? ` 쨌 <a href="${{p.semanticScholarUrl}}">Semantic Scholar</a>` : ''}}${{p.openAccessPdf ? ` 쨌 <a href="${{p.openAccessPdf}}">PDF</a>` : ''}}${{p.githubUrl ? ` 쨌 <a href="${{p.githubUrl}}">GitHub</a>` : ''}}`;
+      const l = labels[state.lang] || labels.en;
+      const linkParts = [`<a href="${{p.url}}">${{escapeHtml(l.paperLink)}}</a>`];
+      if (p.semanticScholarUrl) linkParts.push(`<a href="${{p.semanticScholarUrl}}">Semantic Scholar</a>`);
+      if (p.openAccessPdf) linkParts.push(`<a href="${{p.openAccessPdf}}">PDF</a>`);
+      if (p.githubUrl) linkParts.push(`<a href="${{p.githubUrl}}">GitHub</a>`);
+      const links = linkParts.join(' &middot; ');
       return `<article class="paper-card" data-year="${{p.year}}" data-keywords="${{p.keywordTags.join(' ')}}">
         <div class="paper-head"><div><a class="paper-title" href="${{p.url}}">${{p.title}}</a><div class="meta">${{p.authors}}</div></div><div class="meta">#${{p.rank}} in ${{p.year}}</div></div>
-        <div class="meta">${{p.year}} 쨌 ${{p.venue}} 쨌 ${{fmt(p.citationCount)}} citations 쨌 influential citations ${{fmt(p.influentialCitationCount)}} 쨌 score ${{p.importanceScore}} 쨌 ${{links}}</div>
+        <div class="meta">${{p.year}} &middot; ${{p.venue}} &middot; ${{fmt(p.citationCount)}} ${{l.citations}} &middot; ${{l.influentialCitations}} ${{fmt(p.influentialCitationCount)}} &middot; ${{l.score}} ${{p.importanceScore}} &middot; ${{links}}</div>
         <div class="badges">${{badges(p.keywordTags)}}</div>
         <dl><dt>${{l.keyIdea}}</dt><dd>${{p.keyIdea}}</dd><dt>${{l.strengths}}</dt><dd>${{p.strengths}}</dd><dt>${{l.limitations}}</dt><dd>${{p.limitations}}</dd></dl>
       </article>`;
     }}
     function allTaxonomiesDetails(rows) {{
+      const l = labels[state.lang] || labels.en;
       const allRows = [...rows].sort((a, b) => b.citationCount - a.citationCount);
       const years = allRows.map(p => p.year);
       const citations = allRows.reduce((sum, p) => sum + p.citationCount, 0);
       const top = allRows[0];
       const visibleCards = allRows.slice(0, 120).map(paperCard).join('');
-      const extra = allRows.length > 120 ? `<p class="meta">Showing 120 of ${{fmt(allRows.length)}} matching papers across all taxonomies. The complete set is in the data files.</p>` : '';
+      const extra = allRows.length > 120 ? `<p class="meta">${{l.showing}} 120 ${{l.of}} ${{fmt(allRows.length)}} ${{l.matchingPapers}}. ${{l.completeSet}}</p>` : '';
       return `<details>
         <summary><div class="summary-row">
           <div class="summary-all-icon" aria-hidden="true">All</div>
-          <div><h3>All Taxonomies</h3><div class="meta">Top paper: <a href="${{top.url}}">${{top.title}}</a></div></div>
-          <div class="summary-metric"><strong>${{fmt(allRows.length)}}</strong>papers</div>
-          <div class="summary-metric"><strong>${{Math.min(...years)}}-${{Math.max(...years)}}</strong>years</div>
-          <div class="summary-metric"><strong>${{fmt(citations)}}</strong>citations</div>
+          <div><h3>${{l.allTaxonomies}}</h3><div class="meta">${{l.topPaper}}: <a href="${{top.url}}">${{top.title}}</a></div></div>
+          <div class="summary-metric"><strong>${{fmt(allRows.length)}}</strong>${{l.papers}}</div>
+          <div class="summary-metric"><strong>${{Math.min(...years)}}-${{Math.max(...years)}}</strong>${{l.years}}</div>
+          <div class="summary-metric"><strong>${{fmt(citations)}}</strong>${{l.citations}}</div>
         </div></summary>
         <div class="section-body">
           <div class="section-grid">
-            <div><h3>Category Overview</h3><p>All papers matching the current period and keyword filters, sorted by citation count across every taxonomy.</p></div>
-            <div><h3>Research Limitations</h3><p>Use the individual taxonomy rows below for category-specific context and limitations.</p></div>
+            <div><h3>${{l.overview}}</h3><p>${{l.allTaxonomiesDescription}}</p></div>
+            <div><h3>${{l.researchLimitations}}</h3><p>${{l.categorySpecificLimitations}}</p></div>
           </div>
           <div class="paper-list">${{visibleCards}}</div>${{extra}}
         </div>
@@ -2301,9 +2594,10 @@ def write_site(selected):
     }}
     function renderTaxonomy(rows) {{
       if (!rows.length) {{
-        taxonomy.innerHTML = '<div class="empty">No papers match the current filters.</div>';
+        taxonomy.innerHTML = `<div class="empty">${{t('noPapers')}}</div>`;
         return;
       }}
+      const l = labels[state.lang] || labels.en;
       const byCategory = new Map();
       for (const category of CATEGORIES) byCategory.set(category.name, []);
       for (const row of rows) byCategory.get(row.category)?.push(row);
@@ -2314,19 +2608,19 @@ def write_site(selected):
         const citations = catRows.reduce((sum, p) => sum + p.citationCount, 0);
         const top = catRows[0];
         const visibleCards = catRows.slice(0, 120).map(paperCard).join('');
-        const extra = catRows.length > 120 ? `<p class="meta">Showing 120 of ${{fmt(catRows.length)}} matching papers. The complete set is in the data files.</p>` : '';
+        const extra = catRows.length > 120 ? `<p class="meta">${{l.showing}} 120 ${{l.of}} ${{fmt(catRows.length)}} ${{l.matchingPapers}}. ${{l.completeSet}}</p>` : '';
         return `<details>
           <summary><div class="summary-row">
             <img src="${{category.icon}}" alt="">
-            <div><h3>${{category.name}}</h3><div class="meta">Top paper: <a href="${{top.url}}">${{top.title}}</a></div></div>
-            <div class="summary-metric"><strong>${{fmt(catRows.length)}}</strong>papers</div>
-            <div class="summary-metric"><strong>${{Math.min(...years)}}-${{Math.max(...years)}}</strong>years</div>
-            <div class="summary-metric"><strong>${{fmt(citations)}}</strong>citations</div>
+            <div><h3>${{category.name}}</h3><div class="meta">${{l.topPaper}}: <a href="${{top.url}}">${{top.title}}</a></div></div>
+            <div class="summary-metric"><strong>${{fmt(catRows.length)}}</strong>${{l.papers}}</div>
+            <div class="summary-metric"><strong>${{Math.min(...years)}}-${{Math.max(...years)}}</strong>${{l.years}}</div>
+            <div class="summary-metric"><strong>${{fmt(citations)}}</strong>${{l.citations}}</div>
           </div></summary>
           <div class="section-body">
             <div class="section-grid">
-              <div><h3>Category Overview</h3><ul>${{category.overview.map(x => `<li>${{x}}</li>`).join('')}}</ul></div>
-              <div><h3>Research Limitations</h3><ul>${{category.limitations.map(x => `<li>${{x}}</li>`).join('')}}</ul></div>
+              <div><h3>${{l.overview}}</h3><ul>${{listItems(localizedCategoryList(category, 'overview'))}}</ul></div>
+              <div><h3>${{l.researchLimitations}}</h3><ul>${{listItems(localizedCategoryList(category, 'limitations'))}}</ul></div>
             </div>
             <div class="paper-list">${{visibleCards}}</div>${{extra}}
           </div>
