@@ -27,6 +27,7 @@ A taxonomy-first, citation-ranked map of brain-structure and AI-relation researc
 Generated on 2026-07-01 from free public Semantic Scholar metadata. The current edition starts from an audited brain-structure candidate pool, re-scores each record for AI/modeling/decoding/brain-inspired relevance, selects the top 100 papers per year by citation count from the eligible pool for 1900-2026, and reorganizes the selected 12,700 papers by brain-AI relation taxonomy.
 
 
+
 <!-- BEGIN CODEX PAPER CURATION -->
 
 ## Codex-Native Full Curation
@@ -35,7 +36,7 @@ Generated on 2026-07-01 from free public Semantic Scholar metadata. The current 
 - Local static entry: `docs/paper_curation/index.html`
 - Related Papers graph: `docs/paper_curation/brain-ai/network.html`
 - PaperBanana-compatible timeline: `docs/paper_curation/brain-ai/category_timeline_codex_native.png`
-- Processed PDF evidence in this staged run: 40 papers
+- Processed PDF evidence in this staged run: 80 papers
 - Modeling stack: `allenai/specter2_base` embeddings, `hdbscan.HDBSCAN` clustering, `umap.UMAP` projection
 
 <!-- END CODEX PAPER CURATION -->

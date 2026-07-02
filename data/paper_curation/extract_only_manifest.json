@@ -1,12 +1,12 @@
 {
-  "generated": "2026-07-01T20:12:28.914214+00:00",
+  "generated": "2026-07-02T09:49:10.834886+00:00",
   "mode": "extract-only",
   "paperCurationDir": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect",
   "awesomeRepo": "E:\\조선대\\연구\\awesome-brain-ai",
   "extractReport": "data/paper_curation/extract_only_report.json",
   "docsDir": "docs/paper_curation/extract_only",
   "paperDir": "paper/extract_only",
-  "recordCount": 40,
+  "recordCount": 80,
   "syncedPaperSlugs": [
     "003_Hughlings_Jackson_and_the_Cortical_Motor_Centres_in_the_Ligh",
     "015_EXPERIMENTAL_AND_CLINICAL_NOTES_ON_THE_SUBARACHNOID_SPACE",
@@ -47,13 +47,53 @@
     "264_Des_foyers_lacunaires_de_desintegration_et_de_differentes_au",
     "265_Das_cerebellum_von_scyllium_canicula",
     "266_Studies_on_the_Neuroglia",
-    "267_The_Significance_of_certain_Features_and_Types_of_the_Extern"
+    "267_The_Significance_of_certain_Features_and_Types_of_the_Extern",
+    "268_ABNORMAL_BRAIN_DEVELOPMENT",
+    "270_EUTHANASIA-A_MEDICOLEGAL_STUDY",
+    "271_Four_Cases_of_Primary_Thrombosis_of_Cerebral_Veins_and_Sinus",
+    "269_CHANGES_in_the_NEURONAL_CENTRES_in_BERI-BERIC_NEURITIS",
+    "272_MIRROR-WRITING_AND_THE_INVERTED_IMAGE",
+    "273_A_CASE_OF_CEREBRAL_ABSCESS_COMPLICATING_GUNSHOT_INJURY_WITH",
+    "274_A_REPORT_OF_SEVEN_OPERATIONS_FOR_BRAIN_TUMORS_AND_CYSTS",
+    "275_Destruction_of_Left_Eye_and_Frontal_Lobe_of_Brain_from_a_Sho",
+    "276_Preliminary_report_upon_a_case_of_unilateral_atrophy_of_the",
+    "277_THE_SKULL_AND_ITS_CONTENTS",
+    "278_A_Case_of_Sarcoma_of_the_Brain_Removed_by_Operation_Subseque",
+    "279_AN_ANTHROPOLOGICAL_STUDY_OF_THE_SMALL_BRAIN_OF_CIVILIZED_MAN",
+    "280_Neuritis_Recurring_after_Atrophy_of_Both_Optic_Nerves_in_a_C",
+    "281_REPORT_OF_A_CASE_OF_BRAIN_INJURY_WITH_PECULIAR_WHISTLING_SPE",
+    "282_The_operative_treatment_of_abscess_when_situated_in_the_brai",
+    "284_Case_of_Cerebral_Tumour_at_the_Parieto-Occipital_Fissure",
+    "283_XII_Laryngeal_Disturbances_in_the_Diseases_of_the_Central_Ne",
+    "285_EVOLUTIONAL_AND_INVOLUTIONAL_TYPES_OF_MENTAL_AND_NERVOUS_DIS",
+    "287_THREE_UNUSUAL_CASES_OF_CEREBROSPINAL_FEVER",
+    "286_Massage_and_Movements_in_Hemiplegia",
+    "289_PARESIS_OF_THE_EXTERNAL_RECTI_ASSOCIATED_WITH_IRREGULAR_TABE",
+    "772_The_Minute_Changes_in_the_Cerebral_Cortex_consecutive_to_Exp",
+    "288_THE_ETIOLOGY_OF_PARETIC_DEMENTIA",
+    "773_THE_SOMATIC_SIGNS_OF_BRAIN_SYPHILIS",
+    "774_Ueber_die_Prüfung_von_Cortex_Granati",
+    "775_A_CASE_OF_ASTEREOGNOSIS_RESULTING_FROM_INJURY_OF_THE_BRAIN_I",
+    "776_Observation_on_Brain_Surgery",
+    "777_Some_Cases_of_Brain_Injury",
+    "778_Successful_Operation_upon_a_Case_of_Brain_Abscess_Following",
+    "779_THE_IMMEDIATE_AND_REMOTE_EFFECTS_OF_BRAIN_INJURY",
+    "780_The_New_Method_of_Inducing_Sleep_Without_Drugs_One-Hundred-D",
+    "781_Thermo-Electric_Studies_on_the_Epileptic_Brain",
+    "782_THE_CEREBRAL_NEURONS_IN_RELATION_TO_MEMORY_AND_ELECTRICITY",
+    "783_A_CASE_OF_COMBINED_GASTRIC_AND_AURAL_VERTIGO_WITH_A_DISCUSSI",
+    "784_A_TUMOR_NEUROGLIOMA_OF_THE_SUPERIOR_WORM_OF_THE_CEREBELLUM_A",
+    "785_An_attempt_to_define_the_primitive_functional_divisions_of_t",
+    "786_Ueber_die_heteroplastische_Knochenbildung",
+    "787_A_note_on_the_significance_of_the_size_of_nerve_fibers_in_fi",
+    "788_The_Mental_Functions_of_the_Brain",
+    "789_The_neuroglia_of_the_spinal_cord_of_the_elephant_with_some_p"
   ],
   "copied": [
     {
       "source": "E:\\조선대\\연구\\paper-curation\\paper\\awesome-brain-ai\\_folder_source_extract_report.json",
       "target": "E:\\조선대\\연구\\awesome-brain-ai\\data\\paper_curation\\extract_only_report.json",
-      "bytes": 25573
+      "bytes": 50292
     },
     {
       "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\003_Hughlings_Jackson_and_the_Cortical_Motor_Centres_in_the_Ligh\\text.md",
@@ -514,6 +554,456 @@
       "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\267_The_Significance_of_certain_Features_and_Types_of_the_Extern\\text.md",
       "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\267_The_Significance_of_certain_Features_and_Types_of_the_Extern\\text.md",
       "bytes": 112
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\268_ABNORMAL_BRAIN_DEVELOPMENT\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\268_ABNORMAL_BRAIN_DEVELOPMENT\\text.md",
+      "bytes": 21182
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\268_ABNORMAL_BRAIN_DEVELOPMENT\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\268_ABNORMAL_BRAIN_DEVELOPMENT\\text.md",
+      "bytes": 21182
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\270_EUTHANASIA-A_MEDICOLEGAL_STUDY\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\270_EUTHANASIA-A_MEDICOLEGAL_STUDY\\text.md",
+      "bytes": 20958
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\270_EUTHANASIA-A_MEDICOLEGAL_STUDY\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\270_EUTHANASIA-A_MEDICOLEGAL_STUDY\\text.md",
+      "bytes": 20958
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\271_Four_Cases_of_Primary_Thrombosis_of_Cerebral_Veins_and_Sinus\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\271_Four_Cases_of_Primary_Thrombosis_of_Cerebral_Veins_and_Sinus\\text.md",
+      "bytes": 36784
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\271_Four_Cases_of_Primary_Thrombosis_of_Cerebral_Veins_and_Sinus\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\271_Four_Cases_of_Primary_Thrombosis_of_Cerebral_Veins_and_Sinus\\figures\\fig2.png",
+      "bytes": 1986322
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\271_Four_Cases_of_Primary_Thrombosis_of_Cerebral_Veins_and_Sinus\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\271_Four_Cases_of_Primary_Thrombosis_of_Cerebral_Veins_and_Sinus\\text.md",
+      "bytes": 36784
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\271_Four_Cases_of_Primary_Thrombosis_of_Cerebral_Veins_and_Sinus\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\271_Four_Cases_of_Primary_Thrombosis_of_Cerebral_Veins_and_Sinus\\figures\\fig2.png",
+      "bytes": 1986322
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\269_CHANGES_in_the_NEURONAL_CENTRES_in_BERI-BERIC_NEURITIS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\269_CHANGES_in_the_NEURONAL_CENTRES_in_BERI-BERIC_NEURITIS\\text.md",
+      "bytes": 57973
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\269_CHANGES_in_the_NEURONAL_CENTRES_in_BERI-BERIC_NEURITIS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\269_CHANGES_in_the_NEURONAL_CENTRES_in_BERI-BERIC_NEURITIS\\text.md",
+      "bytes": 57973
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\272_MIRROR-WRITING_AND_THE_INVERTED_IMAGE\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\272_MIRROR-WRITING_AND_THE_INVERTED_IMAGE\\text.md",
+      "bytes": 41404
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\272_MIRROR-WRITING_AND_THE_INVERTED_IMAGE\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\272_MIRROR-WRITING_AND_THE_INVERTED_IMAGE\\text.md",
+      "bytes": 41404
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\273_A_CASE_OF_CEREBRAL_ABSCESS_COMPLICATING_GUNSHOT_INJURY_WITH\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\273_A_CASE_OF_CEREBRAL_ABSCESS_COMPLICATING_GUNSHOT_INJURY_WITH\\text.md",
+      "bytes": 22676
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\273_A_CASE_OF_CEREBRAL_ABSCESS_COMPLICATING_GUNSHOT_INJURY_WITH\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\273_A_CASE_OF_CEREBRAL_ABSCESS_COMPLICATING_GUNSHOT_INJURY_WITH\\figures\\fig1.png",
+      "bytes": 1700529
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\273_A_CASE_OF_CEREBRAL_ABSCESS_COMPLICATING_GUNSHOT_INJURY_WITH\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\273_A_CASE_OF_CEREBRAL_ABSCESS_COMPLICATING_GUNSHOT_INJURY_WITH\\text.md",
+      "bytes": 22676
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\273_A_CASE_OF_CEREBRAL_ABSCESS_COMPLICATING_GUNSHOT_INJURY_WITH\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\273_A_CASE_OF_CEREBRAL_ABSCESS_COMPLICATING_GUNSHOT_INJURY_WITH\\figures\\fig1.png",
+      "bytes": 1700529
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\274_A_REPORT_OF_SEVEN_OPERATIONS_FOR_BRAIN_TUMORS_AND_CYSTS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\274_A_REPORT_OF_SEVEN_OPERATIONS_FOR_BRAIN_TUMORS_AND_CYSTS\\text.md",
+      "bytes": 66255
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\274_A_REPORT_OF_SEVEN_OPERATIONS_FOR_BRAIN_TUMORS_AND_CYSTS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\274_A_REPORT_OF_SEVEN_OPERATIONS_FOR_BRAIN_TUMORS_AND_CYSTS\\text.md",
+      "bytes": 66255
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\275_Destruction_of_Left_Eye_and_Frontal_Lobe_of_Brain_from_a_Sho\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\275_Destruction_of_Left_Eye_and_Frontal_Lobe_of_Brain_from_a_Sho\\text.md",
+      "bytes": 23375
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\275_Destruction_of_Left_Eye_and_Frontal_Lobe_of_Brain_from_a_Sho\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\275_Destruction_of_Left_Eye_and_Frontal_Lobe_of_Brain_from_a_Sho\\text.md",
+      "bytes": 23375
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\276_Preliminary_report_upon_a_case_of_unilateral_atrophy_of_the\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\276_Preliminary_report_upon_a_case_of_unilateral_atrophy_of_the\\text.md",
+      "bytes": 5020
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\276_Preliminary_report_upon_a_case_of_unilateral_atrophy_of_the\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\276_Preliminary_report_upon_a_case_of_unilateral_atrophy_of_the\\text.md",
+      "bytes": 5020
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\277_THE_SKULL_AND_ITS_CONTENTS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\277_THE_SKULL_AND_ITS_CONTENTS\\text.md",
+      "bytes": 22468
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\277_THE_SKULL_AND_ITS_CONTENTS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\277_THE_SKULL_AND_ITS_CONTENTS\\text.md",
+      "bytes": 22468
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\278_A_Case_of_Sarcoma_of_the_Brain_Removed_by_Operation_Subseque\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\278_A_Case_of_Sarcoma_of_the_Brain_Removed_by_Operation_Subseque\\text.md",
+      "bytes": 33343
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\278_A_Case_of_Sarcoma_of_the_Brain_Removed_by_Operation_Subseque\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\278_A_Case_of_Sarcoma_of_the_Brain_Removed_by_Operation_Subseque\\text.md",
+      "bytes": 33343
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\279_AN_ANTHROPOLOGICAL_STUDY_OF_THE_SMALL_BRAIN_OF_CIVILIZED_MAN\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\279_AN_ANTHROPOLOGICAL_STUDY_OF_THE_SMALL_BRAIN_OF_CIVILIZED_MAN\\text.md",
+      "bytes": 179185
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\279_AN_ANTHROPOLOGICAL_STUDY_OF_THE_SMALL_BRAIN_OF_CIVILIZED_MAN\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\279_AN_ANTHROPOLOGICAL_STUDY_OF_THE_SMALL_BRAIN_OF_CIVILIZED_MAN\\text.md",
+      "bytes": 179185
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\280_Neuritis_Recurring_after_Atrophy_of_Both_Optic_Nerves_in_a_C\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\280_Neuritis_Recurring_after_Atrophy_of_Both_Optic_Nerves_in_a_C\\text.md",
+      "bytes": 18030
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\280_Neuritis_Recurring_after_Atrophy_of_Both_Optic_Nerves_in_a_C\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\280_Neuritis_Recurring_after_Atrophy_of_Both_Optic_Nerves_in_a_C\\text.md",
+      "bytes": 18030
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\281_REPORT_OF_A_CASE_OF_BRAIN_INJURY_WITH_PECULIAR_WHISTLING_SPE\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\281_REPORT_OF_A_CASE_OF_BRAIN_INJURY_WITH_PECULIAR_WHISTLING_SPE\\text.md",
+      "bytes": 3374
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\281_REPORT_OF_A_CASE_OF_BRAIN_INJURY_WITH_PECULIAR_WHISTLING_SPE\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\281_REPORT_OF_A_CASE_OF_BRAIN_INJURY_WITH_PECULIAR_WHISTLING_SPE\\text.md",
+      "bytes": 3374
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\282_The_operative_treatment_of_abscess_when_situated_in_the_brai\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\282_The_operative_treatment_of_abscess_when_situated_in_the_brai\\text.md",
+      "bytes": 39427
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\282_The_operative_treatment_of_abscess_when_situated_in_the_brai\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\282_The_operative_treatment_of_abscess_when_situated_in_the_brai\\text.md",
+      "bytes": 39427
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\284_Case_of_Cerebral_Tumour_at_the_Parieto-Occipital_Fissure\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\284_Case_of_Cerebral_Tumour_at_the_Parieto-Occipital_Fissure\\text.md",
+      "bytes": 19630
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\284_Case_of_Cerebral_Tumour_at_the_Parieto-Occipital_Fissure\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\284_Case_of_Cerebral_Tumour_at_the_Parieto-Occipital_Fissure\\figures\\fig2.png",
+      "bytes": 1784675
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\284_Case_of_Cerebral_Tumour_at_the_Parieto-Occipital_Fissure\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\284_Case_of_Cerebral_Tumour_at_the_Parieto-Occipital_Fissure\\text.md",
+      "bytes": 19630
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\284_Case_of_Cerebral_Tumour_at_the_Parieto-Occipital_Fissure\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\284_Case_of_Cerebral_Tumour_at_the_Parieto-Occipital_Fissure\\figures\\fig2.png",
+      "bytes": 1784675
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\283_XII_Laryngeal_Disturbances_in_the_Diseases_of_the_Central_Ne\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\283_XII_Laryngeal_Disturbances_in_the_Diseases_of_the_Central_Ne\\text.md",
+      "bytes": 101743
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\283_XII_Laryngeal_Disturbances_in_the_Diseases_of_the_Central_Ne\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\283_XII_Laryngeal_Disturbances_in_the_Diseases_of_the_Central_Ne\\text.md",
+      "bytes": 101743
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\285_EVOLUTIONAL_AND_INVOLUTIONAL_TYPES_OF_MENTAL_AND_NERVOUS_DIS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\285_EVOLUTIONAL_AND_INVOLUTIONAL_TYPES_OF_MENTAL_AND_NERVOUS_DIS\\text.md",
+      "bytes": 29485
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\285_EVOLUTIONAL_AND_INVOLUTIONAL_TYPES_OF_MENTAL_AND_NERVOUS_DIS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\285_EVOLUTIONAL_AND_INVOLUTIONAL_TYPES_OF_MENTAL_AND_NERVOUS_DIS\\text.md",
+      "bytes": 29485
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\287_THREE_UNUSUAL_CASES_OF_CEREBROSPINAL_FEVER\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\287_THREE_UNUSUAL_CASES_OF_CEREBROSPINAL_FEVER\\text.md",
+      "bytes": 17490
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\287_THREE_UNUSUAL_CASES_OF_CEREBROSPINAL_FEVER\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\287_THREE_UNUSUAL_CASES_OF_CEREBROSPINAL_FEVER\\text.md",
+      "bytes": 17490
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\286_Massage_and_Movements_in_Hemiplegia\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\286_Massage_and_Movements_in_Hemiplegia\\text.md",
+      "bytes": 14565
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\286_Massage_and_Movements_in_Hemiplegia\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\286_Massage_and_Movements_in_Hemiplegia\\text.md",
+      "bytes": 14565
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\289_PARESIS_OF_THE_EXTERNAL_RECTI_ASSOCIATED_WITH_IRREGULAR_TABE\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\289_PARESIS_OF_THE_EXTERNAL_RECTI_ASSOCIATED_WITH_IRREGULAR_TABE\\text.md",
+      "bytes": 25108
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\289_PARESIS_OF_THE_EXTERNAL_RECTI_ASSOCIATED_WITH_IRREGULAR_TABE\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\289_PARESIS_OF_THE_EXTERNAL_RECTI_ASSOCIATED_WITH_IRREGULAR_TABE\\text.md",
+      "bytes": 25108
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\772_The_Minute_Changes_in_the_Cerebral_Cortex_consecutive_to_Exp\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\772_The_Minute_Changes_in_the_Cerebral_Cortex_consecutive_to_Exp\\text.md",
+      "bytes": 3106
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\772_The_Minute_Changes_in_the_Cerebral_Cortex_consecutive_to_Exp\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\772_The_Minute_Changes_in_the_Cerebral_Cortex_consecutive_to_Exp\\text.md",
+      "bytes": 3106
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\288_THE_ETIOLOGY_OF_PARETIC_DEMENTIA\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\288_THE_ETIOLOGY_OF_PARETIC_DEMENTIA\\text.md",
+      "bytes": 24155
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\288_THE_ETIOLOGY_OF_PARETIC_DEMENTIA\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\288_THE_ETIOLOGY_OF_PARETIC_DEMENTIA\\text.md",
+      "bytes": 24155
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\773_THE_SOMATIC_SIGNS_OF_BRAIN_SYPHILIS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\773_THE_SOMATIC_SIGNS_OF_BRAIN_SYPHILIS\\text.md",
+      "bytes": 21932
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\773_THE_SOMATIC_SIGNS_OF_BRAIN_SYPHILIS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\773_THE_SOMATIC_SIGNS_OF_BRAIN_SYPHILIS\\text.md",
+      "bytes": 21932
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\774_Ueber_die_Prüfung_von_Cortex_Granati\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\774_Ueber_die_Prüfung_von_Cortex_Granati\\text.md",
+      "bytes": 4936
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\774_Ueber_die_Prüfung_von_Cortex_Granati\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\774_Ueber_die_Prüfung_von_Cortex_Granati\\text.md",
+      "bytes": 4936
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\775_A_CASE_OF_ASTEREOGNOSIS_RESULTING_FROM_INJURY_OF_THE_BRAIN_I\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\775_A_CASE_OF_ASTEREOGNOSIS_RESULTING_FROM_INJURY_OF_THE_BRAIN_I\\text.md",
+      "bytes": 4969
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\775_A_CASE_OF_ASTEREOGNOSIS_RESULTING_FROM_INJURY_OF_THE_BRAIN_I\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\775_A_CASE_OF_ASTEREOGNOSIS_RESULTING_FROM_INJURY_OF_THE_BRAIN_I\\text.md",
+      "bytes": 4969
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\776_Observation_on_Brain_Surgery\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\776_Observation_on_Brain_Surgery\\text.md",
+      "bytes": 7369
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\776_Observation_on_Brain_Surgery\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\776_Observation_on_Brain_Surgery\\text.md",
+      "bytes": 7369
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\777_Some_Cases_of_Brain_Injury\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\777_Some_Cases_of_Brain_Injury\\text.md",
+      "bytes": 7156
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\777_Some_Cases_of_Brain_Injury\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\777_Some_Cases_of_Brain_Injury\\text.md",
+      "bytes": 7156
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\778_Successful_Operation_upon_a_Case_of_Brain_Abscess_Following\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\778_Successful_Operation_upon_a_Case_of_Brain_Abscess_Following\\text.md",
+      "bytes": 15332
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\778_Successful_Operation_upon_a_Case_of_Brain_Abscess_Following\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\778_Successful_Operation_upon_a_Case_of_Brain_Abscess_Following\\text.md",
+      "bytes": 15332
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\779_THE_IMMEDIATE_AND_REMOTE_EFFECTS_OF_BRAIN_INJURY\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\779_THE_IMMEDIATE_AND_REMOTE_EFFECTS_OF_BRAIN_INJURY\\text.md",
+      "bytes": 82449
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\779_THE_IMMEDIATE_AND_REMOTE_EFFECTS_OF_BRAIN_INJURY\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\779_THE_IMMEDIATE_AND_REMOTE_EFFECTS_OF_BRAIN_INJURY\\text.md",
+      "bytes": 82449
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\780_The_New_Method_of_Inducing_Sleep_Without_Drugs_One-Hundred-D\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\780_The_New_Method_of_Inducing_Sleep_Without_Drugs_One-Hundred-D\\text.md",
+      "bytes": 7405
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\780_The_New_Method_of_Inducing_Sleep_Without_Drugs_One-Hundred-D\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\780_The_New_Method_of_Inducing_Sleep_Without_Drugs_One-Hundred-D\\text.md",
+      "bytes": 7405
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\781_Thermo-Electric_Studies_on_the_Epileptic_Brain\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\781_Thermo-Electric_Studies_on_the_Epileptic_Brain\\text.md",
+      "bytes": 28
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\781_Thermo-Electric_Studies_on_the_Epileptic_Brain\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\781_Thermo-Electric_Studies_on_the_Epileptic_Brain\\text.md",
+      "bytes": 28
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\782_THE_CEREBRAL_NEURONS_IN_RELATION_TO_MEMORY_AND_ELECTRICITY\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\782_THE_CEREBRAL_NEURONS_IN_RELATION_TO_MEMORY_AND_ELECTRICITY\\text.md",
+      "bytes": 14926
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\782_THE_CEREBRAL_NEURONS_IN_RELATION_TO_MEMORY_AND_ELECTRICITY\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\782_THE_CEREBRAL_NEURONS_IN_RELATION_TO_MEMORY_AND_ELECTRICITY\\text.md",
+      "bytes": 14926
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\783_A_CASE_OF_COMBINED_GASTRIC_AND_AURAL_VERTIGO_WITH_A_DISCUSSI\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\783_A_CASE_OF_COMBINED_GASTRIC_AND_AURAL_VERTIGO_WITH_A_DISCUSSI\\text.md",
+      "bytes": 24925
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\783_A_CASE_OF_COMBINED_GASTRIC_AND_AURAL_VERTIGO_WITH_A_DISCUSSI\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\783_A_CASE_OF_COMBINED_GASTRIC_AND_AURAL_VERTIGO_WITH_A_DISCUSSI\\text.md",
+      "bytes": 24925
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\784_A_TUMOR_NEUROGLIOMA_OF_THE_SUPERIOR_WORM_OF_THE_CEREBELLUM_A\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\784_A_TUMOR_NEUROGLIOMA_OF_THE_SUPERIOR_WORM_OF_THE_CEREBELLUM_A\\text.md",
+      "bytes": 34822
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\784_A_TUMOR_NEUROGLIOMA_OF_THE_SUPERIOR_WORM_OF_THE_CEREBELLUM_A\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\784_A_TUMOR_NEUROGLIOMA_OF_THE_SUPERIOR_WORM_OF_THE_CEREBELLUM_A\\text.md",
+      "bytes": 34822
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\785_An_attempt_to_define_the_primitive_functional_divisions_of_t\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\785_An_attempt_to_define_the_primitive_functional_divisions_of_t\\text.md",
+      "bytes": 43679
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\785_An_attempt_to_define_the_primitive_functional_divisions_of_t\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\785_An_attempt_to_define_the_primitive_functional_divisions_of_t\\figures\\fig2.png",
+      "bytes": 309268
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\785_An_attempt_to_define_the_primitive_functional_divisions_of_t\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\785_An_attempt_to_define_the_primitive_functional_divisions_of_t\\text.md",
+      "bytes": 43679
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\785_An_attempt_to_define_the_primitive_functional_divisions_of_t\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\785_An_attempt_to_define_the_primitive_functional_divisions_of_t\\figures\\fig2.png",
+      "bytes": 309268
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\786_Ueber_die_heteroplastische_Knochenbildung\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\786_Ueber_die_heteroplastische_Knochenbildung\\text.md",
+      "bytes": 24163
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\786_Ueber_die_heteroplastische_Knochenbildung\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\786_Ueber_die_heteroplastische_Knochenbildung\\text.md",
+      "bytes": 24163
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\787_A_note_on_the_significance_of_the_size_of_nerve_fibers_in_fi\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\787_A_note_on_the_significance_of_the_size_of_nerve_fibers_in_fi\\text.md",
+      "bytes": 12476
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\787_A_note_on_the_significance_of_the_size_of_nerve_fibers_in_fi\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\787_A_note_on_the_significance_of_the_size_of_nerve_fibers_in_fi\\text.md",
+      "bytes": 12476
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\788_The_Mental_Functions_of_the_Brain\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\788_The_Mental_Functions_of_the_Brain\\text.md",
+      "bytes": 8275
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\788_The_Mental_Functions_of_the_Brain\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\788_The_Mental_Functions_of_the_Brain\\text.md",
+      "bytes": 8275
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\789_The_neuroglia_of_the_spinal_cord_of_the_elephant_with_some_p\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\789_The_neuroglia_of_the_spinal_cord_of_the_elephant_with_some_p\\text.md",
+      "bytes": 58647
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\789_The_neuroglia_of_the_spinal_cord_of_the_elephant_with_some_p\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\789_The_neuroglia_of_the_spinal_cord_of_the_elephant_with_some_p\\figures\\fig1.png",
+      "bytes": 801696
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\789_The_neuroglia_of_the_spinal_cord_of_the_elephant_with_some_p\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\789_The_neuroglia_of_the_spinal_cord_of_the_elephant_with_some_p\\text.md",
+      "bytes": 58647
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\789_The_neuroglia_of_the_spinal_cord_of_the_elephant_with_some_p\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\789_The_neuroglia_of_the_spinal_cord_of_the_elephant_with_some_p\\figures\\fig1.png",
+      "bytes": 801696
     }
   ],
   "missing": [],
