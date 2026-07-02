@@ -1,0 +1,51 @@
+{
+  "mode": "codex-native-paperbanana-compatible-timeline",
+  "summary": "Codex generated a PaperBanana-compatible timeline artifact path without calling external image APIs.",
+  "categories": [
+    {
+      "id": "hdbscan-bridge-and-noise-papers",
+      "name": "HDBSCAN Bridge and Noise Papers",
+      "count": 19
+    },
+    {
+      "id": "hdbscan-cluster-but-figure-brain-his",
+      "name": "HDBSCAN Cluster: but, figure, brain, his",
+      "count": 3
+    },
+    {
+      "id": "hdbscan-cluster-which-method-ganglion-cells",
+      "name": "HDBSCAN Cluster: which, method, ganglion, cells",
+      "count": 3
+    },
+    {
+      "id": "hdbscan-cluster-fall-von-case-cerebral",
+      "name": "HDBSCAN Cluster: fall, von, case, cerebral",
+      "count": 3
+    },
+    {
+      "id": "hdbscan-cluster-figure-may-there-cause",
+      "name": "HDBSCAN Cluster: figure, may, there, cause",
+      "count": 3
+    },
+    {
+      "id": "hdbscan-cluster-figure-case-mastoiditis-cerebral-tubercle-death",
+      "name": "HDBSCAN Cluster: figure, case, mastoiditis-cerebral, tubercle-death",
+      "count": 3
+    },
+    {
+      "id": "hdbscan-cluster-had-tumor-brain-patient",
+      "name": "HDBSCAN Cluster: had, tumor, brain, patient",
+      "count": 2
+    },
+    {
+      "id": "hdbscan-cluster-not-four-their-had",
+      "name": "HDBSCAN Cluster: not, four, their, had",
+      "count": 2
+    },
+    {
+      "id": "hdbscan-cluster-figure-brain-images-png",
+      "name": "HDBSCAN Cluster: figure, brain, images, png",
+      "count": 2
+    }
+  ]
+}

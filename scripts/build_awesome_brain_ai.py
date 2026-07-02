@@ -1295,6 +1295,109 @@ def limitations_for(row):
     return "; ".join(dict.fromkeys(limitations[:3]))
 
 
+def localized_category_sentence(row, lang):
+    category = CATEGORY_BY_NAME.get(row["category"], {})
+    localized_block = CATEGORY_TEXT_I18N.get(row["category"], {}).get(lang) or {}
+    overview = localized_block.get("overview") or category.get("overview") or []
+    return overview[0] if overview else row["category"]
+
+
+def localized_strengths_for(row, lang):
+    if lang == "en":
+        return row["strengths"]
+    tags = {tag for tag in row["keywordTags"].split(";") if tag}
+    citation = row["citationCount"]
+    parts_by_lang = {
+        "ko": [f"인용 신호가 높음({citation:,}회)"],
+        "zh": [f"引用信号高（{citation:,} 次）"],
+        "ja": [f"引用シグナルが高い（{citation:,}件）"],
+    }
+    parts = parts_by_lang.get(lang, parts_by_lang["ko"])
+    if recognized_venue(row["venue"]):
+        parts.append({"ko": "인정받는 학술지/학회", "zh": "发表渠道具有认可度", "ja": "認知度の高い掲載先"}[lang])
+    if row.get("openAccessPdf"):
+        parts.append({"ko": "공개 PDF 메타데이터 있음", "zh": "包含开放 PDF 元数据", "ja": "公開 PDF メタデータあり"}[lang])
+    if "review" in row["workType"] or "review" in row["title"].lower():
+        parts.append({"ko": "종합/리뷰 가치", "zh": "具有综述或综合价值", "ja": "レビュー/総合整理として有用"}[lang])
+    if "machine-learning" in tags or "deep-learning" in tags:
+        parts.append({"ko": "명시적 AI/모델링 신호", "zh": "具有明确的 AI/建模信号", "ja": "明示的な AI/モデリング信号"}[lang])
+    if "brain-structure" in tags or "connectome" in tags:
+        parts.append({"ko": "뇌 구조 신호", "zh": "包含脑结构信号", "ja": "脳構造シグナル"}[lang])
+    if "decoding" in tags or "neuromorphic-bci" in tags:
+        parts.append({"ko": "뇌-모델 인터페이스 신호", "zh": "体现脑到模型的接口信号", "ja": "脳とモデルをつなぐ信号"}[lang])
+    return "; ".join(dict.fromkeys(parts[:4]))
+
+
+def localized_limitations_for(row, lang):
+    if lang == "en":
+        return row["limitations"]
+    category = CATEGORY_BY_NAME[row["category"]]
+    localized_block = CATEGORY_TEXT_I18N.get(row["category"], {}).get(lang) or {}
+    limitations = list((localized_block.get("limitations") or category["limitations"])[:2])
+    tags = set(row["keywordTags"].split(";")) if row["keywordTags"] else set()
+    extras = {
+        "machine": {
+            "ko": "모델 성능은 leakage, confounding, calibration, 외부 타당성까지 점검해야 합니다.",
+            "zh": "模型表现仍需检查数据泄漏、混杂、校准和外部有效性。",
+            "ja": "モデル性能はリーケージ、交絡、較正、外部妥当性まで確認が必要です。",
+        },
+        "imaging": {
+            "ko": "영상 결론은 acquisition, preprocessing, model specification에 따라 달라질 수 있습니다.",
+            "zh": "影像结论可能受采集、预处理和模型设定影响。",
+            "ja": "画像解析の結論は取得条件、前処理、モデル仕様に左右されます。",
+        },
+        "signals": {
+            "ko": "신호 drift, artifact, session effect가 실제 decoding 신뢰도를 제한할 수 있습니다.",
+            "zh": "信号漂移、伪迹和会话效应会限制真实解码可靠性。",
+            "ja": "信号ドリフト、アーティファクト、セッション効果が実運用での信頼性を制限します。",
+        },
+        "metadata": {
+            "ko": "메타데이터 순위는 강한 주장 전에 전문 PDF 검토로 보완해야 합니다.",
+            "zh": "元数据排序在形成强主张前应由全文 PDF 审阅补充。",
+            "ja": "メタデータ順位は強い主張の前に全文 PDF レビューで補完する必要があります。",
+        },
+    }
+    if "machine-learning" in tags or "deep-learning" in tags:
+        limitations.append(extras["machine"][lang])
+    elif "neuroimaging" in tags or "brain-structure" in tags:
+        limitations.append(extras["imaging"][lang])
+    elif "decoding" in tags or "neural-signals" in tags:
+        limitations.append(extras["signals"][lang])
+    else:
+        limitations.append(extras["metadata"][lang])
+    return "; ".join(dict.fromkeys(limitations[:3]))
+
+
+def localized_paper_text(row):
+    texts = {
+        "en": {
+            "keyIdea": row["keyIdea"],
+            "strengths": row["strengths"],
+            "limitations": row["limitations"],
+        }
+    }
+    title = row["title"]
+    year = row["year"]
+    category = row["category"]
+    templates = {
+        "ko": "'{title}'는 {year}년에 발표된 {category} 분야의 인용 상위 논문입니다. {category_sentence}",
+        "zh": "《{title}》是 {year} 年发表的 {category} 方向高引用论文。{category_sentence}",
+        "ja": "「{title}」は {year} 年に発表された {category} 分野の高引用論文です。{category_sentence}",
+    }
+    for lang, template in templates.items():
+        texts[lang] = {
+            "keyIdea": template.format(
+                title=title,
+                year=year,
+                category=category,
+                category_sentence=localized_category_sentence(row, lang),
+            ),
+            "strengths": localized_strengths_for(row, lang),
+            "limitations": localized_limitations_for(row, lang),
+        }
+    return texts
+
+
 def normalize_work(work):
     abstract = abstract_from_inverted_index(work.get("abstract_inverted_index"))
     score, reason = relevance_score(work, abstract)
@@ -2179,6 +2282,7 @@ def site_rows(selected):
                 "keyIdea": row["keyIdea"],
                 "strengths": row["strengths"],
                 "limitations": row["limitations"],
+                "localized": localized_paper_text(row),
                 "url": row["url"],
                 "semanticScholarUrl": semantic_scholar_url(row),
                 "openAccessPdf": row["openAccessPdf"],
@@ -2418,6 +2522,10 @@ def write_site(selected):
       const languageBlock = category.localized?.[state.lang] || category.localized?.en || null;
       return (languageBlock && languageBlock[field]) || category[field] || [];
     }}
+    function localizedPaperField(paper, field) {{
+      const languageBlock = paper.localized?.[state.lang] || paper.localized?.en || null;
+      return (languageBlock && languageBlock[field]) || paper[field] || '';
+    }}
     function listItems(items) {{
       return (items || []).map(item => `<li>${{escapeHtml(item)}}</li>`).join('');
     }}
@@ -2564,7 +2672,7 @@ def write_site(selected):
         <div class="paper-head"><div><a class="paper-title" href="${{p.url}}">${{p.title}}</a><div class="meta">${{p.authors}}</div></div><div class="meta">#${{p.rank}} in ${{p.year}}</div></div>
         <div class="meta">${{p.year}} &middot; ${{p.venue}} &middot; ${{fmt(p.citationCount)}} ${{l.citations}} &middot; ${{l.influentialCitations}} ${{fmt(p.influentialCitationCount)}} &middot; ${{l.score}} ${{p.importanceScore}} &middot; ${{links}}</div>
         <div class="badges">${{badges(p.keywordTags)}}</div>
-        <dl><dt>${{l.keyIdea}}</dt><dd>${{p.keyIdea}}</dd><dt>${{l.strengths}}</dt><dd>${{p.strengths}}</dd><dt>${{l.limitations}}</dt><dd>${{p.limitations}}</dd></dl>
+        <dl><dt>${{l.keyIdea}}</dt><dd>${{escapeHtml(localizedPaperField(p, 'keyIdea'))}}</dd><dt>${{l.strengths}}</dt><dd>${{escapeHtml(localizedPaperField(p, 'strengths'))}}</dd><dt>${{l.limitations}}</dt><dd>${{escapeHtml(localizedPaperField(p, 'limitations'))}}</dd></dl>
       </article>`;
     }}
     function allTaxonomiesDetails(rows) {{

@@ -1,0 +1,292 @@
+{
+  "categories": [
+    {
+      "id": "hdbscan-bridge-and-noise-papers",
+      "name": "HDBSCAN Bridge and Noise Papers",
+      "count": 19
+    },
+    {
+      "id": "hdbscan-cluster-but-figure-brain-his",
+      "name": "HDBSCAN Cluster: but, figure, brain, his",
+      "count": 3
+    },
+    {
+      "id": "hdbscan-cluster-which-method-ganglion-cells",
+      "name": "HDBSCAN Cluster: which, method, ganglion, cells",
+      "count": 3
+    },
+    {
+      "id": "hdbscan-cluster-fall-von-case-cerebral",
+      "name": "HDBSCAN Cluster: fall, von, case, cerebral",
+      "count": 3
+    },
+    {
+      "id": "hdbscan-cluster-figure-may-there-cause",
+      "name": "HDBSCAN Cluster: figure, may, there, cause",
+      "count": 3
+    },
+    {
+      "id": "hdbscan-cluster-figure-case-mastoiditis-cerebral-tubercle-death",
+      "name": "HDBSCAN Cluster: figure, case, mastoiditis-cerebral, tubercle-death",
+      "count": 3
+    },
+    {
+      "id": "hdbscan-cluster-had-tumor-brain-patient",
+      "name": "HDBSCAN Cluster: had, tumor, brain, patient",
+      "count": 2
+    },
+    {
+      "id": "hdbscan-cluster-not-four-their-had",
+      "name": "HDBSCAN Cluster: not, four, their, had",
+      "count": 2
+    },
+    {
+      "id": "hdbscan-cluster-figure-brain-images-png",
+      "name": "HDBSCAN Cluster: figure, brain, images, png",
+      "count": 2
+    }
+  ],
+  "assignments": [
+    {
+      "slug": "003_Hughlings_Jackson_and_the_Cortical_Motor_Centres_in_the_Ligh",
+      "category": "HDBSCAN Cluster: but, figure, brain, his",
+      "confidence": 0.74,
+      "source": "codex-native-hdbscan"
+    },
+    {
+      "slug": "015_EXPERIMENTAL_AND_CLINICAL_NOTES_ON_THE_SUBARACHNOID_SPACE",
+      "category": "HDBSCAN Bridge and Noise Papers",
+      "confidence": 0.74,
+      "source": "codex-native-hdbscan"
+    },
+    {
+      "slug": "017_140_Ueber_das_Gewicht_des_schwersten_bis_jetzt_beschriebenen",
+      "category": "HDBSCAN Bridge and Noise Papers",
+      "confidence": 0.74,
+      "source": "codex-native-hdbscan"
+    },
+    {
+      "slug": "018_THYROID_EXTRACT_IN_JUVENILE_OBESITY_A_CLINICAL_NOTE",
+      "category": "HDBSCAN Cluster: but, figure, brain, his",
+      "confidence": 0.74,
+      "source": "codex-native-hdbscan"
+    },
+    {
+      "slug": "019_A_CASE_OF_TUMOR_AT_THE_BASE_OF_THE_BRAIN_IN_THE_PONTINE_REGI",
+      "category": "HDBSCAN Cluster: had, tumor, brain, patient",
+      "confidence": 0.74,
+      "source": "codex-native-hdbscan"
+    },
+    {
+      "slug": "054_RADIOGRAPHIC_RESEARCHES_ON_THE_TOPOGRAPHICAL_RELATIONS_OF_TH",
+      "category": "HDBSCAN Bridge and Noise Papers",
+      "confidence": 0.74,
+      "source": "codex-native-hdbscan"
+    },
+    {
+      "slug": "055_Cases_of_Acromegaly_and_Infantile_Myxœdema_Occurring_Respect",
+      "category": "HDBSCAN Bridge and Noise Papers",
+      "confidence": 0.74,
+      "source": "codex-native-hdbscan"
+    },
+    {
+      "slug": "056_NEW_SOURCES_OF_DANGER_IN_THE_USE_OF_OPIUM",
+      "category": "HDBSCAN Bridge and Noise Papers",
+      "confidence": 0.74,
+      "source": "codex-native-hdbscan"
+    },
+    {
+      "slug": "057_A_STUDY_OF_THE_NEUROFIBRILS_IS_THE_GANGLION_CELLS_OF_THE_CER",
+      "category": "HDBSCAN Cluster: which, method, ganglion, cells",
+      "confidence": 0.74,
+      "source": "codex-native-hdbscan"
+    },
+    {
+      "slug": "058_A_Case_of_Malignant_Malarial_Fever_with_Cerebral_Symptoms_Te",
+      "category": "HDBSCAN Cluster: not, four, their, had",
+      "confidence": 0.74,
+      "source": "codex-native-hdbscan"
+    },
+    {
+      "slug": "059_135_Ueber_einen_Fall_von_Commotio_cerebri_mct_bemerkenswerth",
+      "category": "HDBSCAN Cluster: fall, von, case, cerebral",
+      "confidence": 0.74,
+      "source": "codex-native-hdbscan"
+    },
+    {
+      "slug": "060_PROBABLE_BRAIN_TUMOR_WITH_RECOVERY",
+      "category": "HDBSCAN Cluster: had, tumor, brain, patient",
+      "confidence": 0.74,
+      "source": "codex-native-hdbscan"
+    },
+    {
+      "slug": "063_136_Gehirn-Substanz_In_Nervenkrankheiten_Use_of_Brain_Substa",
+      "category": "HDBSCAN Cluster: figure, brain, images, png",
+      "confidence": 0.74,
+      "source": "codex-native-hdbscan"
+    },
+    {
+      "slug": "064_21_EIN_FALL_VON_DIFFUSER_SARKOMATOSE_DER_GESAMTEN_PIA_MATER",
+      "category": "HDBSCAN Cluster: fall, von, case, cerebral",
+      "confidence": 0.74,
+      "source": "codex-native-hdbscan"
+    },
+    {
+      "slug": "065_A_FEW_CASES_OF_BRAIN_INJURY_CLINICALLY_EXAMINED",
+      "category": "HDBSCAN Bridge and Noise Papers",
+      "confidence": 0.74,
+      "source": "codex-native-hdbscan"
+    },
+    {
+      "slug": "243_EXPERIMENTAL_WORK_ON_BRAIN_PRESSURE_FOLLOWING_INJURY",
+      "category": "HDBSCAN Cluster: figure, may, there, cause",
+      "confidence": 0.74,
+      "source": "codex-native-hdbscan"
+    },
+    {
+      "slug": "244_GUNSHOT_WOUND_OF_THE_HEAD_PERFORATION_OF_THE_BRAIN_RECOVERY",
+      "category": "HDBSCAN Bridge and Noise Papers",
+      "confidence": 0.74,
+      "source": "codex-native-hdbscan"
+    },
+    {
+      "slug": "245_RECONSTRUCTION_OF_SERIAL_SECTIONS_OF_BRAIN",
+      "category": "HDBSCAN Cluster: figure, brain, images, png",
+      "confidence": 0.74,
+      "source": "codex-native-hdbscan"
+    },
+    {
+      "slug": "246_Report_of_a_case_of_brain_and_other_abscesses_following_tons",
+      "category": "HDBSCAN Bridge and Noise Papers",
+      "confidence": 0.74,
+      "source": "codex-native-hdbscan"
+    },
+    {
+      "slug": "247_The_Alleged_Adulteration_of_Milk_with_Brain-matter1",
+      "category": "HDBSCAN Bridge and Noise Papers",
+      "confidence": 0.74,
+      "source": "codex-native-hdbscan"
+    },
+    {
+      "slug": "248_The_Effect_of_Small_Doses_of_Alcohol_on_the_Brain",
+      "category": "HDBSCAN Cluster: but, figure, brain, his",
+      "confidence": 0.74,
+      "source": "codex-native-hdbscan"
+    },
+    {
+      "slug": "293_Insomnia",
+      "category": "HDBSCAN Bridge and Noise Papers",
+      "confidence": 0.74,
+      "source": "codex-native-hdbscan"
+    },
+    {
+      "slug": "062_THE_DIFFERENTIATION_OF_CHOREA_AND_THE_DISORDERS_SIMULATING_I",
+      "category": "HDBSCAN Bridge and Noise Papers",
+      "confidence": 0.74,
+      "source": "codex-native-hdbscan"
+    },
+    {
+      "slug": "253_22_COMMOTIONS_DE_LENCEPHALE_ET_DE_LA_MOELLE_EPINIÈRE_Cerebra",
+      "category": "HDBSCAN Cluster: fall, von, case, cerebral",
+      "confidence": 0.74,
+      "source": "codex-native-hdbscan"
+    },
+    {
+      "slug": "254_A_Brief_Report_of_a_Case_of_Cerebral_Abscess_of_Otitic_Origi",
+      "category": "HDBSCAN Cluster: not, four, their, had",
+      "confidence": 0.74,
+      "source": "codex-native-hdbscan"
+    },
+    {
+      "slug": "255_A_CASE_OF_CEREBRAL_ABSCESS_WITH_OPERATION",
+      "category": "HDBSCAN Cluster: figure, may, there, cause",
+      "confidence": 0.74,
+      "source": "codex-native-hdbscan"
+    },
+    {
+      "slug": "256_A_case_of_mastoiditis-cerebral_tubercle-death_autopsy",
+      "category": "HDBSCAN Cluster: figure, case, mastoiditis-cerebral, tubercle-death",
+      "confidence": 0.74,
+      "source": "codex-native-hdbscan"
+    },
+    {
+      "slug": "257_A_Case_of_Multiple_Cerebral_Hemorrhages_from_Chronic_Lead_Po",
+      "category": "HDBSCAN Bridge and Noise Papers",
+      "confidence": 0.74,
+      "source": "codex-native-hdbscan"
+    },
+    {
+      "slug": "259_Cerebral_abscess_following_chronic_otitis_media_purulenta-op",
+      "category": "HDBSCAN Cluster: figure, case, mastoiditis-cerebral, tubercle-death",
+      "confidence": 0.74,
+      "source": "codex-native-hdbscan"
+    },
+    {
+      "slug": "250_CEREBRAL_CYST_REPORT_OF_A_CASE",
+      "category": "HDBSCAN Bridge and Noise Papers",
+      "confidence": 0.74,
+      "source": "codex-native-hdbscan"
+    },
+    {
+      "slug": "291_NOTE_ON_THROMBOSIS_OF_CEREBRAL_VEINS_OCCURRING_IN_A_CASE_OF",
+      "category": "HDBSCAN Bridge and Noise Papers",
+      "confidence": 0.74,
+      "source": "codex-native-hdbscan"
+    },
+    {
+      "slug": "292_Purulent_Nasal_Discharges_their_Diagnosis_and_Treatment__By",
+      "category": "HDBSCAN Cluster: figure, may, there, cause",
+      "confidence": 0.74,
+      "source": "codex-native-hdbscan"
+    },
+    {
+      "slug": "251_Relation_between_Nervous_and_Glandular_Tissue_in_Ascidians",
+      "category": "HDBSCAN Bridge and Noise Papers",
+      "confidence": 0.74,
+      "source": "codex-native-hdbscan"
+    },
+    {
+      "slug": "261_The_division_of_differentiated_cells_in_the_central_nervous",
+      "category": "HDBSCAN Bridge and Noise Papers",
+      "confidence": 0.74,
+      "source": "codex-native-hdbscan"
+    },
+    {
+      "slug": "262_The_Brain_of_Acipenser_A_Contribution_to_the_Morphology_of_t",
+      "category": "HDBSCAN Cluster: which, method, ganglion, cells",
+      "confidence": 0.74,
+      "source": "codex-native-hdbscan"
+    },
+    {
+      "slug": "263_An_ADDRESS_on_LOCALISATION_in_the_MOTOR_CEREBRAL_CORTEX",
+      "category": "HDBSCAN Bridge and Noise Papers",
+      "confidence": 0.74,
+      "source": "codex-native-hdbscan"
+    },
+    {
+      "slug": "264_Des_foyers_lacunaires_de_desintegration_et_de_differentes_au",
+      "category": "HDBSCAN Bridge and Noise Papers",
+      "confidence": 0.74,
+      "source": "codex-native-hdbscan"
+    },
+    {
+      "slug": "265_Das_cerebellum_von_scyllium_canicula",
+      "category": "HDBSCAN Bridge and Noise Papers",
+      "confidence": 0.74,
+      "source": "codex-native-hdbscan"
+    },
+    {
+      "slug": "266_Studies_on_the_Neuroglia",
+      "category": "HDBSCAN Cluster: which, method, ganglion, cells",
+      "confidence": 0.74,
+      "source": "codex-native-hdbscan"
+    },
+    {
+      "slug": "267_The_Significance_of_certain_Features_and_Types_of_the_Extern",
+      "category": "HDBSCAN Cluster: figure, case, mastoiditis-cerebral, tubercle-death",
+      "confidence": 0.74,
+      "source": "codex-native-hdbscan"
+    }
+  ],
+  "method": "Codex-native bottom-up classification over extracted PDF text; cached SPECTER2, HDBSCAN, and UMAP are attempted locally with recorded fallback."
+}
