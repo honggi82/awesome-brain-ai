@@ -1,12 +1,12 @@
 {
-  "generated": "2026-07-03T13:30:37.162334+00:00",
+  "generated": "2026-07-03T14:03:35.592493+00:00",
   "mode": "extract-only",
   "paperCurationDir": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect",
   "awesomeRepo": "E:\\조선대\\연구\\awesome-brain-ai",
   "extractReport": "data/paper_curation/extract_only_report.json",
   "docsDir": "docs/paper_curation/extract_only",
   "paperDir": "paper/extract_only",
-  "recordCount": 380,
+  "recordCount": 400,
   "syncedPaperSlugs": [
     "003_Hughlings_Jackson_and_the_Cortical_Motor_Centres_in_the_Ligh",
     "015_EXPERIMENTAL_AND_CLINICAL_NOTES_ON_THE_SUBARACHNOID_SPACE",
@@ -387,13 +387,33 @@
     "2062_PSYCHOTHERAPY_WITH_SOME_OF_ITS_RESULTS",
     "2063_SEROTHERAPY_OF_EPIDEMIC_CEREBROSPINAL_MENINGITIS_REPORT_OF_T",
     "2064_A_CASE_OF_PREFRONTAL_TUMOR_WITH_EXHIBITION_OF_THE_BRAIN",
-    "2065_INDICATIONS_FOR_OPERATIVE_INTERFERENCE_IN_CEREBRAL_COMPLICAT"
+    "2065_INDICATIONS_FOR_OPERATIVE_INTERFERENCE_IN_CEREBRAL_COMPLICAT",
+    "2098_Newcastle_Local_Section_Inaugural_address_of_the_Chairman",
+    "2099_Passive_Hyperemia_in_Seasickness",
+    "2100_A_CASE_OF_BRAIN_ABSCESS_SHOWING_THE_PNEUMOCOCCUS",
+    "2101_BRAIN_SHOWING_CIRCUMSCRIBED_CORTICAL_ATROPHY",
+    "1672_A_CASE_OF_BRAIN_TUMOR_WITH_PROGRESSIVE_BLINDNESS",
+    "2102_A_CASE_OF_GLIOMA_OF_THE_BRAIN",
+    "2103_A_COMPLICATED_CASE_OF_BRAIN_TUMOR",
+    "2104_Anatomy_of_the_brain_and_spinal_cord_with_special_reference",
+    "2105_CASE_OF_BRAIN_ABSCESS",
+    "2106_The_Linacre_Lecture_ON_THE_FUNCTION_OF_THE_SO-CALLED_MOTOR_A",
+    "2107_The_morphology_of_the_forebrain_vesicle_in_vertebrates",
+    "2108_A_new_association_fiber_tract_in_the_cerebrum_with_remarks_o",
+    "2109_A_constant_bursa_in_relation_with_the_bundle_of_His_with_stu",
+    "2110_SOME_PRINCIPLES_OF_CEREBRAL_SURGERY",
+    "2111_The_development_of_theridium_an_aranead_up_to_the_stage_of_r",
+    "2112_The_influence_of_alcohol_and_other_anesthetics_on_developing",
+    "2113_On_the_relation_of_the_body_length_to_the_body_weight_and_to",
+    "2114_OBSERVATIONS_ON_CHOKED_DISC_WITH_ESPECIAL_REFERENCE_TO_DECOM",
+    "2115_XIV_The_Structure_and_Affinities_of_Davidia_involucrata_Bail",
+    "2116_INTERMITTENT_CLOSING_OF_CEREBRAL_ARTERIES"
   ],
   "copied": [
     {
       "source": "E:\\조선대\\연구\\paper-curation\\paper\\awesome-brain-ai\\_folder_source_extract_report.json",
       "target": "E:\\조선대\\연구\\awesome-brain-ai\\data\\paper_curation\\extract_only_report.json",
-      "bytes": 231766
+      "bytes": 243693
     },
     {
       "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\003_Hughlings_Jackson_and_the_Cortical_Motor_Centres_in_the_Ligh\\text.md",
@@ -5914,6 +5934,476 @@
       "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2065_INDICATIONS_FOR_OPERATIVE_INTERFERENCE_IN_CEREBRAL_COMPLICAT\\text.md",
       "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2065_INDICATIONS_FOR_OPERATIVE_INTERFERENCE_IN_CEREBRAL_COMPLICAT\\text.md",
       "bytes": 29494
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2098_Newcastle_Local_Section_Inaugural_address_of_the_Chairman\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2098_Newcastle_Local_Section_Inaugural_address_of_the_Chairman\\text.md",
+      "bytes": 13472
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2098_Newcastle_Local_Section_Inaugural_address_of_the_Chairman\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2098_Newcastle_Local_Section_Inaugural_address_of_the_Chairman\\text.md",
+      "bytes": 13472
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2099_Passive_Hyperemia_in_Seasickness\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2099_Passive_Hyperemia_in_Seasickness\\text.md",
+      "bytes": 8062
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2099_Passive_Hyperemia_in_Seasickness\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2099_Passive_Hyperemia_in_Seasickness\\text.md",
+      "bytes": 8062
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2100_A_CASE_OF_BRAIN_ABSCESS_SHOWING_THE_PNEUMOCOCCUS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2100_A_CASE_OF_BRAIN_ABSCESS_SHOWING_THE_PNEUMOCOCCUS\\text.md",
+      "bytes": 30042
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2100_A_CASE_OF_BRAIN_ABSCESS_SHOWING_THE_PNEUMOCOCCUS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2100_A_CASE_OF_BRAIN_ABSCESS_SHOWING_THE_PNEUMOCOCCUS\\text.md",
+      "bytes": 30042
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2101_BRAIN_SHOWING_CIRCUMSCRIBED_CORTICAL_ATROPHY\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2101_BRAIN_SHOWING_CIRCUMSCRIBED_CORTICAL_ATROPHY\\text.md",
+      "bytes": 10430
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2101_BRAIN_SHOWING_CIRCUMSCRIBED_CORTICAL_ATROPHY\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2101_BRAIN_SHOWING_CIRCUMSCRIBED_CORTICAL_ATROPHY\\text.md",
+      "bytes": 10430
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1672_A_CASE_OF_BRAIN_TUMOR_WITH_PROGRESSIVE_BLINDNESS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1672_A_CASE_OF_BRAIN_TUMOR_WITH_PROGRESSIVE_BLINDNESS\\text.md",
+      "bytes": 6270
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1672_A_CASE_OF_BRAIN_TUMOR_WITH_PROGRESSIVE_BLINDNESS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1672_A_CASE_OF_BRAIN_TUMOR_WITH_PROGRESSIVE_BLINDNESS\\text.md",
+      "bytes": 6270
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2102_A_CASE_OF_GLIOMA_OF_THE_BRAIN\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2102_A_CASE_OF_GLIOMA_OF_THE_BRAIN\\text.md",
+      "bytes": 28
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2102_A_CASE_OF_GLIOMA_OF_THE_BRAIN\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2102_A_CASE_OF_GLIOMA_OF_THE_BRAIN\\text.md",
+      "bytes": 28
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2103_A_COMPLICATED_CASE_OF_BRAIN_TUMOR\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2103_A_COMPLICATED_CASE_OF_BRAIN_TUMOR\\text.md",
+      "bytes": 17599
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2103_A_COMPLICATED_CASE_OF_BRAIN_TUMOR\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2103_A_COMPLICATED_CASE_OF_BRAIN_TUMOR\\text.md",
+      "bytes": 17599
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2104_Anatomy_of_the_brain_and_spinal_cord_with_special_reference\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2104_Anatomy_of_the_brain_and_spinal_cord_with_special_reference\\text.md",
+      "bytes": 7633
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2104_Anatomy_of_the_brain_and_spinal_cord_with_special_reference\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2104_Anatomy_of_the_brain_and_spinal_cord_with_special_reference\\text.md",
+      "bytes": 7633
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2105_CASE_OF_BRAIN_ABSCESS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2105_CASE_OF_BRAIN_ABSCESS\\text.md",
+      "bytes": 13367
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2105_CASE_OF_BRAIN_ABSCESS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2105_CASE_OF_BRAIN_ABSCESS\\text.md",
+      "bytes": 13367
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2106_The_Linacre_Lecture_ON_THE_FUNCTION_OF_THE_SO-CALLED_MOTOR_A\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2106_The_Linacre_Lecture_ON_THE_FUNCTION_OF_THE_SO-CALLED_MOTOR_A\\text.md",
+      "bytes": 76159
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2106_The_Linacre_Lecture_ON_THE_FUNCTION_OF_THE_SO-CALLED_MOTOR_A\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2106_The_Linacre_Lecture_ON_THE_FUNCTION_OF_THE_SO-CALLED_MOTOR_A\\figures\\fig1.png",
+      "bytes": 1998061
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2106_The_Linacre_Lecture_ON_THE_FUNCTION_OF_THE_SO-CALLED_MOTOR_A\\figures\\fig13.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2106_The_Linacre_Lecture_ON_THE_FUNCTION_OF_THE_SO-CALLED_MOTOR_A\\figures\\fig13.png",
+      "bytes": 1896764
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2106_The_Linacre_Lecture_ON_THE_FUNCTION_OF_THE_SO-CALLED_MOTOR_A\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2106_The_Linacre_Lecture_ON_THE_FUNCTION_OF_THE_SO-CALLED_MOTOR_A\\figures\\fig2.png",
+      "bytes": 2202378
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2106_The_Linacre_Lecture_ON_THE_FUNCTION_OF_THE_SO-CALLED_MOTOR_A\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2106_The_Linacre_Lecture_ON_THE_FUNCTION_OF_THE_SO-CALLED_MOTOR_A\\figures\\fig4.png",
+      "bytes": 1906944
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2106_The_Linacre_Lecture_ON_THE_FUNCTION_OF_THE_SO-CALLED_MOTOR_A\\figures\\fig9.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2106_The_Linacre_Lecture_ON_THE_FUNCTION_OF_THE_SO-CALLED_MOTOR_A\\figures\\fig9.png",
+      "bytes": 1930230
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2106_The_Linacre_Lecture_ON_THE_FUNCTION_OF_THE_SO-CALLED_MOTOR_A\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2106_The_Linacre_Lecture_ON_THE_FUNCTION_OF_THE_SO-CALLED_MOTOR_A\\text.md",
+      "bytes": 76159
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2106_The_Linacre_Lecture_ON_THE_FUNCTION_OF_THE_SO-CALLED_MOTOR_A\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2106_The_Linacre_Lecture_ON_THE_FUNCTION_OF_THE_SO-CALLED_MOTOR_A\\figures\\fig1.png",
+      "bytes": 1998061
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2106_The_Linacre_Lecture_ON_THE_FUNCTION_OF_THE_SO-CALLED_MOTOR_A\\figures\\fig13.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2106_The_Linacre_Lecture_ON_THE_FUNCTION_OF_THE_SO-CALLED_MOTOR_A\\figures\\fig13.png",
+      "bytes": 1896764
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2106_The_Linacre_Lecture_ON_THE_FUNCTION_OF_THE_SO-CALLED_MOTOR_A\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2106_The_Linacre_Lecture_ON_THE_FUNCTION_OF_THE_SO-CALLED_MOTOR_A\\figures\\fig2.png",
+      "bytes": 2202378
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2106_The_Linacre_Lecture_ON_THE_FUNCTION_OF_THE_SO-CALLED_MOTOR_A\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2106_The_Linacre_Lecture_ON_THE_FUNCTION_OF_THE_SO-CALLED_MOTOR_A\\figures\\fig4.png",
+      "bytes": 1906944
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2106_The_Linacre_Lecture_ON_THE_FUNCTION_OF_THE_SO-CALLED_MOTOR_A\\figures\\fig9.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2106_The_Linacre_Lecture_ON_THE_FUNCTION_OF_THE_SO-CALLED_MOTOR_A\\figures\\fig9.png",
+      "bytes": 1930230
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2107_The_morphology_of_the_forebrain_vesicle_in_vertebrates\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2107_The_morphology_of_the_forebrain_vesicle_in_vertebrates\\text.md",
+      "bytes": 150221
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2107_The_morphology_of_the_forebrain_vesicle_in_vertebrates\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2107_The_morphology_of_the_forebrain_vesicle_in_vertebrates\\figures\\fig2.png",
+      "bytes": 386215
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2107_The_morphology_of_the_forebrain_vesicle_in_vertebrates\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2107_The_morphology_of_the_forebrain_vesicle_in_vertebrates\\figures\\fig3.png",
+      "bytes": 506028
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2107_The_morphology_of_the_forebrain_vesicle_in_vertebrates\\figures\\fig7.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2107_The_morphology_of_the_forebrain_vesicle_in_vertebrates\\figures\\fig7.png",
+      "bytes": 485324
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2107_The_morphology_of_the_forebrain_vesicle_in_vertebrates\\figures\\fig8.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2107_The_morphology_of_the_forebrain_vesicle_in_vertebrates\\figures\\fig8.png",
+      "bytes": 486700
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2107_The_morphology_of_the_forebrain_vesicle_in_vertebrates\\figures\\fig9.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2107_The_morphology_of_the_forebrain_vesicle_in_vertebrates\\figures\\fig9.png",
+      "bytes": 497563
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2107_The_morphology_of_the_forebrain_vesicle_in_vertebrates\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2107_The_morphology_of_the_forebrain_vesicle_in_vertebrates\\text.md",
+      "bytes": 150221
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2107_The_morphology_of_the_forebrain_vesicle_in_vertebrates\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2107_The_morphology_of_the_forebrain_vesicle_in_vertebrates\\figures\\fig2.png",
+      "bytes": 386215
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2107_The_morphology_of_the_forebrain_vesicle_in_vertebrates\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2107_The_morphology_of_the_forebrain_vesicle_in_vertebrates\\figures\\fig3.png",
+      "bytes": 506028
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2107_The_morphology_of_the_forebrain_vesicle_in_vertebrates\\figures\\fig7.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2107_The_morphology_of_the_forebrain_vesicle_in_vertebrates\\figures\\fig7.png",
+      "bytes": 485324
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2107_The_morphology_of_the_forebrain_vesicle_in_vertebrates\\figures\\fig8.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2107_The_morphology_of_the_forebrain_vesicle_in_vertebrates\\figures\\fig8.png",
+      "bytes": 486700
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2107_The_morphology_of_the_forebrain_vesicle_in_vertebrates\\figures\\fig9.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2107_The_morphology_of_the_forebrain_vesicle_in_vertebrates\\figures\\fig9.png",
+      "bytes": 497563
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2108_A_new_association_fiber_tract_in_the_cerebrum_with_remarks_o\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2108_A_new_association_fiber_tract_in_the_cerebrum_with_remarks_o\\text.md",
+      "bytes": 35787
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2108_A_new_association_fiber_tract_in_the_cerebrum_with_remarks_o\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2108_A_new_association_fiber_tract_in_the_cerebrum_with_remarks_o\\figures\\fig1.png",
+      "bytes": 415040
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2108_A_new_association_fiber_tract_in_the_cerebrum_with_remarks_o\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2108_A_new_association_fiber_tract_in_the_cerebrum_with_remarks_o\\figures\\fig4.png",
+      "bytes": 292974
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2108_A_new_association_fiber_tract_in_the_cerebrum_with_remarks_o\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2108_A_new_association_fiber_tract_in_the_cerebrum_with_remarks_o\\figures\\fig5.png",
+      "bytes": 212409
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2108_A_new_association_fiber_tract_in_the_cerebrum_with_remarks_o\\figures\\fig8.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2108_A_new_association_fiber_tract_in_the_cerebrum_with_remarks_o\\figures\\fig8.png",
+      "bytes": 335350
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2108_A_new_association_fiber_tract_in_the_cerebrum_with_remarks_o\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2108_A_new_association_fiber_tract_in_the_cerebrum_with_remarks_o\\text.md",
+      "bytes": 35787
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2108_A_new_association_fiber_tract_in_the_cerebrum_with_remarks_o\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2108_A_new_association_fiber_tract_in_the_cerebrum_with_remarks_o\\figures\\fig1.png",
+      "bytes": 415040
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2108_A_new_association_fiber_tract_in_the_cerebrum_with_remarks_o\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2108_A_new_association_fiber_tract_in_the_cerebrum_with_remarks_o\\figures\\fig4.png",
+      "bytes": 292974
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2108_A_new_association_fiber_tract_in_the_cerebrum_with_remarks_o\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2108_A_new_association_fiber_tract_in_the_cerebrum_with_remarks_o\\figures\\fig5.png",
+      "bytes": 212409
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2108_A_new_association_fiber_tract_in_the_cerebrum_with_remarks_o\\figures\\fig8.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2108_A_new_association_fiber_tract_in_the_cerebrum_with_remarks_o\\figures\\fig8.png",
+      "bytes": 335350
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2109_A_constant_bursa_in_relation_with_the_bundle_of_His_with_stu\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2109_A_constant_bursa_in_relation_with_the_bundle_of_His_with_stu\\text.md",
+      "bytes": 33250
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2109_A_constant_bursa_in_relation_with_the_bundle_of_His_with_stu\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2109_A_constant_bursa_in_relation_with_the_bundle_of_His_with_stu\\text.md",
+      "bytes": 33250
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2110_SOME_PRINCIPLES_OF_CEREBRAL_SURGERY\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2110_SOME_PRINCIPLES_OF_CEREBRAL_SURGERY\\text.md",
+      "bytes": 68298
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2110_SOME_PRINCIPLES_OF_CEREBRAL_SURGERY\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2110_SOME_PRINCIPLES_OF_CEREBRAL_SURGERY\\figures\\fig1.png",
+      "bytes": 571165
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2110_SOME_PRINCIPLES_OF_CEREBRAL_SURGERY\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2110_SOME_PRINCIPLES_OF_CEREBRAL_SURGERY\\figures\\fig2.png",
+      "bytes": 485448
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2110_SOME_PRINCIPLES_OF_CEREBRAL_SURGERY\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2110_SOME_PRINCIPLES_OF_CEREBRAL_SURGERY\\figures\\fig3.png",
+      "bytes": 474658
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2110_SOME_PRINCIPLES_OF_CEREBRAL_SURGERY\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2110_SOME_PRINCIPLES_OF_CEREBRAL_SURGERY\\figures\\fig4.png",
+      "bytes": 503556
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2110_SOME_PRINCIPLES_OF_CEREBRAL_SURGERY\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2110_SOME_PRINCIPLES_OF_CEREBRAL_SURGERY\\figures\\fig5.png",
+      "bytes": 821671
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2110_SOME_PRINCIPLES_OF_CEREBRAL_SURGERY\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2110_SOME_PRINCIPLES_OF_CEREBRAL_SURGERY\\text.md",
+      "bytes": 68298
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2110_SOME_PRINCIPLES_OF_CEREBRAL_SURGERY\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2110_SOME_PRINCIPLES_OF_CEREBRAL_SURGERY\\figures\\fig1.png",
+      "bytes": 571165
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2110_SOME_PRINCIPLES_OF_CEREBRAL_SURGERY\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2110_SOME_PRINCIPLES_OF_CEREBRAL_SURGERY\\figures\\fig2.png",
+      "bytes": 485448
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2110_SOME_PRINCIPLES_OF_CEREBRAL_SURGERY\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2110_SOME_PRINCIPLES_OF_CEREBRAL_SURGERY\\figures\\fig3.png",
+      "bytes": 474658
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2110_SOME_PRINCIPLES_OF_CEREBRAL_SURGERY\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2110_SOME_PRINCIPLES_OF_CEREBRAL_SURGERY\\figures\\fig4.png",
+      "bytes": 503556
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2110_SOME_PRINCIPLES_OF_CEREBRAL_SURGERY\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2110_SOME_PRINCIPLES_OF_CEREBRAL_SURGERY\\figures\\fig5.png",
+      "bytes": 821671
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2111_The_development_of_theridium_an_aranead_up_to_the_stage_of_r\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2111_The_development_of_theridium_an_aranead_up_to_the_stage_of_r\\text.md",
+      "bytes": 142939
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2111_The_development_of_theridium_an_aranead_up_to_the_stage_of_r\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2111_The_development_of_theridium_an_aranead_up_to_the_stage_of_r\\figures\\fig5.png",
+      "bytes": 446391
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2111_The_development_of_theridium_an_aranead_up_to_the_stage_of_r\\figures\\fig51.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2111_The_development_of_theridium_an_aranead_up_to_the_stage_of_r\\figures\\fig51.png",
+      "bytes": 472553
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2111_The_development_of_theridium_an_aranead_up_to_the_stage_of_r\\figures\\fig60.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2111_The_development_of_theridium_an_aranead_up_to_the_stage_of_r\\figures\\fig60.png",
+      "bytes": 460245
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2111_The_development_of_theridium_an_aranead_up_to_the_stage_of_r\\figures\\fig7.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2111_The_development_of_theridium_an_aranead_up_to_the_stage_of_r\\figures\\fig7.png",
+      "bytes": 471071
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2111_The_development_of_theridium_an_aranead_up_to_the_stage_of_r\\figures\\fig8.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2111_The_development_of_theridium_an_aranead_up_to_the_stage_of_r\\figures\\fig8.png",
+      "bytes": 450274
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2111_The_development_of_theridium_an_aranead_up_to_the_stage_of_r\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2111_The_development_of_theridium_an_aranead_up_to_the_stage_of_r\\text.md",
+      "bytes": 142939
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2111_The_development_of_theridium_an_aranead_up_to_the_stage_of_r\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2111_The_development_of_theridium_an_aranead_up_to_the_stage_of_r\\figures\\fig5.png",
+      "bytes": 446391
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2111_The_development_of_theridium_an_aranead_up_to_the_stage_of_r\\figures\\fig51.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2111_The_development_of_theridium_an_aranead_up_to_the_stage_of_r\\figures\\fig51.png",
+      "bytes": 472553
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2111_The_development_of_theridium_an_aranead_up_to_the_stage_of_r\\figures\\fig60.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2111_The_development_of_theridium_an_aranead_up_to_the_stage_of_r\\figures\\fig60.png",
+      "bytes": 460245
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2111_The_development_of_theridium_an_aranead_up_to_the_stage_of_r\\figures\\fig7.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2111_The_development_of_theridium_an_aranead_up_to_the_stage_of_r\\figures\\fig7.png",
+      "bytes": 471071
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2111_The_development_of_theridium_an_aranead_up_to_the_stage_of_r\\figures\\fig8.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2111_The_development_of_theridium_an_aranead_up_to_the_stage_of_r\\figures\\fig8.png",
+      "bytes": 450274
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2112_The_influence_of_alcohol_and_other_anesthetics_on_developing\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2112_The_influence_of_alcohol_and_other_anesthetics_on_developing\\text.md",
+      "bytes": 3939
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2112_The_influence_of_alcohol_and_other_anesthetics_on_developing\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2112_The_influence_of_alcohol_and_other_anesthetics_on_developing\\text.md",
+      "bytes": 3939
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2113_On_the_relation_of_the_body_length_to_the_body_weight_and_to\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2113_On_the_relation_of_the_body_length_to_the_body_weight_and_to\\text.md",
+      "bytes": 26329
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2113_On_the_relation_of_the_body_length_to_the_body_weight_and_to\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2113_On_the_relation_of_the_body_length_to_the_body_weight_and_to\\text.md",
+      "bytes": 26329
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2114_OBSERVATIONS_ON_CHOKED_DISC_WITH_ESPECIAL_REFERENCE_TO_DECOM\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2114_OBSERVATIONS_ON_CHOKED_DISC_WITH_ESPECIAL_REFERENCE_TO_DECOM\\text.md",
+      "bytes": 93569
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2114_OBSERVATIONS_ON_CHOKED_DISC_WITH_ESPECIAL_REFERENCE_TO_DECOM\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2114_OBSERVATIONS_ON_CHOKED_DISC_WITH_ESPECIAL_REFERENCE_TO_DECOM\\text.md",
+      "bytes": 93569
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2115_XIV_The_Structure_and_Affinities_of_Davidia_involucrata_Bail\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2115_XIV_The_Structure_and_Affinities_of_Davidia_involucrata_Bail\\text.md",
+      "bytes": 75714
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2115_XIV_The_Structure_and_Affinities_of_Davidia_involucrata_Bail\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2115_XIV_The_Structure_and_Affinities_of_Davidia_involucrata_Bail\\figures\\fig1.png",
+      "bytes": 529253
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2115_XIV_The_Structure_and_Affinities_of_Davidia_involucrata_Bail\\figures\\fig17.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2115_XIV_The_Structure_and_Affinities_of_Davidia_involucrata_Bail\\figures\\fig17.png",
+      "bytes": 255826
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2115_XIV_The_Structure_and_Affinities_of_Davidia_involucrata_Bail\\figures\\fig8.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2115_XIV_The_Structure_and_Affinities_of_Davidia_involucrata_Bail\\figures\\fig8.png",
+      "bytes": 872745
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2115_XIV_The_Structure_and_Affinities_of_Davidia_involucrata_Bail\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2115_XIV_The_Structure_and_Affinities_of_Davidia_involucrata_Bail\\text.md",
+      "bytes": 75714
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2115_XIV_The_Structure_and_Affinities_of_Davidia_involucrata_Bail\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2115_XIV_The_Structure_and_Affinities_of_Davidia_involucrata_Bail\\figures\\fig1.png",
+      "bytes": 529253
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2115_XIV_The_Structure_and_Affinities_of_Davidia_involucrata_Bail\\figures\\fig17.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2115_XIV_The_Structure_and_Affinities_of_Davidia_involucrata_Bail\\figures\\fig17.png",
+      "bytes": 255826
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2115_XIV_The_Structure_and_Affinities_of_Davidia_involucrata_Bail\\figures\\fig8.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2115_XIV_The_Structure_and_Affinities_of_Davidia_involucrata_Bail\\figures\\fig8.png",
+      "bytes": 872745
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2116_INTERMITTENT_CLOSING_OF_CEREBRAL_ARTERIES\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2116_INTERMITTENT_CLOSING_OF_CEREBRAL_ARTERIES\\text.md",
+      "bytes": 9040
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2116_INTERMITTENT_CLOSING_OF_CEREBRAL_ARTERIES\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2116_INTERMITTENT_CLOSING_OF_CEREBRAL_ARTERIES\\text.md",
+      "bytes": 9040
     }
   ],
   "missing": [],
