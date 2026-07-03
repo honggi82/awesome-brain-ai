@@ -1,12 +1,12 @@
 {
-  "generated": "2026-07-03T11:13:35.230555+00:00",
+  "generated": "2026-07-03T12:59:13.699916+00:00",
   "mode": "extract-only",
   "paperCurationDir": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect",
   "awesomeRepo": "E:\\조선대\\연구\\awesome-brain-ai",
   "extractReport": "data/paper_curation/extract_only_report.json",
   "docsDir": "docs/paper_curation/extract_only",
   "paperDir": "paper/extract_only",
-  "recordCount": 340,
+  "recordCount": 360,
   "syncedPaperSlugs": [
     "003_Hughlings_Jackson_and_the_Cortical_Motor_Centres_in_the_Ligh",
     "015_EXPERIMENTAL_AND_CLINICAL_NOTES_ON_THE_SUBARACHNOID_SPACE",
@@ -347,13 +347,33 @@
     "1971_Youth_Its_Education_Regimen_and_Hygiene",
     "1972_Report_Of_A_Case_Of_Melanosis_Of_The_Brain_Cord_And_Meninges",
     "1973_A_comparison_of_the_albino_rat_with_man_in_respect_to_the_gr",
-    "1974_THE_CEREBRAL_CENTERS_FOR_TASTE_AND_SMELL_AND_THE_UNCINATE_GR"
+    "1974_THE_CEREBRAL_CENTERS_FOR_TASTE_AND_SMELL_AND_THE_UNCINATE_GR",
+    "2001_II_On_recently_discovered_Subfossil_Primates_from_Madagascar",
+    "2002_Preliminary_note_on_the_size_and_condition_of_the_central_ne",
+    "2003_Eversion_and_inversion_of_the_dorso-lateral_wall_in_differen",
+    "2004_INSANITIES_CAUSED_BY_ACUTE_AND_CHRONIC_INTOXICATIONS_WITH_OP",
+    "2005_ON_THE_DEVELOPMENT_OF_THE_LARGE_COMMISSURES_OF_THE_TELENCEPH",
+    "2006_ON_THE_MECHANISM_OF_GLIOSIS_IN_ACQUIRED_EPILEPSY",
+    "2007_THE_HEARTS_ACTION_PRECEDING_AN_EPILEPTIC_SEIZURE",
+    "2008_THE_DIURETIC_ACTION_OF_ADRENALIN_AND_THE_ACTIVE_PRINCIPLE_OF",
+    "2009_THE_STATE_OF_THE_BRAIN_DURING_HYPNOSIS",
+    "2010_On_the_relation_of_calcium_metabolism_to_tetany_and_the_cure",
+    "2011_THE_SPHENOIDAL_SINUS_A_STUDY_BASED_ON_THE_EXAMINATION_OF_EIG",
+    "2012_Report_on_the_present_status_of_the_Academic_Institutes_for",
+    "2013_SOME_POINTS_ABOUT_PUNCTURE_OF_THE_BRAIN",
+    "2014_Abnormal_Pulsating_Vessels_in_the_Pharynx",
+    "2015_Abnormal_Reactions_to_Horse_Serum_in_the_Serum_Treatment_of",
+    "2016_PATHOLOGIC_REPORT_OF_THE_NERVOUS_SYSTEM_IN_A_CASE_OF_SPONDYL",
+    "2017_PURLENT_CEREBROSPINAL_MENINGITIS_CAUSED_BY_THE_THYPHID_BACIL",
+    "2018_HEMORRHAGE_INTO_THE_VENTRICLES_ITS_RELATION_TO_CONVULSIONS_A",
+    "2019_A_DETAILED_STUDY_OF_THE_CHANGES_OCCURRING_IN_THE_PHYSIOLOGIC",
+    "2020_A_STUDY_IN_TACTUAL_LOCALIZATION_IN_A_CASE_PRESENTING_ASTEREO"
   ],
   "copied": [
     {
       "source": "E:\\조선대\\연구\\paper-curation\\paper\\awesome-brain-ai\\_folder_source_extract_report.json",
       "target": "E:\\조선대\\연구\\awesome-brain-ai\\data\\paper_curation\\extract_only_report.json",
-      "bytes": 206687
+      "bytes": 219795
     },
     {
       "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\003_Hughlings_Jackson_and_the_Cortical_Motor_Centres_in_the_Ligh\\text.md",
@@ -5304,6 +5324,356 @@
       "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1974_THE_CEREBRAL_CENTERS_FOR_TASTE_AND_SMELL_AND_THE_UNCINATE_GR\\figures\\fig4.png",
       "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1974_THE_CEREBRAL_CENTERS_FOR_TASTE_AND_SMELL_AND_THE_UNCINATE_GR\\figures\\fig4.png",
       "bytes": 750488
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2001_II_On_recently_discovered_Subfossil_Primates_from_Madagascar\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2001_II_On_recently_discovered_Subfossil_Primates_from_Madagascar\\text.md",
+      "bytes": 289464
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2001_II_On_recently_discovered_Subfossil_Primates_from_Madagascar\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2001_II_On_recently_discovered_Subfossil_Primates_from_Madagascar\\text.md",
+      "bytes": 289464
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2002_Preliminary_note_on_the_size_and_condition_of_the_central_ne\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2002_Preliminary_note_on_the_size_and_condition_of_the_central_ne\\text.md",
+      "bytes": 8921
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2002_Preliminary_note_on_the_size_and_condition_of_the_central_ne\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2002_Preliminary_note_on_the_size_and_condition_of_the_central_ne\\text.md",
+      "bytes": 8921
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2003_Eversion_and_inversion_of_the_dorso-lateral_wall_in_differen\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2003_Eversion_and_inversion_of_the_dorso-lateral_wall_in_differen\\text.md",
+      "bytes": 8625
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2003_Eversion_and_inversion_of_the_dorso-lateral_wall_in_differen\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2003_Eversion_and_inversion_of_the_dorso-lateral_wall_in_differen\\figures\\fig2.png",
+      "bytes": 314172
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2003_Eversion_and_inversion_of_the_dorso-lateral_wall_in_differen\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2003_Eversion_and_inversion_of_the_dorso-lateral_wall_in_differen\\figures\\fig3.png",
+      "bytes": 214148
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2003_Eversion_and_inversion_of_the_dorso-lateral_wall_in_differen\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2003_Eversion_and_inversion_of_the_dorso-lateral_wall_in_differen\\figures\\fig5.png",
+      "bytes": 425495
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2003_Eversion_and_inversion_of_the_dorso-lateral_wall_in_differen\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2003_Eversion_and_inversion_of_the_dorso-lateral_wall_in_differen\\text.md",
+      "bytes": 8625
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2003_Eversion_and_inversion_of_the_dorso-lateral_wall_in_differen\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2003_Eversion_and_inversion_of_the_dorso-lateral_wall_in_differen\\figures\\fig2.png",
+      "bytes": 314172
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2003_Eversion_and_inversion_of_the_dorso-lateral_wall_in_differen\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2003_Eversion_and_inversion_of_the_dorso-lateral_wall_in_differen\\figures\\fig3.png",
+      "bytes": 214148
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2003_Eversion_and_inversion_of_the_dorso-lateral_wall_in_differen\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2003_Eversion_and_inversion_of_the_dorso-lateral_wall_in_differen\\figures\\fig5.png",
+      "bytes": 425495
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2004_INSANITIES_CAUSED_BY_ACUTE_AND_CHRONIC_INTOXICATIONS_WITH_OP\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2004_INSANITIES_CAUSED_BY_ACUTE_AND_CHRONIC_INTOXICATIONS_WITH_OP\\text.md",
+      "bytes": 34181
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2004_INSANITIES_CAUSED_BY_ACUTE_AND_CHRONIC_INTOXICATIONS_WITH_OP\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2004_INSANITIES_CAUSED_BY_ACUTE_AND_CHRONIC_INTOXICATIONS_WITH_OP\\text.md",
+      "bytes": 34181
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2005_ON_THE_DEVELOPMENT_OF_THE_LARGE_COMMISSURES_OF_THE_TELENCEPH\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2005_ON_THE_DEVELOPMENT_OF_THE_LARGE_COMMISSURES_OF_THE_TELENCEPH\\text.md",
+      "bytes": 44407
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2005_ON_THE_DEVELOPMENT_OF_THE_LARGE_COMMISSURES_OF_THE_TELENCEPH\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2005_ON_THE_DEVELOPMENT_OF_THE_LARGE_COMMISSURES_OF_THE_TELENCEPH\\figures\\fig1.png",
+      "bytes": 412363
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2005_ON_THE_DEVELOPMENT_OF_THE_LARGE_COMMISSURES_OF_THE_TELENCEPH\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2005_ON_THE_DEVELOPMENT_OF_THE_LARGE_COMMISSURES_OF_THE_TELENCEPH\\figures\\fig2.png",
+      "bytes": 536297
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2005_ON_THE_DEVELOPMENT_OF_THE_LARGE_COMMISSURES_OF_THE_TELENCEPH\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2005_ON_THE_DEVELOPMENT_OF_THE_LARGE_COMMISSURES_OF_THE_TELENCEPH\\figures\\fig3.png",
+      "bytes": 477687
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2005_ON_THE_DEVELOPMENT_OF_THE_LARGE_COMMISSURES_OF_THE_TELENCEPH\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2005_ON_THE_DEVELOPMENT_OF_THE_LARGE_COMMISSURES_OF_THE_TELENCEPH\\figures\\fig4.png",
+      "bytes": 1213129
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2005_ON_THE_DEVELOPMENT_OF_THE_LARGE_COMMISSURES_OF_THE_TELENCEPH\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2005_ON_THE_DEVELOPMENT_OF_THE_LARGE_COMMISSURES_OF_THE_TELENCEPH\\figures\\fig5.png",
+      "bytes": 479119
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2005_ON_THE_DEVELOPMENT_OF_THE_LARGE_COMMISSURES_OF_THE_TELENCEPH\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2005_ON_THE_DEVELOPMENT_OF_THE_LARGE_COMMISSURES_OF_THE_TELENCEPH\\text.md",
+      "bytes": 44407
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2005_ON_THE_DEVELOPMENT_OF_THE_LARGE_COMMISSURES_OF_THE_TELENCEPH\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2005_ON_THE_DEVELOPMENT_OF_THE_LARGE_COMMISSURES_OF_THE_TELENCEPH\\figures\\fig1.png",
+      "bytes": 412363
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2005_ON_THE_DEVELOPMENT_OF_THE_LARGE_COMMISSURES_OF_THE_TELENCEPH\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2005_ON_THE_DEVELOPMENT_OF_THE_LARGE_COMMISSURES_OF_THE_TELENCEPH\\figures\\fig2.png",
+      "bytes": 536297
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2005_ON_THE_DEVELOPMENT_OF_THE_LARGE_COMMISSURES_OF_THE_TELENCEPH\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2005_ON_THE_DEVELOPMENT_OF_THE_LARGE_COMMISSURES_OF_THE_TELENCEPH\\figures\\fig3.png",
+      "bytes": 477687
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2005_ON_THE_DEVELOPMENT_OF_THE_LARGE_COMMISSURES_OF_THE_TELENCEPH\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2005_ON_THE_DEVELOPMENT_OF_THE_LARGE_COMMISSURES_OF_THE_TELENCEPH\\figures\\fig4.png",
+      "bytes": 1213129
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2005_ON_THE_DEVELOPMENT_OF_THE_LARGE_COMMISSURES_OF_THE_TELENCEPH\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2005_ON_THE_DEVELOPMENT_OF_THE_LARGE_COMMISSURES_OF_THE_TELENCEPH\\figures\\fig5.png",
+      "bytes": 479119
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2006_ON_THE_MECHANISM_OF_GLIOSIS_IN_ACQUIRED_EPILEPSY\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2006_ON_THE_MECHANISM_OF_GLIOSIS_IN_ACQUIRED_EPILEPSY\\text.md",
+      "bytes": 98971
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2006_ON_THE_MECHANISM_OF_GLIOSIS_IN_ACQUIRED_EPILEPSY\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2006_ON_THE_MECHANISM_OF_GLIOSIS_IN_ACQUIRED_EPILEPSY\\text.md",
+      "bytes": 98971
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2007_THE_HEARTS_ACTION_PRECEDING_AN_EPILEPTIC_SEIZURE\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2007_THE_HEARTS_ACTION_PRECEDING_AN_EPILEPTIC_SEIZURE\\text.md",
+      "bytes": 13338
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2007_THE_HEARTS_ACTION_PRECEDING_AN_EPILEPTIC_SEIZURE\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2007_THE_HEARTS_ACTION_PRECEDING_AN_EPILEPTIC_SEIZURE\\text.md",
+      "bytes": 13338
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2008_THE_DIURETIC_ACTION_OF_ADRENALIN_AND_THE_ACTIVE_PRINCIPLE_OF\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2008_THE_DIURETIC_ACTION_OF_ADRENALIN_AND_THE_ACTIVE_PRINCIPLE_OF\\text.md",
+      "bytes": 36291
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2008_THE_DIURETIC_ACTION_OF_ADRENALIN_AND_THE_ACTIVE_PRINCIPLE_OF\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2008_THE_DIURETIC_ACTION_OF_ADRENALIN_AND_THE_ACTIVE_PRINCIPLE_OF\\text.md",
+      "bytes": 36291
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2009_THE_STATE_OF_THE_BRAIN_DURING_HYPNOSIS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2009_THE_STATE_OF_THE_BRAIN_DURING_HYPNOSIS\\text.md",
+      "bytes": 49701
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2009_THE_STATE_OF_THE_BRAIN_DURING_HYPNOSIS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2009_THE_STATE_OF_THE_BRAIN_DURING_HYPNOSIS\\text.md",
+      "bytes": 49701
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2010_On_the_relation_of_calcium_metabolism_to_tetany_and_the_cure\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2010_On_the_relation_of_calcium_metabolism_to_tetany_and_the_cure\\text.md",
+      "bytes": 1937
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2010_On_the_relation_of_calcium_metabolism_to_tetany_and_the_cure\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2010_On_the_relation_of_calcium_metabolism_to_tetany_and_the_cure\\text.md",
+      "bytes": 1937
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2011_THE_SPHENOIDAL_SINUS_A_STUDY_BASED_ON_THE_EXAMINATION_OF_EIG\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2011_THE_SPHENOIDAL_SINUS_A_STUDY_BASED_ON_THE_EXAMINATION_OF_EIG\\text.md",
+      "bytes": 33940
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2011_THE_SPHENOIDAL_SINUS_A_STUDY_BASED_ON_THE_EXAMINATION_OF_EIG\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2011_THE_SPHENOIDAL_SINUS_A_STUDY_BASED_ON_THE_EXAMINATION_OF_EIG\\figures\\fig1.png",
+      "bytes": 603634
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2011_THE_SPHENOIDAL_SINUS_A_STUDY_BASED_ON_THE_EXAMINATION_OF_EIG\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2011_THE_SPHENOIDAL_SINUS_A_STUDY_BASED_ON_THE_EXAMINATION_OF_EIG\\figures\\fig2.png",
+      "bytes": 682239
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2011_THE_SPHENOIDAL_SINUS_A_STUDY_BASED_ON_THE_EXAMINATION_OF_EIG\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2011_THE_SPHENOIDAL_SINUS_A_STUDY_BASED_ON_THE_EXAMINATION_OF_EIG\\figures\\fig3.png",
+      "bytes": 530168
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2011_THE_SPHENOIDAL_SINUS_A_STUDY_BASED_ON_THE_EXAMINATION_OF_EIG\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2011_THE_SPHENOIDAL_SINUS_A_STUDY_BASED_ON_THE_EXAMINATION_OF_EIG\\figures\\fig4.png",
+      "bytes": 599843
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2011_THE_SPHENOIDAL_SINUS_A_STUDY_BASED_ON_THE_EXAMINATION_OF_EIG\\figures\\fig6.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2011_THE_SPHENOIDAL_SINUS_A_STUDY_BASED_ON_THE_EXAMINATION_OF_EIG\\figures\\fig6.png",
+      "bytes": 952767
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2011_THE_SPHENOIDAL_SINUS_A_STUDY_BASED_ON_THE_EXAMINATION_OF_EIG\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2011_THE_SPHENOIDAL_SINUS_A_STUDY_BASED_ON_THE_EXAMINATION_OF_EIG\\text.md",
+      "bytes": 33940
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2011_THE_SPHENOIDAL_SINUS_A_STUDY_BASED_ON_THE_EXAMINATION_OF_EIG\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2011_THE_SPHENOIDAL_SINUS_A_STUDY_BASED_ON_THE_EXAMINATION_OF_EIG\\figures\\fig1.png",
+      "bytes": 603634
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2011_THE_SPHENOIDAL_SINUS_A_STUDY_BASED_ON_THE_EXAMINATION_OF_EIG\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2011_THE_SPHENOIDAL_SINUS_A_STUDY_BASED_ON_THE_EXAMINATION_OF_EIG\\figures\\fig2.png",
+      "bytes": 682239
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2011_THE_SPHENOIDAL_SINUS_A_STUDY_BASED_ON_THE_EXAMINATION_OF_EIG\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2011_THE_SPHENOIDAL_SINUS_A_STUDY_BASED_ON_THE_EXAMINATION_OF_EIG\\figures\\fig3.png",
+      "bytes": 530168
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2011_THE_SPHENOIDAL_SINUS_A_STUDY_BASED_ON_THE_EXAMINATION_OF_EIG\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2011_THE_SPHENOIDAL_SINUS_A_STUDY_BASED_ON_THE_EXAMINATION_OF_EIG\\figures\\fig4.png",
+      "bytes": 599843
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2011_THE_SPHENOIDAL_SINUS_A_STUDY_BASED_ON_THE_EXAMINATION_OF_EIG\\figures\\fig6.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2011_THE_SPHENOIDAL_SINUS_A_STUDY_BASED_ON_THE_EXAMINATION_OF_EIG\\figures\\fig6.png",
+      "bytes": 952767
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2012_Report_on_the_present_status_of_the_Academic_Institutes_for\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2012_Report_on_the_present_status_of_the_Academic_Institutes_for\\text.md",
+      "bytes": 7850
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2012_Report_on_the_present_status_of_the_Academic_Institutes_for\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2012_Report_on_the_present_status_of_the_Academic_Institutes_for\\text.md",
+      "bytes": 7850
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2013_SOME_POINTS_ABOUT_PUNCTURE_OF_THE_BRAIN\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2013_SOME_POINTS_ABOUT_PUNCTURE_OF_THE_BRAIN\\text.md",
+      "bytes": 17862
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2013_SOME_POINTS_ABOUT_PUNCTURE_OF_THE_BRAIN\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2013_SOME_POINTS_ABOUT_PUNCTURE_OF_THE_BRAIN\\text.md",
+      "bytes": 17862
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2014_Abnormal_Pulsating_Vessels_in_the_Pharynx\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2014_Abnormal_Pulsating_Vessels_in_the_Pharynx\\text.md",
+      "bytes": 10602
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2014_Abnormal_Pulsating_Vessels_in_the_Pharynx\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2014_Abnormal_Pulsating_Vessels_in_the_Pharynx\\text.md",
+      "bytes": 10602
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2015_Abnormal_Reactions_to_Horse_Serum_in_the_Serum_Treatment_of\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2015_Abnormal_Reactions_to_Horse_Serum_in_the_Serum_Treatment_of\\text.md",
+      "bytes": 41145
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2015_Abnormal_Reactions_to_Horse_Serum_in_the_Serum_Treatment_of\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2015_Abnormal_Reactions_to_Horse_Serum_in_the_Serum_Treatment_of\\text.md",
+      "bytes": 41145
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2016_PATHOLOGIC_REPORT_OF_THE_NERVOUS_SYSTEM_IN_A_CASE_OF_SPONDYL\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2016_PATHOLOGIC_REPORT_OF_THE_NERVOUS_SYSTEM_IN_A_CASE_OF_SPONDYL\\text.md",
+      "bytes": 34249
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2016_PATHOLOGIC_REPORT_OF_THE_NERVOUS_SYSTEM_IN_A_CASE_OF_SPONDYL\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2016_PATHOLOGIC_REPORT_OF_THE_NERVOUS_SYSTEM_IN_A_CASE_OF_SPONDYL\\text.md",
+      "bytes": 34249
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2017_PURLENT_CEREBROSPINAL_MENINGITIS_CAUSED_BY_THE_THYPHID_BACIL\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2017_PURLENT_CEREBROSPINAL_MENINGITIS_CAUSED_BY_THE_THYPHID_BACIL\\text.md",
+      "bytes": 12404
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2017_PURLENT_CEREBROSPINAL_MENINGITIS_CAUSED_BY_THE_THYPHID_BACIL\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2017_PURLENT_CEREBROSPINAL_MENINGITIS_CAUSED_BY_THE_THYPHID_BACIL\\text.md",
+      "bytes": 12404
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2018_HEMORRHAGE_INTO_THE_VENTRICLES_ITS_RELATION_TO_CONVULSIONS_A\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2018_HEMORRHAGE_INTO_THE_VENTRICLES_ITS_RELATION_TO_CONVULSIONS_A\\text.md",
+      "bytes": 40308
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2018_HEMORRHAGE_INTO_THE_VENTRICLES_ITS_RELATION_TO_CONVULSIONS_A\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2018_HEMORRHAGE_INTO_THE_VENTRICLES_ITS_RELATION_TO_CONVULSIONS_A\\text.md",
+      "bytes": 40308
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2019_A_DETAILED_STUDY_OF_THE_CHANGES_OCCURRING_IN_THE_PHYSIOLOGIC\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2019_A_DETAILED_STUDY_OF_THE_CHANGES_OCCURRING_IN_THE_PHYSIOLOGIC\\text.md",
+      "bytes": 56060
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2019_A_DETAILED_STUDY_OF_THE_CHANGES_OCCURRING_IN_THE_PHYSIOLOGIC\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2019_A_DETAILED_STUDY_OF_THE_CHANGES_OCCURRING_IN_THE_PHYSIOLOGIC\\figures\\fig3.png",
+      "bytes": 470213
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2019_A_DETAILED_STUDY_OF_THE_CHANGES_OCCURRING_IN_THE_PHYSIOLOGIC\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2019_A_DETAILED_STUDY_OF_THE_CHANGES_OCCURRING_IN_THE_PHYSIOLOGIC\\text.md",
+      "bytes": 56060
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2019_A_DETAILED_STUDY_OF_THE_CHANGES_OCCURRING_IN_THE_PHYSIOLOGIC\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2019_A_DETAILED_STUDY_OF_THE_CHANGES_OCCURRING_IN_THE_PHYSIOLOGIC\\figures\\fig3.png",
+      "bytes": 470213
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2020_A_STUDY_IN_TACTUAL_LOCALIZATION_IN_A_CASE_PRESENTING_ASTEREO\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2020_A_STUDY_IN_TACTUAL_LOCALIZATION_IN_A_CASE_PRESENTING_ASTEREO\\text.md",
+      "bytes": 16007
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2020_A_STUDY_IN_TACTUAL_LOCALIZATION_IN_A_CASE_PRESENTING_ASTEREO\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2020_A_STUDY_IN_TACTUAL_LOCALIZATION_IN_A_CASE_PRESENTING_ASTEREO\\figures\\fig2.png",
+      "bytes": 341474
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2020_A_STUDY_IN_TACTUAL_LOCALIZATION_IN_A_CASE_PRESENTING_ASTEREO\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2020_A_STUDY_IN_TACTUAL_LOCALIZATION_IN_A_CASE_PRESENTING_ASTEREO\\text.md",
+      "bytes": 16007
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2020_A_STUDY_IN_TACTUAL_LOCALIZATION_IN_A_CASE_PRESENTING_ASTEREO\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2020_A_STUDY_IN_TACTUAL_LOCALIZATION_IN_A_CASE_PRESENTING_ASTEREO\\figures\\fig2.png",
+      "bytes": 341474
     }
   ],
   "missing": [],
