@@ -1,12 +1,12 @@
 {
-  "generated": "2026-07-03T09:52:55.188943+00:00",
+  "generated": "2026-07-03T10:31:20.869985+00:00",
   "mode": "extract-only",
   "paperCurationDir": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect",
   "awesomeRepo": "E:\\조선대\\연구\\awesome-brain-ai",
   "extractReport": "data/paper_curation/extract_only_report.json",
   "docsDir": "docs/paper_curation/extract_only",
   "paperDir": "paper/extract_only",
-  "recordCount": 300,
+  "recordCount": 320,
   "syncedPaperSlugs": [
     "003_Hughlings_Jackson_and_the_Cortical_Motor_Centres_in_the_Ligh",
     "015_EXPERIMENTAL_AND_CLINICAL_NOTES_ON_THE_SUBARACHNOID_SPACE",
@@ -307,13 +307,33 @@
     "1880_Experiments_in_transplanting_limbs_and_their_bearing_upon_th",
     "1881_ANEURISMS_OF_THE_LARGER_CEREBRAL_ARTERIES",
     "1882_On_the_origin_and_differentiation_of_the_otic_vesicle_in_amp",
-    "1883_CASE_OF_TUMOUR_OF_THE_MIDDLE_LOBE_OF_THE_CEREBELLUM_-_CEREBE"
+    "1883_CASE_OF_TUMOUR_OF_THE_MIDDLE_LOBE_OF_THE_CEREBELLUM_-_CEREBE",
+    "1910_The_corpus_ponto-bulbare-A_hitherto_undescribed_nuclear_mass",
+    "1911_The_Structure_and_Relationships_of_the_Potamogetonaceae_and",
+    "1912_BILATERAL_LESION_OF_THE_AUDITORY_CORTICAL_CENTRE_COMPLETE_DE",
+    "1913_THE_PATHOLOGY_OF_EXOPHTHALMIC_GOITER",
+    "1914_The_tactile_centers_in_the_spinal_cord_and_brain_of_the_sea",
+    "1915_Syringomyelia_Extending_from_the_Sacral_Region_of_the_Spinal",
+    "1916_ON_DR_HUGHLINGS_JACKSONS_VIEWS_OF_THE_FUNCTIONS_OF_THE_CEREB",
+    "1917_EPIDEMIC_ACUTE_POLIOMYELITIS_IN_NORWAY_IN_THE_YEARS_1903_TO",
+    "1918_DR_HUGHLINGS_JACKSONS_VIEWS_OF_THE_FUNCTIONS_OF_THE_CEREBELL",
+    "1919_THE_PATHOLOGICAL_CHANGES_IN_THE_CENTRAL_NERVOUS_SYSTEM_IN_EX",
+    "1920_ON_THE_CULTIVATION_OF_THE_MENINGOCOCCUS_IN_THE_PRESENT_EPIDE",
+    "1921_SOME_UNUSUAL_OCULAR_MANIFESTATIONS_OF_ARTERIOSCLEROSIS",
+    "1922_A_Clinical_Lecture_ON_SUDDEN_CEREBRAL_LESIONS_THEIR_DIAGNOSI",
+    "1923_REPORT_OF_A_CASE_OF_INTRACRANIAL_TUMOR_RESULTING_FROM_TRAUMA",
+    "1924_Why_are_the_great_motor_and_sensory_tracts_of_the_central_ne",
+    "1925_ON_THE_DIFFERENTIATION_OF_THE_MENINGOCOCCUS_FROM_OTHER_GRAM-",
+    "1926_THE_CLINICAL_RESEMBLANCE_OF_CEREBROSPINAL_SYPHILIS_TO_DISSEM",
+    "1927_Tumour_of_the_Cerebellum_in_a_Dog_Associated_with_Forced_Mov",
+    "1928_OTITIO_BRAIN_ABSCESS",
+    "1929_SYMPTOMS_SIMULATING_BRAIN_TUMOR_DUE_TO_THE_OBLITERATION_OF_T"
   ],
   "copied": [
     {
       "source": "E:\\조선대\\연구\\paper-curation\\paper\\awesome-brain-ai\\_folder_source_extract_report.json",
       "target": "E:\\조선대\\연구\\awesome-brain-ai\\data\\paper_curation\\extract_only_report.json",
-      "bytes": 181500
+      "bytes": 194593
     },
     {
       "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\003_Hughlings_Jackson_and_the_Cortical_Motor_Centres_in_the_Ligh\\text.md",
@@ -4524,6 +4544,406 @@
       "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1883_CASE_OF_TUMOUR_OF_THE_MIDDLE_LOBE_OF_THE_CEREBELLUM_-_CEREBE\\text.md",
       "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1883_CASE_OF_TUMOUR_OF_THE_MIDDLE_LOBE_OF_THE_CEREBELLUM_-_CEREBE\\text.md",
       "bytes": 28452
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1910_The_corpus_ponto-bulbare-A_hitherto_undescribed_nuclear_mass\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1910_The_corpus_ponto-bulbare-A_hitherto_undescribed_nuclear_mass\\text.md",
+      "bytes": 29377
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1910_The_corpus_ponto-bulbare-A_hitherto_undescribed_nuclear_mass\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1910_The_corpus_ponto-bulbare-A_hitherto_undescribed_nuclear_mass\\figures\\fig1.png",
+      "bytes": 557752
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1910_The_corpus_ponto-bulbare-A_hitherto_undescribed_nuclear_mass\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1910_The_corpus_ponto-bulbare-A_hitherto_undescribed_nuclear_mass\\figures\\fig2.png",
+      "bytes": 592561
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1910_The_corpus_ponto-bulbare-A_hitherto_undescribed_nuclear_mass\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1910_The_corpus_ponto-bulbare-A_hitherto_undescribed_nuclear_mass\\figures\\fig3.png",
+      "bytes": 304715
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1910_The_corpus_ponto-bulbare-A_hitherto_undescribed_nuclear_mass\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1910_The_corpus_ponto-bulbare-A_hitherto_undescribed_nuclear_mass\\figures\\fig4.png",
+      "bytes": 536988
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1910_The_corpus_ponto-bulbare-A_hitherto_undescribed_nuclear_mass\\figures\\fig6.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1910_The_corpus_ponto-bulbare-A_hitherto_undescribed_nuclear_mass\\figures\\fig6.png",
+      "bytes": 796647
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1910_The_corpus_ponto-bulbare-A_hitherto_undescribed_nuclear_mass\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1910_The_corpus_ponto-bulbare-A_hitherto_undescribed_nuclear_mass\\text.md",
+      "bytes": 29377
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1910_The_corpus_ponto-bulbare-A_hitherto_undescribed_nuclear_mass\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1910_The_corpus_ponto-bulbare-A_hitherto_undescribed_nuclear_mass\\figures\\fig1.png",
+      "bytes": 557752
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1910_The_corpus_ponto-bulbare-A_hitherto_undescribed_nuclear_mass\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1910_The_corpus_ponto-bulbare-A_hitherto_undescribed_nuclear_mass\\figures\\fig2.png",
+      "bytes": 592561
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1910_The_corpus_ponto-bulbare-A_hitherto_undescribed_nuclear_mass\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1910_The_corpus_ponto-bulbare-A_hitherto_undescribed_nuclear_mass\\figures\\fig3.png",
+      "bytes": 304715
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1910_The_corpus_ponto-bulbare-A_hitherto_undescribed_nuclear_mass\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1910_The_corpus_ponto-bulbare-A_hitherto_undescribed_nuclear_mass\\figures\\fig4.png",
+      "bytes": 536988
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1910_The_corpus_ponto-bulbare-A_hitherto_undescribed_nuclear_mass\\figures\\fig6.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1910_The_corpus_ponto-bulbare-A_hitherto_undescribed_nuclear_mass\\figures\\fig6.png",
+      "bytes": 796647
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1911_The_Structure_and_Relationships_of_the_Potamogetonaceae_and\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1911_The_Structure_and_Relationships_of_the_Potamogetonaceae_and\\text.md",
+      "bytes": 66592
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1911_The_Structure_and_Relationships_of_the_Potamogetonaceae_and\\figures\\fig23.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1911_The_Structure_and_Relationships_of_the_Potamogetonaceae_and\\figures\\fig23.png",
+      "bytes": 573089
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1911_The_Structure_and_Relationships_of_the_Potamogetonaceae_and\\figures\\fig24.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1911_The_Structure_and_Relationships_of_the_Potamogetonaceae_and\\figures\\fig24.png",
+      "bytes": 229750
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1911_The_Structure_and_Relationships_of_the_Potamogetonaceae_and\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1911_The_Structure_and_Relationships_of_the_Potamogetonaceae_and\\figures\\fig3.png",
+      "bytes": 546501
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1911_The_Structure_and_Relationships_of_the_Potamogetonaceae_and\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1911_The_Structure_and_Relationships_of_the_Potamogetonaceae_and\\figures\\fig4.png",
+      "bytes": 455276
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1911_The_Structure_and_Relationships_of_the_Potamogetonaceae_and\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1911_The_Structure_and_Relationships_of_the_Potamogetonaceae_and\\text.md",
+      "bytes": 66592
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1911_The_Structure_and_Relationships_of_the_Potamogetonaceae_and\\figures\\fig23.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1911_The_Structure_and_Relationships_of_the_Potamogetonaceae_and\\figures\\fig23.png",
+      "bytes": 573089
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1911_The_Structure_and_Relationships_of_the_Potamogetonaceae_and\\figures\\fig24.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1911_The_Structure_and_Relationships_of_the_Potamogetonaceae_and\\figures\\fig24.png",
+      "bytes": 229750
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1911_The_Structure_and_Relationships_of_the_Potamogetonaceae_and\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1911_The_Structure_and_Relationships_of_the_Potamogetonaceae_and\\figures\\fig3.png",
+      "bytes": 546501
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1911_The_Structure_and_Relationships_of_the_Potamogetonaceae_and\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1911_The_Structure_and_Relationships_of_the_Potamogetonaceae_and\\figures\\fig4.png",
+      "bytes": 455276
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1912_BILATERAL_LESION_OF_THE_AUDITORY_CORTICAL_CENTRE_COMPLETE_DE\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1912_BILATERAL_LESION_OF_THE_AUDITORY_CORTICAL_CENTRE_COMPLETE_DE\\text.md",
+      "bytes": 47773
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1912_BILATERAL_LESION_OF_THE_AUDITORY_CORTICAL_CENTRE_COMPLETE_DE\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1912_BILATERAL_LESION_OF_THE_AUDITORY_CORTICAL_CENTRE_COMPLETE_DE\\figures\\fig2.png",
+      "bytes": 2319899
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1912_BILATERAL_LESION_OF_THE_AUDITORY_CORTICAL_CENTRE_COMPLETE_DE\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1912_BILATERAL_LESION_OF_THE_AUDITORY_CORTICAL_CENTRE_COMPLETE_DE\\figures\\fig4.png",
+      "bytes": 2567590
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1912_BILATERAL_LESION_OF_THE_AUDITORY_CORTICAL_CENTRE_COMPLETE_DE\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1912_BILATERAL_LESION_OF_THE_AUDITORY_CORTICAL_CENTRE_COMPLETE_DE\\text.md",
+      "bytes": 47773
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1912_BILATERAL_LESION_OF_THE_AUDITORY_CORTICAL_CENTRE_COMPLETE_DE\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1912_BILATERAL_LESION_OF_THE_AUDITORY_CORTICAL_CENTRE_COMPLETE_DE\\figures\\fig2.png",
+      "bytes": 2319899
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1912_BILATERAL_LESION_OF_THE_AUDITORY_CORTICAL_CENTRE_COMPLETE_DE\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1912_BILATERAL_LESION_OF_THE_AUDITORY_CORTICAL_CENTRE_COMPLETE_DE\\figures\\fig4.png",
+      "bytes": 2567590
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1913_THE_PATHOLOGY_OF_EXOPHTHALMIC_GOITER\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1913_THE_PATHOLOGY_OF_EXOPHTHALMIC_GOITER\\text.md",
+      "bytes": 35853
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1913_THE_PATHOLOGY_OF_EXOPHTHALMIC_GOITER\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1913_THE_PATHOLOGY_OF_EXOPHTHALMIC_GOITER\\text.md",
+      "bytes": 35853
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1914_The_tactile_centers_in_the_spinal_cord_and_brain_of_the_sea\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1914_The_tactile_centers_in_the_spinal_cord_and_brain_of_the_sea\\text.md",
+      "bytes": 40063
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1914_The_tactile_centers_in_the_spinal_cord_and_brain_of_the_sea\\figures\\fig12.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1914_The_tactile_centers_in_the_spinal_cord_and_brain_of_the_sea\\figures\\fig12.png",
+      "bytes": 123059
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1914_The_tactile_centers_in_the_spinal_cord_and_brain_of_the_sea\\figures\\fig14.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1914_The_tactile_centers_in_the_spinal_cord_and_brain_of_the_sea\\figures\\fig14.png",
+      "bytes": 80550
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1914_The_tactile_centers_in_the_spinal_cord_and_brain_of_the_sea\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1914_The_tactile_centers_in_the_spinal_cord_and_brain_of_the_sea\\figures\\fig2.png",
+      "bytes": 275675
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1914_The_tactile_centers_in_the_spinal_cord_and_brain_of_the_sea\\figures\\fig6.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1914_The_tactile_centers_in_the_spinal_cord_and_brain_of_the_sea\\figures\\fig6.png",
+      "bytes": 413772
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1914_The_tactile_centers_in_the_spinal_cord_and_brain_of_the_sea\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1914_The_tactile_centers_in_the_spinal_cord_and_brain_of_the_sea\\text.md",
+      "bytes": 40063
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1914_The_tactile_centers_in_the_spinal_cord_and_brain_of_the_sea\\figures\\fig12.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1914_The_tactile_centers_in_the_spinal_cord_and_brain_of_the_sea\\figures\\fig12.png",
+      "bytes": 123059
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1914_The_tactile_centers_in_the_spinal_cord_and_brain_of_the_sea\\figures\\fig14.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1914_The_tactile_centers_in_the_spinal_cord_and_brain_of_the_sea\\figures\\fig14.png",
+      "bytes": 80550
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1914_The_tactile_centers_in_the_spinal_cord_and_brain_of_the_sea\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1914_The_tactile_centers_in_the_spinal_cord_and_brain_of_the_sea\\figures\\fig2.png",
+      "bytes": 275675
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1914_The_tactile_centers_in_the_spinal_cord_and_brain_of_the_sea\\figures\\fig6.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1914_The_tactile_centers_in_the_spinal_cord_and_brain_of_the_sea\\figures\\fig6.png",
+      "bytes": 413772
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1915_Syringomyelia_Extending_from_the_Sacral_Region_of_the_Spinal\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1915_Syringomyelia_Extending_from_the_Sacral_Region_of_the_Spinal\\text.md",
+      "bytes": 6753
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1915_Syringomyelia_Extending_from_the_Sacral_Region_of_the_Spinal\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1915_Syringomyelia_Extending_from_the_Sacral_Region_of_the_Spinal\\text.md",
+      "bytes": 6753
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1916_ON_DR_HUGHLINGS_JACKSONS_VIEWS_OF_THE_FUNCTIONS_OF_THE_CEREB\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1916_ON_DR_HUGHLINGS_JACKSONS_VIEWS_OF_THE_FUNCTIONS_OF_THE_CEREB\\text.md",
+      "bytes": 44748
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1916_ON_DR_HUGHLINGS_JACKSONS_VIEWS_OF_THE_FUNCTIONS_OF_THE_CEREB\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1916_ON_DR_HUGHLINGS_JACKSONS_VIEWS_OF_THE_FUNCTIONS_OF_THE_CEREB\\text.md",
+      "bytes": 44748
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1917_EPIDEMIC_ACUTE_POLIOMYELITIS_IN_NORWAY_IN_THE_YEARS_1903_TO\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1917_EPIDEMIC_ACUTE_POLIOMYELITIS_IN_NORWAY_IN_THE_YEARS_1903_TO\\text.md",
+      "bytes": 44499
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1917_EPIDEMIC_ACUTE_POLIOMYELITIS_IN_NORWAY_IN_THE_YEARS_1903_TO\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1917_EPIDEMIC_ACUTE_POLIOMYELITIS_IN_NORWAY_IN_THE_YEARS_1903_TO\\text.md",
+      "bytes": 44499
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1918_DR_HUGHLINGS_JACKSONS_VIEWS_OF_THE_FUNCTIONS_OF_THE_CEREBELL\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1918_DR_HUGHLINGS_JACKSONS_VIEWS_OF_THE_FUNCTIONS_OF_THE_CEREBELL\\text.md",
+      "bytes": 49873
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1918_DR_HUGHLINGS_JACKSONS_VIEWS_OF_THE_FUNCTIONS_OF_THE_CEREBELL\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1918_DR_HUGHLINGS_JACKSONS_VIEWS_OF_THE_FUNCTIONS_OF_THE_CEREBELL\\figures\\fig1.png",
+      "bytes": 1261062
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1918_DR_HUGHLINGS_JACKSONS_VIEWS_OF_THE_FUNCTIONS_OF_THE_CEREBELL\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1918_DR_HUGHLINGS_JACKSONS_VIEWS_OF_THE_FUNCTIONS_OF_THE_CEREBELL\\text.md",
+      "bytes": 49873
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1918_DR_HUGHLINGS_JACKSONS_VIEWS_OF_THE_FUNCTIONS_OF_THE_CEREBELL\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1918_DR_HUGHLINGS_JACKSONS_VIEWS_OF_THE_FUNCTIONS_OF_THE_CEREBELL\\figures\\fig1.png",
+      "bytes": 1261062
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1919_THE_PATHOLOGICAL_CHANGES_IN_THE_CENTRAL_NERVOUS_SYSTEM_IN_EX\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1919_THE_PATHOLOGICAL_CHANGES_IN_THE_CENTRAL_NERVOUS_SYSTEM_IN_EX\\text.md",
+      "bytes": 21842
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1919_THE_PATHOLOGICAL_CHANGES_IN_THE_CENTRAL_NERVOUS_SYSTEM_IN_EX\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1919_THE_PATHOLOGICAL_CHANGES_IN_THE_CENTRAL_NERVOUS_SYSTEM_IN_EX\\text.md",
+      "bytes": 21842
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1920_ON_THE_CULTIVATION_OF_THE_MENINGOCOCCUS_IN_THE_PRESENT_EPIDE\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1920_ON_THE_CULTIVATION_OF_THE_MENINGOCOCCUS_IN_THE_PRESENT_EPIDE\\text.md",
+      "bytes": 26667
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1920_ON_THE_CULTIVATION_OF_THE_MENINGOCOCCUS_IN_THE_PRESENT_EPIDE\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1920_ON_THE_CULTIVATION_OF_THE_MENINGOCOCCUS_IN_THE_PRESENT_EPIDE\\text.md",
+      "bytes": 26667
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1921_SOME_UNUSUAL_OCULAR_MANIFESTATIONS_OF_ARTERIOSCLEROSIS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1921_SOME_UNUSUAL_OCULAR_MANIFESTATIONS_OF_ARTERIOSCLEROSIS\\text.md",
+      "bytes": 34711
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1921_SOME_UNUSUAL_OCULAR_MANIFESTATIONS_OF_ARTERIOSCLEROSIS\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1921_SOME_UNUSUAL_OCULAR_MANIFESTATIONS_OF_ARTERIOSCLEROSIS\\figures\\fig2.png",
+      "bytes": 724077
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1921_SOME_UNUSUAL_OCULAR_MANIFESTATIONS_OF_ARTERIOSCLEROSIS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1921_SOME_UNUSUAL_OCULAR_MANIFESTATIONS_OF_ARTERIOSCLEROSIS\\text.md",
+      "bytes": 34711
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1921_SOME_UNUSUAL_OCULAR_MANIFESTATIONS_OF_ARTERIOSCLEROSIS\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1921_SOME_UNUSUAL_OCULAR_MANIFESTATIONS_OF_ARTERIOSCLEROSIS\\figures\\fig2.png",
+      "bytes": 724077
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1922_A_Clinical_Lecture_ON_SUDDEN_CEREBRAL_LESIONS_THEIR_DIAGNOSI\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1922_A_Clinical_Lecture_ON_SUDDEN_CEREBRAL_LESIONS_THEIR_DIAGNOSI\\text.md",
+      "bytes": 52231
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1922_A_Clinical_Lecture_ON_SUDDEN_CEREBRAL_LESIONS_THEIR_DIAGNOSI\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1922_A_Clinical_Lecture_ON_SUDDEN_CEREBRAL_LESIONS_THEIR_DIAGNOSI\\text.md",
+      "bytes": 52231
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1923_REPORT_OF_A_CASE_OF_INTRACRANIAL_TUMOR_RESULTING_FROM_TRAUMA\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1923_REPORT_OF_A_CASE_OF_INTRACRANIAL_TUMOR_RESULTING_FROM_TRAUMA\\text.md",
+      "bytes": 10879
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1923_REPORT_OF_A_CASE_OF_INTRACRANIAL_TUMOR_RESULTING_FROM_TRAUMA\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1923_REPORT_OF_A_CASE_OF_INTRACRANIAL_TUMOR_RESULTING_FROM_TRAUMA\\figures\\fig3.png",
+      "bytes": 674974
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1923_REPORT_OF_A_CASE_OF_INTRACRANIAL_TUMOR_RESULTING_FROM_TRAUMA\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1923_REPORT_OF_A_CASE_OF_INTRACRANIAL_TUMOR_RESULTING_FROM_TRAUMA\\text.md",
+      "bytes": 10879
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1923_REPORT_OF_A_CASE_OF_INTRACRANIAL_TUMOR_RESULTING_FROM_TRAUMA\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1923_REPORT_OF_A_CASE_OF_INTRACRANIAL_TUMOR_RESULTING_FROM_TRAUMA\\figures\\fig3.png",
+      "bytes": 674974
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1924_Why_are_the_great_motor_and_sensory_tracts_of_the_central_ne\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1924_Why_are_the_great_motor_and_sensory_tracts_of_the_central_ne\\text.md",
+      "bytes": 5529
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1924_Why_are_the_great_motor_and_sensory_tracts_of_the_central_ne\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1924_Why_are_the_great_motor_and_sensory_tracts_of_the_central_ne\\text.md",
+      "bytes": 5529
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1925_ON_THE_DIFFERENTIATION_OF_THE_MENINGOCOCCUS_FROM_OTHER_GRAM-\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1925_ON_THE_DIFFERENTIATION_OF_THE_MENINGOCOCCUS_FROM_OTHER_GRAM-\\text.md",
+      "bytes": 15572
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1925_ON_THE_DIFFERENTIATION_OF_THE_MENINGOCOCCUS_FROM_OTHER_GRAM-\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1925_ON_THE_DIFFERENTIATION_OF_THE_MENINGOCOCCUS_FROM_OTHER_GRAM-\\text.md",
+      "bytes": 15572
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1926_THE_CLINICAL_RESEMBLANCE_OF_CEREBROSPINAL_SYPHILIS_TO_DISSEM\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1926_THE_CLINICAL_RESEMBLANCE_OF_CEREBROSPINAL_SYPHILIS_TO_DISSEM\\text.md",
+      "bytes": 6394
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1926_THE_CLINICAL_RESEMBLANCE_OF_CEREBROSPINAL_SYPHILIS_TO_DISSEM\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1926_THE_CLINICAL_RESEMBLANCE_OF_CEREBROSPINAL_SYPHILIS_TO_DISSEM\\text.md",
+      "bytes": 6394
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1927_Tumour_of_the_Cerebellum_in_a_Dog_Associated_with_Forced_Mov\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1927_Tumour_of_the_Cerebellum_in_a_Dog_Associated_with_Forced_Mov\\text.md",
+      "bytes": 25872
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1927_Tumour_of_the_Cerebellum_in_a_Dog_Associated_with_Forced_Mov\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1927_Tumour_of_the_Cerebellum_in_a_Dog_Associated_with_Forced_Mov\\figures\\fig1.png",
+      "bytes": 306943
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1927_Tumour_of_the_Cerebellum_in_a_Dog_Associated_with_Forced_Mov\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1927_Tumour_of_the_Cerebellum_in_a_Dog_Associated_with_Forced_Mov\\figures\\fig3.png",
+      "bytes": 435105
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1927_Tumour_of_the_Cerebellum_in_a_Dog_Associated_with_Forced_Mov\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1927_Tumour_of_the_Cerebellum_in_a_Dog_Associated_with_Forced_Mov\\text.md",
+      "bytes": 25872
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1927_Tumour_of_the_Cerebellum_in_a_Dog_Associated_with_Forced_Mov\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1927_Tumour_of_the_Cerebellum_in_a_Dog_Associated_with_Forced_Mov\\figures\\fig1.png",
+      "bytes": 306943
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1927_Tumour_of_the_Cerebellum_in_a_Dog_Associated_with_Forced_Mov\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1927_Tumour_of_the_Cerebellum_in_a_Dog_Associated_with_Forced_Mov\\figures\\fig3.png",
+      "bytes": 435105
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1928_OTITIO_BRAIN_ABSCESS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1928_OTITIO_BRAIN_ABSCESS\\text.md",
+      "bytes": 30186
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1928_OTITIO_BRAIN_ABSCESS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1928_OTITIO_BRAIN_ABSCESS\\text.md",
+      "bytes": 30186
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1929_SYMPTOMS_SIMULATING_BRAIN_TUMOR_DUE_TO_THE_OBLITERATION_OF_T\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1929_SYMPTOMS_SIMULATING_BRAIN_TUMOR_DUE_TO_THE_OBLITERATION_OF_T\\text.md",
+      "bytes": 6418
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1929_SYMPTOMS_SIMULATING_BRAIN_TUMOR_DUE_TO_THE_OBLITERATION_OF_T\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1929_SYMPTOMS_SIMULATING_BRAIN_TUMOR_DUE_TO_THE_OBLITERATION_OF_T\\text.md",
+      "bytes": 6418
     }
   ],
   "missing": [],
