@@ -1,12 +1,12 @@
 {
-  "generated": "2026-07-03T10:31:20.869985+00:00",
+  "generated": "2026-07-03T11:13:35.230555+00:00",
   "mode": "extract-only",
   "paperCurationDir": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect",
   "awesomeRepo": "E:\\조선대\\연구\\awesome-brain-ai",
   "extractReport": "data/paper_curation/extract_only_report.json",
   "docsDir": "docs/paper_curation/extract_only",
   "paperDir": "paper/extract_only",
-  "recordCount": 320,
+  "recordCount": 340,
   "syncedPaperSlugs": [
     "003_Hughlings_Jackson_and_the_Cortical_Motor_Centres_in_the_Ligh",
     "015_EXPERIMENTAL_AND_CLINICAL_NOTES_ON_THE_SUBARACHNOID_SPACE",
@@ -327,13 +327,33 @@
     "1926_THE_CLINICAL_RESEMBLANCE_OF_CEREBROSPINAL_SYPHILIS_TO_DISSEM",
     "1927_Tumour_of_the_Cerebellum_in_a_Dog_Associated_with_Forced_Mov",
     "1928_OTITIO_BRAIN_ABSCESS",
-    "1929_SYMPTOMS_SIMULATING_BRAIN_TUMOR_DUE_TO_THE_OBLITERATION_OF_T"
+    "1929_SYMPTOMS_SIMULATING_BRAIN_TUMOR_DUE_TO_THE_OBLITERATION_OF_T",
+    "1956_DOES_THE_OPACITY_OF_INCIPIENT_CATARACT_EVER_REGAIN_TRANSPARE",
+    "1957_MIGRAINIC_PSYCHOSESAPROPOS_OF_TWELVE_CASES",
+    "1958_THE_RIPENING_OPERATION_FOR_IMMATURE_SENILE_CATARACT_ITS_PLAC",
+    "1959_Tumors_of_the_Cerebrum",
+    "1927_Tumour_of_the_Cerebellum_in_a_Dog_Associated_with_Forced_Mov",
+    "1960_CHRONIC_ACETANILID_POISONING_FROM_HARPERS_BRAIN_FOOD",
+    "1961_TUMOR_OF_THE_RIGHT_VERSUS_TUMOR_OF_THE_LEFT_FRONTAL_LOBE_OF",
+    "1962_A_CASE_OF_ALTERNATING_UNILATERAL_EPILEPTIFORM_CONVULSIONS_AS",
+    "1963_JOINT_AFFECTIONS_IN_NERVOUS_DISEASE",
+    "1964_Remarks_ON_CHRONIC_SPLENOMEGALIC_POLYCYTHAEMIA",
+    "1965_THE_FUNCTION_OF_THE_PREFRONTAL_LOBESAPROPOS_OF_THE_PATHOLOGI",
+    "1966_PARANOIA_ITS_VARIETIES_AND_MEDICOLEGAL_IMPORTANCE",
+    "1967_PROPHYLAXIS_IN_EPIDEMIC_CEREBROSPINAL_MENINGITIS",
+    "1968_BRAIN_TUMOR_WITH_JACKSONIAN_SPASM_AND_UNILATERAL_PARALYSIS_O",
+    "1969_A_CASE_OF_PROBABLE_TUMOR_OF_THE_BRAIN_OF_PARIETOOCCIPITAL_LO",
+    "1970_ON_THE_CONNECTION_OF_THE_INFERIOR_OLIVES_WITH_THE_CEREBELLUM",
+    "1971_Youth_Its_Education_Regimen_and_Hygiene",
+    "1972_Report_Of_A_Case_Of_Melanosis_Of_The_Brain_Cord_And_Meninges",
+    "1973_A_comparison_of_the_albino_rat_with_man_in_respect_to_the_gr",
+    "1974_THE_CEREBRAL_CENTERS_FOR_TASTE_AND_SMELL_AND_THE_UNCINATE_GR"
   ],
   "copied": [
     {
       "source": "E:\\조선대\\연구\\paper-curation\\paper\\awesome-brain-ai\\_folder_source_extract_report.json",
       "target": "E:\\조선대\\연구\\awesome-brain-ai\\data\\paper_curation\\extract_only_report.json",
-      "bytes": 194593
+      "bytes": 206687
     },
     {
       "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\003_Hughlings_Jackson_and_the_Cortical_Motor_Centres_in_the_Ligh\\text.md",
@@ -4944,6 +4964,346 @@
       "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1929_SYMPTOMS_SIMULATING_BRAIN_TUMOR_DUE_TO_THE_OBLITERATION_OF_T\\text.md",
       "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1929_SYMPTOMS_SIMULATING_BRAIN_TUMOR_DUE_TO_THE_OBLITERATION_OF_T\\text.md",
       "bytes": 6418
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1956_DOES_THE_OPACITY_OF_INCIPIENT_CATARACT_EVER_REGAIN_TRANSPARE\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1956_DOES_THE_OPACITY_OF_INCIPIENT_CATARACT_EVER_REGAIN_TRANSPARE\\text.md",
+      "bytes": 29378
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1956_DOES_THE_OPACITY_OF_INCIPIENT_CATARACT_EVER_REGAIN_TRANSPARE\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1956_DOES_THE_OPACITY_OF_INCIPIENT_CATARACT_EVER_REGAIN_TRANSPARE\\text.md",
+      "bytes": 29378
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1957_MIGRAINIC_PSYCHOSESAPROPOS_OF_TWELVE_CASES\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1957_MIGRAINIC_PSYCHOSESAPROPOS_OF_TWELVE_CASES\\text.md",
+      "bytes": 40359
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1957_MIGRAINIC_PSYCHOSESAPROPOS_OF_TWELVE_CASES\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1957_MIGRAINIC_PSYCHOSESAPROPOS_OF_TWELVE_CASES\\text.md",
+      "bytes": 40359
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1958_THE_RIPENING_OPERATION_FOR_IMMATURE_SENILE_CATARACT_ITS_PLAC\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1958_THE_RIPENING_OPERATION_FOR_IMMATURE_SENILE_CATARACT_ITS_PLAC\\text.md",
+      "bytes": 57861
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1958_THE_RIPENING_OPERATION_FOR_IMMATURE_SENILE_CATARACT_ITS_PLAC\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1958_THE_RIPENING_OPERATION_FOR_IMMATURE_SENILE_CATARACT_ITS_PLAC\\text.md",
+      "bytes": 57861
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1959_Tumors_of_the_Cerebrum\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1959_Tumors_of_the_Cerebrum\\text.md",
+      "bytes": 4636
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1959_Tumors_of_the_Cerebrum\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1959_Tumors_of_the_Cerebrum\\text.md",
+      "bytes": 4636
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1927_Tumour_of_the_Cerebellum_in_a_Dog_Associated_with_Forced_Mov\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1927_Tumour_of_the_Cerebellum_in_a_Dog_Associated_with_Forced_Mov\\text.md",
+      "bytes": 25872
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1927_Tumour_of_the_Cerebellum_in_a_Dog_Associated_with_Forced_Mov\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1927_Tumour_of_the_Cerebellum_in_a_Dog_Associated_with_Forced_Mov\\figures\\fig1.png",
+      "bytes": 306943
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1927_Tumour_of_the_Cerebellum_in_a_Dog_Associated_with_Forced_Mov\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1927_Tumour_of_the_Cerebellum_in_a_Dog_Associated_with_Forced_Mov\\figures\\fig3.png",
+      "bytes": 435105
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1927_Tumour_of_the_Cerebellum_in_a_Dog_Associated_with_Forced_Mov\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1927_Tumour_of_the_Cerebellum_in_a_Dog_Associated_with_Forced_Mov\\text.md",
+      "bytes": 25872
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1927_Tumour_of_the_Cerebellum_in_a_Dog_Associated_with_Forced_Mov\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1927_Tumour_of_the_Cerebellum_in_a_Dog_Associated_with_Forced_Mov\\figures\\fig1.png",
+      "bytes": 306943
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1927_Tumour_of_the_Cerebellum_in_a_Dog_Associated_with_Forced_Mov\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1927_Tumour_of_the_Cerebellum_in_a_Dog_Associated_with_Forced_Mov\\figures\\fig3.png",
+      "bytes": 435105
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1960_CHRONIC_ACETANILID_POISONING_FROM_HARPERS_BRAIN_FOOD\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1960_CHRONIC_ACETANILID_POISONING_FROM_HARPERS_BRAIN_FOOD\\text.md",
+      "bytes": 5450
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1960_CHRONIC_ACETANILID_POISONING_FROM_HARPERS_BRAIN_FOOD\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1960_CHRONIC_ACETANILID_POISONING_FROM_HARPERS_BRAIN_FOOD\\figures\\fig1.png",
+      "bytes": 384516
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1960_CHRONIC_ACETANILID_POISONING_FROM_HARPERS_BRAIN_FOOD\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1960_CHRONIC_ACETANILID_POISONING_FROM_HARPERS_BRAIN_FOOD\\text.md",
+      "bytes": 5450
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1960_CHRONIC_ACETANILID_POISONING_FROM_HARPERS_BRAIN_FOOD\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1960_CHRONIC_ACETANILID_POISONING_FROM_HARPERS_BRAIN_FOOD\\figures\\fig1.png",
+      "bytes": 384516
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1961_TUMOR_OF_THE_RIGHT_VERSUS_TUMOR_OF_THE_LEFT_FRONTAL_LOBE_OF\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1961_TUMOR_OF_THE_RIGHT_VERSUS_TUMOR_OF_THE_LEFT_FRONTAL_LOBE_OF\\text.md",
+      "bytes": 50386
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1961_TUMOR_OF_THE_RIGHT_VERSUS_TUMOR_OF_THE_LEFT_FRONTAL_LOBE_OF\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1961_TUMOR_OF_THE_RIGHT_VERSUS_TUMOR_OF_THE_LEFT_FRONTAL_LOBE_OF\\figures\\fig3.png",
+      "bytes": 402768
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1961_TUMOR_OF_THE_RIGHT_VERSUS_TUMOR_OF_THE_LEFT_FRONTAL_LOBE_OF\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1961_TUMOR_OF_THE_RIGHT_VERSUS_TUMOR_OF_THE_LEFT_FRONTAL_LOBE_OF\\figures\\fig5.png",
+      "bytes": 475187
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1961_TUMOR_OF_THE_RIGHT_VERSUS_TUMOR_OF_THE_LEFT_FRONTAL_LOBE_OF\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1961_TUMOR_OF_THE_RIGHT_VERSUS_TUMOR_OF_THE_LEFT_FRONTAL_LOBE_OF\\text.md",
+      "bytes": 50386
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1961_TUMOR_OF_THE_RIGHT_VERSUS_TUMOR_OF_THE_LEFT_FRONTAL_LOBE_OF\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1961_TUMOR_OF_THE_RIGHT_VERSUS_TUMOR_OF_THE_LEFT_FRONTAL_LOBE_OF\\figures\\fig3.png",
+      "bytes": 402768
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1961_TUMOR_OF_THE_RIGHT_VERSUS_TUMOR_OF_THE_LEFT_FRONTAL_LOBE_OF\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1961_TUMOR_OF_THE_RIGHT_VERSUS_TUMOR_OF_THE_LEFT_FRONTAL_LOBE_OF\\figures\\fig5.png",
+      "bytes": 475187
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1962_A_CASE_OF_ALTERNATING_UNILATERAL_EPILEPTIFORM_CONVULSIONS_AS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1962_A_CASE_OF_ALTERNATING_UNILATERAL_EPILEPTIFORM_CONVULSIONS_AS\\text.md",
+      "bytes": 6457
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1962_A_CASE_OF_ALTERNATING_UNILATERAL_EPILEPTIFORM_CONVULSIONS_AS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1962_A_CASE_OF_ALTERNATING_UNILATERAL_EPILEPTIFORM_CONVULSIONS_AS\\text.md",
+      "bytes": 6457
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1963_JOINT_AFFECTIONS_IN_NERVOUS_DISEASE\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1963_JOINT_AFFECTIONS_IN_NERVOUS_DISEASE\\text.md",
+      "bytes": 29389
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1963_JOINT_AFFECTIONS_IN_NERVOUS_DISEASE\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1963_JOINT_AFFECTIONS_IN_NERVOUS_DISEASE\\text.md",
+      "bytes": 29389
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1964_Remarks_ON_CHRONIC_SPLENOMEGALIC_POLYCYTHAEMIA\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1964_Remarks_ON_CHRONIC_SPLENOMEGALIC_POLYCYTHAEMIA\\text.md",
+      "bytes": 49497
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1964_Remarks_ON_CHRONIC_SPLENOMEGALIC_POLYCYTHAEMIA\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1964_Remarks_ON_CHRONIC_SPLENOMEGALIC_POLYCYTHAEMIA\\text.md",
+      "bytes": 49497
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1965_THE_FUNCTION_OF_THE_PREFRONTAL_LOBESAPROPOS_OF_THE_PATHOLOGI\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1965_THE_FUNCTION_OF_THE_PREFRONTAL_LOBESAPROPOS_OF_THE_PATHOLOGI\\text.md",
+      "bytes": 20739
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1965_THE_FUNCTION_OF_THE_PREFRONTAL_LOBESAPROPOS_OF_THE_PATHOLOGI\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1965_THE_FUNCTION_OF_THE_PREFRONTAL_LOBESAPROPOS_OF_THE_PATHOLOGI\\text.md",
+      "bytes": 20739
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1966_PARANOIA_ITS_VARIETIES_AND_MEDICOLEGAL_IMPORTANCE\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1966_PARANOIA_ITS_VARIETIES_AND_MEDICOLEGAL_IMPORTANCE\\text.md",
+      "bytes": 28524
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1966_PARANOIA_ITS_VARIETIES_AND_MEDICOLEGAL_IMPORTANCE\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1966_PARANOIA_ITS_VARIETIES_AND_MEDICOLEGAL_IMPORTANCE\\text.md",
+      "bytes": 28524
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1967_PROPHYLAXIS_IN_EPIDEMIC_CEREBROSPINAL_MENINGITIS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1967_PROPHYLAXIS_IN_EPIDEMIC_CEREBROSPINAL_MENINGITIS\\text.md",
+      "bytes": 21957
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1967_PROPHYLAXIS_IN_EPIDEMIC_CEREBROSPINAL_MENINGITIS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1967_PROPHYLAXIS_IN_EPIDEMIC_CEREBROSPINAL_MENINGITIS\\text.md",
+      "bytes": 21957
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1968_BRAIN_TUMOR_WITH_JACKSONIAN_SPASM_AND_UNILATERAL_PARALYSIS_O\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1968_BRAIN_TUMOR_WITH_JACKSONIAN_SPASM_AND_UNILATERAL_PARALYSIS_O\\text.md",
+      "bytes": 41324
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1968_BRAIN_TUMOR_WITH_JACKSONIAN_SPASM_AND_UNILATERAL_PARALYSIS_O\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1968_BRAIN_TUMOR_WITH_JACKSONIAN_SPASM_AND_UNILATERAL_PARALYSIS_O\\figures\\fig2.png",
+      "bytes": 1305215
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1968_BRAIN_TUMOR_WITH_JACKSONIAN_SPASM_AND_UNILATERAL_PARALYSIS_O\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1968_BRAIN_TUMOR_WITH_JACKSONIAN_SPASM_AND_UNILATERAL_PARALYSIS_O\\text.md",
+      "bytes": 41324
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1968_BRAIN_TUMOR_WITH_JACKSONIAN_SPASM_AND_UNILATERAL_PARALYSIS_O\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1968_BRAIN_TUMOR_WITH_JACKSONIAN_SPASM_AND_UNILATERAL_PARALYSIS_O\\figures\\fig2.png",
+      "bytes": 1305215
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1969_A_CASE_OF_PROBABLE_TUMOR_OF_THE_BRAIN_OF_PARIETOOCCIPITAL_LO\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1969_A_CASE_OF_PROBABLE_TUMOR_OF_THE_BRAIN_OF_PARIETOOCCIPITAL_LO\\text.md",
+      "bytes": 7822
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1969_A_CASE_OF_PROBABLE_TUMOR_OF_THE_BRAIN_OF_PARIETOOCCIPITAL_LO\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1969_A_CASE_OF_PROBABLE_TUMOR_OF_THE_BRAIN_OF_PARIETOOCCIPITAL_LO\\text.md",
+      "bytes": 7822
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1970_ON_THE_CONNECTION_OF_THE_INFERIOR_OLIVES_WITH_THE_CEREBELLUM\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1970_ON_THE_CONNECTION_OF_THE_INFERIOR_OLIVES_WITH_THE_CEREBELLUM\\text.md",
+      "bytes": 28759
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1970_ON_THE_CONNECTION_OF_THE_INFERIOR_OLIVES_WITH_THE_CEREBELLUM\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1970_ON_THE_CONNECTION_OF_THE_INFERIOR_OLIVES_WITH_THE_CEREBELLUM\\figures\\fig1.png",
+      "bytes": 514092
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1970_ON_THE_CONNECTION_OF_THE_INFERIOR_OLIVES_WITH_THE_CEREBELLUM\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1970_ON_THE_CONNECTION_OF_THE_INFERIOR_OLIVES_WITH_THE_CEREBELLUM\\figures\\fig3.png",
+      "bytes": 350240
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1970_ON_THE_CONNECTION_OF_THE_INFERIOR_OLIVES_WITH_THE_CEREBELLUM\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1970_ON_THE_CONNECTION_OF_THE_INFERIOR_OLIVES_WITH_THE_CEREBELLUM\\figures\\fig4.png",
+      "bytes": 352925
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1970_ON_THE_CONNECTION_OF_THE_INFERIOR_OLIVES_WITH_THE_CEREBELLUM\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1970_ON_THE_CONNECTION_OF_THE_INFERIOR_OLIVES_WITH_THE_CEREBELLUM\\figures\\fig5.png",
+      "bytes": 367729
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1970_ON_THE_CONNECTION_OF_THE_INFERIOR_OLIVES_WITH_THE_CEREBELLUM\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1970_ON_THE_CONNECTION_OF_THE_INFERIOR_OLIVES_WITH_THE_CEREBELLUM\\text.md",
+      "bytes": 28759
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1970_ON_THE_CONNECTION_OF_THE_INFERIOR_OLIVES_WITH_THE_CEREBELLUM\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1970_ON_THE_CONNECTION_OF_THE_INFERIOR_OLIVES_WITH_THE_CEREBELLUM\\figures\\fig1.png",
+      "bytes": 514092
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1970_ON_THE_CONNECTION_OF_THE_INFERIOR_OLIVES_WITH_THE_CEREBELLUM\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1970_ON_THE_CONNECTION_OF_THE_INFERIOR_OLIVES_WITH_THE_CEREBELLUM\\figures\\fig3.png",
+      "bytes": 350240
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1970_ON_THE_CONNECTION_OF_THE_INFERIOR_OLIVES_WITH_THE_CEREBELLUM\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1970_ON_THE_CONNECTION_OF_THE_INFERIOR_OLIVES_WITH_THE_CEREBELLUM\\figures\\fig4.png",
+      "bytes": 352925
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1970_ON_THE_CONNECTION_OF_THE_INFERIOR_OLIVES_WITH_THE_CEREBELLUM\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1970_ON_THE_CONNECTION_OF_THE_INFERIOR_OLIVES_WITH_THE_CEREBELLUM\\figures\\fig5.png",
+      "bytes": 367729
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1971_Youth_Its_Education_Regimen_and_Hygiene\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1971_Youth_Its_Education_Regimen_and_Hygiene\\text.md",
+      "bytes": 25719
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1971_Youth_Its_Education_Regimen_and_Hygiene\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1971_Youth_Its_Education_Regimen_and_Hygiene\\text.md",
+      "bytes": 25719
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1972_Report_Of_A_Case_Of_Melanosis_Of_The_Brain_Cord_And_Meninges\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1972_Report_Of_A_Case_Of_Melanosis_Of_The_Brain_Cord_And_Meninges\\text.md",
+      "bytes": 28
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1972_Report_Of_A_Case_Of_Melanosis_Of_The_Brain_Cord_And_Meninges\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1972_Report_Of_A_Case_Of_Melanosis_Of_The_Brain_Cord_And_Meninges\\text.md",
+      "bytes": 28
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1973_A_comparison_of_the_albino_rat_with_man_in_respect_to_the_gr\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1973_A_comparison_of_the_albino_rat_with_man_in_respect_to_the_gr\\text.md",
+      "bytes": 99469
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1973_A_comparison_of_the_albino_rat_with_man_in_respect_to_the_gr\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1973_A_comparison_of_the_albino_rat_with_man_in_respect_to_the_gr\\text.md",
+      "bytes": 99469
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1974_THE_CEREBRAL_CENTERS_FOR_TASTE_AND_SMELL_AND_THE_UNCINATE_GR\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1974_THE_CEREBRAL_CENTERS_FOR_TASTE_AND_SMELL_AND_THE_UNCINATE_GR\\text.md",
+      "bytes": 45617
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1974_THE_CEREBRAL_CENTERS_FOR_TASTE_AND_SMELL_AND_THE_UNCINATE_GR\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1974_THE_CEREBRAL_CENTERS_FOR_TASTE_AND_SMELL_AND_THE_UNCINATE_GR\\figures\\fig1.png",
+      "bytes": 778769
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1974_THE_CEREBRAL_CENTERS_FOR_TASTE_AND_SMELL_AND_THE_UNCINATE_GR\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1974_THE_CEREBRAL_CENTERS_FOR_TASTE_AND_SMELL_AND_THE_UNCINATE_GR\\figures\\fig2.png",
+      "bytes": 791484
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1974_THE_CEREBRAL_CENTERS_FOR_TASTE_AND_SMELL_AND_THE_UNCINATE_GR\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1974_THE_CEREBRAL_CENTERS_FOR_TASTE_AND_SMELL_AND_THE_UNCINATE_GR\\figures\\fig3.png",
+      "bytes": 684212
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1974_THE_CEREBRAL_CENTERS_FOR_TASTE_AND_SMELL_AND_THE_UNCINATE_GR\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1974_THE_CEREBRAL_CENTERS_FOR_TASTE_AND_SMELL_AND_THE_UNCINATE_GR\\figures\\fig4.png",
+      "bytes": 750488
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1974_THE_CEREBRAL_CENTERS_FOR_TASTE_AND_SMELL_AND_THE_UNCINATE_GR\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1974_THE_CEREBRAL_CENTERS_FOR_TASTE_AND_SMELL_AND_THE_UNCINATE_GR\\text.md",
+      "bytes": 45617
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1974_THE_CEREBRAL_CENTERS_FOR_TASTE_AND_SMELL_AND_THE_UNCINATE_GR\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1974_THE_CEREBRAL_CENTERS_FOR_TASTE_AND_SMELL_AND_THE_UNCINATE_GR\\figures\\fig1.png",
+      "bytes": 778769
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1974_THE_CEREBRAL_CENTERS_FOR_TASTE_AND_SMELL_AND_THE_UNCINATE_GR\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1974_THE_CEREBRAL_CENTERS_FOR_TASTE_AND_SMELL_AND_THE_UNCINATE_GR\\figures\\fig2.png",
+      "bytes": 791484
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1974_THE_CEREBRAL_CENTERS_FOR_TASTE_AND_SMELL_AND_THE_UNCINATE_GR\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1974_THE_CEREBRAL_CENTERS_FOR_TASTE_AND_SMELL_AND_THE_UNCINATE_GR\\figures\\fig3.png",
+      "bytes": 684212
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1974_THE_CEREBRAL_CENTERS_FOR_TASTE_AND_SMELL_AND_THE_UNCINATE_GR\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1974_THE_CEREBRAL_CENTERS_FOR_TASTE_AND_SMELL_AND_THE_UNCINATE_GR\\figures\\fig4.png",
+      "bytes": 750488
     }
   ],
   "missing": [],
