@@ -1,12 +1,12 @@
 {
-  "generated": "2026-07-03T20:46:16.435890+00:00",
+  "generated": "2026-07-03T21:19:14.258273+00:00",
   "mode": "extract-only",
   "paperCurationDir": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect",
   "awesomeRepo": "E:\\조선대\\연구\\awesome-brain-ai",
   "extractReport": "data/paper_curation/extract_only_report.json",
   "docsDir": "docs/paper_curation/extract_only",
   "paperDir": "paper/extract_only",
-  "recordCount": 540,
+  "recordCount": 560,
   "syncedPaperSlugs": [
     "003_Hughlings_Jackson_and_the_Cortical_Motor_Centres_in_the_Ligh",
     "015_EXPERIMENTAL_AND_CLINICAL_NOTES_ON_THE_SUBARACHNOID_SPACE",
@@ -547,13 +547,33 @@
     "2440_The_central_nervous_system_in_a_case_of_cyclopia_in_homo",
     "2441_The_Galactosides_of_the_Brain_I",
     "2442_The_development_of_the_cerebral_ventricles_in_the_pig",
-    "2443_Epidemic_Cerebrospinal_Meningitis"
+    "2443_Epidemic_Cerebrospinal_Meningitis",
+    "2472_THE_LATE_PROFESSOR_EDWIN_GOLDMANNS_INVESTIGATIONS_ON_THE_CEN",
+    "2473_PAROTITIS_COMPLICATED_WITH_MENINGITIS",
+    "2474_A_RECURRENT_NEUROBLASTOMA_OF_THE_SCAPULAR_REGION",
+    "2475_INFANTILE_CEREBRO-CEREBELLAR_DIPLEGIA_OF_FLACCID_ATONIC-ASTA",
+    "2476_The_effects_of_formaldehyde_on_the_brain_of_the_albino_rat",
+    "2477_Klinik_der_serösen_und_eitrigen_Labyrinth-Entzündungen__Dr_E",
+    "2478_Cerebrospinal_Fluid_in_Brain_Tumors",
+    "2479_The_study_of_an_atypical_cerebral_cortex",
+    "2480_SOME_FEATURES_OF_ROENTGENOGRAPHIC_CHANGES_IN_PITUITARY_DISEA",
+    "2481_The_Effect_of_Quinine_on_Rabies_in_Dogs",
+    "2482_The_cephalic_nerves_Suggestions",
+    "2483_THE_BRAIN_OF_A_MACROCEPHALIC_EPILEPTIC",
+    "2484_CEREBRAL_PALSIES_WITHOUT_DEMONSTRABLE_ANATOMICAL_FINDINGS",
+    "2443_Epidemic_Cerebrospinal_Meningitis",
+    "2485_The_influence_of_the_central_nervous_system_in_regeneration",
+    "2486_Combined_action_of_magnesium_and_ether_evidence_of_a_central",
+    "2487_THE_DEMONSTRATION_OF_THE_SPIROCHAETA_PALLIDA_IN_THE_BRAIN_SU",
+    "2488_XXXIX_Radiography_as_an_AID_in_the_Diagnosis_of_Mastoid_Dise",
+    "2489_The_Herter_Lectures_II_Trypanosomiasis_Lecture_delivered_on",
+    "2490_II_Description_of_the_Human_Skull_and_Mandible_and_the_Assoc"
   ],
   "copied": [
     {
       "source": "E:\\조선대\\연구\\paper-curation\\paper\\awesome-brain-ai\\_folder_source_extract_report.json",
       "target": "E:\\조선대\\연구\\awesome-brain-ai\\data\\paper_curation\\extract_only_report.json",
-      "bytes": 329692
+      "bytes": 341992
     },
     {
       "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\003_Hughlings_Jackson_and_the_Cortical_Motor_Centres_in_the_Ligh\\text.md",
@@ -8744,6 +8764,346 @@
       "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2443_Epidemic_Cerebrospinal_Meningitis\\text.md",
       "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2443_Epidemic_Cerebrospinal_Meningitis\\text.md",
       "bytes": 1305
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2472_THE_LATE_PROFESSOR_EDWIN_GOLDMANNS_INVESTIGATIONS_ON_THE_CEN\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2472_THE_LATE_PROFESSOR_EDWIN_GOLDMANNS_INVESTIGATIONS_ON_THE_CEN\\text.md",
+      "bytes": 26392
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2472_THE_LATE_PROFESSOR_EDWIN_GOLDMANNS_INVESTIGATIONS_ON_THE_CEN\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2472_THE_LATE_PROFESSOR_EDWIN_GOLDMANNS_INVESTIGATIONS_ON_THE_CEN\\text.md",
+      "bytes": 26392
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2473_PAROTITIS_COMPLICATED_WITH_MENINGITIS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2473_PAROTITIS_COMPLICATED_WITH_MENINGITIS\\text.md",
+      "bytes": 23375
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2473_PAROTITIS_COMPLICATED_WITH_MENINGITIS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2473_PAROTITIS_COMPLICATED_WITH_MENINGITIS\\text.md",
+      "bytes": 23375
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2474_A_RECURRENT_NEUROBLASTOMA_OF_THE_SCAPULAR_REGION\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2474_A_RECURRENT_NEUROBLASTOMA_OF_THE_SCAPULAR_REGION\\text.md",
+      "bytes": 28249
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2474_A_RECURRENT_NEUROBLASTOMA_OF_THE_SCAPULAR_REGION\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2474_A_RECURRENT_NEUROBLASTOMA_OF_THE_SCAPULAR_REGION\\text.md",
+      "bytes": 28249
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2475_INFANTILE_CEREBRO-CEREBELLAR_DIPLEGIA_OF_FLACCID_ATONIC-ASTA\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2475_INFANTILE_CEREBRO-CEREBELLAR_DIPLEGIA_OF_FLACCID_ATONIC-ASTA\\text.md",
+      "bytes": 44269
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2475_INFANTILE_CEREBRO-CEREBELLAR_DIPLEGIA_OF_FLACCID_ATONIC-ASTA\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2475_INFANTILE_CEREBRO-CEREBELLAR_DIPLEGIA_OF_FLACCID_ATONIC-ASTA\\figures\\fig3.png",
+      "bytes": 483610
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2475_INFANTILE_CEREBRO-CEREBELLAR_DIPLEGIA_OF_FLACCID_ATONIC-ASTA\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2475_INFANTILE_CEREBRO-CEREBELLAR_DIPLEGIA_OF_FLACCID_ATONIC-ASTA\\figures\\fig4.png",
+      "bytes": 423270
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2475_INFANTILE_CEREBRO-CEREBELLAR_DIPLEGIA_OF_FLACCID_ATONIC-ASTA\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2475_INFANTILE_CEREBRO-CEREBELLAR_DIPLEGIA_OF_FLACCID_ATONIC-ASTA\\figures\\fig5.png",
+      "bytes": 751561
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2475_INFANTILE_CEREBRO-CEREBELLAR_DIPLEGIA_OF_FLACCID_ATONIC-ASTA\\figures\\fig6.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2475_INFANTILE_CEREBRO-CEREBELLAR_DIPLEGIA_OF_FLACCID_ATONIC-ASTA\\figures\\fig6.png",
+      "bytes": 401030
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2475_INFANTILE_CEREBRO-CEREBELLAR_DIPLEGIA_OF_FLACCID_ATONIC-ASTA\\figures\\fig7.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2475_INFANTILE_CEREBRO-CEREBELLAR_DIPLEGIA_OF_FLACCID_ATONIC-ASTA\\figures\\fig7.png",
+      "bytes": 646803
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2475_INFANTILE_CEREBRO-CEREBELLAR_DIPLEGIA_OF_FLACCID_ATONIC-ASTA\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2475_INFANTILE_CEREBRO-CEREBELLAR_DIPLEGIA_OF_FLACCID_ATONIC-ASTA\\text.md",
+      "bytes": 44269
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2475_INFANTILE_CEREBRO-CEREBELLAR_DIPLEGIA_OF_FLACCID_ATONIC-ASTA\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2475_INFANTILE_CEREBRO-CEREBELLAR_DIPLEGIA_OF_FLACCID_ATONIC-ASTA\\figures\\fig3.png",
+      "bytes": 483610
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2475_INFANTILE_CEREBRO-CEREBELLAR_DIPLEGIA_OF_FLACCID_ATONIC-ASTA\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2475_INFANTILE_CEREBRO-CEREBELLAR_DIPLEGIA_OF_FLACCID_ATONIC-ASTA\\figures\\fig4.png",
+      "bytes": 423270
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2475_INFANTILE_CEREBRO-CEREBELLAR_DIPLEGIA_OF_FLACCID_ATONIC-ASTA\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2475_INFANTILE_CEREBRO-CEREBELLAR_DIPLEGIA_OF_FLACCID_ATONIC-ASTA\\figures\\fig5.png",
+      "bytes": 751561
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2475_INFANTILE_CEREBRO-CEREBELLAR_DIPLEGIA_OF_FLACCID_ATONIC-ASTA\\figures\\fig6.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2475_INFANTILE_CEREBRO-CEREBELLAR_DIPLEGIA_OF_FLACCID_ATONIC-ASTA\\figures\\fig6.png",
+      "bytes": 401030
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2475_INFANTILE_CEREBRO-CEREBELLAR_DIPLEGIA_OF_FLACCID_ATONIC-ASTA\\figures\\fig7.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2475_INFANTILE_CEREBRO-CEREBELLAR_DIPLEGIA_OF_FLACCID_ATONIC-ASTA\\figures\\fig7.png",
+      "bytes": 646803
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2476_The_effects_of_formaldehyde_on_the_brain_of_the_albino_rat\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2476_The_effects_of_formaldehyde_on_the_brain_of_the_albino_rat\\text.md",
+      "bytes": 60799
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2476_The_effects_of_formaldehyde_on_the_brain_of_the_albino_rat\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2476_The_effects_of_formaldehyde_on_the_brain_of_the_albino_rat\\text.md",
+      "bytes": 60799
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2477_Klinik_der_serösen_und_eitrigen_Labyrinth-Entzündungen__Dr_E\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2477_Klinik_der_serösen_und_eitrigen_Labyrinth-Entzündungen__Dr_E\\text.md",
+      "bytes": 9904
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2477_Klinik_der_serösen_und_eitrigen_Labyrinth-Entzündungen__Dr_E\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2477_Klinik_der_serösen_und_eitrigen_Labyrinth-Entzündungen__Dr_E\\text.md",
+      "bytes": 9904
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2478_Cerebrospinal_Fluid_in_Brain_Tumors\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2478_Cerebrospinal_Fluid_in_Brain_Tumors\\text.md",
+      "bytes": 7752
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2478_Cerebrospinal_Fluid_in_Brain_Tumors\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2478_Cerebrospinal_Fluid_in_Brain_Tumors\\text.md",
+      "bytes": 7752
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2479_The_study_of_an_atypical_cerebral_cortex\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2479_The_study_of_an_atypical_cerebral_cortex\\text.md",
+      "bytes": 34518
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2479_The_study_of_an_atypical_cerebral_cortex\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2479_The_study_of_an_atypical_cerebral_cortex\\figures\\fig1.png",
+      "bytes": 298631
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2479_The_study_of_an_atypical_cerebral_cortex\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2479_The_study_of_an_atypical_cerebral_cortex\\figures\\fig4.png",
+      "bytes": 486851
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2479_The_study_of_an_atypical_cerebral_cortex\\figures\\fig6.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2479_The_study_of_an_atypical_cerebral_cortex\\figures\\fig6.png",
+      "bytes": 484275
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2479_The_study_of_an_atypical_cerebral_cortex\\figures\\fig8.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2479_The_study_of_an_atypical_cerebral_cortex\\figures\\fig8.png",
+      "bytes": 453972
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2479_The_study_of_an_atypical_cerebral_cortex\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2479_The_study_of_an_atypical_cerebral_cortex\\text.md",
+      "bytes": 34518
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2479_The_study_of_an_atypical_cerebral_cortex\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2479_The_study_of_an_atypical_cerebral_cortex\\figures\\fig1.png",
+      "bytes": 298631
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2479_The_study_of_an_atypical_cerebral_cortex\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2479_The_study_of_an_atypical_cerebral_cortex\\figures\\fig4.png",
+      "bytes": 486851
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2479_The_study_of_an_atypical_cerebral_cortex\\figures\\fig6.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2479_The_study_of_an_atypical_cerebral_cortex\\figures\\fig6.png",
+      "bytes": 484275
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2479_The_study_of_an_atypical_cerebral_cortex\\figures\\fig8.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2479_The_study_of_an_atypical_cerebral_cortex\\figures\\fig8.png",
+      "bytes": 453972
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2480_SOME_FEATURES_OF_ROENTGENOGRAPHIC_CHANGES_IN_PITUITARY_DISEA\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2480_SOME_FEATURES_OF_ROENTGENOGRAPHIC_CHANGES_IN_PITUITARY_DISEA\\text.md",
+      "bytes": 21496
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2480_SOME_FEATURES_OF_ROENTGENOGRAPHIC_CHANGES_IN_PITUITARY_DISEA\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2480_SOME_FEATURES_OF_ROENTGENOGRAPHIC_CHANGES_IN_PITUITARY_DISEA\\text.md",
+      "bytes": 21496
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2481_The_Effect_of_Quinine_on_Rabies_in_Dogs\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2481_The_Effect_of_Quinine_on_Rabies_in_Dogs\\text.md",
+      "bytes": 11448
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2481_The_Effect_of_Quinine_on_Rabies_in_Dogs\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2481_The_Effect_of_Quinine_on_Rabies_in_Dogs\\text.md",
+      "bytes": 11448
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2482_The_cephalic_nerves_Suggestions\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2482_The_cephalic_nerves_Suggestions\\text.md",
+      "bytes": 27581
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2482_The_cephalic_nerves_Suggestions\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2482_The_cephalic_nerves_Suggestions\\text.md",
+      "bytes": 27581
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2483_THE_BRAIN_OF_A_MACROCEPHALIC_EPILEPTIC\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2483_THE_BRAIN_OF_A_MACROCEPHALIC_EPILEPTIC\\text.md",
+      "bytes": 99375
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2483_THE_BRAIN_OF_A_MACROCEPHALIC_EPILEPTIC\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2483_THE_BRAIN_OF_A_MACROCEPHALIC_EPILEPTIC\\figures\\fig1.png",
+      "bytes": 1228114
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2483_THE_BRAIN_OF_A_MACROCEPHALIC_EPILEPTIC\\figures\\fig16.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2483_THE_BRAIN_OF_A_MACROCEPHALIC_EPILEPTIC\\figures\\fig16.png",
+      "bytes": 1307260
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2483_THE_BRAIN_OF_A_MACROCEPHALIC_EPILEPTIC\\figures\\fig26.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2483_THE_BRAIN_OF_A_MACROCEPHALIC_EPILEPTIC\\figures\\fig26.png",
+      "bytes": 335922
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2483_THE_BRAIN_OF_A_MACROCEPHALIC_EPILEPTIC\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2483_THE_BRAIN_OF_A_MACROCEPHALIC_EPILEPTIC\\figures\\fig3.png",
+      "bytes": 1234637
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2483_THE_BRAIN_OF_A_MACROCEPHALIC_EPILEPTIC\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2483_THE_BRAIN_OF_A_MACROCEPHALIC_EPILEPTIC\\figures\\fig5.png",
+      "bytes": 1233964
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2483_THE_BRAIN_OF_A_MACROCEPHALIC_EPILEPTIC\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2483_THE_BRAIN_OF_A_MACROCEPHALIC_EPILEPTIC\\text.md",
+      "bytes": 99375
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2483_THE_BRAIN_OF_A_MACROCEPHALIC_EPILEPTIC\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2483_THE_BRAIN_OF_A_MACROCEPHALIC_EPILEPTIC\\figures\\fig1.png",
+      "bytes": 1228114
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2483_THE_BRAIN_OF_A_MACROCEPHALIC_EPILEPTIC\\figures\\fig16.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2483_THE_BRAIN_OF_A_MACROCEPHALIC_EPILEPTIC\\figures\\fig16.png",
+      "bytes": 1307260
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2483_THE_BRAIN_OF_A_MACROCEPHALIC_EPILEPTIC\\figures\\fig26.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2483_THE_BRAIN_OF_A_MACROCEPHALIC_EPILEPTIC\\figures\\fig26.png",
+      "bytes": 335922
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2483_THE_BRAIN_OF_A_MACROCEPHALIC_EPILEPTIC\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2483_THE_BRAIN_OF_A_MACROCEPHALIC_EPILEPTIC\\figures\\fig3.png",
+      "bytes": 1234637
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2483_THE_BRAIN_OF_A_MACROCEPHALIC_EPILEPTIC\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2483_THE_BRAIN_OF_A_MACROCEPHALIC_EPILEPTIC\\figures\\fig5.png",
+      "bytes": 1233964
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2484_CEREBRAL_PALSIES_WITHOUT_DEMONSTRABLE_ANATOMICAL_FINDINGS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2484_CEREBRAL_PALSIES_WITHOUT_DEMONSTRABLE_ANATOMICAL_FINDINGS\\text.md",
+      "bytes": 351
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2484_CEREBRAL_PALSIES_WITHOUT_DEMONSTRABLE_ANATOMICAL_FINDINGS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2484_CEREBRAL_PALSIES_WITHOUT_DEMONSTRABLE_ANATOMICAL_FINDINGS\\text.md",
+      "bytes": 351
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2443_Epidemic_Cerebrospinal_Meningitis\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2443_Epidemic_Cerebrospinal_Meningitis\\text.md",
+      "bytes": 1305
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2443_Epidemic_Cerebrospinal_Meningitis\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2443_Epidemic_Cerebrospinal_Meningitis\\text.md",
+      "bytes": 1305
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2485_The_influence_of_the_central_nervous_system_in_regeneration\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2485_The_influence_of_the_central_nervous_system_in_regeneration\\text.md",
+      "bytes": 1887
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2485_The_influence_of_the_central_nervous_system_in_regeneration\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2485_The_influence_of_the_central_nervous_system_in_regeneration\\text.md",
+      "bytes": 1887
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2486_Combined_action_of_magnesium_and_ether_evidence_of_a_central\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2486_Combined_action_of_magnesium_and_ether_evidence_of_a_central\\text.md",
+      "bytes": 6741
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2486_Combined_action_of_magnesium_and_ether_evidence_of_a_central\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2486_Combined_action_of_magnesium_and_ether_evidence_of_a_central\\text.md",
+      "bytes": 6741
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2487_THE_DEMONSTRATION_OF_THE_SPIROCHAETA_PALLIDA_IN_THE_BRAIN_SU\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2487_THE_DEMONSTRATION_OF_THE_SPIROCHAETA_PALLIDA_IN_THE_BRAIN_SU\\text.md",
+      "bytes": 6969
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2487_THE_DEMONSTRATION_OF_THE_SPIROCHAETA_PALLIDA_IN_THE_BRAIN_SU\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2487_THE_DEMONSTRATION_OF_THE_SPIROCHAETA_PALLIDA_IN_THE_BRAIN_SU\\text.md",
+      "bytes": 6969
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2488_XXXIX_Radiography_as_an_AID_in_the_Diagnosis_of_Mastoid_Dise\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2488_XXXIX_Radiography_as_an_AID_in_the_Diagnosis_of_Mastoid_Dise\\text.md",
+      "bytes": 5940
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2488_XXXIX_Radiography_as_an_AID_in_the_Diagnosis_of_Mastoid_Dise\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2488_XXXIX_Radiography_as_an_AID_in_the_Diagnosis_of_Mastoid_Dise\\text.md",
+      "bytes": 5940
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2489_The_Herter_Lectures_II_Trypanosomiasis_Lecture_delivered_on\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2489_The_Herter_Lectures_II_Trypanosomiasis_Lecture_delivered_on\\text.md",
+      "bytes": 35408
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2489_The_Herter_Lectures_II_Trypanosomiasis_Lecture_delivered_on\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2489_The_Herter_Lectures_II_Trypanosomiasis_Lecture_delivered_on\\text.md",
+      "bytes": 35408
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2490_II_Description_of_the_Human_Skull_and_Mandible_and_the_Assoc\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2490_II_Description_of_the_Human_Skull_and_Mandible_and_the_Assoc\\text.md",
+      "bytes": 44401
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2490_II_Description_of_the_Human_Skull_and_Mandible_and_the_Assoc\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2490_II_Description_of_the_Human_Skull_and_Mandible_and_the_Assoc\\text.md",
+      "bytes": 44401
     }
   ],
   "missing": [],
