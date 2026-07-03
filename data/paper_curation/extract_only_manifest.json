@@ -1,12 +1,12 @@
 {
-  "generated": "2026-07-03T17:30:49.264903+00:00",
+  "generated": "2026-07-03T18:07:46.860198+00:00",
   "mode": "extract-only",
   "paperCurationDir": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect",
   "awesomeRepo": "E:\\조선대\\연구\\awesome-brain-ai",
   "extractReport": "data/paper_curation/extract_only_report.json",
   "docsDir": "docs/paper_curation/extract_only",
   "paperDir": "paper/extract_only",
-  "recordCount": 440,
+  "recordCount": 460,
   "syncedPaperSlugs": [
     "003_Hughlings_Jackson_and_the_Cortical_Motor_Centres_in_the_Ligh",
     "015_EXPERIMENTAL_AND_CLINICAL_NOTES_ON_THE_SUBARACHNOID_SPACE",
@@ -447,13 +447,33 @@
     "2204_DEAFNESS_DUE_TO_LESIONS_IN_THE_BRAIN",
     "2205_MULTIPLE_SCLEROSIS_WITH_PRIMARY_DEGENERATION_OF_THE_MOTOR_CO",
     "2206_The_Material_Fundamentals_and_the_Prognosis_of_the_Accident",
-    "2207_How_can_the_process_underlying_membrane_formation_cause_the"
+    "2207_How_can_the_process_underlying_membrane_formation_cause_the",
+    "2236_THREE_CASES_OF_TUMOR_IN_THE_CERE-BELLO-PONTILE_ANGLE",
+    "2237_A_method_of_isolating_the_cerebro-medullary_circulation",
+    "1877_CONCUSSION_OF_THE_BRAIN_SO-CALLED_AND_ITS_TREATMENT",
+    "2238_BRAIN_TUMOR_OF_PSYCHOMOTOR_AREA_CAUSING_JACKSONIAN_AND_GENER",
+    "2239_Case_of_Cerebral_Hemorrhage_in_the_Newborn_Delivered_by_Oper",
+    "2240_The_Lettsomian_Lectures_ON_THE_CEREBELLUM_AND_ITS_AFFECTIONS",
+    "2240_The_Lettsomian_Lectures_ON_THE_CEREBELLUM_AND_ITS_AFFECTIONS",
+    "2241_An_examination_of_Fröhlichs_theory_of_the_treppe",
+    "2242_Bacterial_Invasion_of_the_Blood_and_the_Cerebrospinal_Fluid",
+    "2243_HEMIPLEGIA_FOLLOWING_ACUTE_INFECTIONS",
+    "2244_THE_TOPOGRAPHIC_DIAGNOSIS_OF_SUBTENTORIAL_BRAIN_TUMORS",
+    "2245_Sensory_disturbances_from_cerebral_lesions",
+    "2246_The_development_of_the_purkinje_cells_and_of_the_cortical_la",
+    "2247_DISTORTIONS_OF_THE_VISUAL_FIELDS_IN_CASES_OF_BRAIN_TUMOR_Sec",
+    "2248_THE_CONTROL_OF_BLEEDING_IN_OPERATIONS_FOR_BRAIN_TUMORS_WITH",
+    "2249_Studies_of_fertilization_in_Nereis_I_The_cortical_changes_in",
+    "2250_The_effect_of_underfeeding_on_the_percentage_of_water_on_the",
+    "2251_A_CASE_OF_LESION_OF_THE_OPTIC_THALAMUS_WITH_AUTOPSY",
+    "2252_TUMORS_OF_THE_PINEAL_BODY_WITH_AN_ACCOUNT_OF_THE_PINEAL_SYND",
+    "2253_THE_SYMPTOMATOLOGY_OF_TEMPOROSPHENOIDAL_TUMORS"
   ],
   "copied": [
     {
       "source": "E:\\조선대\\연구\\paper-curation\\paper\\awesome-brain-ai\\_folder_source_extract_report.json",
       "target": "E:\\조선대\\연구\\awesome-brain-ai\\data\\paper_curation\\extract_only_report.json",
-      "bytes": 268465
+      "bytes": 281055
     },
     {
       "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\003_Hughlings_Jackson_and_the_Cortical_Motor_Centres_in_the_Ligh\\text.md",
@@ -7114,6 +7134,396 @@
       "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2207_How_can_the_process_underlying_membrane_formation_cause_the\\text.md",
       "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2207_How_can_the_process_underlying_membrane_formation_cause_the\\text.md",
       "bytes": 3997
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2236_THREE_CASES_OF_TUMOR_IN_THE_CERE-BELLO-PONTILE_ANGLE\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2236_THREE_CASES_OF_TUMOR_IN_THE_CERE-BELLO-PONTILE_ANGLE\\text.md",
+      "bytes": 34030
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2236_THREE_CASES_OF_TUMOR_IN_THE_CERE-BELLO-PONTILE_ANGLE\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2236_THREE_CASES_OF_TUMOR_IN_THE_CERE-BELLO-PONTILE_ANGLE\\text.md",
+      "bytes": 34030
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2237_A_method_of_isolating_the_cerebro-medullary_circulation\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2237_A_method_of_isolating_the_cerebro-medullary_circulation\\text.md",
+      "bytes": 9515
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2237_A_method_of_isolating_the_cerebro-medullary_circulation\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2237_A_method_of_isolating_the_cerebro-medullary_circulation\\text.md",
+      "bytes": 9515
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1877_CONCUSSION_OF_THE_BRAIN_SO-CALLED_AND_ITS_TREATMENT\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1877_CONCUSSION_OF_THE_BRAIN_SO-CALLED_AND_ITS_TREATMENT\\text.md",
+      "bytes": 112
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1877_CONCUSSION_OF_THE_BRAIN_SO-CALLED_AND_ITS_TREATMENT\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1877_CONCUSSION_OF_THE_BRAIN_SO-CALLED_AND_ITS_TREATMENT\\text.md",
+      "bytes": 112
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2238_BRAIN_TUMOR_OF_PSYCHOMOTOR_AREA_CAUSING_JACKSONIAN_AND_GENER\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2238_BRAIN_TUMOR_OF_PSYCHOMOTOR_AREA_CAUSING_JACKSONIAN_AND_GENER\\text.md",
+      "bytes": 12581
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2238_BRAIN_TUMOR_OF_PSYCHOMOTOR_AREA_CAUSING_JACKSONIAN_AND_GENER\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2238_BRAIN_TUMOR_OF_PSYCHOMOTOR_AREA_CAUSING_JACKSONIAN_AND_GENER\\text.md",
+      "bytes": 12581
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2239_Case_of_Cerebral_Hemorrhage_in_the_Newborn_Delivered_by_Oper\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2239_Case_of_Cerebral_Hemorrhage_in_the_Newborn_Delivered_by_Oper\\text.md",
+      "bytes": 13379
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2239_Case_of_Cerebral_Hemorrhage_in_the_Newborn_Delivered_by_Oper\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2239_Case_of_Cerebral_Hemorrhage_in_the_Newborn_Delivered_by_Oper\\text.md",
+      "bytes": 13379
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2240_The_Lettsomian_Lectures_ON_THE_CEREBELLUM_AND_ITS_AFFECTIONS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2240_The_Lettsomian_Lectures_ON_THE_CEREBELLUM_AND_ITS_AFFECTIONS\\text.md",
+      "bytes": 61553
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2240_The_Lettsomian_Lectures_ON_THE_CEREBELLUM_AND_ITS_AFFECTIONS\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2240_The_Lettsomian_Lectures_ON_THE_CEREBELLUM_AND_ITS_AFFECTIONS\\figures\\fig1.png",
+      "bytes": 1795223
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2240_The_Lettsomian_Lectures_ON_THE_CEREBELLUM_AND_ITS_AFFECTIONS\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2240_The_Lettsomian_Lectures_ON_THE_CEREBELLUM_AND_ITS_AFFECTIONS\\figures\\fig3.png",
+      "bytes": 1854061
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2240_The_Lettsomian_Lectures_ON_THE_CEREBELLUM_AND_ITS_AFFECTIONS\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2240_The_Lettsomian_Lectures_ON_THE_CEREBELLUM_AND_ITS_AFFECTIONS\\figures\\fig5.png",
+      "bytes": 1889235
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2240_The_Lettsomian_Lectures_ON_THE_CEREBELLUM_AND_ITS_AFFECTIONS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2240_The_Lettsomian_Lectures_ON_THE_CEREBELLUM_AND_ITS_AFFECTIONS\\text.md",
+      "bytes": 61553
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2240_The_Lettsomian_Lectures_ON_THE_CEREBELLUM_AND_ITS_AFFECTIONS\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2240_The_Lettsomian_Lectures_ON_THE_CEREBELLUM_AND_ITS_AFFECTIONS\\figures\\fig1.png",
+      "bytes": 1795223
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2240_The_Lettsomian_Lectures_ON_THE_CEREBELLUM_AND_ITS_AFFECTIONS\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2240_The_Lettsomian_Lectures_ON_THE_CEREBELLUM_AND_ITS_AFFECTIONS\\figures\\fig3.png",
+      "bytes": 1854061
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2240_The_Lettsomian_Lectures_ON_THE_CEREBELLUM_AND_ITS_AFFECTIONS\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2240_The_Lettsomian_Lectures_ON_THE_CEREBELLUM_AND_ITS_AFFECTIONS\\figures\\fig5.png",
+      "bytes": 1889235
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2240_The_Lettsomian_Lectures_ON_THE_CEREBELLUM_AND_ITS_AFFECTIONS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2240_The_Lettsomian_Lectures_ON_THE_CEREBELLUM_AND_ITS_AFFECTIONS\\text.md",
+      "bytes": 61553
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2240_The_Lettsomian_Lectures_ON_THE_CEREBELLUM_AND_ITS_AFFECTIONS\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2240_The_Lettsomian_Lectures_ON_THE_CEREBELLUM_AND_ITS_AFFECTIONS\\figures\\fig1.png",
+      "bytes": 1795223
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2240_The_Lettsomian_Lectures_ON_THE_CEREBELLUM_AND_ITS_AFFECTIONS\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2240_The_Lettsomian_Lectures_ON_THE_CEREBELLUM_AND_ITS_AFFECTIONS\\figures\\fig3.png",
+      "bytes": 1854061
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2240_The_Lettsomian_Lectures_ON_THE_CEREBELLUM_AND_ITS_AFFECTIONS\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2240_The_Lettsomian_Lectures_ON_THE_CEREBELLUM_AND_ITS_AFFECTIONS\\figures\\fig5.png",
+      "bytes": 1889235
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2240_The_Lettsomian_Lectures_ON_THE_CEREBELLUM_AND_ITS_AFFECTIONS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2240_The_Lettsomian_Lectures_ON_THE_CEREBELLUM_AND_ITS_AFFECTIONS\\text.md",
+      "bytes": 61553
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2240_The_Lettsomian_Lectures_ON_THE_CEREBELLUM_AND_ITS_AFFECTIONS\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2240_The_Lettsomian_Lectures_ON_THE_CEREBELLUM_AND_ITS_AFFECTIONS\\figures\\fig1.png",
+      "bytes": 1795223
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2240_The_Lettsomian_Lectures_ON_THE_CEREBELLUM_AND_ITS_AFFECTIONS\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2240_The_Lettsomian_Lectures_ON_THE_CEREBELLUM_AND_ITS_AFFECTIONS\\figures\\fig3.png",
+      "bytes": 1854061
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2240_The_Lettsomian_Lectures_ON_THE_CEREBELLUM_AND_ITS_AFFECTIONS\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2240_The_Lettsomian_Lectures_ON_THE_CEREBELLUM_AND_ITS_AFFECTIONS\\figures\\fig5.png",
+      "bytes": 1889235
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2241_An_examination_of_Fröhlichs_theory_of_the_treppe\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2241_An_examination_of_Fröhlichs_theory_of_the_treppe\\text.md",
+      "bytes": 4251
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2241_An_examination_of_Fröhlichs_theory_of_the_treppe\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2241_An_examination_of_Fröhlichs_theory_of_the_treppe\\text.md",
+      "bytes": 4251
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2242_Bacterial_Invasion_of_the_Blood_and_the_Cerebrospinal_Fluid\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2242_Bacterial_Invasion_of_the_Blood_and_the_Cerebrospinal_Fluid\\text.md",
+      "bytes": 39529
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2242_Bacterial_Invasion_of_the_Blood_and_the_Cerebrospinal_Fluid\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2242_Bacterial_Invasion_of_the_Blood_and_the_Cerebrospinal_Fluid\\text.md",
+      "bytes": 39529
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2243_HEMIPLEGIA_FOLLOWING_ACUTE_INFECTIONS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2243_HEMIPLEGIA_FOLLOWING_ACUTE_INFECTIONS\\text.md",
+      "bytes": 50291
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2243_HEMIPLEGIA_FOLLOWING_ACUTE_INFECTIONS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2243_HEMIPLEGIA_FOLLOWING_ACUTE_INFECTIONS\\text.md",
+      "bytes": 50291
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2244_THE_TOPOGRAPHIC_DIAGNOSIS_OF_SUBTENTORIAL_BRAIN_TUMORS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2244_THE_TOPOGRAPHIC_DIAGNOSIS_OF_SUBTENTORIAL_BRAIN_TUMORS\\text.md",
+      "bytes": 66160
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2244_THE_TOPOGRAPHIC_DIAGNOSIS_OF_SUBTENTORIAL_BRAIN_TUMORS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2244_THE_TOPOGRAPHIC_DIAGNOSIS_OF_SUBTENTORIAL_BRAIN_TUMORS\\text.md",
+      "bytes": 66160
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2245_Sensory_disturbances_from_cerebral_lesions\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2245_Sensory_disturbances_from_cerebral_lesions\\text.md",
+      "bytes": 410651
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2245_Sensory_disturbances_from_cerebral_lesions\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2245_Sensory_disturbances_from_cerebral_lesions\\figures\\fig1.png",
+      "bytes": 718791
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2245_Sensory_disturbances_from_cerebral_lesions\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2245_Sensory_disturbances_from_cerebral_lesions\\text.md",
+      "bytes": 410651
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2245_Sensory_disturbances_from_cerebral_lesions\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2245_Sensory_disturbances_from_cerebral_lesions\\figures\\fig1.png",
+      "bytes": 718791
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2246_The_development_of_the_purkinje_cells_and_of_the_cortical_la\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2246_The_development_of_the_purkinje_cells_and_of_the_cortical_la\\text.md",
+      "bytes": 56556
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2246_The_development_of_the_purkinje_cells_and_of_the_cortical_la\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2246_The_development_of_the_purkinje_cells_and_of_the_cortical_la\\figures\\fig1.png",
+      "bytes": 226799
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2246_The_development_of_the_purkinje_cells_and_of_the_cortical_la\\figures\\fig21.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2246_The_development_of_the_purkinje_cells_and_of_the_cortical_la\\figures\\fig21.png",
+      "bytes": 81383
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2246_The_development_of_the_purkinje_cells_and_of_the_cortical_la\\figures\\fig8.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2246_The_development_of_the_purkinje_cells_and_of_the_cortical_la\\figures\\fig8.png",
+      "bytes": 232182
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2246_The_development_of_the_purkinje_cells_and_of_the_cortical_la\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2246_The_development_of_the_purkinje_cells_and_of_the_cortical_la\\text.md",
+      "bytes": 56556
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2246_The_development_of_the_purkinje_cells_and_of_the_cortical_la\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2246_The_development_of_the_purkinje_cells_and_of_the_cortical_la\\figures\\fig1.png",
+      "bytes": 226799
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2246_The_development_of_the_purkinje_cells_and_of_the_cortical_la\\figures\\fig21.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2246_The_development_of_the_purkinje_cells_and_of_the_cortical_la\\figures\\fig21.png",
+      "bytes": 81383
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2246_The_development_of_the_purkinje_cells_and_of_the_cortical_la\\figures\\fig8.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2246_The_development_of_the_purkinje_cells_and_of_the_cortical_la\\figures\\fig8.png",
+      "bytes": 232182
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2247_DISTORTIONS_OF_THE_VISUAL_FIELDS_IN_CASES_OF_BRAIN_TUMOR_Sec\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2247_DISTORTIONS_OF_THE_VISUAL_FIELDS_IN_CASES_OF_BRAIN_TUMOR_Sec\\text.md",
+      "bytes": 52820
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2247_DISTORTIONS_OF_THE_VISUAL_FIELDS_IN_CASES_OF_BRAIN_TUMOR_Sec\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2247_DISTORTIONS_OF_THE_VISUAL_FIELDS_IN_CASES_OF_BRAIN_TUMOR_Sec\\figures\\fig1.png",
+      "bytes": 2089931
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2247_DISTORTIONS_OF_THE_VISUAL_FIELDS_IN_CASES_OF_BRAIN_TUMOR_Sec\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2247_DISTORTIONS_OF_THE_VISUAL_FIELDS_IN_CASES_OF_BRAIN_TUMOR_Sec\\text.md",
+      "bytes": 52820
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2247_DISTORTIONS_OF_THE_VISUAL_FIELDS_IN_CASES_OF_BRAIN_TUMOR_Sec\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2247_DISTORTIONS_OF_THE_VISUAL_FIELDS_IN_CASES_OF_BRAIN_TUMOR_Sec\\figures\\fig1.png",
+      "bytes": 2089931
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2248_THE_CONTROL_OF_BLEEDING_IN_OPERATIONS_FOR_BRAIN_TUMORS_WITH\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2248_THE_CONTROL_OF_BLEEDING_IN_OPERATIONS_FOR_BRAIN_TUMORS_WITH\\text.md",
+      "bytes": 681
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2248_THE_CONTROL_OF_BLEEDING_IN_OPERATIONS_FOR_BRAIN_TUMORS_WITH\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2248_THE_CONTROL_OF_BLEEDING_IN_OPERATIONS_FOR_BRAIN_TUMORS_WITH\\text.md",
+      "bytes": 681
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2249_Studies_of_fertilization_in_Nereis_I_The_cortical_changes_in\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2249_Studies_of_fertilization_in_Nereis_I_The_cortical_changes_in\\text.md",
+      "bytes": 67137
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2249_Studies_of_fertilization_in_Nereis_I_The_cortical_changes_in\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2249_Studies_of_fertilization_in_Nereis_I_The_cortical_changes_in\\text.md",
+      "bytes": 67137
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2250_The_effect_of_underfeeding_on_the_percentage_of_water_on_the\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2250_The_effect_of_underfeeding_on_the_percentage_of_water_on_the\\text.md",
+      "bytes": 11264
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2250_The_effect_of_underfeeding_on_the_percentage_of_water_on_the\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2250_The_effect_of_underfeeding_on_the_percentage_of_water_on_the\\text.md",
+      "bytes": 11264
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2251_A_CASE_OF_LESION_OF_THE_OPTIC_THALAMUS_WITH_AUTOPSY\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2251_A_CASE_OF_LESION_OF_THE_OPTIC_THALAMUS_WITH_AUTOPSY\\text.md",
+      "bytes": 36972
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2251_A_CASE_OF_LESION_OF_THE_OPTIC_THALAMUS_WITH_AUTOPSY\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2251_A_CASE_OF_LESION_OF_THE_OPTIC_THALAMUS_WITH_AUTOPSY\\figures\\fig4.png",
+      "bytes": 1144604
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2251_A_CASE_OF_LESION_OF_THE_OPTIC_THALAMUS_WITH_AUTOPSY\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2251_A_CASE_OF_LESION_OF_THE_OPTIC_THALAMUS_WITH_AUTOPSY\\figures\\fig5.png",
+      "bytes": 1028041
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2251_A_CASE_OF_LESION_OF_THE_OPTIC_THALAMUS_WITH_AUTOPSY\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2251_A_CASE_OF_LESION_OF_THE_OPTIC_THALAMUS_WITH_AUTOPSY\\text.md",
+      "bytes": 36972
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2251_A_CASE_OF_LESION_OF_THE_OPTIC_THALAMUS_WITH_AUTOPSY\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2251_A_CASE_OF_LESION_OF_THE_OPTIC_THALAMUS_WITH_AUTOPSY\\figures\\fig4.png",
+      "bytes": 1144604
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2251_A_CASE_OF_LESION_OF_THE_OPTIC_THALAMUS_WITH_AUTOPSY\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2251_A_CASE_OF_LESION_OF_THE_OPTIC_THALAMUS_WITH_AUTOPSY\\figures\\fig5.png",
+      "bytes": 1028041
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2252_TUMORS_OF_THE_PINEAL_BODY_WITH_AN_ACCOUNT_OF_THE_PINEAL_SYND\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2252_TUMORS_OF_THE_PINEAL_BODY_WITH_AN_ACCOUNT_OF_THE_PINEAL_SYND\\text.md",
+      "bytes": 100109
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2252_TUMORS_OF_THE_PINEAL_BODY_WITH_AN_ACCOUNT_OF_THE_PINEAL_SYND\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2252_TUMORS_OF_THE_PINEAL_BODY_WITH_AN_ACCOUNT_OF_THE_PINEAL_SYND\\figures\\fig1.png",
+      "bytes": 971323
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2252_TUMORS_OF_THE_PINEAL_BODY_WITH_AN_ACCOUNT_OF_THE_PINEAL_SYND\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2252_TUMORS_OF_THE_PINEAL_BODY_WITH_AN_ACCOUNT_OF_THE_PINEAL_SYND\\figures\\fig2.png",
+      "bytes": 734877
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2252_TUMORS_OF_THE_PINEAL_BODY_WITH_AN_ACCOUNT_OF_THE_PINEAL_SYND\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2252_TUMORS_OF_THE_PINEAL_BODY_WITH_AN_ACCOUNT_OF_THE_PINEAL_SYND\\figures\\fig3.png",
+      "bytes": 797065
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2252_TUMORS_OF_THE_PINEAL_BODY_WITH_AN_ACCOUNT_OF_THE_PINEAL_SYND\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2252_TUMORS_OF_THE_PINEAL_BODY_WITH_AN_ACCOUNT_OF_THE_PINEAL_SYND\\figures\\fig4.png",
+      "bytes": 555352
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2252_TUMORS_OF_THE_PINEAL_BODY_WITH_AN_ACCOUNT_OF_THE_PINEAL_SYND\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2252_TUMORS_OF_THE_PINEAL_BODY_WITH_AN_ACCOUNT_OF_THE_PINEAL_SYND\\figures\\fig5.png",
+      "bytes": 342211
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2252_TUMORS_OF_THE_PINEAL_BODY_WITH_AN_ACCOUNT_OF_THE_PINEAL_SYND\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2252_TUMORS_OF_THE_PINEAL_BODY_WITH_AN_ACCOUNT_OF_THE_PINEAL_SYND\\text.md",
+      "bytes": 100109
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2252_TUMORS_OF_THE_PINEAL_BODY_WITH_AN_ACCOUNT_OF_THE_PINEAL_SYND\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2252_TUMORS_OF_THE_PINEAL_BODY_WITH_AN_ACCOUNT_OF_THE_PINEAL_SYND\\figures\\fig1.png",
+      "bytes": 971323
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2252_TUMORS_OF_THE_PINEAL_BODY_WITH_AN_ACCOUNT_OF_THE_PINEAL_SYND\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2252_TUMORS_OF_THE_PINEAL_BODY_WITH_AN_ACCOUNT_OF_THE_PINEAL_SYND\\figures\\fig2.png",
+      "bytes": 734877
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2252_TUMORS_OF_THE_PINEAL_BODY_WITH_AN_ACCOUNT_OF_THE_PINEAL_SYND\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2252_TUMORS_OF_THE_PINEAL_BODY_WITH_AN_ACCOUNT_OF_THE_PINEAL_SYND\\figures\\fig3.png",
+      "bytes": 797065
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2252_TUMORS_OF_THE_PINEAL_BODY_WITH_AN_ACCOUNT_OF_THE_PINEAL_SYND\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2252_TUMORS_OF_THE_PINEAL_BODY_WITH_AN_ACCOUNT_OF_THE_PINEAL_SYND\\figures\\fig4.png",
+      "bytes": 555352
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2252_TUMORS_OF_THE_PINEAL_BODY_WITH_AN_ACCOUNT_OF_THE_PINEAL_SYND\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2252_TUMORS_OF_THE_PINEAL_BODY_WITH_AN_ACCOUNT_OF_THE_PINEAL_SYND\\figures\\fig5.png",
+      "bytes": 342211
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2253_THE_SYMPTOMATOLOGY_OF_TEMPOROSPHENOIDAL_TUMORS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2253_THE_SYMPTOMATOLOGY_OF_TEMPOROSPHENOIDAL_TUMORS\\text.md",
+      "bytes": 95984
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2253_THE_SYMPTOMATOLOGY_OF_TEMPOROSPHENOIDAL_TUMORS\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2253_THE_SYMPTOMATOLOGY_OF_TEMPOROSPHENOIDAL_TUMORS\\figures\\fig2.png",
+      "bytes": 556481
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2253_THE_SYMPTOMATOLOGY_OF_TEMPOROSPHENOIDAL_TUMORS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2253_THE_SYMPTOMATOLOGY_OF_TEMPOROSPHENOIDAL_TUMORS\\text.md",
+      "bytes": 95984
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2253_THE_SYMPTOMATOLOGY_OF_TEMPOROSPHENOIDAL_TUMORS\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2253_THE_SYMPTOMATOLOGY_OF_TEMPOROSPHENOIDAL_TUMORS\\figures\\fig2.png",
+      "bytes": 556481
     }
   ],
   "missing": [],

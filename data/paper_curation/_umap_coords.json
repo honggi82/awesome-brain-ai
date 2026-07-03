@@ -1,2137 +1,2227 @@
 {
   "003_Hughlings_Jackson_and_the_Cortical_Motor_Centres_in_the_Ligh": {
-    "x": 11.887349,
-    "y": 9.740816,
+    "x": -4.936412,
+    "y": 0.686052,
     "category": "HDBSCAN Cluster: has, ode, one, mental"
   },
   "015_EXPERIMENTAL_AND_CLINICAL_NOTES_ON_THE_SUBARACHNOID_SPACE": {
-    "x": 11.326048,
-    "y": 9.072768,
-    "category": "HDBSCAN Cluster: figure, which, vertigo, cases"
+    "x": -4.941557,
+    "y": -0.068434,
+    "category": "HDBSCAN Cluster: which, figure, attack, form"
   },
   "017_140_Ueber_das_Gewicht_des_schwersten_bis_jetzt_beschriebenen": {
-    "x": -5.036394,
-    "y": 14.470963,
+    "x": 8.062877,
+    "y": -1.266788,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "018_THYROID_EXTRACT_IN_JUVENILE_OBESITY_A_CLINICAL_NOTE": {
-    "x": 12.885834,
-    "y": 8.280287,
+    "x": -6.640641,
+    "y": 1.137944,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "019_A_CASE_OF_TUMOR_AT_THE_BASE_OF_THE_BRAIN_IN_THE_PONTINE_REGI": {
-    "x": 8.631549,
-    "y": 7.743835,
-    "category": "HDBSCAN Cluster: brain, figure, case, tumor"
+    "x": -5.584018,
+    "y": -3.011327,
+    "category": "HDBSCAN Cluster: figure, case, brain, had"
   },
   "054_RADIOGRAPHIC_RESEARCHES_ON_THE_TOPOGRAPHICAL_RELATIONS_OF_TH": {
-    "x": 11.490983,
-    "y": 12.170407,
+    "x": -3.407125,
+    "y": 0.757913,
     "category": "HDBSCAN Cluster: sinuses, brain, head, matter"
   },
   "055_Cases_of_Acromegaly_and_Infantile_Myxœdema_Occurring_Respect": {
-    "x": 10.280322,
-    "y": 9.064816,
-    "category": "HDBSCAN Cluster: infantile, which, she, cases"
+    "x": -4.630371,
+    "y": -0.810022,
+    "category": "HDBSCAN Bridge and Noise Papers"
   },
   "056_NEW_SOURCES_OF_DANGER_IN_THE_USE_OF_OPIUM": {
-    "x": 11.379724,
-    "y": 7.658583,
-    "category": "HDBSCAN Cluster: not, her, she, any"
+    "x": -6.689097,
+    "y": -0.490151,
+    "category": "HDBSCAN Cluster: not, her, she, cases"
   },
   "057_A_STUDY_OF_THE_NEUROFIBRILS_IS_THE_GANGLION_CELLS_OF_THE_CER": {
-    "x": 10.912209,
-    "y": 11.449597,
-    "category": "HDBSCAN Cluster: which, cells, have, ganglion"
+    "x": -3.205172,
+    "y": -0.463894,
+    "category": "HDBSCAN Cluster: which, have, ganglion, cells"
   },
   "058_A_Case_of_Malignant_Malarial_Fever_with_Cerebral_Symptoms_Te": {
-    "x": 9.573684,
-    "y": 7.160372,
+    "x": -6.511717,
+    "y": -2.011022,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "059_135_Ueber_einen_Fall_von_Commotio_cerebri_mct_bemerkenswerth": {
-    "x": -4.759012,
-    "y": 14.550118,
+    "x": 7.982133,
+    "y": -1.520063,
     "category": "HDBSCAN Cluster: fall, von, case, cerebral"
   },
   "060_PROBABLE_BRAIN_TUMOR_WITH_RECOVERY": {
-    "x": 8.997632,
-    "y": 7.436589,
-    "category": "HDBSCAN Cluster: had, case, figure, been"
+    "x": -6.118968,
+    "y": -2.789005,
+    "category": "HDBSCAN Cluster: had, she, figure, but"
   },
   "063_136_Gehirn-Substanz_In_Nervenkrankheiten_Use_of_Brain_Substa": {
-    "x": -5.139318,
-    "y": 14.409351,
-    "category": "HDBSCAN Cluster: figure, images, png, insomnia"
+    "x": 8.280659,
+    "y": -1.458913,
+    "category": "HDBSCAN Cluster: figure, images, png, treatment"
   },
   "064_21_EIN_FALL_VON_DIFFUSER_SARKOMATOSE_DER_GESAMTEN_PIA_MATER": {
-    "x": -5.098233,
-    "y": 14.697183,
+    "x": 8.124203,
+    "y": -1.442054,
     "category": "HDBSCAN Cluster: fall, von, case, cerebral"
   },
   "065_A_FEW_CASES_OF_BRAIN_INJURY_CLINICALLY_EXAMINED": {
-    "x": 9.420479,
-    "y": 6.742237,
-    "category": "HDBSCAN Cluster: right, case, figure, side"
+    "x": -6.780105,
+    "y": -2.562611,
+    "category": "HDBSCAN Cluster: right, side, figure, left"
   },
   "243_EXPERIMENTAL_WORK_ON_BRAIN_PRESSURE_FOLLOWING_INJURY": {
-    "x": 10.120084,
-    "y": 9.454339,
-    "category": "HDBSCAN Cluster: figure, brain, case, boston"
+    "x": -4.357193,
+    "y": -1.348037,
+    "category": "HDBSCAN Bridge and Noise Papers"
   },
   "244_GUNSHOT_WOUND_OF_THE_HEAD_PERFORATION_OF_THE_BRAIN_RECOVERY": {
-    "x": 10.722692,
-    "y": 7.24168,
+    "x": -6.773643,
+    "y": -1.162349,
     "category": "HDBSCAN Cluster: cases, not, wound, operation"
   },
   "245_RECONSTRUCTION_OF_SERIAL_SECTIONS_OF_BRAIN": {
-    "x": -5.328888,
-    "y": 14.518454,
-    "category": "HDBSCAN Cluster: figure, brain, reconstruction, serial"
+    "x": 8.131803,
+    "y": -1.105019,
+    "category": "HDBSCAN Cluster: figure, reconstruction, serial, sections"
   },
   "246_Report_of_a_case_of_brain_and_other_abscesses_following_tons": {
-    "x": 9.305419,
-    "y": 10.647376,
+    "x": -2.691989,
+    "y": -1.261196,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "247_The_Alleged_Adulteration_of_Milk_with_Brain-matter1": {
-    "x": 8.309998,
-    "y": 11.604604,
-    "category": "HDBSCAN Cluster: stage, development, alcohol, figure"
+    "x": -0.206748,
+    "y": 1.176485,
+    "category": "HDBSCAN Cluster: development, stage, figure, oxide"
   },
   "248_The_Effect_of_Small_Doses_of_Alcohol_on_the_Brain": {
-    "x": 11.689283,
-    "y": 9.891659,
+    "x": -4.804983,
+    "y": 0.74517,
     "category": "HDBSCAN Cluster: brain, grams, his, figure"
   },
   "293_Insomnia": {
-    "x": -5.153577,
-    "y": 14.313895,
-    "category": "HDBSCAN Cluster: figure, images, png, insomnia"
+    "x": 8.131142,
+    "y": -1.391473,
+    "category": "HDBSCAN Cluster: figure, images, png, treatment"
   },
   "062_THE_DIFFERENTIATION_OF_CHOREA_AND_THE_DISORDERS_SIMULATING_I": {
-    "x": 11.249226,
-    "y": 8.586065,
+    "x": -6.238886,
+    "y": -0.592627,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "253_22_COMMOTIONS_DE_LENCEPHALE_ET_DE_LA_MOELLE_EPINIÈRE_Cerebra": {
-    "x": -4.879355,
-    "y": 14.58098,
+    "x": 8.009485,
+    "y": -1.340503,
     "category": "HDBSCAN Cluster: fall, von, case, cerebral"
   },
   "254_A_Brief_Report_of_a_Case_of_Cerebral_Abscess_of_Otitic_Origi": {
-    "x": 10.371333,
-    "y": 7.387803,
+    "x": -6.814023,
+    "y": -1.047552,
     "category": "HDBSCAN Cluster: not, had, case, which"
   },
   "255_A_CASE_OF_CEREBRAL_ABSCESS_WITH_OPERATION": {
-    "x": 11.491432,
-    "y": 8.54551,
-    "category": "HDBSCAN Cluster: group, which, figure, body"
+    "x": -5.560881,
+    "y": 0.030398,
+    "category": "HDBSCAN Bridge and Noise Papers"
   },
   "256_A_case_of_mastoiditis-cerebral_tubercle-death_autopsy": {
-    "x": -5.752839,
-    "y": 14.27351,
+    "x": 8.83263,
+    "y": -0.891408,
     "category": "HDBSCAN Cluster: figure, case, mastoiditis-cerebral, tubercle-death"
   },
   "257_A_Case_of_Multiple_Cerebral_Hemorrhages_from_Chronic_Lead_Po": {
-    "x": 9.877507,
-    "y": 6.769205,
+    "x": -6.986437,
+    "y": -2.176836,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "259_Cerebral_abscess_following_chronic_otitis_media_purulenta-op": {
-    "x": -5.796361,
-    "y": 14.171668,
+    "x": 8.914914,
+    "y": -0.850905,
     "category": "HDBSCAN Cluster: figure, significance, certain, features"
   },
   "250_CEREBRAL_CYST_REPORT_OF_A_CASE": {
-    "x": 10.77276,
-    "y": 8.127649,
-    "category": "HDBSCAN Cluster: danger, its, which, not"
+    "x": -6.055366,
+    "y": -1.007413,
+    "category": "HDBSCAN Cluster: not, danger, which, figure"
   },
   "291_NOTE_ON_THROMBOSIS_OF_CEREBRAL_VEINS_OCCURRING_IN_A_CASE_OF": {
-    "x": 9.533224,
-    "y": 7.921478,
+    "x": -5.736462,
+    "y": -2.125747,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "292_Purulent_Nasal_Discharges_their_Diagnosis_and_Treatment__By": {
-    "x": 10.322484,
-    "y": 8.79183,
+    "x": -5.24709,
+    "y": -0.886502,
     "category": "HDBSCAN Cluster: figure, symptoms, hyoscine, diagnosis"
   },
   "251_Relation_between_Nervous_and_Glandular_Tissue_in_Ascidians": {
-    "x": 10.8598,
-    "y": 11.924584,
+    "x": -2.761198,
+    "y": 0.588277,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "261_The_division_of_differentiated_cells_in_the_central_nervous": {
-    "x": 11.775824,
-    "y": 11.553144,
-    "category": "HDBSCAN Cluster: white, rat, bundle, central"
+    "x": -3.096051,
+    "y": 1.419214,
+    "category": "HDBSCAN Cluster: been, figure, which, have"
   },
   "262_The_Brain_of_Acipenser_A_Contribution_to_the_Morphology_of_t": {
-    "x": 10.782154,
-    "y": 12.00913,
+    "x": -2.562704,
+    "y": 0.875156,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "263_An_ADDRESS_on_LOCALISATION_in_the_MOTOR_CEREBRAL_CORTEX": {
-    "x": 10.150085,
-    "y": 11.160015,
+    "x": -2.752222,
+    "y": -0.547341,
     "category": "HDBSCAN Cluster: motor, cortex, his, auditory"
   },
   "264_Des_foyers_lacunaires_de_desintegration_et_de_differentes_au": {
-    "x": 10.121992,
-    "y": 10.289694,
+    "x": -3.535447,
+    "y": -1.311514,
     "category": "HDBSCAN Cluster: figure, superior, worm, cerebellum"
   },
   "265_Das_cerebellum_von_scyllium_canicula": {
-    "x": 8.721334,
-    "y": 14.405923,
+    "x": 1.097384,
+    "y": -0.755156,
     "category": "HDBSCAN Cluster: der, die, und, yon"
   },
   "266_Studies_on_the_Neuroglia": {
-    "x": 10.775887,
-    "y": 11.406312,
+    "x": -3.47172,
+    "y": -0.220001,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "267_The_Significance_of_certain_Features_and_Types_of_the_Extern": {
-    "x": -5.83644,
-    "y": 14.211864,
+    "x": 8.87929,
+    "y": -0.809103,
     "category": "HDBSCAN Cluster: figure, significance, certain, features"
   },
   "268_ABNORMAL_BRAIN_DEVELOPMENT": {
-    "x": 12.469943,
-    "y": 8.628104,
+    "x": -6.295521,
+    "y": 0.795107,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "270_EUTHANASIA-A_MEDICOLEGAL_STUDY": {
-    "x": 12.561073,
-    "y": 7.970188,
+    "x": -6.696347,
+    "y": 0.775745,
     "category": "HDBSCAN Cluster: most, which, will, learned"
   },
   "271_Four_Cases_of_Primary_Thrombosis_of_Cerebral_Veins_and_Sinus": {
-    "x": 9.765306,
-    "y": 6.699738,
+    "x": -6.652699,
+    "y": -2.239332,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "269_CHANGES_in_the_NEURONAL_CENTRES_in_BERI-BERIC_NEURITIS": {
-    "x": 9.417219,
-    "y": 11.537895,
+    "x": -2.062828,
+    "y": -0.541952,
     "category": "HDBSCAN Cluster: these, gastric, recent, vol"
   },
   "272_MIRROR-WRITING_AND_THE_INVERTED_IMAGE": {
-    "x": 9.502666,
-    "y": 10.077835,
+    "x": -3.478255,
+    "y": -1.687221,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "273_A_CASE_OF_CEREBRAL_ABSCESS_COMPLICATING_GUNSHOT_INJURY_WITH": {
-    "x": 11.044405,
-    "y": 6.72136,
+    "x": -7.331735,
+    "y": -0.686544,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "274_A_REPORT_OF_SEVEN_OPERATIONS_FOR_BRAIN_TUMORS_AND_CYSTS": {
-    "x": 10.59462,
-    "y": 7.290579,
+    "x": -6.385605,
+    "y": -1.606302,
     "category": "HDBSCAN Cluster: brain, frontal, years, after"
   },
   "275_Destruction_of_Left_Eye_and_Frontal_Lobe_of_Brain_from_a_Sho": {
-    "x": 10.760784,
-    "y": 10.085771,
+    "x": -4.248373,
+    "y": -0.300496,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "276_Preliminary_report_upon_a_case_of_unilateral_atrophy_of_the": {
-    "x": 8.821517,
-    "y": 8.514538,
+    "x": -4.818917,
+    "y": -2.693796,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "277_THE_SKULL_AND_ITS_CONTENTS": {
-    "x": 10.805103,
-    "y": 9.296828,
+    "x": -4.957421,
+    "y": -0.834505,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "278_A_Case_of_Sarcoma_of_the_Brain_Removed_by_Operation_Subseque": {
-    "x": 10.55518,
-    "y": 7.04937,
+    "x": -6.695937,
+    "y": -1.12952,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "279_AN_ANTHROPOLOGICAL_STUDY_OF_THE_SMALL_BRAIN_OF_CIVILIZED_MAN": {
-    "x": 11.178109,
-    "y": 10.606633,
+    "x": -3.979149,
+    "y": 0.268674,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "280_Neuritis_Recurring_after_Atrophy_of_Both_Optic_Nerves_in_a_C": {
-    "x": 10.914267,
-    "y": 7.726815,
+    "x": -6.273524,
+    "y": -0.784608,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "281_REPORT_OF_A_CASE_OF_BRAIN_INJURY_WITH_PECULIAR_WHISTLING_SPE": {
-    "x": 9.45275,
-    "y": 8.22631,
+    "x": -5.386593,
+    "y": -2.050714,
     "category": "HDBSCAN Cluster: case, brain, fits, injury"
   },
   "282_The_operative_treatment_of_abscess_when_situated_in_the_brai": {
-    "x": 9.044341,
-    "y": 11.258888,
+    "x": -2.032528,
+    "y": -0.248142,
     "category": "HDBSCAN Cluster: journal, sphenoidal, sinusitis, when"
   },
   "284_Case_of_Cerebral_Tumour_at_the_Parieto-Occipital_Fissure": {
-    "x": 10.169414,
-    "y": 7.312845,
+    "x": -6.716564,
+    "y": -1.565313,
     "category": "HDBSCAN Cluster: not, had, case, which"
   },
   "283_XII_Laryngeal_Disturbances_in_the_Diseases_of_the_Central_Ne": {
-    "x": 11.022435,
-    "y": 10.998602,
+    "x": -3.219959,
+    "y": -0.031249,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "285_EVOLUTIONAL_AND_INVOLUTIONAL_TYPES_OF_MENTAL_AND_NERVOUS_DIS": {
-    "x": 11.967923,
-    "y": 9.423966,
-    "category": "HDBSCAN Cluster: mental, disease, figure, which"
+    "x": -5.404638,
+    "y": 0.539407,
+    "category": "HDBSCAN Cluster: mental, figure, sugar, disease"
   },
   "287_THREE_UNUSUAL_CASES_OF_CEREBROSPINAL_FEVER": {
-    "x": 9.404928,
-    "y": 6.653657,
-    "category": "HDBSCAN Cluster: right, case, figure, side"
+    "x": -6.772572,
+    "y": -2.630932,
+    "category": "HDBSCAN Cluster: right, side, figure, left"
   },
   "286_Massage_and_Movements_in_Hemiplegia": {
-    "x": 12.368837,
-    "y": 8.348039,
+    "x": -6.590139,
+    "y": 0.605989,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "289_PARESIS_OF_THE_EXTERNAL_RECTI_ASSOCIATED_WITH_IRREGULAR_TABE": {
-    "x": 11.665888,
-    "y": 10.640899,
+    "x": -4.540179,
+    "y": 1.032627,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "772_The_Minute_Changes_in_the_Cerebral_Cortex_consecutive_to_Exp": {
-    "x": 10.582626,
-    "y": 10.39782,
-    "category": "HDBSCAN Cluster: which, action, calcium, cortex"
+    "x": -3.509336,
+    "y": -0.692986,
+    "category": "HDBSCAN Cluster: which, action, calcium, figure"
   },
   "288_THE_ETIOLOGY_OF_PARETIC_DEMENTIA": {
-    "x": 11.560463,
-    "y": 8.196024,
+    "x": -6.027619,
+    "y": 0.064946,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "773_THE_SOMATIC_SIGNS_OF_BRAIN_SYPHILIS": {
-    "x": 11.035511,
-    "y": 7.993796,
+    "x": -5.908986,
+    "y": -0.798482,
     "category": "HDBSCAN Cluster: brain, prepared, not, mucoid"
   },
   "774_Ueber_die_Prüfung_von_Cortex_Granati": {
-    "x": 8.64418,
-    "y": 14.398746,
+    "x": 1.134686,
+    "y": -0.819465,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "775_A_CASE_OF_ASTEREOGNOSIS_RESULTING_FROM_INJURY_OF_THE_BRAIN_I": {
-    "x": 8.691882,
-    "y": 7.922416,
+    "x": -5.44061,
+    "y": -2.747682,
     "category": "HDBSCAN Cluster: case, there, right, figure"
   },
   "776_Observation_on_Brain_Surgery": {
-    "x": 10.500662,
-    "y": 10.099571,
-    "category": "HDBSCAN Cluster: which, action, calcium, cortex"
+    "x": -3.744614,
+    "y": -0.958367,
+    "category": "HDBSCAN Cluster: which, action, calcium, figure"
   },
   "777_Some_Cases_of_Brain_Injury": {
-    "x": 9.596732,
-    "y": 8.343262,
+    "x": -5.451624,
+    "y": -2.005533,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "778_Successful_Operation_upon_a_Case_of_Brain_Abscess_Following": {
-    "x": 10.674869,
-    "y": 8.28568,
-    "category": "HDBSCAN Cluster: operation, brain, abscess, successful"
+    "x": -5.663412,
+    "y": -1.083657,
+    "category": "HDBSCAN Bridge and Noise Papers"
   },
   "779_THE_IMMEDIATE_AND_REMOTE_EFFECTS_OF_BRAIN_INJURY": {
-    "x": 10.044594,
-    "y": 9.400351,
+    "x": -4.161998,
+    "y": -1.069773,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "780_The_New_Method_of_Inducing_Sleep_Without_Drugs_One-Hundred-D": {
-    "x": 11.548792,
-    "y": 9.982856,
+    "x": -4.560861,
+    "y": 0.537517,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "781_Thermo-Electric_Studies_on_the_Epileptic_Brain": {
-    "x": -5.19125,
-    "y": 14.651718,
+    "x": 7.996883,
+    "y": -1.08496,
     "category": "HDBSCAN Cluster: figure, thermo-electric, studies, epileptic"
   },
   "782_THE_CEREBRAL_NEURONS_IN_RELATION_TO_MEMORY_AND_ELECTRICITY": {
-    "x": 11.750541,
-    "y": 8.729688,
+    "x": -5.556728,
+    "y": 0.122467,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "783_A_CASE_OF_COMBINED_GASTRIC_AND_AURAL_VERTIGO_WITH_A_DISCUSSI": {
-    "x": 9.860221,
-    "y": 9.166106,
-    "category": "HDBSCAN Cluster: figure, which, vertigo, cases"
+    "x": -4.876561,
+    "y": -1.34994,
+    "category": "HDBSCAN Bridge and Noise Papers"
   },
   "784_A_TUMOR_NEUROGLIOMA_OF_THE_SUPERIOR_WORM_OF_THE_CEREBELLUM_A": {
-    "x": 9.862665,
-    "y": 10.052712,
+    "x": -3.576937,
+    "y": -1.444004,
     "category": "HDBSCAN Cluster: figure, superior, worm, cerebellum"
   },
   "785_An_attempt_to_define_the_primitive_functional_divisions_of_t": {
-    "x": 10.593059,
-    "y": 12.112956,
+    "x": -3.028004,
+    "y": 1.007681,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "786_Ueber_die_heteroplastische_Knochenbildung": {
-    "x": 8.692284,
-    "y": 14.378181,
+    "x": 0.981982,
+    "y": -0.694458,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "787_A_note_on_the_significance_of_the_size_of_nerve_fibers_in_fi": {
-    "x": 11.307317,
-    "y": 11.452601,
+    "x": -3.356106,
+    "y": 0.682328,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "788_The_Mental_Functions_of_the_Brain": {
-    "x": 12.69906,
-    "y": 8.951973,
+    "x": -5.923988,
+    "y": 1.236124,
     "category": "HDBSCAN Cluster: mental, functions, brain, lancet"
   },
   "789_The_neuroglia_of_the_spinal_cord_of_the_elephant_with_some_p": {
-    "x": 11.094189,
-    "y": 11.867841,
+    "x": -3.226053,
+    "y": 0.728395,
     "category": "HDBSCAN Cluster: brain, embryo, neuroglia, which"
   },
   "791_A_Case_of_Tumour_of_the_Left_Prefrontal_Lobe_Removed_by_Oper": {
-    "x": 10.782727,
-    "y": 9.72489,
+    "x": -4.117293,
+    "y": -0.734825,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "793_Observations_on_Certain_Cerebral_Localizations": {
-    "x": 9.536154,
-    "y": 11.176618,
-    "category": "HDBSCAN Cluster: infantile, which, she, cases"
+    "x": -2.267617,
+    "y": -0.526301,
+    "category": "HDBSCAN Bridge and Noise Papers"
   },
   "792_MENTAL_THERAPEUTICS_AND_THE_NEED_OF_PSYCHOLOGY_IN_THE_MEDICA": {
-    "x": 11.770254,
-    "y": 9.77731,
+    "x": -5.086467,
+    "y": 0.621675,
     "category": "HDBSCAN Cluster: has, ode, one, mental"
   },
   "795_ETIOLOGY_AND_TREATMENT_OF_MIGRAINE": {
-    "x": 12.400637,
-    "y": 8.559538,
+    "x": -6.202841,
+    "y": 0.824759,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "794_BULLET_WOUND_OF_THE_MOTOR_REGION_OF_THE_BRAIN_BULLET_RETAINE": {
-    "x": 10.34805,
-    "y": 6.964425,
+    "x": -6.807347,
+    "y": -1.668739,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "796_A_FATAL_CASE_OF_CEREBRAL_HÆMORRHAGE_IN_A_YOUTH": {
-    "x": 9.292089,
-    "y": 6.791653,
+    "x": -7.13088,
+    "y": -2.587917,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "797_PARADOXICAL_PSEUDO-HYPERTROPHY_FOLLOWING_INFANTILE_CEREBRAL": {
-    "x": 9.956886,
-    "y": 9.734035,
+    "x": -4.026768,
+    "y": -1.503397,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "800_TREPHINING_FOR_BRAIN_TUMORS_REPORT_OF_TWO_SUCCESSFUL_CASES-O": {
-    "x": 11.167932,
-    "y": 6.986266,
+    "x": -7.112154,
+    "y": -0.517988,
     "category": "HDBSCAN Cluster: tibia, operation, surface, bone"
   },
   "799_A_CASE_OF_TUMOUR_OF_THE_CEREBRAL_CORTEX": {
-    "x": 9.823483,
-    "y": 7.326171,
+    "x": -6.522672,
+    "y": -1.852783,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "798_A_NEW_SCHEME_OF_THE_ZONES_AND_CENTERS_OF_THE_HUMAN_CEREBRUM": {
-    "x": 10.638191,
-    "y": 7.748071,
+    "x": -6.367869,
+    "y": -1.176701,
     "category": "HDBSCAN Cluster: not, had, case, which"
   },
   "1548_KonstantinidesGreek_Lexicon": {
-    "x": 8.385004,
-    "y": 12.484859,
+    "x": -0.622619,
+    "y": -0.452069,
     "category": "HDBSCAN Cluster: classical, review, click, here"
   },
   "801_A_CASE_OF_CHOLESTEATOMA_OF_THE_BRAIN": {
-    "x": 9.030885,
-    "y": 7.824277,
-    "category": "HDBSCAN Cluster: brain, figure, case, tumor"
+    "x": -5.551281,
+    "y": -2.539026,
+    "category": "HDBSCAN Cluster: figure, case, brain, had"
   },
   "802_A_Clinical_Lecture_ON_A_CASE_OF_TRAUMATIC_EPILEPSY_WITH_ADHE": {
-    "x": 9.602977,
-    "y": 7.374525,
+    "x": -6.12606,
+    "y": -2.266748,
     "category": "HDBSCAN Cluster: case, brain, fits, injury"
   },
   "803_BRAIN_TUMOR_DEVELOPING_IN_A_CASE_OF_PERIPHERAL_NEURITIS_THE": {
-    "x": 11.209124,
-    "y": 7.614074,
-    "category": "HDBSCAN Cluster: which, not, figure, but"
+    "x": -6.371146,
+    "y": -0.386352,
+    "category": "HDBSCAN Cluster: which, stain, not, would"
   },
   "804_Certain_Clinical_Types_of_Brain_Syphilis": {
-    "x": 10.923875,
-    "y": 8.440288,
+    "x": -5.828173,
+    "y": -0.425765,
     "category": "HDBSCAN Cluster: figure, symptoms, hyoscine, diagnosis"
   },
   "805_Clinical_Differentiation_of_Brain_Syphilis_And_General_Pares": {
-    "x": -5.291283,
-    "y": 14.670819,
+    "x": 8.107429,
+    "y": -1.196933,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "806_SEVERE_BRAIN_INJURY_WITHOUT_FOCAL_SYMPTOMS": {
-    "x": 11.360091,
-    "y": 9.123582,
-    "category": "HDBSCAN Cluster: which, not, figure, but"
+    "x": -5.508139,
+    "y": -0.045908,
+    "category": "HDBSCAN Cluster: not, danger, which, figure"
   },
   "807_THE_SPECIFIC_AND_NON-SPECIFIC_LESIONS_OF_THE_BRAIN_RESULTING": {
-    "x": 9.652552,
-    "y": 9.791072,
+    "x": -3.825028,
+    "y": -1.527822,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "809_ANÆSTHESIA_BY_SUBARACHNOID_INJECTIONS_OF_COCAINE_IN_THE_LUMB": {
-    "x": 9.304945,
-    "y": 11.113076,
+    "x": -2.309579,
+    "y": -0.166955,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1549_A_CASE_OF_HÆMOPHILIA_IN_A_WOMAN_WITH_SYMPTOMS_OF_DEFECTIVE_C": {
-    "x": 8.974813,
-    "y": 6.489441,
-    "category": "HDBSCAN Cluster: right, case, figure, side"
+    "x": -6.973766,
+    "y": -2.936673,
+    "category": "HDBSCAN Cluster: right, side, figure, left"
   },
   "1550_A_CASE_OF_TUMOR_OF_THE_CEREBELLUM_AUTOPSY": {
-    "x": 8.86198,
-    "y": 7.300059,
-    "category": "HDBSCAN Cluster: had, case, figure, been"
+    "x": -6.082672,
+    "y": -2.960683,
+    "category": "HDBSCAN Cluster: had, she, figure, but"
   },
   "1551_A_CASE_OF_UNUSUAL_CEREBRAL_HEMORRHAGE": {
-    "x": 9.103474,
-    "y": 7.371969,
-    "category": "HDBSCAN Cluster: had, case, figure, been"
+    "x": -6.232563,
+    "y": -2.742105,
+    "category": "HDBSCAN Cluster: had, she, figure, but"
   },
   "808_ACUTE_HEMORRHAGIC_CORTICAL_ENCEPHALITIS": {
-    "x": 9.927072,
-    "y": 8.920103,
+    "x": -4.345815,
+    "y": -1.180939,
     "category": "HDBSCAN Cluster: acute, cortical, has, hemorrhagic"
   },
   "810_MATERNAL_IMPRESSION_MARKS_CHILD_FOR_A_FROG": {
-    "x": 10.134365,
-    "y": 8.749958,
+    "x": -4.873592,
+    "y": -0.970164,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1552_A_case_of_heterotopia_of_the_white_matter_in_the_Medulla_obl": {
-    "x": 10.248425,
-    "y": 10.820659,
+    "x": -3.412253,
+    "y": -0.784245,
     "category": "HDBSCAN Cluster: sinuses, brain, head, matter"
   },
   "1553_AN_OPERATION_FOR_SPINA_BIFIDA_WITH_REPORT_OF_A_SUCCESSFUL_CA": {
-    "x": 10.155471,
-    "y": 7.528332,
+    "x": -7.021668,
+    "y": -1.422612,
     "category": "HDBSCAN Cluster: tube, tumor, also, impossible"
   },
   "1554_Carcinosis_of_the_Central_Nervous_System": {
-    "x": -5.307715,
-    "y": 14.707634,
+    "x": 8.0123,
+    "y": -1.334657,
     "category": "HDBSCAN Cluster: figure, case, brain, carcinosis"
   },
   "1555_Cerebrospinal_Meningitis_due_to_Friedlnders_Pneumobacillus": {
-    "x": 8.764791,
-    "y": 6.577754,
-    "category": "HDBSCAN Cluster: urine, left, after, acute"
+    "x": -7.001391,
+    "y": -3.047776,
+    "category": "HDBSCAN Cluster: right, side, figure, left"
   },
   "1556_Editorial": {
-    "x": -5.13821,
-    "y": 14.293673,
+    "x": 8.084484,
+    "y": -1.562485,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1557_Emendations_in_the_Aratea_of_Cicero_and_Avienus": {
-    "x": 8.38236,
-    "y": 12.49026,
+    "x": -0.602019,
+    "y": -0.428921,
     "category": "HDBSCAN Cluster: classical, review, click, here"
   },
   "1558_Evolution_of_the_Pulp": {
-    "x": 9.121444,
-    "y": 11.217296,
+    "x": -2.050111,
+    "y": -0.469706,
     "category": "HDBSCAN Cluster: method, archiv, band, figure"
   },
   "1559_Particulars_of_a_Lawsuit": {
-    "x": 12.186003,
-    "y": 7.911926,
+    "x": -6.65999,
+    "y": 0.281319,
     "category": "HDBSCAN Cluster: most, which, will, learned"
   },
   "1560_THE_BLOOD-PRESSURE_REACTION_OF_ACUTE_CEREBRAL_COMPRESSION_IL": {
-    "x": 10.374552,
-    "y": 7.90232,
+    "x": -6.110213,
+    "y": -1.060093,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1561_The_Croonian_Lectures_ON_MUSCULAR_MOVEMENTS_AND_THEIR_REPRES": {
-    "x": 10.132782,
-    "y": 0.242072,
+    "x": -1.264928,
+    "y": 7.870969,
     "category": "HDBSCAN Cluster: elbow, movements, their, action"
   },
   "1562_X_On_the_Morphology_of_the_Brain_in_the_Mammalia_with_Specia": {
-    "x": 10.603903,
-    "y": 12.035692,
+    "x": -2.912546,
+    "y": 1.003514,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1563_XII_On_the_Morphology_of_the_Cerebral_Commissures_in_the_Ver": {
-    "x": 10.186249,
-    "y": 11.800449,
-    "category": "HDBSCAN Cluster: white, rat, bundle, central"
+    "x": -2.338472,
+    "y": 0.48982,
+    "category": "HDBSCAN Cluster: been, figure, which, have"
   },
   "1564_ON_AMAUROTIC_FAMILY_IDIOCY_A_DISEASE_CHIEFLY_OF_THE_GRAY_MAT": {
-    "x": 9.97576,
-    "y": 9.593662,
+    "x": -4.159056,
+    "y": -1.472341,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1565_Brain-weights_of_animals_with_special_reference_to_the_weigh": {
-    "x": 11.598001,
-    "y": 11.612906,
+    "x": -3.116539,
+    "y": 1.163693,
     "category": "HDBSCAN Cluster: brain, macaque, macacus, brain-weights"
   },
   "1566_Factors_in_heteromorphosis_in_planarians": {
-    "x": 10.642748,
-    "y": 11.748923,
+    "x": -2.931138,
+    "y": 0.54447,
     "category": "HDBSCAN Cluster: regeneration, other, embryos, factors"
   },
   "1567_The_brain_of_the_Archæoceti": {
-    "x": 10.065639,
-    "y": 11.951195,
+    "x": -2.191934,
+    "y": 0.467137,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1568_The_microscopic_structure_of_cortical_areas_in_man_and_some": {
-    "x": 10.883894,
-    "y": 11.279726,
+    "x": -3.256079,
+    "y": 0.167537,
     "category": "HDBSCAN Cluster: brain, cells, some, figure"
   },
   "1569_Ueber_die_Betheiligung_der_Neuroglia_an_der_Narbenbildung_im": {
-    "x": 8.63003,
-    "y": 14.409885,
+    "x": 1.042311,
+    "y": -0.729056,
     "category": "HDBSCAN Cluster: der, die, und, yon"
   },
   "1570_A_CASE_OF_LARGE_BLOOD_CYST_IN_THE_ARACHNOID_SPACE_SIMULATING": {
-    "x": 9.543485,
-    "y": 6.539162,
+    "x": -6.972214,
+    "y": -2.534327,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1571_THE_RESULTS_OF_SURGICAL_TREATMENT_OF_BRAIN_TUMORS": {
-    "x": 10.959709,
-    "y": 9.096372,
+    "x": -5.39741,
+    "y": -0.832721,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1572_On_the_transitory_or_artificial_fissures_of_the_human_cerebr": {
-    "x": 11.125393,
-    "y": 11.956133,
+    "x": -3.14787,
+    "y": 0.417171,
     "category": "HDBSCAN Cluster: fissures, transitory, permanent, human"
   },
   "1573_DETERMINATE_FACTORS_IN_THE_CAUSE_OF_INSANITY": {
-    "x": 12.379494,
-    "y": 8.592356,
+    "x": -6.471609,
+    "y": 0.702039,
     "category": "HDBSCAN Cluster: they, will, cause, factors"
   },
   "1574_RESULTS_OF_BRAIN_SURGERY_IN_EPILEPSY_AND_CONGENITAL_MENTAL_D": {
-    "x": 10.375864,
-    "y": 9.477684,
+    "x": -4.378383,
+    "y": -0.813263,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1575_The_Brain-Weight_of_the_Japanese": {
-    "x": 11.469386,
-    "y": 10.337812,
+    "x": -4.326828,
+    "y": 0.633475,
     "category": "HDBSCAN Cluster: all, brains, brain-weight, japanese"
   },
   "1576_The_fore-brain_of_Macacus": {
-    "x": 11.277749,
-    "y": 11.857717,
+    "x": -2.875024,
+    "y": 0.527811,
     "category": "HDBSCAN Cluster: brain, macaque, macacus, brain-weights"
   },
   "1577_ON_CHOREA_IN_PREGNANCY": {
-    "x": 9.202415,
-    "y": 11.058989,
+    "x": -2.314924,
+    "y": -0.199451,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1578_The_Cortical_Localization_of_the_Auditory_Area": {
-    "x": 10.910153,
-    "y": 11.141247,
-    "category": "HDBSCAN Bridge and Noise Papers"
+    "x": -3.475516,
+    "y": 0.180395,
+    "category": "HDBSCAN Cluster: been, figure, which, have"
   },
   "1579_Abscess_of_the_Spleen": {
-    "x": 9.709586,
-    "y": 6.984406,
+    "x": -7.05946,
+    "y": -2.154653,
     "category": "HDBSCAN Cluster: his, she, normal, him"
   },
   "1580_SPONTANEOUS_HEMORRHAGES_IN_NEWBORN_CHILDREN": {
-    "x": 10.080521,
-    "y": 7.263799,
+    "x": -6.832635,
+    "y": -1.505142,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1581_THE_SYMPTOMATOLOGY_AND_TREATMENT_OF_TRAUMATIC_INSANITY": {
-    "x": 10.231718,
-    "y": 9.537776,
+    "x": -4.298537,
+    "y": -1.100268,
     "category": "HDBSCAN Cluster: insanity, injury, clinical, traumatic"
   },
   "1582_Essai_sur_la_Psycho-physiologie_des_Monstres_Humains": {
-    "x": -4.90483,
-    "y": 14.544281,
-    "category": "HDBSCAN Cluster: figure, images, png, insomnia"
+    "x": 7.889325,
+    "y": -1.424163,
+    "category": "HDBSCAN Cluster: figure, images, png, treatment"
   },
   "1583_A_CASE_OF_BRAIN_ABSCESS_DUE_TO_LATENT_TYPHOID_INFECTION_OPER": {
-    "x": 9.539125,
-    "y": 8.774848,
-    "category": "HDBSCAN Cluster: case, brain, figure, have"
+    "x": -5.014517,
+    "y": -1.856773,
+    "category": "HDBSCAN Cluster: case, figure, brain, disease"
   },
   "1584_BRAIN-WEIGHT_CRANIAL_CAPACITY_AND_THE_FORM_OF_THE_HEAD_AND_T": {
-    "x": 12.415443,
-    "y": 9.29627,
+    "x": -5.507479,
+    "y": 1.105248,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1585_Report_of_cases_of_pyogenic_brain_diseases_associated_with_o": {
-    "x": -5.831008,
-    "y": 14.232211,
+    "x": 8.933357,
+    "y": -0.800063,
     "category": "HDBSCAN Cluster: figure, abscess, chronic, brain"
   },
   "1586_THE_BRAIN_OF_PROFESSOR_LABORDE": {
-    "x": 11.926095,
-    "y": 8.411063,
+    "x": -5.875353,
+    "y": 0.353644,
     "category": "HDBSCAN Cluster: temperature, physician, engadine, figure"
   },
   "1587_HISTORY_OF_A_CASE_OF_CEREBRAL_TUMOUR_EIGHT_AND_A-HALF_YEARS": {
-    "x": 9.859168,
-    "y": 7.246957,
+    "x": -6.4762,
+    "y": -1.943666,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1588_Extensive_Cavity_Formation_in_the_Central_Nervous_System_Pre": {
-    "x": 9.549377,
-    "y": 7.604085,
+    "x": -6.048184,
+    "y": -2.069395,
     "category": "HDBSCAN Cluster: been, cases, pellagra, figure"
   },
   "1589_Weitere_experimentelle_Untersuchungen_über_die_Beziehungen_d": {
-    "x": 8.643006,
-    "y": 14.395154,
+    "x": 1.084575,
+    "y": -0.796946,
     "category": "HDBSCAN Cluster: der, die, wir, pupille"
   },
   "1590_Influence_of_cerebrin_on_the_excitability_of_the_cerebral_co": {
-    "x": 8.786325,
-    "y": 12.064194,
+    "x": -1.042807,
+    "y": -0.404625,
     "category": "HDBSCAN Cluster: influence, cerebral, cortex, figure"
   },
   "1591_THE_VOLUNTARY_AND_INVOLUNTARY_BRAIN_CENTERS_CONTROLLING_THE": {
-    "x": 12.169926,
-    "y": 9.15716,
+    "x": -5.534932,
+    "y": 0.7213,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1592_To_the_study_of_the_influence_of_the_cerebral_cortex_on_pupi": {
-    "x": 8.902679,
-    "y": 11.88264,
+    "x": -1.212396,
+    "y": -0.422121,
     "category": "HDBSCAN Cluster: influence, cerebral, cortex, figure"
   },
   "1593_The_Affenspalte_in_Human_Brains": {
-    "x": -4.921503,
-    "y": 14.588005,
+    "x": 7.796295,
+    "y": -1.137191,
     "category": "HDBSCAN Cluster: figure, thermo-electric, studies, epileptic"
   },
   "1594_A_Brain_Hardened_by_Kaiserlings_Method_Showing_the_Track_of": {
-    "x": 11.361497,
-    "y": 9.765301,
+    "x": -4.686777,
+    "y": 0.305217,
     "category": "HDBSCAN Cluster: brain, grams, his, figure"
   },
   "1595_A_CASE_OF_BULLET_WOUND_OF_THE_BRAIN_WITH_PARTIAL_MOTOR_PARES": {
-    "x": 8.484909,
-    "y": 8.224353,
+    "x": -5.164412,
+    "y": -2.894864,
     "category": "HDBSCAN Cluster: each, bullet, wound, brain"
   },
   "1596_BRAIN-WEIGHTS_OF_BROTHERS_AND_SISTERS": {
-    "x": 11.709567,
-    "y": 8.084847,
-    "category": "HDBSCAN Cluster: figure, has, system, plate"
+    "x": -6.294383,
+    "y": 0.218995,
+    "category": "HDBSCAN Cluster: tyrosine, figure, lung, capacity"
   },
   "1597_CASE_of_BRAIN_TUMOUR": {
-    "x": 9.887441,
-    "y": 7.446822,
+    "x": -6.439311,
+    "y": -1.899315,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1598_Latent_Brain_Abscess_Becoming_Evident_with_Symptoms_of_Atrop": {
-    "x": 10.892106,
-    "y": 8.687063,
-    "category": "HDBSCAN Cluster: figure, which, vertigo, cases"
+    "x": -5.123189,
+    "y": -0.468141,
+    "category": "HDBSCAN Cluster: which, figure, attack, form"
   },
   "1599_NOTE_ON_A_CASE_OF_NECROTIC_SOFTENING_OF_THE_BRAIN_PROBABLY_D": {
-    "x": 8.931175,
-    "y": 6.480285,
+    "x": -7.110738,
+    "y": -2.985723,
     "category": "HDBSCAN Cluster: his, years, has, months"
   },
   "1600_On_the_Action_of_the_Rolandic_Cortex_in_Relation_to_Jacksoni": {
-    "x": 11.198172,
-    "y": 9.990811,
-    "category": "HDBSCAN Cluster: which, action, calcium, cortex"
+    "x": -4.702939,
+    "y": 0.15934,
+    "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1601_OTITIC_BRAIN_ABSCESS_REPORT_OF_TWO_CASES_APHASIA_IN_ONE_RECO": {
-    "x": 10.50855,
-    "y": 7.18286,
+    "x": -6.993223,
+    "y": -1.135911,
     "category": "HDBSCAN Cluster: have, not, made, handle"
   },
   "1602_The_Source_of_Dantes_Eunoè": {
-    "x": 8.412021,
-    "y": 12.466419,
+    "x": -0.576566,
+    "y": -0.445349,
     "category": "HDBSCAN Cluster: classical, review, click, here"
   },
   "1603_On_the_development_and_nature_of_the_Neuroglia": {
-    "x": 8.333499,
-    "y": 11.565039,
-    "category": "HDBSCAN Cluster: stage, development, alcohol, figure"
+    "x": -0.213684,
+    "y": 1.1756,
+    "category": "HDBSCAN Cluster: development, stage, figure, oxide"
   },
   "1604_Studies_on_regulation_V_The_relation_between_the_central_ner": {
-    "x": 11.02597,
-    "y": 12.122216,
+    "x": -2.65132,
+    "y": 0.947839,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1605_PHYSIOLOGIC_EXTIRPATION_OF_THE_GANGLION_OF_GASSER_FURTHER_RE": {
-    "x": 10.253225,
-    "y": 9.809265,
+    "x": -4.141166,
+    "y": -1.15154,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1606_Studien_über_Neuroglia": {
-    "x": 8.694329,
-    "y": 14.339116,
+    "x": 1.010462,
+    "y": -0.778319,
     "category": "HDBSCAN Cluster: der, die, wir, pupille"
   },
   "1607_ENORMOUS_MIXED_TUMOR_OF_THE_PAROTID_REGIONREACHING_TO_THE_CL": {
-    "x": 12.135127,
-    "y": 7.870403,
+    "x": -6.631443,
+    "y": 0.414235,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1608_A_CASE_OF_CORTICAL_HEMORRHAGES_FOLLOWING_SCARLET_FEVER": {
-    "x": 10.305655,
-    "y": 8.181799,
-    "category": "HDBSCAN Cluster: tyrosine, lung, capacity, figure"
+    "x": -5.968688,
+    "y": -1.25716,
+    "category": "HDBSCAN Cluster: tyrosine, figure, lung, capacity"
   },
   "1609_Angina_Pectoris_and_Arteriosclerosis": {
-    "x": 9.758821,
-    "y": 9.234468,
+    "x": -4.84285,
+    "y": -1.318979,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1610_UREMIC_HEMIPLEGIA_WITH_CHANGES_IN_THE_NERVE_CELLS_OF_THE_BRA": {
-    "x": 9.258526,
-    "y": 9.3787,
+    "x": -4.239799,
+    "y": -1.990131,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1611_THE_VALUE_OF_ASTEREOGNOSIS_AS_A_LOCALIZING_SYMPTOM_IN_CEREBR": {
-    "x": 10.404893,
-    "y": 10.443595,
-    "category": "HDBSCAN Cluster: cerebral, lesions, senile, dementia"
+    "x": -3.708267,
+    "y": -0.83806,
+    "category": "HDBSCAN Cluster: tumors, figure, which, lesions"
   },
   "1612_Thrombosis_of_the_Midcerebral_Artery_Causing_Aphasia_and_Hem": {
-    "x": -5.23256,
-    "y": 14.730081,
+    "x": 7.969545,
+    "y": -1.155378,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1613_The_toxicity_of_indol": {
-    "x": 11.189078,
-    "y": 8.491083,
+    "x": -5.051599,
+    "y": -0.263136,
     "category": "HDBSCAN Cluster: tetany, calcium, indol, symptoms"
   },
   "1614_A_CASE_OF_PERFORATING_WOUND_OF_BOTH_CEREBRAL_HEMISPHERES": {
-    "x": 10.410306,
-    "y": 10.558089,
+    "x": -3.400311,
+    "y": -0.661146,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1615_AUTOCHTHONOUS_SINUS_THROMBOSIS_OF_THE_CEREBRAL_DURAWITH_A_RE": {
-    "x": 8.746657,
-    "y": 7.597321,
-    "category": "HDBSCAN Cluster: brain, figure, case, tumor"
+    "x": -5.908424,
+    "y": -2.838198,
+    "category": "HDBSCAN Cluster: figure, case, brain, had"
   },
   "1616_A_Brain_Tumor_Involving_The_Superior_Parietal_Convolution_Tw": {
-    "x": 8.802999,
-    "y": 8.4492,
+    "x": -5.020444,
+    "y": -2.609249,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1617_GREAT_NORTHERN_CENTRAL_HOSPITAL_A_CASE_OF_SARCOMA_OF_THE_PLE": {
-    "x": 10.042511,
-    "y": 7.881176,
-    "category": "HDBSCAN Bridge and Noise Papers"
+    "x": -6.191514,
+    "y": -1.565446,
+    "category": "HDBSCAN Cluster: hospital, great, northern, central"
   },
   "1618_A_MICROSCOPICAL_STUDY_OF_THE_SPINAL_CORD_NOT_COMPRESSED_BY_D": {
-    "x": 9.046915,
-    "y": 9.222178,
-    "category": "HDBSCAN Bridge and Noise Papers"
+    "x": -4.173027,
+    "y": -2.161863,
+    "category": "HDBSCAN Cluster: case, figure, brain, disease"
   },
   "1619_THE_TREATMENT_OF_EMOTIONAL_DISTURBANCES": {
-    "x": 8.835108,
-    "y": 7.266172,
+    "x": -6.150951,
+    "y": -2.864033,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1620_Kasuistischer_Beitrag_zur_Lehre_von_den_Tumoren_des_obersten": {
-    "x": 8.68045,
-    "y": 14.355657,
+    "x": 1.07463,
+    "y": -0.782238,
     "category": "HDBSCAN Cluster: der, die, und, yon"
   },
   "1621_THE_CUTANEOUS_MANIFESTATIONS_IN_DIABETES_INSIPIDUSREPORTS_OF": {
-    "x": 9.266418,
-    "y": 8.184426,
-    "category": "HDBSCAN Cluster: case, brain, figure, have"
+    "x": -5.446617,
+    "y": -2.19394,
+    "category": "HDBSCAN Cluster: case, figure, brain, disease"
   },
   "1622_XXIII_A_Study_of_the_Development_of_the_Nose_and_its_Accesso": {
-    "x": 9.74341,
-    "y": 11.658772,
-    "category": "HDBSCAN Bridge and Noise Papers"
+    "x": -2.125802,
+    "y": 0.001327,
+    "category": "HDBSCAN Cluster: been, figure, which, have"
   },
   "1623_Analogies_between_the_phosphorized_fats_obtained_from_the_br": {
-    "x": 11.28196,
-    "y": 8.149965,
+    "x": -6.034436,
+    "y": -0.204072,
     "category": "HDBSCAN Cluster: gelatin, cent, per, than"
   },
   "1624_A_CONSIDERATION_OF_THE_NEUROSES_OF_STATUS_LYMPHATICUS": {
-    "x": 11.294276,
-    "y": 7.208442,
+    "x": -6.866967,
+    "y": -0.483428,
     "category": "HDBSCAN Cluster: hemorrhages, may, but, vomiting"
   },
   "1625_The_reactions_of_amphioxus_to_light": {
-    "x": 10.265755,
-    "y": 11.445965,
+    "x": -2.756621,
+    "y": 0.142538,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1626_HOW_THE_GENERAL_PRACTITIONER_SHOULD_TREAT_GONORRHEA": {
-    "x": 12.250607,
-    "y": 7.917776,
+    "x": -6.63526,
+    "y": 0.40161,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1627_PATHOLOGY_OF_INEBRIETYSUPERINTENDENT_WALNUT_LODGE_HOSPITAL": {
-    "x": 11.724177,
-    "y": 8.652545,
-    "category": "HDBSCAN Cluster: group, which, figure, body"
+    "x": -5.716006,
+    "y": 0.080986,
+    "category": "HDBSCAN Cluster: group, action, saccharolytic, colon"
   },
   "1628_The_Action_of_Calcium_on_the_Cerebral_Cortex_Azione_del_Calc": {
-    "x": 10.772174,
-    "y": 10.73981,
-    "category": "HDBSCAN Cluster: which, action, calcium, cortex"
+    "x": -3.524404,
+    "y": -0.32904,
+    "category": "HDBSCAN Cluster: which, action, calcium, figure"
   },
   "1629_DERBYSHIRE_ROYAL_INFIRMARY_A_CASE_OF_SUBCORTICAL_TUMOUR_OF_T": {
-    "x": 9.107961,
-    "y": 10.535736,
+    "x": -2.63588,
+    "y": -0.790367,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1630_Some_facts_showing_that_the_brain_educts_termed_phrenosin_18": {
-    "x": 10.457466,
-    "y": 11.166838,
-    "category": "HDBSCAN Bridge and Noise Papers"
+    "x": -3.210694,
+    "y": -0.029064,
+    "category": "HDBSCAN Cluster: protagon, cerebron, phrenosin, some"
   },
   "1631_A_CASE_OF_EPILEPSY_WITH_NECROTIC_SOFTENING_OF_THE_BRAIN_DUE": {
-    "x": 9.372964,
-    "y": 6.36825,
+    "x": -7.379341,
+    "y": -2.522568,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1632_A_CONTRIBUTION_TO_THE_STUDY_OF_VISUAL_DISTURBANCES_IN_BRAIN": {
-    "x": 12.596169,
-    "y": 8.357386,
+    "x": -6.410596,
+    "y": 0.942066,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1633_A_HEAVY_JAPANESE_BRAIN": {
-    "x": 11.471472,
-    "y": 10.238814,
+    "x": -4.415942,
+    "y": 0.544559,
     "category": "HDBSCAN Cluster: brain, grams, his, figure"
   },
   "1634_Brain_Surgery_in_Epilepsy_and_Concenital_Mental_Defect": {
-    "x": -5.059796,
-    "y": 14.515443,
-    "category": "HDBSCAN Cluster: figure, brain, reconstruction, serial"
+    "x": 8.063868,
+    "y": -1.124159,
+    "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1635_Case_of_Brain_Tumor_Involving_the_Superior_Parietal_Convolut": {
-    "x": 12.185248,
-    "y": 9.284878,
+    "x": -5.863821,
+    "y": 0.979451,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1636_NEWCASTLE-UPON-TYNE_ROYAL_INFIRMARY_A_CASE_OF_JACKSONIAN_EPI": {
-    "x": 10.348089,
-    "y": 7.078092,
+    "x": -6.696598,
+    "y": -1.635243,
     "category": "HDBSCAN Cluster: brain, frontal, years, after"
   },
   "1637_THE_BRAIN_OF_A_SWEDISH_STATESMAN": {
-    "x": 11.593588,
-    "y": 10.436548,
+    "x": -4.306181,
+    "y": 0.723349,
     "category": "HDBSCAN Cluster: all, brains, brain-weight, japanese"
   },
   "1638_TWO_TUMORS_OF_THE_BRAIN": {
-    "x": 8.744496,
-    "y": 7.607295,
-    "category": "HDBSCAN Cluster: brain, figure, case, tumor"
+    "x": -5.633899,
+    "y": -2.976149,
+    "category": "HDBSCAN Cluster: figure, case, brain, had"
   },
   "1639_Some_effects_on_rabbits_of_intravenous_injections_of_nicotin": {
-    "x": 8.33605,
-    "y": 11.617293,
-    "category": "HDBSCAN Cluster: stage, development, alcohol, figure"
+    "x": -0.259346,
+    "y": 1.059154,
+    "category": "HDBSCAN Cluster: alcohol, after, injection, gastrointestinal"
   },
   "1640_AN_UNUSUAL_CASE_OF_CEREBRAL_ABSCESS_BILATERAL_TEMPOROSPHENOI": {
-    "x": 10.323419,
-    "y": 7.124108,
-    "category": "HDBSCAN Bridge and Noise Papers"
+    "x": -6.476474,
+    "y": -1.567174,
+    "category": "HDBSCAN Cluster: hospital, great, northern, central"
   },
   "1641_NOTE_ON_A_CASE_OF_ACUTE_CEREBRAL_ABSCESS": {
-    "x": 9.285268,
-    "y": 6.544671,
-    "category": "HDBSCAN Cluster: right, case, figure, side"
+    "x": -6.828886,
+    "y": -2.595236,
+    "category": "HDBSCAN Cluster: right, side, figure, left"
   },
   "1642_ON_THE_THALAMUS": {
-    "x": 11.097671,
-    "y": 6.702279,
+    "x": -7.387898,
+    "y": -0.712724,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1643_On_the_Development_of_the_blood-vessels_of_the_brain_in_the": {
-    "x": 11.346443,
-    "y": 12.041802,
+    "x": -3.185389,
+    "y": 0.829726,
     "category": "HDBSCAN Cluster: brain, embryo, neuroglia, which"
   },
   "1644_BIOMETRICAL_STUDIES_ON_MAN_L_VARIATION_AND_CORRELATION_IN_BR": {
-    "x": 11.702251,
-    "y": 11.598006,
+    "x": -3.112017,
+    "y": 1.454816,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1645_A_three_weeks_human_embryo_with_especial_reference_to_the_br": {
-    "x": 11.149476,
-    "y": 12.161375,
+    "x": -2.623869,
+    "y": 0.911725,
     "category": "HDBSCAN Cluster: brain, embryo, neuroglia, which"
   },
   "1646_Iniencephalus": {
-    "x": 9.327923,
-    "y": 11.224217,
+    "x": -2.190631,
+    "y": -0.278615,
     "category": "HDBSCAN Cluster: journal, sphenoidal, sinusitis, when"
   },
   "1647_The_Theory_of_Colonization": {
-    "x": 12.172545,
-    "y": 8.179002,
+    "x": -6.30373,
+    "y": 0.377886,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1648_On_the_occurrence_of_sheath_cells_and_the_nature_of_the_axon": {
-    "x": 10.815008,
-    "y": 11.472237,
-    "category": "HDBSCAN Cluster: which, cells, have, ganglion"
+    "x": -3.192381,
+    "y": 0.025881,
+    "category": "HDBSCAN Cluster: cells, described, mass, nervous"
   },
   "1649_Can_Birds_Smell": {
-    "x": -4.97145,
-    "y": 14.512542,
+    "x": 7.877996,
+    "y": -1.342659,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1650_The_effect_of_the_bearing_of_young_upon_the_body-weight_and": {
-    "x": 11.889841,
-    "y": 11.484636,
+    "x": -3.237506,
+    "y": 1.645076,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1651_A_study_of_the_location_and_arrangement_of_the_giant_cells_i": {
-    "x": 11.14388,
-    "y": 11.305272,
+    "x": -3.257415,
+    "y": 0.361864,
     "category": "HDBSCAN Cluster: brain, cells, some, figure"
   },
   "1652_A_study_of_the_functions_of_different_parts_of_the_frogs_bra": {
-    "x": 11.301714,
-    "y": 11.549262,
-    "category": "HDBSCAN Cluster: white, rat, bundle, central"
+    "x": -3.223786,
+    "y": 0.663522,
+    "category": "HDBSCAN Cluster: been, figure, which, have"
   },
   "1653_A_FOOTNOTE_TO_THE_ANCESTRAL_HISTORY_OF_THE_VERTEBRATE_BRAIN": {
-    "x": 10.600076,
-    "y": 12.032164,
+    "x": -2.465153,
+    "y": 0.792885,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1654_THE_TREATMENT_OF_CEREBRAL_PALSIES_AND_ATHETOSIS_BY_NERVE_ANA": {
-    "x": 10.816877,
-    "y": 9.289139,
+    "x": -5.01577,
+    "y": -0.879153,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1655_The_Treatment_of_Cerebral_Tumors": {
-    "x": -5.34414,
-    "y": 14.664736,
-    "category": "HDBSCAN Cluster: figure, brain, reconstruction, serial"
+    "x": 8.138641,
+    "y": -1.098018,
+    "category": "HDBSCAN Cluster: figure, reconstruction, serial, sections"
   },
   "1656_THE_OCULAR_SYMPTOMS_OF_LESIONS_OF_THE_OPTIC_CHIASMWITH_THE_R": {
-    "x": 10.29779,
-    "y": 10.757627,
+    "x": -3.347629,
+    "y": -0.926982,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1657_A_CASE_OF_HEART_GUMMATA_WITH_SUDDEN_DEATH": {
-    "x": 11.633759,
-    "y": 7.558419,
-    "category": "HDBSCAN Bridge and Noise Papers"
+    "x": -6.585286,
+    "y": -0.226637,
+    "category": "HDBSCAN Cluster: case, much, which, can"
   },
   "1658_THE_NATURE_OF_TRAUMATIC_SCLEROSIS": {
-    "x": 11.838507,
-    "y": 9.306514,
+    "x": -5.285135,
+    "y": 0.404121,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1659_Symptomatology_diagnosis_and_treatment_of_encephalitis_and_b": {
-    "x": -5.673957,
-    "y": 14.380084,
+    "x": 8.693155,
+    "y": -0.955079,
     "category": "HDBSCAN Cluster: figure, case, mastoiditis-cerebral, tubercle-death"
   },
   "1660_A_CASE_OF_ENCYSTED_CEREBRAL_ABSCESS": {
-    "x": 9.354682,
-    "y": 7.481766,
+    "x": -6.089773,
+    "y": -2.520947,
     "category": "HDBSCAN Cluster: method, archiv, band, figure"
   },
   "1661_Cerebral_Symptoms_in_Measles": {
-    "x": -5.356928,
-    "y": 14.726045,
+    "x": 8.20077,
+    "y": -1.094485,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1662_Die_Medullaranästhesie_mittelst_Cocain-Suprarenin": {
-    "x": 8.655383,
-    "y": 14.352626,
+    "x": 1.0633,
+    "y": -0.766367,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1663_THE_CIRCUMSTANCES_AND_TREATMENT_OF_BRIGHTS_DISEASE": {
-    "x": 9.90232,
-    "y": 7.028089,
+    "x": -7.091065,
+    "y": -2.003701,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1664_THE_CURABILITY_OF_EARLY_PARESIS": {
-    "x": 11.538533,
-    "y": 9.526767,
+    "x": -4.878168,
+    "y": 0.310155,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1665_Treatment_of_Cerebrospinal_Meningitis": {
-    "x": 9.098025,
-    "y": 9.167224,
+    "x": -4.834075,
+    "y": -1.850587,
     "category": "HDBSCAN Cluster: serum, cerebrospinal, cases, treatment"
   },
   "1666_The_High-frequency_Electrical_Treatment": {
-    "x": -5.032042,
-    "y": 14.596345,
-    "category": "HDBSCAN Bridge and Noise Papers"
+    "x": 8.008317,
+    "y": -1.093745,
+    "category": "HDBSCAN Cluster: figure, images, png, treatment"
   },
   "1667_EARLY_DIAGNOSIS_OF_SURGICAL_DISEASES_OF_THE_URINARY_TRACT": {
-    "x": 10.919293,
-    "y": 8.780653,
+    "x": -5.418257,
+    "y": -0.367297,
     "category": "HDBSCAN Cluster: diagnosis, diseases, urinary, nervous"
   },
   "1668_Cerebrospinal_Meningitis_in_Animals_and_in_Man": {
-    "x": 12.405804,
-    "y": 8.051116,
+    "x": -6.569199,
+    "y": 0.643882,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1669_Hyperemesis_Gravidarum": {
-    "x": 9.26653,
-    "y": 11.22084,
+    "x": -2.209634,
+    "y": -0.089269,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1670_Repraesentatio_Temporum_in_the_Oratio_Obliqua_of_Caesar": {
-    "x": 8.377405,
-    "y": 12.504651,
+    "x": -0.585754,
+    "y": -0.442622,
     "category": "HDBSCAN Cluster: classical, review, click, here"
   },
   "1671_A_CASE_OF_VISUAL_HALLUCINATIONS_AND_CROSSED_AMBLYOPIA_WITH_V": {
-    "x": 9.125043,
-    "y": 9.480546,
+    "x": -4.040637,
+    "y": -2.082367,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1672_A_CASE_OF_BRAIN_TUMOR_WITH_PROGRESSIVE_BLINDNESS": {
-    "x": 8.79737,
-    "y": 6.604617,
+    "x": -7.236626,
+    "y": -2.941345,
     "category": "HDBSCAN Cluster: there, case, brain, tumor"
   },
   "1673_A_CASE_OF_CHOLESTERIN_STONES_TN_THE_BRAIN_AND_CORD": {
-    "x": 11.413047,
-    "y": 8.073627,
+    "x": -6.062296,
+    "y": -0.056156,
     "category": "HDBSCAN Cluster: gelatin, cent, per, than"
   },
   "1674_BRAIN_TUMORS_A_STUDY_OF_CLINICAL_AND_POST-MORTEM_RECORDS_BEA": {
-    "x": 10.984838,
-    "y": 9.545884,
-    "category": "HDBSCAN Cluster: cases, brain, tumors, figure"
+    "x": -4.202857,
+    "y": -0.626227,
+    "category": "HDBSCAN Cluster: tumors, figure, which, lesions"
   },
   "1675_IS_DELUSIONAL_INSANITY_DUE_TO_DISEASE_OF_THE_BRAIN": {
-    "x": -5.098379,
-    "y": 14.433762,
+    "x": 8.08516,
+    "y": -1.184397,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1676_REPORT_OF_TWO_FATAL_CASES_OF_BRAIN_ABSCESS": {
-    "x": 9.633595,
-    "y": 8.187388,
-    "category": "HDBSCAN Cluster: case, brain, figure, have"
+    "x": -5.61378,
+    "y": -1.791166,
+    "category": "HDBSCAN Cluster: case, figure, brain, disease"
   },
   "1677_THE_BRAIN_OF_THE_HISTOLOGIST_AND_PHYSIOLOGIST_OTTO_C_LOVEN": {
-    "x": 9.936729,
-    "y": 8.000262,
+    "x": -5.893279,
+    "y": -1.715871,
     "category": "HDBSCAN Cluster: cliff, sands, deposits, third"
   },
   "1678_THE_EFFECT_OF_ALCOHOL_UPON_THE_HUMAN_BRAIN": {
-    "x": 12.599578,
-    "y": 9.215543,
+    "x": -5.646425,
+    "y": 1.256009,
     "category": "HDBSCAN Cluster: alcohol, pressure, effect, hospital"
   },
   "1779_A_FURTHER_NOTE_ON_THE_RELATION_BETWEEN_VARIOUS_ATMOSPHERIC_C": {
-    "x": 10.471773,
-    "y": 8.146254,
+    "x": -6.091532,
+    "y": -1.144982,
     "category": "HDBSCAN Cluster: alcohol, pressure, effect, hospital"
   },
   "1780_A_PHILIPPINE_FEVER": {
-    "x": 11.138659,
-    "y": 7.436354,
+    "x": -6.812378,
+    "y": -0.446863,
     "category": "HDBSCAN Cluster: have, not, made, handle"
   },
   "1781_A_STUDY_OF_MENTAL_DISEASES_ASSOCIATED_WITH_CEREBRAL_ARTERIO-": {
-    "x": 9.377121,
-    "y": 9.656181,
-    "category": "HDBSCAN Cluster: cerebral, lesions, senile, dementia"
+    "x": -3.804765,
+    "y": -1.858855,
+    "category": "HDBSCAN Cluster: cerebral, senile, dementia, danvers"
   },
   "1782_APHASIA_AND_THE_CEREBRAL_ZONE_OF_SPEECH": {
-    "x": -5.207771,
-    "y": 14.776505,
+    "x": 7.912177,
+    "y": -0.978029,
     "category": "HDBSCAN Cluster: figure, thermo-electric, studies, epileptic"
   },
   "1783_ATMOSPHERIC_CONDITIONS_AND_THE_OCCURRENCE_OF_CEREBRAL_HÆMORR": {
-    "x": 10.833718,
-    "y": 8.290524,
+    "x": -6.011724,
+    "y": -1.027419,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1784_HIGH_BAROMETRIC_PRESSURE_AND_CEREBRAL_HÆMORRHAGE": {
-    "x": 10.743039,
-    "y": 7.829268,
+    "x": -6.041443,
+    "y": -0.745507,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1785_Some_racial_peculiarities_of_the_Negro_brain": {
-    "x": 11.143215,
-    "y": 11.478236,
+    "x": -3.071055,
+    "y": 0.508691,
     "category": "HDBSCAN Cluster: brain, cells, some, figure"
   },
   "1786_On_the_centers_for_taste_and_touch_in_the_medulla_oblongata": {
-    "x": 11.180901,
-    "y": 11.445107,
+    "x": -2.962488,
+    "y": 0.148017,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1787_EXPERIMENTAL_CEREBROSPINAL_MENINGITIS_AND_ITS_SERUM_TREATMEN": {
-    "x": 11.238252,
-    "y": 7.875266,
+    "x": -6.086397,
+    "y": -0.63257,
     "category": "HDBSCAN Cluster: brain, prepared, not, mucoid"
   },
   "1788_IV_On_Sutcliffia_insignis_a_new_Type_of_Medulloseæ_from_the": {
-    "x": 9.906505,
-    "y": 11.945331,
+    "x": -2.037391,
+    "y": 0.312455,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1789_D_FFUSE_GLIOSIS_OF_THE_CEREBRAL_WHITE_MATTER_IN_A_CHILD": {
-    "x": 8.651718,
-    "y": 8.665059,
+    "x": -4.720249,
+    "y": -2.771461,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1790_TYPES_OF_CONGENITAL_SYMBOL_AMBLYOPIA": {
-    "x": 8.860871,
-    "y": 6.708944,
+    "x": -6.833974,
+    "y": -3.074651,
     "category": "HDBSCAN Cluster: his, years, has, months"
   },
   "1791_A_CASE_OF_ORBITAL_ENCEPHALOCELE_WITH_UNIQUE_MALFORMATIONS_OF": {
-    "x": 9.506546,
-    "y": 10.391739,
+    "x": -3.19836,
+    "y": -1.392172,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1792_The_Mental_Symptoms_of_Cerebral_Tumor": {
-    "x": 10.832722,
-    "y": 9.615488,
-    "category": "HDBSCAN Cluster: cases, brain, tumors, figure"
+    "x": -4.440597,
+    "y": -0.548792,
+    "category": "HDBSCAN Cluster: tumors, figure, which, lesions"
   },
   "1793_NECROSIS_OF_THE_ENTIRE_RENAL_CORTEX_OF_BOTH_KIDNEYS": {
-    "x": 9.904637,
-    "y": 7.190414,
+    "x": -6.783213,
+    "y": -2.06339,
     "category": "HDBSCAN Cluster: which, day, his, figure"
   },
   "1794_REMOVAL_OF_A_CEREBRAL_TUMOUR_ENDOTHELIOMA_WHICH_HAD_INVADED": {
-    "x": 12.205427,
-    "y": 8.72499,
-    "category": "HDBSCAN Bridge and Noise Papers"
+    "x": -5.963196,
+    "y": 0.712103,
+    "category": "HDBSCAN Cluster: should, which, how, had"
   },
   "1795_OBSERVATIONS_ON_THE_FUNCTIONS_OF_THE_ASSOCIATION_AREAS_CEREB": {
-    "x": 11.485254,
-    "y": 7.670651,
-    "category": "HDBSCAN Cluster: which, not, figure, but"
+    "x": -6.488609,
+    "y": -0.182694,
+    "category": "HDBSCAN Cluster: which, stain, not, would"
   },
   "1796_THE_DIAGNOSIS_AND_LOCALISATION_OF_TUMOURS_OF_THE_FRONTAL_REG": {
-    "x": 10.691685,
-    "y": 10.569477,
+    "x": -3.267097,
+    "y": -0.617858,
     "category": "HDBSCAN Cluster: frontal, brain, diagnosis, tumours"
   },
   "1797_THE_RELATIVE_BRAIN-WEIGHT_OF_MAN_AND_WOMAN": {
-    "x": 12.32105,
-    "y": 8.699427,
+    "x": -6.104649,
+    "y": 0.78076,
     "category": "HDBSCAN Cluster: but, have, been, very"
   },
   "1798_A_CASE_OF_POSTERIOR_BASAL_MENINGITIS_WITH_FEW_CEREBRAL_SYMPT": {
-    "x": 10.228839,
-    "y": 7.615951,
+    "x": -6.576296,
+    "y": -1.109698,
     "category": "HDBSCAN Cluster: cured, one, who, which"
   },
   "1819_A_STUDY_OF_BRAIN_INFECTIONS_WITH_THE_PNEUMOCOCCUS": {
-    "x": 9.001575,
-    "y": 7.057603,
-    "category": "HDBSCAN Cluster: urine, left, after, acute"
+    "x": -6.622835,
+    "y": -2.764405,
+    "category": "HDBSCAN Cluster: acute, urine, later, have"
   },
   "1820_CEREBRAL_AND_OPHTHALMIC_COMPLICATIONS_IN_SPHENOIDAL_SINUSITI": {
-    "x": 9.008473,
-    "y": 11.072001,
+    "x": -2.036333,
+    "y": -0.541346,
     "category": "HDBSCAN Cluster: journal, sphenoidal, sinusitis, when"
   },
   "1821_The_Results_of_Operation_for_the_Removal_of_Cerebral_Tumors": {
-    "x": 11.767282,
-    "y": 7.829168,
+    "x": -6.464336,
+    "y": 0.104468,
     "category": "HDBSCAN Cluster: cases, not, wound, operation"
   },
   "1822_SURGICAL_TREATMENT_OF_CONGENITAL_HYDROCEPHALUSREPORT_OF_A_CA": {
-    "x": 9.656439,
-    "y": 8.747097,
+    "x": -5.053373,
+    "y": -1.806566,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1823_A_DEFINITE_CLINICAL_VARIETY_OF_CEREBRAL_ARTERIOSCLEROSIS": {
-    "x": 9.506502,
-    "y": 9.277729,
+    "x": -4.645925,
+    "y": -1.566553,
     "category": "HDBSCAN Cluster: insanity, injury, clinical, traumatic"
   },
   "1824_CEREBROSPINAL_MENINGITIS_IN_NEW_YORK_CITY_DURING_1904_AND_19": {
-    "x": 11.484726,
-    "y": 9.012622,
-    "category": "HDBSCAN Bridge and Noise Papers"
+    "x": -4.883252,
+    "y": -0.004084,
+    "category": "HDBSCAN Cluster: figure, nervous, brain, diseases"
   },
   "1825_Cerebral_Seizures_with_Suboccipital_Pain_Miliary_Cerebral_an": {
-    "x": 8.532693,
-    "y": 7.758837,
+    "x": -5.652137,
+    "y": -2.854569,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1826_THE_INNERVATION_OF_CEREBRAL_BLOOD_VESSELS": {
-    "x": 9.793606,
-    "y": 7.085141,
+    "x": -6.615472,
+    "y": -2.218832,
     "category": "HDBSCAN Cluster: which, day, his, figure"
   },
   "1827_A_STUDY_OF_ACUTE_LEPTOMENINGITIS_STREPTOCOCCUS_PYOGENES": {
-    "x": 9.504988,
-    "y": 10.895072,
+    "x": -2.305376,
+    "y": -0.869962,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1828_THE_LOCALIZATION_OF_THE_HIGHER_PSYCHIC_FUNCTIONS_WITH_SPECIA": {
-    "x": 10.823794,
-    "y": 10.484808,
+    "x": -4.109192,
+    "y": -0.154088,
     "category": "HDBSCAN Cluster: frontal, brain, diagnosis, tumours"
   },
   "1829_CASES_OF_MENINGITIS_WITH_ISOLATION_OF_DIPHTHERIA_BACILLUS_FR": {
-    "x": 11.285666,
-    "y": 7.076597,
+    "x": -7.035046,
+    "y": -0.390699,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1830_A_CASE_OF_EPILEPTIC_IDIOCY_ASSOCIATED_WITH_TUBEROSE_SCLEROSI": {
-    "x": 9.489182,
-    "y": 7.284328,
-    "category": "HDBSCAN Cluster: tyrosine, lung, capacity, figure"
+    "x": -6.245604,
+    "y": -2.326814,
+    "category": "HDBSCAN Cluster: tyrosine, figure, lung, capacity"
   },
   "1831_LIMITED_AREA_OF_ANESTHESIA_EPILEPTIFORM_ATTACKS_OF_HEMIALGES": {
-    "x": 8.751667,
-    "y": 8.579196,
-    "category": "HDBSCAN Cluster: figure, brain, case, boston"
+    "x": -4.831713,
+    "y": -2.638257,
+    "category": "HDBSCAN Cluster: case, boston, muscular, brain"
   },
   "1832_ReviewsSOME_RECENT_RESEARCHES_ON_THE_TRACTS_OF_THE_BRAIN-STE": {
-    "x": 9.496797,
-    "y": 11.693623,
+    "x": -1.893283,
+    "y": -0.532951,
     "category": "HDBSCAN Cluster: these, gastric, recent, vol"
   },
   "1833_A_CASE_OF_CEREBRAL_TUMOUR_OPERATION_RECOVERY": {
-    "x": 8.883677,
-    "y": 6.558434,
-    "category": "HDBSCAN Cluster: right, case, figure, side"
+    "x": -6.988416,
+    "y": -2.93271,
+    "category": "HDBSCAN Cluster: right, side, figure, left"
   },
   "1834_A_CASE_OF_GLIOMA_OF_THE_FRONTAL_LOBE_WITH_INVASION_OF_THE_OP": {
-    "x": 8.757413,
-    "y": 9.003044,
+    "x": -4.233166,
+    "y": -2.339009,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1835_A_CASE_OF_ONE_CEREBRAL_HEMISPHERE_SUPPLYING_BOTH_SIDES_OF_TH": {
-    "x": 10.068995,
-    "y": 6.887417,
+    "x": -6.130525,
+    "y": -2.103547,
     "category": "HDBSCAN Cluster: case, there, right, figure"
   },
   "1836_Cerebral_Embolism_Following_Ligation_of_the_External_Carotid": {
-    "x": 8.474445,
-    "y": 7.774311,
+    "x": -5.856444,
+    "y": -2.916806,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1837_CONGENITAL_CYSTIC_KIDNEY": {
-    "x": 8.776366,
-    "y": 7.383132,
-    "category": "HDBSCAN Cluster: brain, figure, case, tumor"
+    "x": -6.164001,
+    "y": -3.066153,
+    "category": "HDBSCAN Cluster: figure, case, brain, had"
   },
   "1864_SARCOMA_OF_THE_CEREBELLUM_SARCOMATOUS_INFILTRATION_OF_THE_SP": {
-    "x": 8.843184,
-    "y": 8.309984,
-    "category": "HDBSCAN Cluster: hospital, history, case, well"
+    "x": -5.235296,
+    "y": -2.560786,
+    "category": "HDBSCAN Cluster: figure, case, brain, had"
   },
   "1865_INJURIES_TO_THE_CHILDS_HEAD_DURING_LABOR": {
-    "x": 11.811893,
-    "y": 8.761572,
-    "category": "HDBSCAN Bridge and Noise Papers"
+    "x": -5.760975,
+    "y": 0.263087,
+    "category": "HDBSCAN Cluster: case, much, which, can"
   },
   "1866_The_Childs_World_of_Imagination": {
-    "x": 11.975014,
-    "y": 9.633108,
+    "x": -5.212436,
+    "y": 0.658926,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1867_ETIOLOGY_OF_CEREBRAL_PALSIES_IN_CHILDREN": {
-    "x": 9.842889,
-    "y": 8.53613,
+    "x": -5.472473,
+    "y": -1.394216,
     "category": "HDBSCAN Cluster: been, cases, pellagra, figure"
   },
   "1868_Phillimores_Silvae_of_Statius": {
-    "x": 8.383529,
-    "y": 12.494137,
+    "x": -0.594235,
+    "y": -0.418199,
     "category": "HDBSCAN Cluster: classical, review, click, here"
   },
   "1869_CEREBRAL_TOPOGRAPHY_AT_THE_SECTION_TABLE": {
-    "x": 10.763988,
-    "y": 10.794343,
+    "x": -3.737243,
+    "y": -0.400366,
     "category": "HDBSCAN Cluster: acute, cortical, has, hemorrhagic"
   },
   "1870_CHRONIC_PROGRESSIVE_SOFTENING_OF_THE_BRAIN_REPORT_OF_CASES_W": {
-    "x": 10.103224,
-    "y": 10.262787,
-    "category": "HDBSCAN Bridge and Noise Papers"
+    "x": -3.532213,
+    "y": -1.371878,
+    "category": "HDBSCAN Cluster: pineal, tumors, cells, body"
   },
   "1871_FARADIZATION_OF_THE_MOTOR_CORTEX_IN_THE_HUMAN_BRAIN": {
-    "x": 9.404465,
-    "y": 8.580638,
+    "x": -5.089076,
+    "y": -2.121654,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1872_Queries_and_Minor_Notes": {
-    "x": 9.182511,
-    "y": 10.88959,
+    "x": -2.170214,
+    "y": -0.761334,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1873_REPORT_OF_A_BRAIN_WEIGHING_2069_GRAMS_73_OUNCES": {
-    "x": 11.268221,
-    "y": 10.1415,
+    "x": -4.372878,
+    "y": 0.430395,
     "category": "HDBSCAN Cluster: brain, grams, his, figure"
   },
   "1874_A_case_of_angio-sarcoma_cylindroma_of_the_brain": {
-    "x": 9.277061,
-    "y": 7.6165,
+    "x": -5.97369,
+    "y": -2.566577,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1875_A_case_of_serous_meningitis_mistaken_for_brain_abscess_Opera": {
-    "x": -5.735559,
-    "y": 14.309169,
+    "x": 8.825793,
+    "y": -0.916449,
     "category": "HDBSCAN Cluster: figure, abscess, chronic, brain"
   },
   "1876_Brain_Abscess_Operation_Recovery": {
-    "x": 10.342681,
-    "y": 7.39122,
+    "x": -6.739538,
+    "y": -1.570268,
     "category": "HDBSCAN Cluster: not, had, case, which"
   },
   "1877_CONCUSSION_OF_THE_BRAIN_SO-CALLED_AND_ITS_TREATMENT": {
-    "x": -5.310421,
-    "y": 14.336066,
-    "category": "HDBSCAN Cluster: figure, images, png, insomnia"
+    "x": 8.322954,
+    "y": -1.25447,
+    "category": "HDBSCAN Cluster: figure, images, png, treatment"
   },
   "1878_HYSTERICAL_STIGMATA_CAUSED_BY_ORGANIC_BRAIN_LESSIONS": {
-    "x": 11.148479,
-    "y": 9.93781,
-    "category": "HDBSCAN Cluster: figure, brain, diseases, they"
+    "x": -4.563308,
+    "y": -0.020686,
+    "category": "HDBSCAN Cluster: figure, nervous, brain, diseases"
   },
   "1879_REPORT_OF_A_CASE_OF_BRAIN_TUMOR": {
-    "x": 10.32334,
-    "y": 6.767847,
+    "x": -7.00457,
+    "y": -1.724773,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1880_Experiments_in_transplanting_limbs_and_their_bearing_upon_th": {
-    "x": 11.162734,
-    "y": 11.861105,
-    "category": "HDBSCAN Cluster: experiments, their, development, nervous"
+    "x": -3.413219,
+    "y": 0.744148,
+    "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1881_ANEURISMS_OF_THE_LARGER_CEREBRAL_ARTERIES": {
-    "x": 9.648435,
-    "y": 10.598127,
+    "x": -2.87139,
+    "y": -1.121282,
     "category": "HDBSCAN Cluster: symptoms, cerebellum, dog, brain"
   },
   "1882_On_the_origin_and_differentiation_of_the_otic_vesicle_in_amp": {
-    "x": 11.107724,
-    "y": 12.267246,
-    "category": "HDBSCAN Bridge and Noise Papers"
+    "x": -2.597054,
+    "y": 0.935541,
+    "category": "HDBSCAN Cluster: fertilization, egg, origin, differentiation"
   },
   "1883_CASE_OF_TUMOUR_OF_THE_MIDDLE_LOBE_OF_THE_CEREBELLUM_-_CEREBE": {
-    "x": 9.494235,
-    "y": 10.672853,
+    "x": -2.708525,
+    "y": -1.254942,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1910_The_corpus_ponto-bulbare-A_hitherto_undescribed_nuclear_mass": {
-    "x": 10.737819,
-    "y": 11.267642,
-    "category": "HDBSCAN Cluster: which, cells, have, ganglion"
+    "x": -3.102712,
+    "y": -0.085582,
+    "category": "HDBSCAN Cluster: cells, described, mass, nervous"
   },
   "1911_The_Structure_and_Relationships_of_the_Potamogetonaceae_and": {
-    "x": 11.078454,
-    "y": 11.67739,
-    "category": "HDBSCAN Cluster: which, cells, have, ganglion"
+    "x": -2.880257,
+    "y": 0.625182,
+    "category": "HDBSCAN Cluster: which, have, ganglion, cells"
   },
   "1912_BILATERAL_LESION_OF_THE_AUDITORY_CORTICAL_CENTRE_COMPLETE_DE": {
-    "x": 9.733274,
-    "y": 11.416011,
+    "x": -2.401081,
+    "y": -0.561988,
     "category": "HDBSCAN Cluster: motor, cortex, his, auditory"
   },
   "1913_THE_PATHOLOGY_OF_EXOPHTHALMIC_GOITER": {
-    "x": 11.582366,
-    "y": 8.880288,
+    "x": -5.432276,
+    "y": 0.213768,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1914_The_tactile_centers_in_the_spinal_cord_and_brain_of_the_sea": {
-    "x": 11.160587,
-    "y": 11.530001,
+    "x": -3.055227,
+    "y": 0.351213,
     "category": "HDBSCAN Cluster: brain, cells, some, figure"
   },
   "1915_Syringomyelia_Extending_from_the_Sacral_Region_of_the_Spinal": {
-    "x": 12.037309,
-    "y": 8.637762,
+    "x": -6.071623,
+    "y": 0.197864,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1916_ON_DR_HUGHLINGS_JACKSONS_VIEWS_OF_THE_FUNCTIONS_OF_THE_CEREB": {
-    "x": 11.767103,
-    "y": 10.306654,
+    "x": -4.796047,
+    "y": 0.959638,
     "category": "HDBSCAN Cluster: brain, hughlings, jackson, commission"
   },
   "1917_EPIDEMIC_ACUTE_POLIOMYELITIS_IN_NORWAY_IN_THE_YEARS_1903_TO": {
-    "x": 9.021687,
-    "y": 7.082195,
-    "category": "HDBSCAN Cluster: urine, left, after, acute"
+    "x": -6.561812,
+    "y": -2.693331,
+    "category": "HDBSCAN Cluster: acute, urine, later, have"
   },
   "1918_DR_HUGHLINGS_JACKSONS_VIEWS_OF_THE_FUNCTIONS_OF_THE_CEREBELL": {
-    "x": 12.409799,
-    "y": 8.199457,
-    "category": "HDBSCAN Cluster: mental, disease, figure, which"
+    "x": -6.636444,
+    "y": 0.552471,
+    "category": "HDBSCAN Cluster: mental, figure, sugar, disease"
   },
   "1919_THE_PATHOLOGICAL_CHANGES_IN_THE_CENTRAL_NERVOUS_SYSTEM_IN_EX": {
-    "x": 11.467696,
-    "y": 11.006956,
+    "x": -3.178766,
+    "y": 0.209686,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1920_ON_THE_CULTIVATION_OF_THE_MENINGOCOCCUS_IN_THE_PRESENT_EPIDE": {
-    "x": 11.300739,
-    "y": 8.126309,
-    "category": "HDBSCAN Bridge and Noise Papers"
+    "x": -5.942942,
+    "y": -0.329426,
+    "category": "HDBSCAN Cluster: mental, figure, sugar, disease"
   },
   "1921_SOME_UNUSUAL_OCULAR_MANIFESTATIONS_OF_ARTERIOSCLEROSIS": {
-    "x": 9.955001,
-    "y": 8.930539,
-    "category": "HDBSCAN Cluster: some, mental, ocular, herpes"
+    "x": -5.030675,
+    "y": -1.249295,
+    "category": "HDBSCAN Cluster: some, other, mental, nervous"
   },
   "1922_A_Clinical_Lecture_ON_SUDDEN_CEREBRAL_LESIONS_THEIR_DIAGNOSI": {
-    "x": 9.216086,
-    "y": 11.538777,
+    "x": -1.965792,
+    "y": -0.247313,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1923_REPORT_OF_A_CASE_OF_INTRACRANIAL_TUMOR_RESULTING_FROM_TRAUMA": {
-    "x": 11.730332,
-    "y": 9.84145,
+    "x": -4.920338,
+    "y": 0.628377,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1924_Why_are_the_great_motor_and_sensory_tracts_of_the_central_ne": {
-    "x": 10.753416,
-    "y": 10.968127,
+    "x": -2.984196,
+    "y": -0.359445,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1925_ON_THE_DIFFERENTIATION_OF_THE_MENINGOCOCCUS_FROM_OTHER_GRAM-": {
-    "x": 12.80853,
-    "y": 8.866262,
+    "x": -6.01164,
+    "y": 1.34705,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1926_THE_CLINICAL_RESEMBLANCE_OF_CEREBROSPINAL_SYPHILIS_TO_DISSEM": {
-    "x": 8.627522,
-    "y": 8.138576,
+    "x": -5.545779,
+    "y": -2.966423,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1927_Tumour_of_the_Cerebellum_in_a_Dog_Associated_with_Forced_Mov": {
-    "x": 9.593708,
-    "y": 10.845942,
+    "x": -2.567238,
+    "y": -1.029688,
     "category": "HDBSCAN Cluster: symptoms, cerebellum, dog, brain"
   },
   "1928_OTITIO_BRAIN_ABSCESS": {
-    "x": 9.06493,
-    "y": 10.179748,
-    "category": "HDBSCAN Cluster: cases, brain, tumors, figure"
+    "x": -4.920619,
+    "y": -1.698334,
+    "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1929_SYMPTOMS_SIMULATING_BRAIN_TUMOR_DUE_TO_THE_OBLITERATION_OF_T": {
-    "x": 8.750343,
-    "y": 7.875911,
-    "category": "HDBSCAN Cluster: brain, figure, case, tumor"
+    "x": -5.497738,
+    "y": -2.775191,
+    "category": "HDBSCAN Cluster: figure, case, brain, had"
   },
   "1956_DOES_THE_OPACITY_OF_INCIPIENT_CATARACT_EVER_REGAIN_TRANSPARE": {
-    "x": 10.963415,
-    "y": 8.390499,
+    "x": -5.836268,
+    "y": -0.481469,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1957_MIGRAINIC_PSYCHOSESAPROPOS_OF_TWELVE_CASES": {
-    "x": 10.266072,
-    "y": 8.89698,
-    "category": "HDBSCAN Cluster: some, mental, ocular, herpes"
+    "x": -5.130507,
+    "y": -1.020858,
+    "category": "HDBSCAN Cluster: some, other, mental, nervous"
   },
   "1958_THE_RIPENING_OPERATION_FOR_IMMATURE_SENILE_CATARACT_ITS_PLAC": {
-    "x": 11.289135,
-    "y": 6.729242,
+    "x": -7.206508,
+    "y": -0.566824,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1959_Tumors_of_the_Cerebrum": {
-    "x": 10.719742,
-    "y": 9.757839,
-    "category": "HDBSCAN Cluster: cases, brain, tumors, figure"
+    "x": -4.145541,
+    "y": -0.702194,
+    "category": "HDBSCAN Cluster: tumors, figure, which, lesions"
   },
   "1960_CHRONIC_ACETANILID_POISONING_FROM_HARPERS_BRAIN_FOOD": {
-    "x": 11.502062,
-    "y": 7.309032,
-    "category": "HDBSCAN Cluster: not, her, she, any"
+    "x": -6.846062,
+    "y": -0.370867,
+    "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1961_TUMOR_OF_THE_RIGHT_VERSUS_TUMOR_OF_THE_LEFT_FRONTAL_LOBE_OF": {
-    "x": 10.303401,
-    "y": 6.682914,
+    "x": -6.82351,
+    "y": -1.907905,
     "category": "HDBSCAN Cluster: brain, frontal, years, after"
   },
   "1962_A_CASE_OF_ALTERNATING_UNILATERAL_EPILEPTIFORM_CONVULSIONS_AS": {
-    "x": 9.385059,
-    "y": 9.384517,
+    "x": -4.386117,
+    "y": -1.723446,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1963_JOINT_AFFECTIONS_IN_NERVOUS_DISEASE": {
-    "x": 10.320674,
-    "y": 8.846189,
+    "x": -5.310994,
+    "y": -0.655786,
     "category": "HDBSCAN Cluster: diagnosis, diseases, urinary, nervous"
   },
   "1964_Remarks_ON_CHRONIC_SPLENOMEGALIC_POLYCYTHAEMIA": {
-    "x": 9.31633,
-    "y": 7.214125,
-    "category": "HDBSCAN Bridge and Noise Papers"
+    "x": -6.331471,
+    "y": -2.633056,
+    "category": "HDBSCAN Cluster: right, side, figure, left"
   },
   "1965_THE_FUNCTION_OF_THE_PREFRONTAL_LOBESAPROPOS_OF_THE_PATHOLOGI": {
-    "x": 11.530567,
-    "y": 7.560694,
+    "x": -6.441473,
+    "y": -0.284652,
     "category": "HDBSCAN Cluster: hemorrhages, may, but, vomiting"
   },
   "1966_PARANOIA_ITS_VARIETIES_AND_MEDICOLEGAL_IMPORTANCE": {
-    "x": 12.299964,
-    "y": 9.056294,
-    "category": "HDBSCAN Cluster: mental, disease, figure, which"
+    "x": -5.685776,
+    "y": 0.81432,
+    "category": "HDBSCAN Cluster: mental, figure, sugar, disease"
   },
   "1967_PROPHYLAXIS_IN_EPIDEMIC_CEREBROSPINAL_MENINGITIS": {
-    "x": 11.970933,
-    "y": 7.817443,
+    "x": -6.468345,
+    "y": 0.069073,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1968_BRAIN_TUMOR_WITH_JACKSONIAN_SPASM_AND_UNILATERAL_PARALYSIS_O": {
-    "x": 8.751853,
-    "y": 6.525361,
-    "category": "HDBSCAN Bridge and Noise Papers"
+    "x": -7.139918,
+    "y": -3.161294,
+    "category": "HDBSCAN Cluster: had, she, any, spasm"
   },
   "1969_A_CASE_OF_PROBABLE_TUMOR_OF_THE_BRAIN_OF_PARIETOOCCIPITAL_LO": {
-    "x": 10.378353,
-    "y": 9.444548,
-    "category": "HDBSCAN Bridge and Noise Papers"
+    "x": -4.369654,
+    "y": -1.411512,
+    "category": "HDBSCAN Cluster: tumor, been, case, brain"
   },
   "1970_ON_THE_CONNECTION_OF_THE_INFERIOR_OLIVES_WITH_THE_CEREBELLUM": {
-    "x": 10.293701,
-    "y": 11.11335,
+    "x": -3.281837,
+    "y": -0.602211,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1971_Youth_Its_Education_Regimen_and_Hygiene": {
-    "x": 12.228159,
-    "y": 10.060295,
+    "x": -4.984448,
+    "y": 1.095835,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "1972_Report_Of_A_Case_Of_Melanosis_Of_The_Brain_Cord_And_Meninges": {
-    "x": -5.207064,
-    "y": 14.546129,
+    "x": 8.202632,
+    "y": -1.255416,
     "category": "HDBSCAN Cluster: figure, case, brain, carcinosis"
   },
   "1973_A_comparison_of_the_albino_rat_with_man_in_respect_to_the_gr": {
-    "x": 11.752375,
-    "y": 11.54661,
-    "category": "HDBSCAN Cluster: body, rat, albino, weight"
+    "x": -3.142452,
+    "y": 1.538731,
+    "category": "HDBSCAN Cluster: rat, body, albino, growth"
   },
   "1974_THE_CEREBRAL_CENTERS_FOR_TASTE_AND_SMELL_AND_THE_UNCINATE_GR": {
-    "x": 9.058505,
-    "y": 6.470281,
-    "category": "HDBSCAN Cluster: not, her, she, any"
+    "x": -7.325856,
+    "y": -2.727148,
+    "category": "HDBSCAN Cluster: not, her, she, cases"
   },
   "2001_II_On_recently_discovered_Subfossil_Primates_from_Madagascar": {
-    "x": 9.923908,
-    "y": 11.988585,
+    "x": -2.169038,
+    "y": 0.439766,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "2002_Preliminary_note_on_the_size_and_condition_of_the_central_ne": {
-    "x": 11.868349,
-    "y": 11.468371,
-    "category": "HDBSCAN Cluster: body, rat, albino, weight"
+    "x": -3.102822,
+    "y": 1.58111,
+    "category": "HDBSCAN Cluster: rats, albino, group, underfeeding"
   },
   "2003_Eversion_and_inversion_of_the_dorso-lateral_wall_in_differen": {
-    "x": 10.810397,
-    "y": 11.9691,
+    "x": -2.46765,
+    "y": 0.864467,
     "category": "HDBSCAN Cluster: fissures, transitory, permanent, human"
   },
   "2004_INSANITIES_CAUSED_BY_ACUTE_AND_CHRONIC_INTOXICATIONS_WITH_OP": {
-    "x": 11.745926,
-    "y": 7.829089,
+    "x": -6.35917,
+    "y": 0.107239,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "2005_ON_THE_DEVELOPMENT_OF_THE_LARGE_COMMISSURES_OF_THE_TELENCEPH": {
-    "x": 11.364264,
-    "y": 12.098469,
+    "x": -2.884707,
+    "y": 1.075708,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "2006_ON_THE_MECHANISM_OF_GLIOSIS_IN_ACQUIRED_EPILEPSY": {
-    "x": 10.912811,
-    "y": 10.362744,
-    "category": "HDBSCAN Cluster: figure, brain, diseases, they"
+    "x": -3.987715,
+    "y": -0.247053,
+    "category": "HDBSCAN Cluster: figure, nervous, brain, diseases"
   },
   "2007_THE_HEARTS_ACTION_PRECEDING_AN_EPILEPTIC_SEIZURE": {
-    "x": 9.150936,
-    "y": 6.670039,
-    "category": "HDBSCAN Cluster: not, her, she, any"
+    "x": -7.254875,
+    "y": -2.589969,
+    "category": "HDBSCAN Cluster: not, her, she, cases"
   },
   "2008_THE_DIURETIC_ACTION_OF_ADRENALIN_AND_THE_ACTIVE_PRINCIPLE_OF": {
-    "x": 9.8087,
-    "y": 6.934231,
+    "x": -7.1602,
+    "y": -1.722995,
     "category": "HDBSCAN Cluster: tube, tumor, also, impossible"
   },
   "2009_THE_STATE_OF_THE_BRAIN_DURING_HYPNOSIS": {
-    "x": 11.839439,
-    "y": 9.549012,
-    "category": "HDBSCAN Cluster: figure, brain, diseases, they"
+    "x": -5.052846,
+    "y": 0.439693,
+    "category": "HDBSCAN Cluster: figure, nervous, brain, diseases"
   },
   "2010_On_the_relation_of_calcium_metabolism_to_tetany_and_the_cure": {
-    "x": 11.222671,
-    "y": 8.687064,
+    "x": -4.98154,
+    "y": -0.224527,
     "category": "HDBSCAN Cluster: tetany, calcium, indol, symptoms"
   },
   "2011_THE_SPHENOIDAL_SINUS_A_STUDY_BASED_ON_THE_EXAMINATION_OF_EIG": {
-    "x": 11.260918,
-    "y": 11.16828,
+    "x": -3.48405,
+    "y": 0.696155,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "2012_Report_on_the_present_status_of_the_Academic_Institutes_for": {
-    "x": 11.565282,
-    "y": 10.990052,
+    "x": -3.697037,
+    "y": 0.563252,
     "category": "HDBSCAN Cluster: brain, hughlings, jackson, commission"
   },
   "2013_SOME_POINTS_ABOUT_PUNCTURE_OF_THE_BRAIN": {
-    "x": 10.119081,
-    "y": 7.463605,
+    "x": -6.517454,
+    "y": -1.480175,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "2014_Abnormal_Pulsating_Vessels_in_the_Pharynx": {
-    "x": 11.943583,
-    "y": 8.767704,
-    "category": "HDBSCAN Cluster: mental, disease, figure, which"
+    "x": -5.654008,
+    "y": 0.437675,
+    "category": "HDBSCAN Cluster: mental, figure, sugar, disease"
   },
   "2015_Abnormal_Reactions_to_Horse_Serum_in_the_Serum_Treatment_of": {
-    "x": 9.049721,
-    "y": 9.043202,
+    "x": -5.045271,
+    "y": -1.834269,
     "category": "HDBSCAN Cluster: serum, cerebrospinal, cases, treatment"
   },
   "2016_PATHOLOGIC_REPORT_OF_THE_NERVOUS_SYSTEM_IN_A_CASE_OF_SPONDYL": {
-    "x": 10.529127,
-    "y": 8.003572,
+    "x": -6.14298,
+    "y": -1.158551,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "2017_PURLENT_CEREBROSPINAL_MENINGITIS_CAUSED_BY_THE_THYPHID_BACIL": {
-    "x": 9.324514,
-    "y": 7.741559,
+    "x": -5.936767,
+    "y": -2.383389,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "2018_HEMORRHAGE_INTO_THE_VENTRICLES_ITS_RELATION_TO_CONVULSIONS_A": {
-    "x": 10.643636,
-    "y": 8.538351,
+    "x": -5.580763,
+    "y": -0.841799,
     "category": "HDBSCAN Cluster: figure, symptoms, hyoscine, diagnosis"
   },
   "2019_A_DETAILED_STUDY_OF_THE_CHANGES_OCCURRING_IN_THE_PHYSIOLOGIC": {
-    "x": 11.092034,
-    "y": 11.96147,
+    "x": -2.893546,
+    "y": 0.676001,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "2020_A_STUDY_IN_TACTUAL_LOCALIZATION_IN_A_CASE_PRESENTING_ASTEREO": {
-    "x": 10.144344,
-    "y": 9.944397,
-    "category": "HDBSCAN Cluster: figure, brain, case, boston"
+    "x": -4.11677,
+    "y": -1.232113,
+    "category": "HDBSCAN Cluster: case, boston, muscular, brain"
   },
   "2046_Edingers_lectures_on_the_central_nervous_system_seventh_edit": {
-    "x": 11.414261,
-    "y": 7.626417,
-    "category": "HDBSCAN Cluster: figure, has, system, plate"
+    "x": -6.47002,
+    "y": -0.116635,
+    "category": "HDBSCAN Bridge and Noise Papers"
   },
   "2047_THE_CLINICAL_SYMPTOMS_OF_THE_CASES_OF_EPIDEMIC_CEREBROSPINAL": {
-    "x": 10.532605,
-    "y": 7.544263,
+    "x": -6.680269,
+    "y": -1.32228,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "2048_MIGRAINE_AN_OCCUPATION_NEUROSIS": {
-    "x": 10.675103,
-    "y": 8.735556,
-    "category": "HDBSCAN Cluster: figure, which, vertigo, cases"
+    "x": -5.362707,
+    "y": -0.535097,
+    "category": "HDBSCAN Cluster: which, figure, attack, form"
   },
   "2049_The_nervous_coördination_of_the_auricles_and_ventricle_of_th": {
-    "x": 11.224475,
-    "y": 9.06405,
+    "x": -4.950215,
+    "y": -0.252231,
     "category": "HDBSCAN Cluster: tetany, calcium, indol, symptoms"
   },
   "2050_TACTILE_STEREOGNOSIS_AND_SYMBOLIA_HAVE_THEY_LOCALIZATION_IN": {
-    "x": 10.612568,
-    "y": 10.232055,
-    "category": "HDBSCAN Cluster: figure, brain, diseases, they"
+    "x": -3.916019,
+    "y": -0.738895,
+    "category": "HDBSCAN Cluster: figure, nervous, brain, diseases"
   },
   "2051_Dementia_Precox_Paranoid_Associated_with_Bronchiectatic_Lung": {
-    "x": 8.832723,
-    "y": 8.017282,
+    "x": -5.470044,
+    "y": -2.728584,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "2052_DEMONSTRATION_OF_A_BRAIN_SHOWING_TUBERCLE_IN_PONS_WHICH_CAUS": {
-    "x": 10.751081,
-    "y": 11.079905,
+    "x": -3.223845,
+    "y": -0.450749,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "2053_THE_COORDINATION_OF_SINGLE_MUSCULAR_MOVEMENTS_IN_THE_CENTRAL": {
-    "x": 10.156014,
-    "y": 0.269484,
+    "x": -1.321228,
+    "y": 7.811949,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "2054_A_CASE_OF_ANEURYSM_OF_THE_ANTERIOR_CEREBRAL_ARTERY": {
-    "x": 8.747287,
-    "y": 6.645535,
+    "x": -6.94278,
+    "y": -3.240457,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "2055_A_CASE_OF_MENINGEAL_TUMOR_COMPRESSING_THE_CEREBELLUM": {
-    "x": 9.552667,
-    "y": 9.079348,
-    "category": "HDBSCAN Cluster: case, brain, figure, have"
+    "x": -4.558296,
+    "y": -1.885854,
+    "category": "HDBSCAN Cluster: case, figure, brain, disease"
   },
   "2056_CEREBRAL_INFLUENZA": {
-    "x": 9.494674,
-    "y": 7.029469,
+    "x": -6.956378,
+    "y": -2.313776,
     "category": "HDBSCAN Cluster: his, she, normal, him"
   },
   "2057_DISEASE_OF_THE_CEREBRAL_VESSELS_WITH_ITS_PROBLEMS_IN_DIAGNOS": {
-    "x": 8.721556,
-    "y": 6.484411,
+    "x": -7.07057,
+    "y": -3.100123,
     "category": "HDBSCAN Cluster: his, years, has, months"
   },
   "2058_A_SIMPLE_RESTRAINT": {
-    "x": 10.674253,
-    "y": 9.011059,
-    "category": "HDBSCAN Cluster: figure, which, vertigo, cases"
-  },
-  "2059_A_study_of_protagon_prepared_by_the_Wilson-Cramer_method": {
-    "x": 10.646929,
-    "y": 11.188931,
+    "x": -4.838553,
+    "y": -0.910508,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
+  "2059_A_study_of_protagon_prepared_by_the_Wilson-Cramer_method": {
+    "x": -3.285641,
+    "y": 0.067437,
+    "category": "HDBSCAN Cluster: protagon, cerebron, phrenosin, some"
+  },
   "2060_INJURIES_OF_CRANIAL_NERVES_FROM_FRACTURES_OF_THE_SKULL": {
-    "x": 10.406222,
-    "y": 8.399575,
+    "x": -4.757132,
+    "y": -1.173108,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "2061_PELLAGRA_ITS_OCCURRENCE_IN_THIS_COUNTRY_REPORT_OF_CASES": {
-    "x": 9.972199,
-    "y": 8.660336,
+    "x": -5.2443,
+    "y": -1.392971,
     "category": "HDBSCAN Cluster: been, cases, pellagra, figure"
   },
   "2062_PSYCHOTHERAPY_WITH_SOME_OF_ITS_RESULTS": {
-    "x": 11.509052,
-    "y": 8.358205,
-    "category": "HDBSCAN Cluster: group, which, figure, body"
+    "x": -5.781387,
+    "y": -0.121123,
+    "category": "HDBSCAN Cluster: group, action, saccharolytic, colon"
   },
   "2063_SEROTHERAPY_OF_EPIDEMIC_CEREBROSPINAL_MENINGITIS_REPORT_OF_T": {
-    "x": 9.172332,
-    "y": 8.907112,
+    "x": -5.019396,
+    "y": -2.000432,
     "category": "HDBSCAN Cluster: serum, cerebrospinal, cases, treatment"
   },
   "2064_A_CASE_OF_PREFRONTAL_TUMOR_WITH_EXHIBITION_OF_THE_BRAIN": {
-    "x": -5.337068,
-    "y": 14.658756,
+    "x": 8.344457,
+    "y": -1.080886,
     "category": "HDBSCAN Cluster: figure, case, brain, carcinosis"
   },
   "2065_INDICATIONS_FOR_OPERATIVE_INTERFERENCE_IN_CEREBRAL_COMPLICAT": {
-    "x": 10.478622,
-    "y": 7.947038,
-    "category": "HDBSCAN Cluster: operation, brain, abscess, successful"
+    "x": -5.609554,
+    "y": -1.39634,
+    "category": "HDBSCAN Bridge and Noise Papers"
   },
   "2098_Newcastle_Local_Section_Inaugural_address_of_the_Chairman": {
-    "x": 12.145873,
-    "y": 8.169254,
+    "x": -6.114966,
+    "y": 0.452289,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "2099_Passive_Hyperemia_in_Seasickness": {
-    "x": 11.296264,
-    "y": 8.268976,
+    "x": -5.894707,
+    "y": -0.200032,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "2100_A_CASE_OF_BRAIN_ABSCESS_SHOWING_THE_PNEUMOCOCCUS": {
-    "x": 9.552458,
-    "y": 6.825284,
-    "category": "HDBSCAN Cluster: right, case, figure, side"
+    "x": -6.857978,
+    "y": -2.460025,
+    "category": "HDBSCAN Cluster: right, side, figure, left"
   },
   "2101_BRAIN_SHOWING_CIRCUMSCRIBED_CORTICAL_ATROPHY": {
-    "x": 10.483746,
-    "y": 10.170248,
+    "x": -3.751072,
+    "y": -1.016171,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "2102_A_CASE_OF_GLIOMA_OF_THE_BRAIN": {
-    "x": -5.458895,
-    "y": 14.694785,
+    "x": 8.293959,
+    "y": -1.165404,
     "category": "HDBSCAN Cluster: figure, case, brain, carcinosis"
   },
   "2103_A_COMPLICATED_CASE_OF_BRAIN_TUMOR": {
-    "x": 8.774396,
-    "y": 8.125246,
-    "category": "HDBSCAN Cluster: hospital, history, case, well"
+    "x": -5.301959,
+    "y": -2.831692,
+    "category": "HDBSCAN Bridge and Noise Papers"
   },
   "2104_Anatomy_of_the_brain_and_spinal_cord_with_special_reference": {
-    "x": 12.504624,
-    "y": 8.86813,
+    "x": -6.075016,
+    "y": 1.016093,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "2105_CASE_OF_BRAIN_ABSCESS": {
-    "x": 9.766853,
-    "y": 7.723019,
+    "x": -5.864662,
+    "y": -1.818875,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "2106_The_Linacre_Lecture_ON_THE_FUNCTION_OF_THE_SO-CALLED_MOTOR_A": {
-    "x": 9.868985,
-    "y": 11.42177,
+    "x": -2.479674,
+    "y": -0.462277,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "2107_The_morphology_of_the_forebrain_vesicle_in_vertebrates": {
-    "x": 8.296502,
-    "y": 11.597373,
-    "category": "HDBSCAN Cluster: stage, development, alcohol, figure"
+    "x": -0.247221,
+    "y": 1.138785,
+    "category": "HDBSCAN Cluster: development, stage, figure, oxide"
   },
   "2108_A_new_association_fiber_tract_in_the_cerebrum_with_remarks_o": {
-    "x": 11.004728,
-    "y": 11.65878,
+    "x": -3.117213,
+    "y": 0.549633,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "2109_A_constant_bursa_in_relation_with_the_bundle_of_His_with_stu": {
-    "x": 11.267653,
-    "y": 11.228344,
-    "category": "HDBSCAN Cluster: white, rat, bundle, central"
+    "x": -3.579182,
+    "y": 0.705586,
+    "category": "HDBSCAN Cluster: been, figure, which, have"
   },
   "2110_SOME_PRINCIPLES_OF_CEREBRAL_SURGERY": {
-    "x": 10.963797,
-    "y": 6.797387,
+    "x": -7.284265,
+    "y": -0.894824,
     "category": "HDBSCAN Cluster: solution, irrigation, aqueous, chamber"
   },
   "2111_The_development_of_theridium_an_aranead_up_to_the_stage_of_r": {
-    "x": 8.302542,
-    "y": 11.597588,
-    "category": "HDBSCAN Cluster: stage, development, alcohol, figure"
+    "x": -0.274366,
+    "y": 1.11442,
+    "category": "HDBSCAN Cluster: development, stage, figure, oxide"
   },
   "2112_The_influence_of_alcohol_and_other_anesthetics_on_developing": {
-    "x": 10.320827,
-    "y": 11.525468,
+    "x": -2.776223,
+    "y": 0.207398,
     "category": "HDBSCAN Cluster: regeneration, other, embryos, factors"
   },
   "2113_On_the_relation_of_the_body_length_to_the_body_weight_and_to": {
-    "x": 11.827779,
-    "y": 11.493902,
-    "category": "HDBSCAN Cluster: body, rat, albino, weight"
+    "x": -3.183286,
+    "y": 1.561862,
+    "category": "HDBSCAN Cluster: rat, body, albino, growth"
   },
   "2114_OBSERVATIONS_ON_CHOKED_DISC_WITH_ESPECIAL_REFERENCE_TO_DECOM": {
-    "x": 9.86949,
-    "y": 8.937473,
-    "category": "HDBSCAN Bridge and Noise Papers"
+    "x": -4.937833,
+    "y": -1.452011,
+    "category": "HDBSCAN Cluster: tumor, been, case, brain"
   },
   "2115_XIV_The_Structure_and_Affinities_of_Davidia_involucrata_Bail": {
-    "x": 9.86095,
-    "y": 11.898851,
+    "x": -2.05309,
+    "y": 0.212371,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "2116_INTERMITTENT_CLOSING_OF_CEREBRAL_ARTERIES": {
-    "x": 13.001941,
-    "y": 8.254292,
+    "x": -6.638384,
+    "y": 1.18582,
     "category": "HDBSCAN Cluster: medical, infamous, oct, any"
   },
   "2144_PROBLEMS_AND_PROCEDURES_IN_CRANIAL_SURGERY": {
-    "x": 11.070115,
-    "y": 8.840139,
+    "x": -5.475351,
+    "y": -0.926027,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "2145_A_Post-Graduate_Lecture_ON_INTERMITTENT_CLOSING_OF_CEREBRAL": {
-    "x": 9.673542,
-    "y": 10.257394,
+    "x": -3.185956,
+    "y": -1.10059,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "2146_THE_BUTYRIC_ACID_TEST_FOR_SYPHILIS_IN_THE_DIAGNOSIS_OF_METAS": {
-    "x": 10.108672,
-    "y": 9.195653,
-    "category": "HDBSCAN Bridge and Noise Papers"
+    "x": -4.771874,
+    "y": -1.125146,
+    "category": "HDBSCAN Cluster: some, other, mental, nervous"
   },
   "2147_BLASTOMYCOTIC_LESIONS_OF_THE_BRAIN": {
-    "x": 9.446558,
-    "y": 8.30805,
-    "category": "HDBSCAN Cluster: case, brain, figure, have"
+    "x": -5.271456,
+    "y": -2.022141,
+    "category": "HDBSCAN Cluster: case, figure, brain, disease"
   },
   "2148_OTOLOGIC_AND_RHINOLOGIC_COMPLICATIONS_OF_SKULL_FRACTURE": {
-    "x": 10.151878,
-    "y": 9.739975,
+    "x": -4.565173,
+    "y": -1.181609,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "2149_Über_die_Erweiterung_der_Pupille_bei_Adrenalineinträufelunge": {
-    "x": 8.611447,
-    "y": 14.421517,
+    "x": 1.094505,
+    "y": -0.803516,
     "category": "HDBSCAN Cluster: der, die, wir, pupille"
   },
   "2150_MENINGOCOCCUS_SEPTICEMIA_WITH_STERILE_CEREBROSPINAL_FLUID_IR": {
-    "x": 9.437472,
-    "y": 8.920942,
+    "x": -4.909335,
+    "y": -1.735561,
     "category": "HDBSCAN Cluster: been, cases, pellagra, figure"
   },
   "2151_THE_KINAESTHETIC_AREA_OF_THE_BRAIN": {
-    "x": 12.817445,
-    "y": 8.19627,
+    "x": -6.691011,
+    "y": 1.031253,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "2152_CLINICAL_DIAGNOSIS_OF_THE_SYPHILOGENOUS_DISEASES_OF_THE_CENT": {
-    "x": 10.847217,
-    "y": 8.053695,
-    "category": "HDBSCAN Cluster: danger, its, which, not"
+    "x": -6.34971,
+    "y": -0.912065,
+    "category": "HDBSCAN Cluster: not, danger, which, figure"
   },
   "2153_THE_INSANE_DIATHESIS": {
-    "x": 9.979615,
-    "y": 8.551984,
+    "x": -5.399002,
+    "y": -1.494283,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "2154_Function_of_Adrenal_Cortex": {
-    "x": 12.506832,
-    "y": 8.713644,
+    "x": -6.138426,
+    "y": 1.033242,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "2155_The_Tracheal_Supply_in_the_Central_Nervous_System_of_the_Lar": {
-    "x": 11.263502,
-    "y": 11.668105,
-    "category": "HDBSCAN Cluster: experiments, their, development, nervous"
+    "x": -2.959824,
+    "y": 0.626672,
+    "category": "HDBSCAN Bridge and Noise Papers"
   },
   "2156_THE_X_RAY_TREATMENT_OF_RINGWORM_OF_THE_SCALP_WITH_SPECIAL_RE": {
-    "x": 12.088479,
-    "y": 8.880738,
+    "x": -5.675498,
+    "y": 0.710583,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "2157_A_CASE_OF_CEREBRAL_TUMOR_PRESENTING_A_VERY_UNUSUAL_CLINICAL": {
-    "x": 9.092968,
-    "y": 8.616117,
+    "x": -4.542301,
+    "y": -2.12033,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "2158_A_report_on_experimental_poliomyelitis": {
-    "x": 9.715176,
-    "y": 9.230987,
+    "x": -4.608434,
+    "y": -1.559706,
     "category": "HDBSCAN Cluster: poliomyelitis, epidemic, monkeys, virus"
   },
   "2159_STUDIES_IN_INACCESSIBLE_INTERNAL_HEMORRHAGES_I_THE_EFFECT_OF": {
-    "x": 11.595098,
-    "y": 7.471562,
+    "x": -6.441438,
+    "y": -0.268625,
     "category": "HDBSCAN Cluster: hemorrhages, may, but, vomiting"
   },
   "2160_A_FURTHER_CONTRIBUTION_TO_PALLIATIVE_OPERATIONS_FOR_BRAIN_TU": {
-    "x": 12.535834,
-    "y": 8.384852,
+    "x": -6.618136,
+    "y": 0.738105,
     "category": "HDBSCAN Cluster: they, will, cause, factors"
   },
   "2161_PHOSPHORUS_COMPOUNDS_AS_BRAIN_FOODS": {
-    "x": 11.743809,
-    "y": 8.576343,
+    "x": -5.782423,
+    "y": 0.519489,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "2162_THE_WASSERMANN_REACTION_IN_ITS_RELATION_TO_DISEASES_OF_THE_C": {
-    "x": 10.681643,
-    "y": 8.751821,
+    "x": -5.27133,
+    "y": -0.636785,
     "category": "HDBSCAN Cluster: diagnosis, diseases, urinary, nervous"
   },
   "2188_ISOLATED_AND_COMPLETE_PARALYSIS_OF_THE_THIRD_NERVE_OF_TRAUMA": {
-    "x": 8.646901,
-    "y": 8.155031,
-    "category": "HDBSCAN Cluster: case, brain, figure, have"
+    "x": -5.157738,
+    "y": -2.692166,
+    "category": "HDBSCAN Cluster: case, figure, brain, disease"
   },
   "2189_THE_DISEASES_OF_THE_CEREBRAL_ARTERIES_THEIR_EFFECTS_AND_TREA": {
-    "x": 10.352294,
-    "y": 7.610245,
+    "x": -6.525976,
+    "y": -1.399618,
     "category": "HDBSCAN Cluster: cured, one, who, which"
   },
   "2190_TRAVEL_NOTES_A_PHYSICIANS_HOLIDAY_IN_THE_ENGADINE": {
-    "x": 12.144845,
-    "y": 8.024667,
+    "x": -6.341197,
+    "y": 0.308629,
     "category": "HDBSCAN Cluster: temperature, physician, engadine, figure"
   },
   "2191_IRRIGATION_OF_THE_AQUEOUS_CHAMBER_FOR_THE_REMOVAL_OF_REMAINI": {
-    "x": 11.2885,
-    "y": 6.7302,
+    "x": -7.193402,
+    "y": -0.649806,
     "category": "HDBSCAN Cluster: solution, irrigation, aqueous, chamber"
   },
   "2192_Cultivation_of_adult_tissues_and_organs_outside_of_the_body": {
-    "x": 11.314818,
-    "y": 9.373698,
+    "x": -4.143389,
+    "y": 0.752201,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "2193_THE_CULTIVATION_OF_TISSUES_OF_THE_CHICK-EMBRYO_OUTSIDE_THE_B": {
-    "x": 11.345411,
-    "y": 9.395547,
+    "x": -4.017149,
+    "y": 0.838849,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "2194_A_Study_of_the_Dementia_Precox_Group_in_the_Light_of_Certain": {
-    "x": 9.730337,
-    "y": 9.07087,
+    "x": -4.340455,
+    "y": -1.289855,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "2195_The_Physiology_of_Anaphylactic_Shock_in_the_Dog": {
-    "x": 11.224644,
-    "y": 10.520792,
+    "x": -3.971473,
+    "y": -0.129139,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "2196_Eine_neue_Methode_zur_Darstellung_des_Gliagewebes_nebst_Beit": {
-    "x": 8.761372,
-    "y": 14.261789,
+    "x": 1.008114,
+    "y": -0.780372,
     "category": "HDBSCAN Cluster: der, die, und, yon"
   },
   "2197_The_evolution_of_the_cerebral_cortex": {
-    "x": 11.008346,
-    "y": 12.144308,
+    "x": -2.64133,
+    "y": 0.930471,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "2198_ON_THE_RELATION_OF_THE_CATALYTIC_ACTIVITY_OF_THE_BLOOD_TO_TH": {
-    "x": 12.044091,
-    "y": 11.122641,
+    "x": -3.422929,
+    "y": 1.599991,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "2199_A_STUDY_OF_THE_DEMENTIA_PRÆCOX_GROUP_IN_THE_LIGHT_OF_CERTAIN": {
-    "x": 9.427731,
-    "y": 9.941969,
+    "x": -3.532547,
+    "y": -1.788093,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "2200_A_CASE_OF_OSTEITIS_DEFORMANS_TERMINATING_WITH_CEREBRAL_SYMPT": {
-    "x": 11.243849,
-    "y": 6.91496,
+    "x": -7.279591,
+    "y": -0.55862,
     "category": "HDBSCAN Cluster: tibia, operation, surface, bone"
   },
   "2201_EPIDEMIC_POLIOMYELITIS_IN_MONKEYS_A_MODE_OF_SPONTANEOUS_INFE": {
-    "x": 9.517313,
-    "y": 9.162781,
+    "x": -4.840137,
+    "y": -1.556787,
     "category": "HDBSCAN Cluster: poliomyelitis, epidemic, monkeys, virus"
   },
   "2202_ANATOMICAL_FINDINGS_IN_SENILE_DEMENTIA_A_DIAGNOSTIC_STUDY_BE": {
-    "x": 9.452693,
-    "y": 9.801414,
-    "category": "HDBSCAN Cluster: cerebral, lesions, senile, dementia"
+    "x": -3.775611,
+    "y": -1.833235,
+    "category": "HDBSCAN Cluster: cerebral, senile, dementia, danvers"
   },
   "2203_A_cast_of_the_ventricles_of_the_human_brain": {
-    "x": 11.477447,
-    "y": 12.133948,
+    "x": -3.042192,
+    "y": 0.947909,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "2204_DEAFNESS_DUE_TO_LESIONS_IN_THE_BRAIN": {
-    "x": -5.890767,
-    "y": 14.232099,
+    "x": 9.019177,
+    "y": -0.777353,
     "category": "HDBSCAN Cluster: figure, brain, deafness, due"
   },
   "2205_MULTIPLE_SCLEROSIS_WITH_PRIMARY_DEGENERATION_OF_THE_MOTOR_CO": {
-    "x": -5.850481,
-    "y": 14.208078,
+    "x": 8.955759,
+    "y": -0.86274,
     "category": "HDBSCAN Cluster: figure, brain, deafness, due"
   },
   "2206_The_Material_Fundamentals_and_the_Prognosis_of_the_Accident": {
-    "x": 8.728155,
-    "y": 14.276244,
+    "x": 0.997718,
+    "y": -0.681256,
     "category": "HDBSCAN Bridge and Noise Papers"
   },
   "2207_How_can_the_process_underlying_membrane_formation_cause_the": {
-    "x": 10.383604,
-    "y": 11.37565,
+    "x": -2.815699,
+    "y": 0.053392,
     "category": "HDBSCAN Bridge and Noise Papers"
+  },
+  "2236_THREE_CASES_OF_TUMOR_IN_THE_CERE-BELLO-PONTILE_ANGLE": {
+    "x": -5.852098,
+    "y": -3.027476,
+    "category": "HDBSCAN Cluster: had, she, figure, but"
+  },
+  "2237_A_method_of_isolating_the_cerebro-medullary_circulation": {
+    "x": -4.61238,
+    "y": -0.195575,
+    "category": "HDBSCAN Bridge and Noise Papers"
+  },
+  "2238_BRAIN_TUMOR_OF_PSYCHOMOTOR_AREA_CAUSING_JACKSONIAN_AND_GENER": {
+    "x": -7.20261,
+    "y": -3.19687,
+    "category": "HDBSCAN Cluster: had, she, any, spasm"
+  },
+  "2239_Case_of_Cerebral_Hemorrhage_in_the_Newborn_Delivered_by_Oper": {
+    "x": -7.127731,
+    "y": -1.624944,
+    "category": "HDBSCAN Bridge and Noise Papers"
+  },
+  "2240_The_Lettsomian_Lectures_ON_THE_CEREBELLUM_AND_ITS_AFFECTIONS": {
+    "x": -3.202041,
+    "y": -0.857817,
+    "category": "HDBSCAN Cluster: cerebellum, its, affections, which"
+  },
+  "2241_An_examination_of_Fröhlichs_theory_of_the_treppe": {
+    "x": -4.332055,
+    "y": 0.060562,
+    "category": "HDBSCAN Bridge and Noise Papers"
+  },
+  "2242_Bacterial_Invasion_of_the_Blood_and_the_Cerebrospinal_Fluid": {
+    "x": -4.906808,
+    "y": -1.481865,
+    "category": "HDBSCAN Bridge and Noise Papers"
+  },
+  "2243_HEMIPLEGIA_FOLLOWING_ACUTE_INFECTIONS": {
+    "x": -6.390386,
+    "y": 1.077166,
+    "category": "HDBSCAN Bridge and Noise Papers"
+  },
+  "2244_THE_TOPOGRAPHIC_DIAGNOSIS_OF_SUBTENTORIAL_BRAIN_TUMORS": {
+    "x": -4.02289,
+    "y": -0.857389,
+    "category": "HDBSCAN Cluster: tumors, figure, which, lesions"
+  },
+  "2245_Sensory_disturbances_from_cerebral_lesions": {
+    "x": -0.294885,
+    "y": 1.090224,
+    "category": "HDBSCAN Cluster: alcohol, after, injection, gastrointestinal"
+  },
+  "2246_The_development_of_the_purkinje_cells_and_of_the_cortical_la": {
+    "x": -0.280328,
+    "y": 1.146615,
+    "category": "HDBSCAN Cluster: development, stage, figure, oxide"
+  },
+  "2247_DISTORTIONS_OF_THE_VISUAL_FIELDS_IN_CASES_OF_BRAIN_TUMOR_Sec": {
+    "x": -5.607776,
+    "y": -0.341245,
+    "category": "HDBSCAN Cluster: should, which, how, had"
+  },
+  "2248_THE_CONTROL_OF_BLEEDING_IN_OPERATIONS_FOR_BRAIN_TUMORS_WITH": {
+    "x": 9.022584,
+    "y": -0.771084,
+    "category": "HDBSCAN Cluster: figure, brain, deafness, due"
+  },
+  "2249_Studies_of_fertilization_in_Nereis_I_The_cortical_changes_in": {
+    "x": -2.564941,
+    "y": 0.855226,
+    "category": "HDBSCAN Cluster: fertilization, egg, origin, differentiation"
+  },
+  "2250_The_effect_of_underfeeding_on_the_percentage_of_water_on_the": {
+    "x": -3.127054,
+    "y": 1.622354,
+    "category": "HDBSCAN Cluster: rats, albino, group, underfeeding"
+  },
+  "2251_A_CASE_OF_LESION_OF_THE_OPTIC_THALAMUS_WITH_AUTOPSY": {
+    "x": -3.089478,
+    "y": -0.651051,
+    "category": "HDBSCAN Bridge and Noise Papers"
+  },
+  "2252_TUMORS_OF_THE_PINEAL_BODY_WITH_AN_ACCOUNT_OF_THE_PINEAL_SYND": {
+    "x": -3.639419,
+    "y": -1.615455,
+    "category": "HDBSCAN Cluster: pineal, tumors, cells, body"
+  },
+  "2253_THE_SYMPTOMATOLOGY_OF_TEMPOROSPHENOIDAL_TUMORS": {
+    "x": -3.626461,
+    "y": -0.910412,
+    "category": "HDBSCAN Cluster: tumors, figure, which, lesions"
   }
 }
