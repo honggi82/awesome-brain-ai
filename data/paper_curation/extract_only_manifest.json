@@ -1,12 +1,12 @@
 {
-  "generated": "2026-07-03T16:07:23.777404+00:00",
+  "generated": "2026-07-03T17:30:49.264903+00:00",
   "mode": "extract-only",
   "paperCurationDir": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect",
   "awesomeRepo": "E:\\조선대\\연구\\awesome-brain-ai",
   "extractReport": "data/paper_curation/extract_only_report.json",
   "docsDir": "docs/paper_curation/extract_only",
   "paperDir": "paper/extract_only",
-  "recordCount": 420,
+  "recordCount": 440,
   "syncedPaperSlugs": [
     "003_Hughlings_Jackson_and_the_Cortical_Motor_Centres_in_the_Ligh",
     "015_EXPERIMENTAL_AND_CLINICAL_NOTES_ON_THE_SUBARACHNOID_SPACE",
@@ -427,13 +427,33 @@
     "2159_STUDIES_IN_INACCESSIBLE_INTERNAL_HEMORRHAGES_I_THE_EFFECT_OF",
     "2160_A_FURTHER_CONTRIBUTION_TO_PALLIATIVE_OPERATIONS_FOR_BRAIN_TU",
     "2161_PHOSPHORUS_COMPOUNDS_AS_BRAIN_FOODS",
-    "2162_THE_WASSERMANN_REACTION_IN_ITS_RELATION_TO_DISEASES_OF_THE_C"
+    "2162_THE_WASSERMANN_REACTION_IN_ITS_RELATION_TO_DISEASES_OF_THE_C",
+    "2188_ISOLATED_AND_COMPLETE_PARALYSIS_OF_THE_THIRD_NERVE_OF_TRAUMA",
+    "2189_THE_DISEASES_OF_THE_CEREBRAL_ARTERIES_THEIR_EFFECTS_AND_TREA",
+    "2190_TRAVEL_NOTES_A_PHYSICIANS_HOLIDAY_IN_THE_ENGADINE",
+    "2191_IRRIGATION_OF_THE_AQUEOUS_CHAMBER_FOR_THE_REMOVAL_OF_REMAINI",
+    "2192_Cultivation_of_adult_tissues_and_organs_outside_of_the_body",
+    "2193_THE_CULTIVATION_OF_TISSUES_OF_THE_CHICK-EMBRYO_OUTSIDE_THE_B",
+    "2194_A_Study_of_the_Dementia_Precox_Group_in_the_Light_of_Certain",
+    "2195_The_Physiology_of_Anaphylactic_Shock_in_the_Dog",
+    "2196_Eine_neue_Methode_zur_Darstellung_des_Gliagewebes_nebst_Beit",
+    "2197_The_evolution_of_the_cerebral_cortex",
+    "2198_ON_THE_RELATION_OF_THE_CATALYTIC_ACTIVITY_OF_THE_BLOOD_TO_TH",
+    "2199_A_STUDY_OF_THE_DEMENTIA_PRÆCOX_GROUP_IN_THE_LIGHT_OF_CERTAIN",
+    "2200_A_CASE_OF_OSTEITIS_DEFORMANS_TERMINATING_WITH_CEREBRAL_SYMPT",
+    "2201_EPIDEMIC_POLIOMYELITIS_IN_MONKEYS_A_MODE_OF_SPONTANEOUS_INFE",
+    "2202_ANATOMICAL_FINDINGS_IN_SENILE_DEMENTIA_A_DIAGNOSTIC_STUDY_BE",
+    "2203_A_cast_of_the_ventricles_of_the_human_brain",
+    "2204_DEAFNESS_DUE_TO_LESIONS_IN_THE_BRAIN",
+    "2205_MULTIPLE_SCLEROSIS_WITH_PRIMARY_DEGENERATION_OF_THE_MOTOR_CO",
+    "2206_The_Material_Fundamentals_and_the_Prognosis_of_the_Accident",
+    "2207_How_can_the_process_underlying_membrane_formation_cause_the"
   ],
   "copied": [
     {
       "source": "E:\\조선대\\연구\\paper-curation\\paper\\awesome-brain-ai\\_folder_source_extract_report.json",
       "target": "E:\\조선대\\연구\\awesome-brain-ai\\data\\paper_curation\\extract_only_report.json",
-      "bytes": 255706
+      "bytes": 268465
     },
     {
       "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\003_Hughlings_Jackson_and_the_Cortical_Motor_Centres_in_the_Ligh\\text.md",
@@ -6784,6 +6804,316 @@
       "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2162_THE_WASSERMANN_REACTION_IN_ITS_RELATION_TO_DISEASES_OF_THE_C\\text.md",
       "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2162_THE_WASSERMANN_REACTION_IN_ITS_RELATION_TO_DISEASES_OF_THE_C\\text.md",
       "bytes": 44120
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2188_ISOLATED_AND_COMPLETE_PARALYSIS_OF_THE_THIRD_NERVE_OF_TRAUMA\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2188_ISOLATED_AND_COMPLETE_PARALYSIS_OF_THE_THIRD_NERVE_OF_TRAUMA\\text.md",
+      "bytes": 23090
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2188_ISOLATED_AND_COMPLETE_PARALYSIS_OF_THE_THIRD_NERVE_OF_TRAUMA\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2188_ISOLATED_AND_COMPLETE_PARALYSIS_OF_THE_THIRD_NERVE_OF_TRAUMA\\text.md",
+      "bytes": 23090
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2189_THE_DISEASES_OF_THE_CEREBRAL_ARTERIES_THEIR_EFFECTS_AND_TREA\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2189_THE_DISEASES_OF_THE_CEREBRAL_ARTERIES_THEIR_EFFECTS_AND_TREA\\text.md",
+      "bytes": 37459
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2189_THE_DISEASES_OF_THE_CEREBRAL_ARTERIES_THEIR_EFFECTS_AND_TREA\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2189_THE_DISEASES_OF_THE_CEREBRAL_ARTERIES_THEIR_EFFECTS_AND_TREA\\text.md",
+      "bytes": 37459
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2190_TRAVEL_NOTES_A_PHYSICIANS_HOLIDAY_IN_THE_ENGADINE\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2190_TRAVEL_NOTES_A_PHYSICIANS_HOLIDAY_IN_THE_ENGADINE\\text.md",
+      "bytes": 16364
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2190_TRAVEL_NOTES_A_PHYSICIANS_HOLIDAY_IN_THE_ENGADINE\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2190_TRAVEL_NOTES_A_PHYSICIANS_HOLIDAY_IN_THE_ENGADINE\\text.md",
+      "bytes": 16364
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2191_IRRIGATION_OF_THE_AQUEOUS_CHAMBER_FOR_THE_REMOVAL_OF_REMAINI\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2191_IRRIGATION_OF_THE_AQUEOUS_CHAMBER_FOR_THE_REMOVAL_OF_REMAINI\\text.md",
+      "bytes": 6725
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2191_IRRIGATION_OF_THE_AQUEOUS_CHAMBER_FOR_THE_REMOVAL_OF_REMAINI\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2191_IRRIGATION_OF_THE_AQUEOUS_CHAMBER_FOR_THE_REMOVAL_OF_REMAINI\\text.md",
+      "bytes": 6725
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2192_Cultivation_of_adult_tissues_and_organs_outside_of_the_body\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2192_Cultivation_of_adult_tissues_and_organs_outside_of_the_body\\text.md",
+      "bytes": 21092
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2192_Cultivation_of_adult_tissues_and_organs_outside_of_the_body\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2192_Cultivation_of_adult_tissues_and_organs_outside_of_the_body\\text.md",
+      "bytes": 21092
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2193_THE_CULTIVATION_OF_TISSUES_OF_THE_CHICK-EMBRYO_OUTSIDE_THE_B\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2193_THE_CULTIVATION_OF_TISSUES_OF_THE_CHICK-EMBRYO_OUTSIDE_THE_B\\text.md",
+      "bytes": 13920
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2193_THE_CULTIVATION_OF_TISSUES_OF_THE_CHICK-EMBRYO_OUTSIDE_THE_B\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2193_THE_CULTIVATION_OF_TISSUES_OF_THE_CHICK-EMBRYO_OUTSIDE_THE_B\\text.md",
+      "bytes": 13920
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2194_A_Study_of_the_Dementia_Precox_Group_in_the_Light_of_Certain\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2194_A_Study_of_the_Dementia_Precox_Group_in_the_Light_of_Certain\\text.md",
+      "bytes": 148298
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2194_A_Study_of_the_Dementia_Precox_Group_in_the_Light_of_Certain\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2194_A_Study_of_the_Dementia_Precox_Group_in_the_Light_of_Certain\\text.md",
+      "bytes": 148298
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2195_The_Physiology_of_Anaphylactic_Shock_in_the_Dog\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2195_The_Physiology_of_Anaphylactic_Shock_in_the_Dog\\text.md",
+      "bytes": 29278
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2195_The_Physiology_of_Anaphylactic_Shock_in_the_Dog\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2195_The_Physiology_of_Anaphylactic_Shock_in_the_Dog\\text.md",
+      "bytes": 29278
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2196_Eine_neue_Methode_zur_Darstellung_des_Gliagewebes_nebst_Beit\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2196_Eine_neue_Methode_zur_Darstellung_des_Gliagewebes_nebst_Beit\\text.md",
+      "bytes": 210736
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2196_Eine_neue_Methode_zur_Darstellung_des_Gliagewebes_nebst_Beit\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2196_Eine_neue_Methode_zur_Darstellung_des_Gliagewebes_nebst_Beit\\figures\\fig1.png",
+      "bytes": 535026
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2196_Eine_neue_Methode_zur_Darstellung_des_Gliagewebes_nebst_Beit\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2196_Eine_neue_Methode_zur_Darstellung_des_Gliagewebes_nebst_Beit\\figures\\fig2.png",
+      "bytes": 550285
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2196_Eine_neue_Methode_zur_Darstellung_des_Gliagewebes_nebst_Beit\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2196_Eine_neue_Methode_zur_Darstellung_des_Gliagewebes_nebst_Beit\\figures\\fig3.png",
+      "bytes": 548694
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2196_Eine_neue_Methode_zur_Darstellung_des_Gliagewebes_nebst_Beit\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2196_Eine_neue_Methode_zur_Darstellung_des_Gliagewebes_nebst_Beit\\figures\\fig5.png",
+      "bytes": 557041
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2196_Eine_neue_Methode_zur_Darstellung_des_Gliagewebes_nebst_Beit\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2196_Eine_neue_Methode_zur_Darstellung_des_Gliagewebes_nebst_Beit\\text.md",
+      "bytes": 210736
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2196_Eine_neue_Methode_zur_Darstellung_des_Gliagewebes_nebst_Beit\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2196_Eine_neue_Methode_zur_Darstellung_des_Gliagewebes_nebst_Beit\\figures\\fig1.png",
+      "bytes": 535026
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2196_Eine_neue_Methode_zur_Darstellung_des_Gliagewebes_nebst_Beit\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2196_Eine_neue_Methode_zur_Darstellung_des_Gliagewebes_nebst_Beit\\figures\\fig2.png",
+      "bytes": 550285
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2196_Eine_neue_Methode_zur_Darstellung_des_Gliagewebes_nebst_Beit\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2196_Eine_neue_Methode_zur_Darstellung_des_Gliagewebes_nebst_Beit\\figures\\fig3.png",
+      "bytes": 548694
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2196_Eine_neue_Methode_zur_Darstellung_des_Gliagewebes_nebst_Beit\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2196_Eine_neue_Methode_zur_Darstellung_des_Gliagewebes_nebst_Beit\\figures\\fig5.png",
+      "bytes": 557041
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2197_The_evolution_of_the_cerebral_cortex\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2197_The_evolution_of_the_cerebral_cortex\\text.md",
+      "bytes": 36764
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2197_The_evolution_of_the_cerebral_cortex\\figures\\fig11.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2197_The_evolution_of_the_cerebral_cortex\\figures\\fig11.png",
+      "bytes": 408519
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2197_The_evolution_of_the_cerebral_cortex\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2197_The_evolution_of_the_cerebral_cortex\\figures\\fig2.png",
+      "bytes": 339716
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2197_The_evolution_of_the_cerebral_cortex\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2197_The_evolution_of_the_cerebral_cortex\\figures\\fig3.png",
+      "bytes": 379182
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2197_The_evolution_of_the_cerebral_cortex\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2197_The_evolution_of_the_cerebral_cortex\\figures\\fig4.png",
+      "bytes": 383323
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2197_The_evolution_of_the_cerebral_cortex\\figures\\fig6.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2197_The_evolution_of_the_cerebral_cortex\\figures\\fig6.png",
+      "bytes": 527912
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2197_The_evolution_of_the_cerebral_cortex\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2197_The_evolution_of_the_cerebral_cortex\\text.md",
+      "bytes": 36764
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2197_The_evolution_of_the_cerebral_cortex\\figures\\fig11.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2197_The_evolution_of_the_cerebral_cortex\\figures\\fig11.png",
+      "bytes": 408519
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2197_The_evolution_of_the_cerebral_cortex\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2197_The_evolution_of_the_cerebral_cortex\\figures\\fig2.png",
+      "bytes": 339716
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2197_The_evolution_of_the_cerebral_cortex\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2197_The_evolution_of_the_cerebral_cortex\\figures\\fig3.png",
+      "bytes": 379182
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2197_The_evolution_of_the_cerebral_cortex\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2197_The_evolution_of_the_cerebral_cortex\\figures\\fig4.png",
+      "bytes": 383323
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2197_The_evolution_of_the_cerebral_cortex\\figures\\fig6.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2197_The_evolution_of_the_cerebral_cortex\\figures\\fig6.png",
+      "bytes": 527912
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2198_ON_THE_RELATION_OF_THE_CATALYTIC_ACTIVITY_OF_THE_BLOOD_TO_TH\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2198_ON_THE_RELATION_OF_THE_CATALYTIC_ACTIVITY_OF_THE_BLOOD_TO_TH\\text.md",
+      "bytes": 18169
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2198_ON_THE_RELATION_OF_THE_CATALYTIC_ACTIVITY_OF_THE_BLOOD_TO_TH\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2198_ON_THE_RELATION_OF_THE_CATALYTIC_ACTIVITY_OF_THE_BLOOD_TO_TH\\text.md",
+      "bytes": 18169
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2199_A_STUDY_OF_THE_DEMENTIA_PRÆCOX_GROUP_IN_THE_LIGHT_OF_CERTAIN\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2199_A_STUDY_OF_THE_DEMENTIA_PRÆCOX_GROUP_IN_THE_LIGHT_OF_CERTAIN\\text.md",
+      "bytes": 144829
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2199_A_STUDY_OF_THE_DEMENTIA_PRÆCOX_GROUP_IN_THE_LIGHT_OF_CERTAIN\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2199_A_STUDY_OF_THE_DEMENTIA_PRÆCOX_GROUP_IN_THE_LIGHT_OF_CERTAIN\\text.md",
+      "bytes": 144829
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2200_A_CASE_OF_OSTEITIS_DEFORMANS_TERMINATING_WITH_CEREBRAL_SYMPT\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2200_A_CASE_OF_OSTEITIS_DEFORMANS_TERMINATING_WITH_CEREBRAL_SYMPT\\text.md",
+      "bytes": 21143
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2200_A_CASE_OF_OSTEITIS_DEFORMANS_TERMINATING_WITH_CEREBRAL_SYMPT\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2200_A_CASE_OF_OSTEITIS_DEFORMANS_TERMINATING_WITH_CEREBRAL_SYMPT\\text.md",
+      "bytes": 21143
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2201_EPIDEMIC_POLIOMYELITIS_IN_MONKEYS_A_MODE_OF_SPONTANEOUS_INFE\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2201_EPIDEMIC_POLIOMYELITIS_IN_MONKEYS_A_MODE_OF_SPONTANEOUS_INFE\\text.md",
+      "bytes": 7187
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2201_EPIDEMIC_POLIOMYELITIS_IN_MONKEYS_A_MODE_OF_SPONTANEOUS_INFE\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2201_EPIDEMIC_POLIOMYELITIS_IN_MONKEYS_A_MODE_OF_SPONTANEOUS_INFE\\text.md",
+      "bytes": 7187
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2202_ANATOMICAL_FINDINGS_IN_SENILE_DEMENTIA_A_DIAGNOSTIC_STUDY_BE\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2202_ANATOMICAL_FINDINGS_IN_SENILE_DEMENTIA_A_DIAGNOSTIC_STUDY_BE\\text.md",
+      "bytes": 82600
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2202_ANATOMICAL_FINDINGS_IN_SENILE_DEMENTIA_A_DIAGNOSTIC_STUDY_BE\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2202_ANATOMICAL_FINDINGS_IN_SENILE_DEMENTIA_A_DIAGNOSTIC_STUDY_BE\\text.md",
+      "bytes": 82600
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2203_A_cast_of_the_ventricles_of_the_human_brain\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2203_A_cast_of_the_ventricles_of_the_human_brain\\text.md",
+      "bytes": 5641
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2203_A_cast_of_the_ventricles_of_the_human_brain\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2203_A_cast_of_the_ventricles_of_the_human_brain\\figures\\fig1.png",
+      "bytes": 400900
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2203_A_cast_of_the_ventricles_of_the_human_brain\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2203_A_cast_of_the_ventricles_of_the_human_brain\\figures\\fig2.png",
+      "bytes": 489675
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2203_A_cast_of_the_ventricles_of_the_human_brain\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2203_A_cast_of_the_ventricles_of_the_human_brain\\text.md",
+      "bytes": 5641
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2203_A_cast_of_the_ventricles_of_the_human_brain\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2203_A_cast_of_the_ventricles_of_the_human_brain\\figures\\fig1.png",
+      "bytes": 400900
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2203_A_cast_of_the_ventricles_of_the_human_brain\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2203_A_cast_of_the_ventricles_of_the_human_brain\\figures\\fig2.png",
+      "bytes": 489675
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2204_DEAFNESS_DUE_TO_LESIONS_IN_THE_BRAIN\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2204_DEAFNESS_DUE_TO_LESIONS_IN_THE_BRAIN\\text.md",
+      "bytes": 441
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2204_DEAFNESS_DUE_TO_LESIONS_IN_THE_BRAIN\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2204_DEAFNESS_DUE_TO_LESIONS_IN_THE_BRAIN\\text.md",
+      "bytes": 441
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2205_MULTIPLE_SCLEROSIS_WITH_PRIMARY_DEGENERATION_OF_THE_MOTOR_CO\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2205_MULTIPLE_SCLEROSIS_WITH_PRIMARY_DEGENERATION_OF_THE_MOTOR_CO\\text.md",
+      "bytes": 426
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2205_MULTIPLE_SCLEROSIS_WITH_PRIMARY_DEGENERATION_OF_THE_MOTOR_CO\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2205_MULTIPLE_SCLEROSIS_WITH_PRIMARY_DEGENERATION_OF_THE_MOTOR_CO\\text.md",
+      "bytes": 426
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2206_The_Material_Fundamentals_and_the_Prognosis_of_the_Accident\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2206_The_Material_Fundamentals_and_the_Prognosis_of_the_Accident\\text.md",
+      "bytes": 25992
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2206_The_Material_Fundamentals_and_the_Prognosis_of_the_Accident\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2206_The_Material_Fundamentals_and_the_Prognosis_of_the_Accident\\text.md",
+      "bytes": 25992
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2207_How_can_the_process_underlying_membrane_formation_cause_the\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2207_How_can_the_process_underlying_membrane_formation_cause_the\\text.md",
+      "bytes": 3997
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2207_How_can_the_process_underlying_membrane_formation_cause_the\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2207_How_can_the_process_underlying_membrane_formation_cause_the\\text.md",
+      "bytes": 3997
     }
   ],
   "missing": [],
