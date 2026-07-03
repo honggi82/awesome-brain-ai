@@ -1,12 +1,12 @@
 {
-  "generated": "2026-07-03T19:09:18.389624+00:00",
+  "generated": "2026-07-03T19:39:38.238443+00:00",
   "mode": "extract-only",
   "paperCurationDir": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect",
   "awesomeRepo": "E:\\조선대\\연구\\awesome-brain-ai",
   "extractReport": "data/paper_curation/extract_only_report.json",
   "docsDir": "docs/paper_curation/extract_only",
   "paperDir": "paper/extract_only",
-  "recordCount": 480,
+  "recordCount": 500,
   "syncedPaperSlugs": [
     "003_Hughlings_Jackson_and_the_Cortical_Motor_Centres_in_the_Ligh",
     "015_EXPERIMENTAL_AND_CLINICAL_NOTES_ON_THE_SUBARACHNOID_SPACE",
@@ -487,13 +487,33 @@
     "2296_A_contribution_to_the_study_of_the_cere_bral_cortex_in_man",
     "2297_CEREBRAL_TUMOUR_AFFECTING_THE_UNDER_SURFACE_OF_THE_CORPUS_CA",
     "2292_THE_CEREBRAL_FORMS_OF_POLIOMYELITIS_AND_THEIR_DIAGNOSIS_FROM",
-    "2298_THE_DIAGNOSIS_OF_INFANTILE_TETANY_WITH_A_REPORT_ON_EXPERIMEN"
+    "2298_THE_DIAGNOSIS_OF_INFANTILE_TETANY_WITH_A_REPORT_ON_EXPERIMEN",
+    "2331_THE_TREATMENT_OF_CHRONIC_HYPERTENSION",
+    "2332_COLLOID_BODIES_IN_THE_CENTRAL_NERVOUS_SYSTEM_THEIR_PRESENCE",
+    "2333_The_coordinative_mechanisms_of_the_central_nervous_system",
+    "2334_Book_Review_IV_Practical_Theology_Successful_Teaching",
+    "2335_Intra-cranial_Dehiscences_of_the_Cavities_of_the_Ear_and_Deh",
+    "2336_MINIATURE_EXERCISE_MACHINE_FOR_INFANTILE_PARALYSIS",
+    "2337_Landmarks_and_Surface_Markings_of_the_Human_Body",
+    "2338_The_development_of_the_cerebral_cortex",
+    "2339_Researches_INTO_SENSORY_DISTURBANCES_FROM_CEREBRAL_LESIONS",
+    "2340_SIGNS_AND_SYMPTOMS_PRESENTED_BY_THOSE_ADDICTED_TO_COCAIN_OBS",
+    "2341_Numbers_and_Types_of_Bacteria_Carried_by_City_Flies",
+    "2342_Gedanken_über_die_Wirkung_unserer_Antisyphilitika",
+    "2343_AN_EXPERIMENTAL_INVESTIGATION_OF_THE_VALUE_OF_HEXAMETHYLENAM",
+    "2344_THE_MODE_OF_INFECTION_IN_EPIDEMIC_POLIOMYELITIS",
+    "2345_MALIGNANT_CHORDOMA_INVOLVING_BRAIN_AND_SPINAL_CORD",
+    "2346_THE_VALUE_OF_PSYCHOLOGY_IN_PSYCHIATRY",
+    "2347_The_motor_cortex_and_pyramid_tract_in_the_raccoon_Procyon_lo",
+    "2348_APHASIA_AND_AGRAPHIA_IN_SOME_PRACTICAL_SURGICAL_RELATIONS",
+    "2349_On_the_histology_of_the_cranial_autonomic_ganglia_of_the_she",
+    "2350_A_comparison_of_the_European_Norway_and_albino_rats_Mus_norv"
   ],
   "copied": [
     {
       "source": "E:\\조선대\\연구\\paper-curation\\paper\\awesome-brain-ai\\_folder_source_extract_report.json",
       "target": "E:\\조선대\\연구\\awesome-brain-ai\\data\\paper_curation\\extract_only_report.json",
-      "bytes": 293624
+      "bytes": 305771
     },
     {
       "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\003_Hughlings_Jackson_and_the_Cortical_Motor_Centres_in_the_Ligh\\text.md",
@@ -7834,6 +7854,216 @@
       "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2298_THE_DIAGNOSIS_OF_INFANTILE_TETANY_WITH_A_REPORT_ON_EXPERIMEN\\text.md",
       "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2298_THE_DIAGNOSIS_OF_INFANTILE_TETANY_WITH_A_REPORT_ON_EXPERIMEN\\text.md",
       "bytes": 54307
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2331_THE_TREATMENT_OF_CHRONIC_HYPERTENSION\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2331_THE_TREATMENT_OF_CHRONIC_HYPERTENSION\\text.md",
+      "bytes": 30762
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2331_THE_TREATMENT_OF_CHRONIC_HYPERTENSION\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2331_THE_TREATMENT_OF_CHRONIC_HYPERTENSION\\text.md",
+      "bytes": 30762
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2332_COLLOID_BODIES_IN_THE_CENTRAL_NERVOUS_SYSTEM_THEIR_PRESENCE\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2332_COLLOID_BODIES_IN_THE_CENTRAL_NERVOUS_SYSTEM_THEIR_PRESENCE\\text.md",
+      "bytes": 171
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2332_COLLOID_BODIES_IN_THE_CENTRAL_NERVOUS_SYSTEM_THEIR_PRESENCE\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2332_COLLOID_BODIES_IN_THE_CENTRAL_NERVOUS_SYSTEM_THEIR_PRESENCE\\text.md",
+      "bytes": 171
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2333_The_coordinative_mechanisms_of_the_central_nervous_system\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2333_The_coordinative_mechanisms_of_the_central_nervous_system\\text.md",
+      "bytes": 19209
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2333_The_coordinative_mechanisms_of_the_central_nervous_system\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2333_The_coordinative_mechanisms_of_the_central_nervous_system\\text.md",
+      "bytes": 19209
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2334_Book_Review_IV_Practical_Theology_Successful_Teaching\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2334_Book_Review_IV_Practical_Theology_Successful_Teaching\\text.md",
+      "bytes": 4262
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2334_Book_Review_IV_Practical_Theology_Successful_Teaching\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2334_Book_Review_IV_Practical_Theology_Successful_Teaching\\text.md",
+      "bytes": 4262
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2335_Intra-cranial_Dehiscences_of_the_Cavities_of_the_Ear_and_Deh\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2335_Intra-cranial_Dehiscences_of_the_Cavities_of_the_Ear_and_Deh\\text.md",
+      "bytes": 48799
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2335_Intra-cranial_Dehiscences_of_the_Cavities_of_the_Ear_and_Deh\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2335_Intra-cranial_Dehiscences_of_the_Cavities_of_the_Ear_and_Deh\\text.md",
+      "bytes": 48799
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2336_MINIATURE_EXERCISE_MACHINE_FOR_INFANTILE_PARALYSIS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2336_MINIATURE_EXERCISE_MACHINE_FOR_INFANTILE_PARALYSIS\\text.md",
+      "bytes": 5458
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2336_MINIATURE_EXERCISE_MACHINE_FOR_INFANTILE_PARALYSIS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2336_MINIATURE_EXERCISE_MACHINE_FOR_INFANTILE_PARALYSIS\\text.md",
+      "bytes": 5458
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2337_Landmarks_and_Surface_Markings_of_the_Human_Body\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2337_Landmarks_and_Surface_Markings_of_the_Human_Body\\text.md",
+      "bytes": 7923
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2337_Landmarks_and_Surface_Markings_of_the_Human_Body\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2337_Landmarks_and_Surface_Markings_of_the_Human_Body\\text.md",
+      "bytes": 7923
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2338_The_development_of_the_cerebral_cortex\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2338_The_development_of_the_cerebral_cortex\\text.md",
+      "bytes": 8095
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2338_The_development_of_the_cerebral_cortex\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2338_The_development_of_the_cerebral_cortex\\text.md",
+      "bytes": 8095
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2339_Researches_INTO_SENSORY_DISTURBANCES_FROM_CEREBRAL_LESIONS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2339_Researches_INTO_SENSORY_DISTURBANCES_FROM_CEREBRAL_LESIONS\\text.md",
+      "bytes": 35128
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2339_Researches_INTO_SENSORY_DISTURBANCES_FROM_CEREBRAL_LESIONS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2339_Researches_INTO_SENSORY_DISTURBANCES_FROM_CEREBRAL_LESIONS\\text.md",
+      "bytes": 35128
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2340_SIGNS_AND_SYMPTOMS_PRESENTED_BY_THOSE_ADDICTED_TO_COCAIN_OBS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2340_SIGNS_AND_SYMPTOMS_PRESENTED_BY_THOSE_ADDICTED_TO_COCAIN_OBS\\text.md",
+      "bytes": 14284
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2340_SIGNS_AND_SYMPTOMS_PRESENTED_BY_THOSE_ADDICTED_TO_COCAIN_OBS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2340_SIGNS_AND_SYMPTOMS_PRESENTED_BY_THOSE_ADDICTED_TO_COCAIN_OBS\\text.md",
+      "bytes": 14284
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2341_Numbers_and_Types_of_Bacteria_Carried_by_City_Flies\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2341_Numbers_and_Types_of_Bacteria_Carried_by_City_Flies\\text.md",
+      "bytes": 28228
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2341_Numbers_and_Types_of_Bacteria_Carried_by_City_Flies\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2341_Numbers_and_Types_of_Bacteria_Carried_by_City_Flies\\text.md",
+      "bytes": 28228
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2342_Gedanken_über_die_Wirkung_unserer_Antisyphilitika\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2342_Gedanken_über_die_Wirkung_unserer_Antisyphilitika\\text.md",
+      "bytes": 38044
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2342_Gedanken_über_die_Wirkung_unserer_Antisyphilitika\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2342_Gedanken_über_die_Wirkung_unserer_Antisyphilitika\\text.md",
+      "bytes": 38044
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2343_AN_EXPERIMENTAL_INVESTIGATION_OF_THE_VALUE_OF_HEXAMETHYLENAM\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2343_AN_EXPERIMENTAL_INVESTIGATION_OF_THE_VALUE_OF_HEXAMETHYLENAM\\text.md",
+      "bytes": 29077
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2343_AN_EXPERIMENTAL_INVESTIGATION_OF_THE_VALUE_OF_HEXAMETHYLENAM\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2343_AN_EXPERIMENTAL_INVESTIGATION_OF_THE_VALUE_OF_HEXAMETHYLENAM\\text.md",
+      "bytes": 29077
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2344_THE_MODE_OF_INFECTION_IN_EPIDEMIC_POLIOMYELITIS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2344_THE_MODE_OF_INFECTION_IN_EPIDEMIC_POLIOMYELITIS\\text.md",
+      "bytes": 14581
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2344_THE_MODE_OF_INFECTION_IN_EPIDEMIC_POLIOMYELITIS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2344_THE_MODE_OF_INFECTION_IN_EPIDEMIC_POLIOMYELITIS\\text.md",
+      "bytes": 14581
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2345_MALIGNANT_CHORDOMA_INVOLVING_BRAIN_AND_SPINAL_CORD\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2345_MALIGNANT_CHORDOMA_INVOLVING_BRAIN_AND_SPINAL_CORD\\text.md",
+      "bytes": 516
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2345_MALIGNANT_CHORDOMA_INVOLVING_BRAIN_AND_SPINAL_CORD\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2345_MALIGNANT_CHORDOMA_INVOLVING_BRAIN_AND_SPINAL_CORD\\text.md",
+      "bytes": 516
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2346_THE_VALUE_OF_PSYCHOLOGY_IN_PSYCHIATRY\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2346_THE_VALUE_OF_PSYCHOLOGY_IN_PSYCHIATRY\\text.md",
+      "bytes": 28757
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2346_THE_VALUE_OF_PSYCHOLOGY_IN_PSYCHIATRY\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2346_THE_VALUE_OF_PSYCHOLOGY_IN_PSYCHIATRY\\text.md",
+      "bytes": 28757
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2347_The_motor_cortex_and_pyramid_tract_in_the_raccoon_Procyon_lo\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2347_The_motor_cortex_and_pyramid_tract_in_the_raccoon_Procyon_lo\\text.md",
+      "bytes": 4287
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2347_The_motor_cortex_and_pyramid_tract_in_the_raccoon_Procyon_lo\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2347_The_motor_cortex_and_pyramid_tract_in_the_raccoon_Procyon_lo\\text.md",
+      "bytes": 4287
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2348_APHASIA_AND_AGRAPHIA_IN_SOME_PRACTICAL_SURGICAL_RELATIONS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2348_APHASIA_AND_AGRAPHIA_IN_SOME_PRACTICAL_SURGICAL_RELATIONS\\text.md",
+      "bytes": 34366
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2348_APHASIA_AND_AGRAPHIA_IN_SOME_PRACTICAL_SURGICAL_RELATIONS\\figures\\fig18.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2348_APHASIA_AND_AGRAPHIA_IN_SOME_PRACTICAL_SURGICAL_RELATIONS\\figures\\fig18.png",
+      "bytes": 674015
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2348_APHASIA_AND_AGRAPHIA_IN_SOME_PRACTICAL_SURGICAL_RELATIONS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2348_APHASIA_AND_AGRAPHIA_IN_SOME_PRACTICAL_SURGICAL_RELATIONS\\text.md",
+      "bytes": 34366
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2348_APHASIA_AND_AGRAPHIA_IN_SOME_PRACTICAL_SURGICAL_RELATIONS\\figures\\fig18.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2348_APHASIA_AND_AGRAPHIA_IN_SOME_PRACTICAL_SURGICAL_RELATIONS\\figures\\fig18.png",
+      "bytes": 674015
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2349_On_the_histology_of_the_cranial_autonomic_ganglia_of_the_she\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2349_On_the_histology_of_the_cranial_autonomic_ganglia_of_the_she\\text.md",
+      "bytes": 20958
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2349_On_the_histology_of_the_cranial_autonomic_ganglia_of_the_she\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2349_On_the_histology_of_the_cranial_autonomic_ganglia_of_the_she\\text.md",
+      "bytes": 20958
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2350_A_comparison_of_the_European_Norway_and_albino_rats_Mus_norv\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2350_A_comparison_of_the_European_Norway_and_albino_rats_Mus_norv\\text.md",
+      "bytes": 50029
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2350_A_comparison_of_the_European_Norway_and_albino_rats_Mus_norv\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2350_A_comparison_of_the_European_Norway_and_albino_rats_Mus_norv\\text.md",
+      "bytes": 50029
     }
   ],
   "missing": [],
