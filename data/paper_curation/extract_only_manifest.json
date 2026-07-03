@@ -1,12 +1,12 @@
 {
-  "generated": "2026-07-03T21:19:14.258273+00:00",
+  "generated": "2026-07-03T21:51:26.958228+00:00",
   "mode": "extract-only",
   "paperCurationDir": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect",
   "awesomeRepo": "E:\\조선대\\연구\\awesome-brain-ai",
   "extractReport": "data/paper_curation/extract_only_report.json",
   "docsDir": "docs/paper_curation/extract_only",
   "paperDir": "paper/extract_only",
-  "recordCount": 560,
+  "recordCount": 580,
   "syncedPaperSlugs": [
     "003_Hughlings_Jackson_and_the_Cortical_Motor_Centres_in_the_Ligh",
     "015_EXPERIMENTAL_AND_CLINICAL_NOTES_ON_THE_SUBARACHNOID_SPACE",
@@ -567,13 +567,33 @@
     "2487_THE_DEMONSTRATION_OF_THE_SPIROCHAETA_PALLIDA_IN_THE_BRAIN_SU",
     "2488_XXXIX_Radiography_as_an_AID_in_the_Diagnosis_of_Mastoid_Dise",
     "2489_The_Herter_Lectures_II_Trypanosomiasis_Lecture_delivered_on",
-    "2490_II_Description_of_the_Human_Skull_and_Mandible_and_the_Assoc"
+    "2490_II_Description_of_the_Human_Skull_and_Mandible_and_the_Assoc",
+    "2519_OCCLUSION_OF_THE_POSTERIOR_INFERIOR_CEREBELLAR_ARTERY_REPORT",
+    "2520_The_New_Physiology_in_Surgical_and_General_Practice",
+    "2521_A_DEMONSTRATION_OF_THE_SYPHILITIC_ORGANISM_IN_THE_BRAIN_IN_P",
+    "2522_On_So-Called_Binasal_Hemianopsia_in_Brain_Tumor",
+    "2523_SURGICAL_TREATMENT_OF_TUMOURS_OF_THE_BRAIN",
+    "2524_THE_RÔLE_WHICH_HEREDITY_PLAYS_IN_INDUCING_EPILEPSY_IN_CHILDR",
+    "2525_GANGLIONIC_GLIONEUROMA_OF_THE_OPTIC_NERVE",
+    "2526_THE_NECESSITY_OF_RECOGNIZING_MIDWIFERY_AS_A_BRANCH_OF_SURGER",
+    "801_A_CASE_OF_CHOLESTEATOMA_OF_THE_BRAIN",
+    "2527_The_Fatty_Acids_of_the_Human_Brain",
+    "2528_TWO_CASES_OF_CIRCULATORY_DISTURBANCE_OF_THE_BRAIN",
+    "2529_A_CASE_OF_IDIOPATHIC_CEREBRAL_ABSCESS",
+    "2530_CEREBRAL_MANIFESTATION_OCCURRING_DURING_THE_SECONDARY_STAGE",
+    "2531_LOCALIZED_ENCEPHALITIS_OF_THE_LEFT_MOTOR_CORTICAL_REGION_WIT",
+    "2532_The_medulla_oblongata_of_larval_amblystoma",
+    "2533_The_structure_of_the_roots_trunk_and_branches_of_the_vagus_n",
+    "2534_Transplantation_of_the_spinal_ganglion_with_observations_on",
+    "2535_The_cerebellum_of_necturus_and_other_urodele_amphibia",
+    "2536_ON_APHASIA_DUE_TO_ATROPHY_OF_THE_CEREBRAL_CONVOLUTIONS",
+    "2537_A_study_of_ganglion_cells_in_the_sympathetic_nervous_system"
   ],
   "copied": [
     {
       "source": "E:\\조선대\\연구\\paper-curation\\paper\\awesome-brain-ai\\_folder_source_extract_report.json",
       "target": "E:\\조선대\\연구\\awesome-brain-ai\\data\\paper_curation\\extract_only_report.json",
-      "bytes": 341992
+      "bytes": 354563
     },
     {
       "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\003_Hughlings_Jackson_and_the_Cortical_Motor_Centres_in_the_Ligh\\text.md",
@@ -9104,6 +9124,406 @@
       "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2490_II_Description_of_the_Human_Skull_and_Mandible_and_the_Assoc\\text.md",
       "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2490_II_Description_of_the_Human_Skull_and_Mandible_and_the_Assoc\\text.md",
       "bytes": 44401
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2519_OCCLUSION_OF_THE_POSTERIOR_INFERIOR_CEREBELLAR_ARTERY_REPORT\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2519_OCCLUSION_OF_THE_POSTERIOR_INFERIOR_CEREBELLAR_ARTERY_REPORT\\text.md",
+      "bytes": 15184
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2519_OCCLUSION_OF_THE_POSTERIOR_INFERIOR_CEREBELLAR_ARTERY_REPORT\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2519_OCCLUSION_OF_THE_POSTERIOR_INFERIOR_CEREBELLAR_ARTERY_REPORT\\text.md",
+      "bytes": 15184
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2520_The_New_Physiology_in_Surgical_and_General_Practice\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2520_The_New_Physiology_in_Surgical_and_General_Practice\\text.md",
+      "bytes": 1420
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2520_The_New_Physiology_in_Surgical_and_General_Practice\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2520_The_New_Physiology_in_Surgical_and_General_Practice\\text.md",
+      "bytes": 1420
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2521_A_DEMONSTRATION_OF_THE_SYPHILITIC_ORGANISM_IN_THE_BRAIN_IN_P\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2521_A_DEMONSTRATION_OF_THE_SYPHILITIC_ORGANISM_IN_THE_BRAIN_IN_P\\text.md",
+      "bytes": 84
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2521_A_DEMONSTRATION_OF_THE_SYPHILITIC_ORGANISM_IN_THE_BRAIN_IN_P\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2521_A_DEMONSTRATION_OF_THE_SYPHILITIC_ORGANISM_IN_THE_BRAIN_IN_P\\text.md",
+      "bytes": 84
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2522_On_So-Called_Binasal_Hemianopsia_in_Brain_Tumor\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2522_On_So-Called_Binasal_Hemianopsia_in_Brain_Tumor\\text.md",
+      "bytes": 29136
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2522_On_So-Called_Binasal_Hemianopsia_in_Brain_Tumor\\figures\\fig20.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2522_On_So-Called_Binasal_Hemianopsia_in_Brain_Tumor\\figures\\fig20.png",
+      "bytes": 1432727
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2522_On_So-Called_Binasal_Hemianopsia_in_Brain_Tumor\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2522_On_So-Called_Binasal_Hemianopsia_in_Brain_Tumor\\text.md",
+      "bytes": 29136
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2522_On_So-Called_Binasal_Hemianopsia_in_Brain_Tumor\\figures\\fig20.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2522_On_So-Called_Binasal_Hemianopsia_in_Brain_Tumor\\figures\\fig20.png",
+      "bytes": 1432727
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2523_SURGICAL_TREATMENT_OF_TUMOURS_OF_THE_BRAIN\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2523_SURGICAL_TREATMENT_OF_TUMOURS_OF_THE_BRAIN\\text.md",
+      "bytes": 8861
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2523_SURGICAL_TREATMENT_OF_TUMOURS_OF_THE_BRAIN\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2523_SURGICAL_TREATMENT_OF_TUMOURS_OF_THE_BRAIN\\text.md",
+      "bytes": 8861
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2525_GANGLIONIC_GLIONEUROMA_OF_THE_OPTIC_NERVE\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2525_GANGLIONIC_GLIONEUROMA_OF_THE_OPTIC_NERVE\\text.md",
+      "bytes": 14587
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2525_GANGLIONIC_GLIONEUROMA_OF_THE_OPTIC_NERVE\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2525_GANGLIONIC_GLIONEUROMA_OF_THE_OPTIC_NERVE\\text.md",
+      "bytes": 14587
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2526_THE_NECESSITY_OF_RECOGNIZING_MIDWIFERY_AS_A_BRANCH_OF_SURGER\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2526_THE_NECESSITY_OF_RECOGNIZING_MIDWIFERY_AS_A_BRANCH_OF_SURGER\\text.md",
+      "bytes": 25505
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2526_THE_NECESSITY_OF_RECOGNIZING_MIDWIFERY_AS_A_BRANCH_OF_SURGER\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2526_THE_NECESSITY_OF_RECOGNIZING_MIDWIFERY_AS_A_BRANCH_OF_SURGER\\text.md",
+      "bytes": 25505
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\801_A_CASE_OF_CHOLESTEATOMA_OF_THE_BRAIN\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\801_A_CASE_OF_CHOLESTEATOMA_OF_THE_BRAIN\\text.md",
+      "bytes": 4746
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\801_A_CASE_OF_CHOLESTEATOMA_OF_THE_BRAIN\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\801_A_CASE_OF_CHOLESTEATOMA_OF_THE_BRAIN\\text.md",
+      "bytes": 4746
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2527_The_Fatty_Acids_of_the_Human_Brain\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2527_The_Fatty_Acids_of_the_Human_Brain\\text.md",
+      "bytes": 21144
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2527_The_Fatty_Acids_of_the_Human_Brain\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2527_The_Fatty_Acids_of_the_Human_Brain\\text.md",
+      "bytes": 21144
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2528_TWO_CASES_OF_CIRCULATORY_DISTURBANCE_OF_THE_BRAIN\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2528_TWO_CASES_OF_CIRCULATORY_DISTURBANCE_OF_THE_BRAIN\\text.md",
+      "bytes": 23277
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2528_TWO_CASES_OF_CIRCULATORY_DISTURBANCE_OF_THE_BRAIN\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2528_TWO_CASES_OF_CIRCULATORY_DISTURBANCE_OF_THE_BRAIN\\text.md",
+      "bytes": 23277
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2529_A_CASE_OF_IDIOPATHIC_CEREBRAL_ABSCESS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2529_A_CASE_OF_IDIOPATHIC_CEREBRAL_ABSCESS\\text.md",
+      "bytes": 19342
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2529_A_CASE_OF_IDIOPATHIC_CEREBRAL_ABSCESS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2529_A_CASE_OF_IDIOPATHIC_CEREBRAL_ABSCESS\\text.md",
+      "bytes": 19342
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2530_CEREBRAL_MANIFESTATION_OCCURRING_DURING_THE_SECONDARY_STAGE\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2530_CEREBRAL_MANIFESTATION_OCCURRING_DURING_THE_SECONDARY_STAGE\\text.md",
+      "bytes": 261
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2530_CEREBRAL_MANIFESTATION_OCCURRING_DURING_THE_SECONDARY_STAGE\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2530_CEREBRAL_MANIFESTATION_OCCURRING_DURING_THE_SECONDARY_STAGE\\text.md",
+      "bytes": 261
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2531_LOCALIZED_ENCEPHALITIS_OF_THE_LEFT_MOTOR_CORTICAL_REGION_WIT\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2531_LOCALIZED_ENCEPHALITIS_OF_THE_LEFT_MOTOR_CORTICAL_REGION_WIT\\text.md",
+      "bytes": 591
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2531_LOCALIZED_ENCEPHALITIS_OF_THE_LEFT_MOTOR_CORTICAL_REGION_WIT\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2531_LOCALIZED_ENCEPHALITIS_OF_THE_LEFT_MOTOR_CORTICAL_REGION_WIT\\text.md",
+      "bytes": 591
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2532_The_medulla_oblongata_of_larval_amblystoma\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2532_The_medulla_oblongata_of_larval_amblystoma\\text.md",
+      "bytes": 138290
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2532_The_medulla_oblongata_of_larval_amblystoma\\figures\\fig24.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2532_The_medulla_oblongata_of_larval_amblystoma\\figures\\fig24.png",
+      "bytes": 521833
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2532_The_medulla_oblongata_of_larval_amblystoma\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2532_The_medulla_oblongata_of_larval_amblystoma\\figures\\fig3.png",
+      "bytes": 529961
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2532_The_medulla_oblongata_of_larval_amblystoma\\figures\\fig39.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2532_The_medulla_oblongata_of_larval_amblystoma\\figures\\fig39.png",
+      "bytes": 548932
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2532_The_medulla_oblongata_of_larval_amblystoma\\figures\\fig57.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2532_The_medulla_oblongata_of_larval_amblystoma\\figures\\fig57.png",
+      "bytes": 524291
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2532_The_medulla_oblongata_of_larval_amblystoma\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2532_The_medulla_oblongata_of_larval_amblystoma\\text.md",
+      "bytes": 138290
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2532_The_medulla_oblongata_of_larval_amblystoma\\figures\\fig24.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2532_The_medulla_oblongata_of_larval_amblystoma\\figures\\fig24.png",
+      "bytes": 521833
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2532_The_medulla_oblongata_of_larval_amblystoma\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2532_The_medulla_oblongata_of_larval_amblystoma\\figures\\fig3.png",
+      "bytes": 529961
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2532_The_medulla_oblongata_of_larval_amblystoma\\figures\\fig39.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2532_The_medulla_oblongata_of_larval_amblystoma\\figures\\fig39.png",
+      "bytes": 548932
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2532_The_medulla_oblongata_of_larval_amblystoma\\figures\\fig57.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2532_The_medulla_oblongata_of_larval_amblystoma\\figures\\fig57.png",
+      "bytes": 524291
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2533_The_structure_of_the_roots_trunk_and_branches_of_the_vagus_n\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2533_The_structure_of_the_roots_trunk_and_branches_of_the_vagus_n\\text.md",
+      "bytes": 57290
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2533_The_structure_of_the_roots_trunk_and_branches_of_the_vagus_n\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2533_The_structure_of_the_roots_trunk_and_branches_of_the_vagus_n\\figures\\fig1.png",
+      "bytes": 493901
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2533_The_structure_of_the_roots_trunk_and_branches_of_the_vagus_n\\figures\\fig10.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2533_The_structure_of_the_roots_trunk_and_branches_of_the_vagus_n\\figures\\fig10.png",
+      "bytes": 508893
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2533_The_structure_of_the_roots_trunk_and_branches_of_the_vagus_n\\figures\\fig17.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2533_The_structure_of_the_roots_trunk_and_branches_of_the_vagus_n\\figures\\fig17.png",
+      "bytes": 445678
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2533_The_structure_of_the_roots_trunk_and_branches_of_the_vagus_n\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2533_The_structure_of_the_roots_trunk_and_branches_of_the_vagus_n\\figures\\fig3.png",
+      "bytes": 573225
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2533_The_structure_of_the_roots_trunk_and_branches_of_the_vagus_n\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2533_The_structure_of_the_roots_trunk_and_branches_of_the_vagus_n\\figures\\fig4.png",
+      "bytes": 495483
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2533_The_structure_of_the_roots_trunk_and_branches_of_the_vagus_n\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2533_The_structure_of_the_roots_trunk_and_branches_of_the_vagus_n\\text.md",
+      "bytes": 57290
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2533_The_structure_of_the_roots_trunk_and_branches_of_the_vagus_n\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2533_The_structure_of_the_roots_trunk_and_branches_of_the_vagus_n\\figures\\fig1.png",
+      "bytes": 493901
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2533_The_structure_of_the_roots_trunk_and_branches_of_the_vagus_n\\figures\\fig10.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2533_The_structure_of_the_roots_trunk_and_branches_of_the_vagus_n\\figures\\fig10.png",
+      "bytes": 508893
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2533_The_structure_of_the_roots_trunk_and_branches_of_the_vagus_n\\figures\\fig17.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2533_The_structure_of_the_roots_trunk_and_branches_of_the_vagus_n\\figures\\fig17.png",
+      "bytes": 445678
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2533_The_structure_of_the_roots_trunk_and_branches_of_the_vagus_n\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2533_The_structure_of_the_roots_trunk_and_branches_of_the_vagus_n\\figures\\fig3.png",
+      "bytes": 573225
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2533_The_structure_of_the_roots_trunk_and_branches_of_the_vagus_n\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2533_The_structure_of_the_roots_trunk_and_branches_of_the_vagus_n\\figures\\fig4.png",
+      "bytes": 495483
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2534_Transplantation_of_the_spinal_ganglion_with_observations_on\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2534_Transplantation_of_the_spinal_ganglion_with_observations_on\\text.md",
+      "bytes": 21979
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2534_Transplantation_of_the_spinal_ganglion_with_observations_on\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2534_Transplantation_of_the_spinal_ganglion_with_observations_on\\figures\\fig1.png",
+      "bytes": 553296
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2534_Transplantation_of_the_spinal_ganglion_with_observations_on\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2534_Transplantation_of_the_spinal_ganglion_with_observations_on\\text.md",
+      "bytes": 21979
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2534_Transplantation_of_the_spinal_ganglion_with_observations_on\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2534_Transplantation_of_the_spinal_ganglion_with_observations_on\\figures\\fig1.png",
+      "bytes": 553296
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2535_The_cerebellum_of_necturus_and_other_urodele_amphibia\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2535_The_cerebellum_of_necturus_and_other_urodele_amphibia\\text.md",
+      "bytes": 48921
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2535_The_cerebellum_of_necturus_and_other_urodele_amphibia\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2535_The_cerebellum_of_necturus_and_other_urodele_amphibia\\figures\\fig1.png",
+      "bytes": 725989
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2535_The_cerebellum_of_necturus_and_other_urodele_amphibia\\figures\\fig12.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2535_The_cerebellum_of_necturus_and_other_urodele_amphibia\\figures\\fig12.png",
+      "bytes": 462926
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2535_The_cerebellum_of_necturus_and_other_urodele_amphibia\\figures\\fig17.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2535_The_cerebellum_of_necturus_and_other_urodele_amphibia\\figures\\fig17.png",
+      "bytes": 547778
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2535_The_cerebellum_of_necturus_and_other_urodele_amphibia\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2535_The_cerebellum_of_necturus_and_other_urodele_amphibia\\figures\\fig2.png",
+      "bytes": 523076
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2535_The_cerebellum_of_necturus_and_other_urodele_amphibia\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2535_The_cerebellum_of_necturus_and_other_urodele_amphibia\\figures\\fig3.png",
+      "bytes": 263664
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2535_The_cerebellum_of_necturus_and_other_urodele_amphibia\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2535_The_cerebellum_of_necturus_and_other_urodele_amphibia\\text.md",
+      "bytes": 48921
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2535_The_cerebellum_of_necturus_and_other_urodele_amphibia\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2535_The_cerebellum_of_necturus_and_other_urodele_amphibia\\figures\\fig1.png",
+      "bytes": 725989
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2535_The_cerebellum_of_necturus_and_other_urodele_amphibia\\figures\\fig12.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2535_The_cerebellum_of_necturus_and_other_urodele_amphibia\\figures\\fig12.png",
+      "bytes": 462926
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2535_The_cerebellum_of_necturus_and_other_urodele_amphibia\\figures\\fig17.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2535_The_cerebellum_of_necturus_and_other_urodele_amphibia\\figures\\fig17.png",
+      "bytes": 547778
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2535_The_cerebellum_of_necturus_and_other_urodele_amphibia\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2535_The_cerebellum_of_necturus_and_other_urodele_amphibia\\figures\\fig2.png",
+      "bytes": 523076
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2535_The_cerebellum_of_necturus_and_other_urodele_amphibia\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2535_The_cerebellum_of_necturus_and_other_urodele_amphibia\\figures\\fig3.png",
+      "bytes": 263664
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2536_ON_APHASIA_DUE_TO_ATROPHY_OF_THE_CEREBRAL_CONVOLUTIONS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2536_ON_APHASIA_DUE_TO_ATROPHY_OF_THE_CEREBRAL_CONVOLUTIONS\\text.md",
+      "bytes": 70710
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2536_ON_APHASIA_DUE_TO_ATROPHY_OF_THE_CEREBRAL_CONVOLUTIONS\\figures\\fig12.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2536_ON_APHASIA_DUE_TO_ATROPHY_OF_THE_CEREBRAL_CONVOLUTIONS\\figures\\fig12.png",
+      "bytes": 821588
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2536_ON_APHASIA_DUE_TO_ATROPHY_OF_THE_CEREBRAL_CONVOLUTIONS\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2536_ON_APHASIA_DUE_TO_ATROPHY_OF_THE_CEREBRAL_CONVOLUTIONS\\figures\\fig2.png",
+      "bytes": 1102127
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2536_ON_APHASIA_DUE_TO_ATROPHY_OF_THE_CEREBRAL_CONVOLUTIONS\\figures\\fig6.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2536_ON_APHASIA_DUE_TO_ATROPHY_OF_THE_CEREBRAL_CONVOLUTIONS\\figures\\fig6.png",
+      "bytes": 961339
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2536_ON_APHASIA_DUE_TO_ATROPHY_OF_THE_CEREBRAL_CONVOLUTIONS\\figures\\fig7.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2536_ON_APHASIA_DUE_TO_ATROPHY_OF_THE_CEREBRAL_CONVOLUTIONS\\figures\\fig7.png",
+      "bytes": 895511
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2536_ON_APHASIA_DUE_TO_ATROPHY_OF_THE_CEREBRAL_CONVOLUTIONS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2536_ON_APHASIA_DUE_TO_ATROPHY_OF_THE_CEREBRAL_CONVOLUTIONS\\text.md",
+      "bytes": 70710
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2536_ON_APHASIA_DUE_TO_ATROPHY_OF_THE_CEREBRAL_CONVOLUTIONS\\figures\\fig12.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2536_ON_APHASIA_DUE_TO_ATROPHY_OF_THE_CEREBRAL_CONVOLUTIONS\\figures\\fig12.png",
+      "bytes": 821588
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2536_ON_APHASIA_DUE_TO_ATROPHY_OF_THE_CEREBRAL_CONVOLUTIONS\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2536_ON_APHASIA_DUE_TO_ATROPHY_OF_THE_CEREBRAL_CONVOLUTIONS\\figures\\fig2.png",
+      "bytes": 1102127
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2536_ON_APHASIA_DUE_TO_ATROPHY_OF_THE_CEREBRAL_CONVOLUTIONS\\figures\\fig6.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2536_ON_APHASIA_DUE_TO_ATROPHY_OF_THE_CEREBRAL_CONVOLUTIONS\\figures\\fig6.png",
+      "bytes": 961339
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2536_ON_APHASIA_DUE_TO_ATROPHY_OF_THE_CEREBRAL_CONVOLUTIONS\\figures\\fig7.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2536_ON_APHASIA_DUE_TO_ATROPHY_OF_THE_CEREBRAL_CONVOLUTIONS\\figures\\fig7.png",
+      "bytes": 895511
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2537_A_study_of_ganglion_cells_in_the_sympathetic_nervous_system\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2537_A_study_of_ganglion_cells_in_the_sympathetic_nervous_system\\text.md",
+      "bytes": 20931
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2537_A_study_of_ganglion_cells_in_the_sympathetic_nervous_system\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2537_A_study_of_ganglion_cells_in_the_sympathetic_nervous_system\\figures\\fig1.png",
+      "bytes": 378473
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2537_A_study_of_ganglion_cells_in_the_sympathetic_nervous_system\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2537_A_study_of_ganglion_cells_in_the_sympathetic_nervous_system\\text.md",
+      "bytes": 20931
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2537_A_study_of_ganglion_cells_in_the_sympathetic_nervous_system\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2537_A_study_of_ganglion_cells_in_the_sympathetic_nervous_system\\figures\\fig1.png",
+      "bytes": 378473
     }
   ],
   "missing": [],
