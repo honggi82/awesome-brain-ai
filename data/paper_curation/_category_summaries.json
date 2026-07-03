@@ -2,26 +2,31 @@
   "categories": [
     {
       "name": "HDBSCAN Bridge and Noise Papers",
-      "summary": "Codex-native cluster containing 64 processed papers.",
-      "count": 64
+      "summary": "Codex-native cluster containing 79 processed papers.",
+      "count": 79
     },
     {
-      "name": "HDBSCAN Cluster: der, die, yon, und",
-      "summary": "Codex-native cluster containing 7 processed papers.",
-      "count": 7
+      "name": "HDBSCAN Cluster: die, der, yon, und",
+      "summary": "Codex-native cluster containing 8 processed papers.",
+      "count": 8
     },
     {
-      "name": "HDBSCAN Cluster: figure, brain, ueber, das",
+      "name": "HDBSCAN Cluster: figure, brain, cerebral, reconstruction",
+      "summary": "Codex-native cluster containing 6 processed papers.",
+      "count": 6
+    },
+    {
+      "name": "HDBSCAN Cluster: which, action, figure, calcium",
       "summary": "Codex-native cluster containing 5 processed papers.",
       "count": 5
     },
     {
-      "name": "HDBSCAN Cluster: his, cerebral, not, had",
+      "name": "HDBSCAN Cluster: fibers, which, system, upon",
       "summary": "Codex-native cluster containing 5 processed papers.",
       "count": 5
     },
     {
-      "name": "HDBSCAN Cluster: figure, which, vertigo, cases",
+      "name": "HDBSCAN Cluster: which, vertigo, cases, arteriosclerosis",
       "summary": "Codex-native cluster containing 4 processed papers.",
       "count": 4
     },
@@ -31,7 +36,17 @@
       "count": 4
     },
     {
-      "name": "HDBSCAN Cluster: cases, brain, symptoms, figure",
+      "name": "HDBSCAN Cluster: not, cases, general, figure",
+      "summary": "Codex-native cluster containing 4 processed papers.",
+      "count": 4
+    },
+    {
+      "name": "HDBSCAN Cluster: much, cases, figure, his",
+      "summary": "Codex-native cluster containing 4 processed papers.",
+      "count": 4
+    },
+    {
+      "name": "HDBSCAN Cluster: had, case, cerebral, figure",
       "summary": "Codex-native cluster containing 4 processed papers.",
       "count": 4
     },
@@ -41,12 +56,17 @@
       "count": 4
     },
     {
-      "name": "HDBSCAN Cluster: operation, brain, which, cases",
+      "name": "HDBSCAN Cluster: not, our, have, spirit",
       "summary": "Codex-native cluster containing 4 processed papers.",
       "count": 4
     },
     {
-      "name": "HDBSCAN Cluster: his, case, brain, injury",
+      "name": "HDBSCAN Cluster: brain, results, cases, epilepsy",
+      "summary": "Codex-native cluster containing 4 processed papers.",
+      "count": 4
+    },
+    {
+      "name": "HDBSCAN Cluster: classical, click, here, review",
       "summary": "Codex-native cluster containing 4 processed papers.",
       "count": 4
     },
@@ -56,27 +76,12 @@
       "count": 4
     },
     {
+      "name": "HDBSCAN Cluster: gelatin, indol, cent, figure",
+      "summary": "Codex-native cluster containing 4 processed papers.",
+      "count": 4
+    },
+    {
       "name": "HDBSCAN Cluster: mental, one, figure, has",
-      "summary": "Codex-native cluster containing 3 processed papers.",
-      "count": 3
-    },
-    {
-      "name": "HDBSCAN Cluster: not, but, his, have",
-      "summary": "Codex-native cluster containing 3 processed papers.",
-      "count": 3
-    },
-    {
-      "name": "HDBSCAN Cluster: left, brain, figure, day",
-      "summary": "Codex-native cluster containing 3 processed papers.",
-      "count": 3
-    },
-    {
-      "name": "HDBSCAN Cluster: gelatin, than, indol, cent",
-      "summary": "Codex-native cluster containing 3 processed papers.",
-      "count": 3
-    },
-    {
-      "name": "HDBSCAN Cluster: fibers, which, have, nerve",
       "summary": "Codex-native cluster containing 3 processed papers.",
       "count": 3
     },
@@ -91,12 +96,17 @@
       "count": 3
     },
     {
-      "name": "HDBSCAN Cluster: figure, brain, nervous, images",
+      "name": "HDBSCAN Cluster: alcohol, oxide, figure, development",
       "summary": "Codex-native cluster containing 3 processed papers.",
       "count": 3
     },
     {
-      "name": "HDBSCAN Cluster: alcohol, oxide, figure, development",
+      "name": "HDBSCAN Cluster: insomnia, brain, impairment, issue",
+      "summary": "Codex-native cluster containing 3 processed papers.",
+      "count": 3
+    },
+    {
+      "name": "HDBSCAN Cluster: figure, abscess, chronic, brain",
       "summary": "Codex-native cluster containing 3 processed papers.",
       "count": 3
     },
@@ -106,37 +116,27 @@
       "count": 3
     },
     {
-      "name": "HDBSCAN Cluster: fissures, white, rat, central",
+      "name": "HDBSCAN Cluster: treatment, method, figure, all",
       "summary": "Codex-native cluster containing 3 processed papers.",
       "count": 3
     },
     {
-      "name": "HDBSCAN Cluster: which, action, calcium, figure",
+      "name": "HDBSCAN Cluster: journal, brain, when, situated",
       "summary": "Codex-native cluster containing 3 processed papers.",
       "count": 3
     },
     {
-      "name": "HDBSCAN Cluster: brain, figure, prepared, have",
+      "name": "HDBSCAN Cluster: brain, which, mental, functions",
       "summary": "Codex-native cluster containing 3 processed papers.",
       "count": 3
     },
     {
-      "name": "HDBSCAN Cluster: brain, right, each, case",
+      "name": "HDBSCAN Cluster: brain, case, been, abscess",
       "summary": "Codex-native cluster containing 3 processed papers.",
       "count": 3
     },
     {
-      "name": "HDBSCAN Cluster: operation, tibia, necessary, surface",
-      "summary": "Codex-native cluster containing 3 processed papers.",
-      "count": 3
-    },
-    {
-      "name": "HDBSCAN Cluster: classical, click, here, review",
-      "summary": "Codex-native cluster containing 3 processed papers.",
-      "count": 3
-    },
-    {
-      "name": "HDBSCAN Cluster: brain, animals, macaque, mammals",
+      "name": "HDBSCAN Cluster: cells, cortex, monkey, brain",
       "summary": "Codex-native cluster containing 3 processed papers.",
       "count": 3
     },
@@ -146,7 +146,12 @@
       "count": 3
     },
     {
-      "name": "HDBSCAN Cluster: insomnia, brain, impairment, issue",
+      "name": "HDBSCAN Cluster: left, brain, figure, she",
+      "summary": "Codex-native cluster containing 2 processed papers.",
+      "count": 2
+    },
+    {
+      "name": "HDBSCAN Cluster: figure, images, png, gehirn-substanz",
       "summary": "Codex-native cluster containing 2 processed papers.",
       "count": 2
     },
@@ -156,7 +161,7 @@
       "count": 2
     },
     {
-      "name": "HDBSCAN Cluster: hyoscine, diagnosis, figure, symptoms",
+      "name": "HDBSCAN Cluster: which, successful, upon, case",
       "summary": "Codex-native cluster containing 2 processed papers.",
       "count": 2
     },
@@ -171,17 +176,22 @@
       "count": 2
     },
     {
-      "name": "HDBSCAN Cluster: shadow, eggs, figure, little",
-      "summary": "Codex-native cluster containing 2 processed papers.",
-      "count": 2
-    },
-    {
       "name": "HDBSCAN Cluster: tumor, cases, age, milk",
       "summary": "Codex-native cluster containing 2 processed papers.",
       "count": 2
     },
     {
-      "name": "HDBSCAN Cluster: journal, when, brain, laryngology",
+      "name": "HDBSCAN Cluster: case, brain, fits, injury",
+      "summary": "Codex-native cluster containing 2 processed papers.",
+      "count": 2
+    },
+    {
+      "name": "HDBSCAN Cluster: his, brain, figure, idiocy",
+      "summary": "Codex-native cluster containing 2 processed papers.",
+      "count": 2
+    },
+    {
+      "name": "HDBSCAN Cluster: cases, can, not, memory",
       "summary": "Codex-native cluster containing 2 processed papers.",
       "count": 2
     },
@@ -191,12 +201,12 @@
       "count": 2
     },
     {
-      "name": "HDBSCAN Cluster: mental, functions, brain, lancet",
+      "name": "HDBSCAN Cluster: she, her, right, before",
       "summary": "Codex-native cluster containing 2 processed papers.",
       "count": 2
     },
     {
-      "name": "HDBSCAN Cluster: she, her, right, before",
+      "name": "HDBSCAN Cluster: tibia, operation, surface, bone",
       "summary": "Codex-native cluster containing 2 processed papers.",
       "count": 2
     },
@@ -206,17 +216,22 @@
       "count": 2
     },
     {
-      "name": "HDBSCAN Cluster: cocaine, method, anesthesia, subarachnoid",
-      "summary": "Codex-native cluster containing 2 processed papers.",
-      "count": 2
-    },
-    {
       "name": "HDBSCAN Cluster: side, left, after, could",
       "summary": "Codex-native cluster containing 2 processed papers.",
       "count": 2
     },
     {
-      "name": "HDBSCAN Cluster: spirit, not, our, have",
+      "name": "HDBSCAN Cluster: method, archiv, band, figure",
+      "summary": "Codex-native cluster containing 2 processed papers.",
+      "count": 2
+    },
+    {
+      "name": "HDBSCAN Cluster: brain, macaque, macacus, brain-weights",
+      "summary": "Codex-native cluster containing 2 processed papers.",
+      "count": 2
+    },
+    {
+      "name": "HDBSCAN Cluster: fissures, regeneration, transitory, permanent",
       "summary": "Codex-native cluster containing 2 processed papers.",
       "count": 2
     },
@@ -226,19 +241,44 @@
       "count": 2
     },
     {
+      "name": "HDBSCAN Cluster: each, bullet, wound, brain",
+      "summary": "Codex-native cluster containing 2 processed papers.",
+      "count": 2
+    },
+    {
+      "name": "HDBSCAN Cluster: have, his, had, which",
+      "summary": "Codex-native cluster containing 2 processed papers.",
+      "count": 2
+    },
+    {
       "name": "HDBSCAN Cluster: lesions, been, figure, have",
       "summary": "Codex-native cluster containing 2 processed papers.",
       "count": 2
     },
     {
-      "name": "HDBSCAN Cluster: hospital, great, northern, central",
+      "name": "HDBSCAN Cluster: center, optic, fibers, fasciculus",
       "summary": "Codex-native cluster containing 2 processed papers.",
       "count": 2
     },
     {
-      "name": "HDBSCAN Cluster: figure, chronic, cerebral, abscess",
-      "summary": "Codex-native cluster containing 1 processed papers.",
-      "count": 1
+      "name": "HDBSCAN Cluster: case, cord, one, pott",
+      "summary": "Codex-native cluster containing 2 processed papers.",
+      "count": 2
+    },
+    {
+      "name": "HDBSCAN Cluster: has, urinary, early, been",
+      "summary": "Codex-native cluster containing 2 processed papers.",
+      "count": 2
+    },
+    {
+      "name": "HDBSCAN Cluster: there, case, brain, tumor",
+      "summary": "Codex-native cluster containing 2 processed papers.",
+      "count": 2
+    },
+    {
+      "name": "HDBSCAN Cluster: cliff, sands, deposits, third",
+      "summary": "Codex-native cluster containing 2 processed papers.",
+      "count": 2
     }
   ]
 }

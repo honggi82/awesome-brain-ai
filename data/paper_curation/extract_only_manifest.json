@@ -1,12 +1,12 @@
 {
-  "generated": "2026-07-03T02:53:36.622536+00:00",
+  "generated": "2026-07-03T03:04:47.308658+00:00",
   "mode": "extract-only",
   "paperCurationDir": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect",
   "awesomeRepo": "E:\\조선대\\연구\\awesome-brain-ai",
   "extractReport": "data/paper_curation/extract_only_report.json",
   "docsDir": "docs/paper_curation/extract_only",
   "paperDir": "paper/extract_only",
-  "recordCount": 200,
+  "recordCount": 240,
   "syncedPaperSlugs": [
     "003_Hughlings_Jackson_and_the_Cortical_Motor_Centres_in_the_Ligh",
     "015_EXPERIMENTAL_AND_CLINICAL_NOTES_ON_THE_SUBARACHNOID_SPACE",
@@ -207,13 +207,53 @@
     "1638_TWO_TUMORS_OF_THE_BRAIN",
     "1639_Some_effects_on_rabbits_of_intravenous_injections_of_nicotin",
     "1640_AN_UNUSUAL_CASE_OF_CEREBRAL_ABSCESS_BILATERAL_TEMPOROSPHENOI",
-    "259_Cerebral_abscess_following_chronic_otitis_media_purulenta-op"
+    "259_Cerebral_abscess_following_chronic_otitis_media_purulenta-op",
+    "1641_NOTE_ON_A_CASE_OF_ACUTE_CEREBRAL_ABSCESS",
+    "1642_ON_THE_THALAMUS",
+    "1643_On_the_Development_of_the_blood-vessels_of_the_brain_in_the",
+    "1644_BIOMETRICAL_STUDIES_ON_MAN_L_VARIATION_AND_CORRELATION_IN_BR",
+    "1645_A_three_weeks_human_embryo_with_especial_reference_to_the_br",
+    "1646_Iniencephalus",
+    "1647_The_Theory_of_Colonization",
+    "1648_On_the_occurrence_of_sheath_cells_and_the_nature_of_the_axon",
+    "1649_Can_Birds_Smell",
+    "1650_The_effect_of_the_bearing_of_young_upon_the_body-weight_and",
+    "1651_A_study_of_the_location_and_arrangement_of_the_giant_cells_i",
+    "1652_A_study_of_the_functions_of_different_parts_of_the_frogs_bra",
+    "1653_A_FOOTNOTE_TO_THE_ANCESTRAL_HISTORY_OF_THE_VERTEBRATE_BRAIN",
+    "1654_THE_TREATMENT_OF_CEREBRAL_PALSIES_AND_ATHETOSIS_BY_NERVE_ANA",
+    "1655_The_Treatment_of_Cerebral_Tumors",
+    "1656_THE_OCULAR_SYMPTOMS_OF_LESIONS_OF_THE_OPTIC_CHIASMWITH_THE_R",
+    "1657_A_CASE_OF_HEART_GUMMATA_WITH_SUDDEN_DEATH",
+    "1658_THE_NATURE_OF_TRAUMATIC_SCLEROSIS",
+    "1659_Symptomatology_diagnosis_and_treatment_of_encephalitis_and_b",
+    "1660_A_CASE_OF_ENCYSTED_CEREBRAL_ABSCESS",
+    "1661_Cerebral_Symptoms_in_Measles",
+    "1662_Die_Medullaranästhesie_mittelst_Cocain-Suprarenin",
+    "1663_THE_CIRCUMSTANCES_AND_TREATMENT_OF_BRIGHTS_DISEASE",
+    "1664_THE_CURABILITY_OF_EARLY_PARESIS",
+    "1665_Treatment_of_Cerebrospinal_Meningitis",
+    "1666_The_High-frequency_Electrical_Treatment",
+    "1667_EARLY_DIAGNOSIS_OF_SURGICAL_DISEASES_OF_THE_URINARY_TRACT",
+    "1668_Cerebrospinal_Meningitis_in_Animals_and_in_Man",
+    "1669_Hyperemesis_Gravidarum",
+    "1670_Repraesentatio_Temporum_in_the_Oratio_Obliqua_of_Caesar",
+    "1671_A_CASE_OF_VISUAL_HALLUCINATIONS_AND_CROSSED_AMBLYOPIA_WITH_V",
+    "1672_A_CASE_OF_BRAIN_TUMOR_WITH_PROGRESSIVE_BLINDNESS",
+    "1672_A_CASE_OF_BRAIN_TUMOR_WITH_PROGRESSIVE_BLINDNESS",
+    "1673_A_CASE_OF_CHOLESTERIN_STONES_TN_THE_BRAIN_AND_CORD",
+    "1674_BRAIN_TUMORS_A_STUDY_OF_CLINICAL_AND_POST-MORTEM_RECORDS_BEA",
+    "1675_IS_DELUSIONAL_INSANITY_DUE_TO_DISEASE_OF_THE_BRAIN",
+    "1676_REPORT_OF_TWO_FATAL_CASES_OF_BRAIN_ABSCESS",
+    "1677_THE_BRAIN_OF_THE_HISTOLOGIST_AND_PHYSIOLOGIST_OTTO_C_LOVEN",
+    "1677_THE_BRAIN_OF_THE_HISTOLOGIST_AND_PHYSIOLOGIST_OTTO_C_LOVEN",
+    "1678_THE_EFFECT_OF_ALCOHOL_UPON_THE_HUMAN_BRAIN"
   ],
   "copied": [
     {
       "source": "E:\\조선대\\연구\\paper-curation\\paper\\awesome-brain-ai\\_folder_source_extract_report.json",
       "target": "E:\\조선대\\연구\\awesome-brain-ai\\data\\paper_curation\\extract_only_report.json",
-      "bytes": 123432
+      "bytes": 146084
     },
     {
       "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\003_Hughlings_Jackson_and_the_Cortical_Motor_Centres_in_the_Ligh\\text.md",
@@ -2764,6 +2804,606 @@
       "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\259_Cerebral_abscess_following_chronic_otitis_media_purulenta-op\\text.md",
       "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\259_Cerebral_abscess_following_chronic_otitis_media_purulenta-op\\text.md",
       "bytes": 141
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1641_NOTE_ON_A_CASE_OF_ACUTE_CEREBRAL_ABSCESS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1641_NOTE_ON_A_CASE_OF_ACUTE_CEREBRAL_ABSCESS\\text.md",
+      "bytes": 8591
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1641_NOTE_ON_A_CASE_OF_ACUTE_CEREBRAL_ABSCESS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1641_NOTE_ON_A_CASE_OF_ACUTE_CEREBRAL_ABSCESS\\text.md",
+      "bytes": 8591
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1642_ON_THE_THALAMUS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1642_ON_THE_THALAMUS\\text.md",
+      "bytes": 36307
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1642_ON_THE_THALAMUS\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1642_ON_THE_THALAMUS\\figures\\fig2.png",
+      "bytes": 2017229
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1642_ON_THE_THALAMUS\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1642_ON_THE_THALAMUS\\figures\\fig3.png",
+      "bytes": 1869051
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1642_ON_THE_THALAMUS\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1642_ON_THE_THALAMUS\\figures\\fig4.png",
+      "bytes": 2750868
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1642_ON_THE_THALAMUS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1642_ON_THE_THALAMUS\\text.md",
+      "bytes": 36307
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1642_ON_THE_THALAMUS\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1642_ON_THE_THALAMUS\\figures\\fig2.png",
+      "bytes": 2017229
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1642_ON_THE_THALAMUS\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1642_ON_THE_THALAMUS\\figures\\fig3.png",
+      "bytes": 1869051
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1642_ON_THE_THALAMUS\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1642_ON_THE_THALAMUS\\figures\\fig4.png",
+      "bytes": 2750868
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1643_On_the_Development_of_the_blood-vessels_of_the_brain_in_the\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1643_On_the_Development_of_the_blood-vessels_of_the_brain_in_the\\text.md",
+      "bytes": 46624
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1643_On_the_Development_of_the_blood-vessels_of_the_brain_in_the\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1643_On_the_Development_of_the_blood-vessels_of_the_brain_in_the\\figures\\fig1.png",
+      "bytes": 798517
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1643_On_the_Development_of_the_blood-vessels_of_the_brain_in_the\\figures\\fig10.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1643_On_the_Development_of_the_blood-vessels_of_the_brain_in_the\\figures\\fig10.png",
+      "bytes": 641693
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1643_On_the_Development_of_the_blood-vessels_of_the_brain_in_the\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1643_On_the_Development_of_the_blood-vessels_of_the_brain_in_the\\figures\\fig3.png",
+      "bytes": 417294
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1643_On_the_Development_of_the_blood-vessels_of_the_brain_in_the\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1643_On_the_Development_of_the_blood-vessels_of_the_brain_in_the\\figures\\fig5.png",
+      "bytes": 897153
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1643_On_the_Development_of_the_blood-vessels_of_the_brain_in_the\\figures\\fig8.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1643_On_the_Development_of_the_blood-vessels_of_the_brain_in_the\\figures\\fig8.png",
+      "bytes": 1066837
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1643_On_the_Development_of_the_blood-vessels_of_the_brain_in_the\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1643_On_the_Development_of_the_blood-vessels_of_the_brain_in_the\\text.md",
+      "bytes": 46624
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1643_On_the_Development_of_the_blood-vessels_of_the_brain_in_the\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1643_On_the_Development_of_the_blood-vessels_of_the_brain_in_the\\figures\\fig1.png",
+      "bytes": 798517
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1643_On_the_Development_of_the_blood-vessels_of_the_brain_in_the\\figures\\fig10.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1643_On_the_Development_of_the_blood-vessels_of_the_brain_in_the\\figures\\fig10.png",
+      "bytes": 641693
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1643_On_the_Development_of_the_blood-vessels_of_the_brain_in_the\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1643_On_the_Development_of_the_blood-vessels_of_the_brain_in_the\\figures\\fig3.png",
+      "bytes": 417294
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1643_On_the_Development_of_the_blood-vessels_of_the_brain_in_the\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1643_On_the_Development_of_the_blood-vessels_of_the_brain_in_the\\figures\\fig5.png",
+      "bytes": 897153
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1643_On_the_Development_of_the_blood-vessels_of_the_brain_in_the\\figures\\fig8.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1643_On_the_Development_of_the_blood-vessels_of_the_brain_in_the\\figures\\fig8.png",
+      "bytes": 1066837
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1644_BIOMETRICAL_STUDIES_ON_MAN_L_VARIATION_AND_CORRELATION_IN_BR\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1644_BIOMETRICAL_STUDIES_ON_MAN_L_VARIATION_AND_CORRELATION_IN_BR\\text.md",
+      "bytes": 229158
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1644_BIOMETRICAL_STUDIES_ON_MAN_L_VARIATION_AND_CORRELATION_IN_BR\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1644_BIOMETRICAL_STUDIES_ON_MAN_L_VARIATION_AND_CORRELATION_IN_BR\\text.md",
+      "bytes": 229158
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1645_A_three_weeks_human_embryo_with_especial_reference_to_the_br\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1645_A_three_weeks_human_embryo_with_especial_reference_to_the_br\\text.md",
+      "bytes": 92078
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1645_A_three_weeks_human_embryo_with_especial_reference_to_the_br\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1645_A_three_weeks_human_embryo_with_especial_reference_to_the_br\\figures\\fig1.png",
+      "bytes": 473243
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1645_A_three_weeks_human_embryo_with_especial_reference_to_the_br\\figures\\fig11.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1645_A_three_weeks_human_embryo_with_especial_reference_to_the_br\\figures\\fig11.png",
+      "bytes": 512396
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1645_A_three_weeks_human_embryo_with_especial_reference_to_the_br\\figures\\fig12.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1645_A_three_weeks_human_embryo_with_especial_reference_to_the_br\\figures\\fig12.png",
+      "bytes": 477696
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1645_A_three_weeks_human_embryo_with_especial_reference_to_the_br\\figures\\fig17.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1645_A_three_weeks_human_embryo_with_especial_reference_to_the_br\\figures\\fig17.png",
+      "bytes": 520128
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1645_A_three_weeks_human_embryo_with_especial_reference_to_the_br\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1645_A_three_weeks_human_embryo_with_especial_reference_to_the_br\\text.md",
+      "bytes": 92078
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1645_A_three_weeks_human_embryo_with_especial_reference_to_the_br\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1645_A_three_weeks_human_embryo_with_especial_reference_to_the_br\\figures\\fig1.png",
+      "bytes": 473243
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1645_A_three_weeks_human_embryo_with_especial_reference_to_the_br\\figures\\fig11.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1645_A_three_weeks_human_embryo_with_especial_reference_to_the_br\\figures\\fig11.png",
+      "bytes": 512396
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1645_A_three_weeks_human_embryo_with_especial_reference_to_the_br\\figures\\fig12.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1645_A_three_weeks_human_embryo_with_especial_reference_to_the_br\\figures\\fig12.png",
+      "bytes": 477696
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1645_A_three_weeks_human_embryo_with_especial_reference_to_the_br\\figures\\fig17.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1645_A_three_weeks_human_embryo_with_especial_reference_to_the_br\\figures\\fig17.png",
+      "bytes": 520128
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1646_Iniencephalus\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1646_Iniencephalus\\text.md",
+      "bytes": 15867
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1646_Iniencephalus\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1646_Iniencephalus\\text.md",
+      "bytes": 15867
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1647_The_Theory_of_Colonization\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1647_The_Theory_of_Colonization\\text.md",
+      "bytes": 30557
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1647_The_Theory_of_Colonization\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1647_The_Theory_of_Colonization\\text.md",
+      "bytes": 30557
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1648_On_the_occurrence_of_sheath_cells_and_the_nature_of_the_axon\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1648_On_the_occurrence_of_sheath_cells_and_the_nature_of_the_axon\\text.md",
+      "bytes": 66641
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1648_On_the_occurrence_of_sheath_cells_and_the_nature_of_the_axon\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1648_On_the_occurrence_of_sheath_cells_and_the_nature_of_the_axon\\figures\\fig1.png",
+      "bytes": 491147
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1648_On_the_occurrence_of_sheath_cells_and_the_nature_of_the_axon\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1648_On_the_occurrence_of_sheath_cells_and_the_nature_of_the_axon\\figures\\fig2.png",
+      "bytes": 586670
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1648_On_the_occurrence_of_sheath_cells_and_the_nature_of_the_axon\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1648_On_the_occurrence_of_sheath_cells_and_the_nature_of_the_axon\\figures\\fig4.png",
+      "bytes": 566151
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1648_On_the_occurrence_of_sheath_cells_and_the_nature_of_the_axon\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1648_On_the_occurrence_of_sheath_cells_and_the_nature_of_the_axon\\figures\\fig5.png",
+      "bytes": 619344
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1648_On_the_occurrence_of_sheath_cells_and_the_nature_of_the_axon\\figures\\fig6.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1648_On_the_occurrence_of_sheath_cells_and_the_nature_of_the_axon\\figures\\fig6.png",
+      "bytes": 725842
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1648_On_the_occurrence_of_sheath_cells_and_the_nature_of_the_axon\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1648_On_the_occurrence_of_sheath_cells_and_the_nature_of_the_axon\\text.md",
+      "bytes": 66641
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1648_On_the_occurrence_of_sheath_cells_and_the_nature_of_the_axon\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1648_On_the_occurrence_of_sheath_cells_and_the_nature_of_the_axon\\figures\\fig1.png",
+      "bytes": 491147
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1648_On_the_occurrence_of_sheath_cells_and_the_nature_of_the_axon\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1648_On_the_occurrence_of_sheath_cells_and_the_nature_of_the_axon\\figures\\fig2.png",
+      "bytes": 586670
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1648_On_the_occurrence_of_sheath_cells_and_the_nature_of_the_axon\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1648_On_the_occurrence_of_sheath_cells_and_the_nature_of_the_axon\\figures\\fig4.png",
+      "bytes": 566151
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1648_On_the_occurrence_of_sheath_cells_and_the_nature_of_the_axon\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1648_On_the_occurrence_of_sheath_cells_and_the_nature_of_the_axon\\figures\\fig5.png",
+      "bytes": 619344
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1648_On_the_occurrence_of_sheath_cells_and_the_nature_of_the_axon\\figures\\fig6.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1648_On_the_occurrence_of_sheath_cells_and_the_nature_of_the_axon\\figures\\fig6.png",
+      "bytes": 725842
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1649_Can_Birds_Smell\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1649_Can_Birds_Smell\\text.md",
+      "bytes": 28
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1649_Can_Birds_Smell\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1649_Can_Birds_Smell\\text.md",
+      "bytes": 28
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1650_The_effect_of_the_bearing_of_young_upon_the_body-weight_and\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1650_The_effect_of_the_bearing_of_young_upon_the_body-weight_and\\text.md",
+      "bytes": 21382
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1650_The_effect_of_the_bearing_of_young_upon_the_body-weight_and\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1650_The_effect_of_the_bearing_of_young_upon_the_body-weight_and\\text.md",
+      "bytes": 21382
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1651_A_study_of_the_location_and_arrangement_of_the_giant_cells_i\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1651_A_study_of_the_location_and_arrangement_of_the_giant_cells_i\\text.md",
+      "bytes": 7089
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1651_A_study_of_the_location_and_arrangement_of_the_giant_cells_i\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1651_A_study_of_the_location_and_arrangement_of_the_giant_cells_i\\figures\\fig2.png",
+      "bytes": 352022
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1651_A_study_of_the_location_and_arrangement_of_the_giant_cells_i\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1651_A_study_of_the_location_and_arrangement_of_the_giant_cells_i\\figures\\fig3.png",
+      "bytes": 209064
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1651_A_study_of_the_location_and_arrangement_of_the_giant_cells_i\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1651_A_study_of_the_location_and_arrangement_of_the_giant_cells_i\\text.md",
+      "bytes": 7089
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1651_A_study_of_the_location_and_arrangement_of_the_giant_cells_i\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1651_A_study_of_the_location_and_arrangement_of_the_giant_cells_i\\figures\\fig2.png",
+      "bytes": 352022
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1651_A_study_of_the_location_and_arrangement_of_the_giant_cells_i\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1651_A_study_of_the_location_and_arrangement_of_the_giant_cells_i\\figures\\fig3.png",
+      "bytes": 209064
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1652_A_study_of_the_functions_of_different_parts_of_the_frogs_bra\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1652_A_study_of_the_functions_of_different_parts_of_the_frogs_bra\\text.md",
+      "bytes": 48594
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1652_A_study_of_the_functions_of_different_parts_of_the_frogs_bra\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1652_A_study_of_the_functions_of_different_parts_of_the_frogs_bra\\text.md",
+      "bytes": 48594
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1653_A_FOOTNOTE_TO_THE_ANCESTRAL_HISTORY_OF_THE_VERTEBRATE_BRAIN\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1653_A_FOOTNOTE_TO_THE_ANCESTRAL_HISTORY_OF_THE_VERTEBRATE_BRAIN\\text.md",
+      "bytes": 12419
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1653_A_FOOTNOTE_TO_THE_ANCESTRAL_HISTORY_OF_THE_VERTEBRATE_BRAIN\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1653_A_FOOTNOTE_TO_THE_ANCESTRAL_HISTORY_OF_THE_VERTEBRATE_BRAIN\\text.md",
+      "bytes": 12419
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1654_THE_TREATMENT_OF_CEREBRAL_PALSIES_AND_ATHETOSIS_BY_NERVE_ANA\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1654_THE_TREATMENT_OF_CEREBRAL_PALSIES_AND_ATHETOSIS_BY_NERVE_ANA\\text.md",
+      "bytes": 16900
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1654_THE_TREATMENT_OF_CEREBRAL_PALSIES_AND_ATHETOSIS_BY_NERVE_ANA\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1654_THE_TREATMENT_OF_CEREBRAL_PALSIES_AND_ATHETOSIS_BY_NERVE_ANA\\text.md",
+      "bytes": 16900
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1655_The_Treatment_of_Cerebral_Tumors\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1655_The_Treatment_of_Cerebral_Tumors\\text.md",
+      "bytes": 28
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1655_The_Treatment_of_Cerebral_Tumors\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1655_The_Treatment_of_Cerebral_Tumors\\text.md",
+      "bytes": 28
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1656_THE_OCULAR_SYMPTOMS_OF_LESIONS_OF_THE_OPTIC_CHIASMWITH_THE_R\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1656_THE_OCULAR_SYMPTOMS_OF_LESIONS_OF_THE_OPTIC_CHIASMWITH_THE_R\\text.md",
+      "bytes": 52063
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1656_THE_OCULAR_SYMPTOMS_OF_LESIONS_OF_THE_OPTIC_CHIASMWITH_THE_R\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1656_THE_OCULAR_SYMPTOMS_OF_LESIONS_OF_THE_OPTIC_CHIASMWITH_THE_R\\text.md",
+      "bytes": 52063
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1657_A_CASE_OF_HEART_GUMMATA_WITH_SUDDEN_DEATH\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1657_A_CASE_OF_HEART_GUMMATA_WITH_SUDDEN_DEATH\\text.md",
+      "bytes": 31039
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1657_A_CASE_OF_HEART_GUMMATA_WITH_SUDDEN_DEATH\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1657_A_CASE_OF_HEART_GUMMATA_WITH_SUDDEN_DEATH\\text.md",
+      "bytes": 31039
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1658_THE_NATURE_OF_TRAUMATIC_SCLEROSIS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1658_THE_NATURE_OF_TRAUMATIC_SCLEROSIS\\text.md",
+      "bytes": 26404
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1658_THE_NATURE_OF_TRAUMATIC_SCLEROSIS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1658_THE_NATURE_OF_TRAUMATIC_SCLEROSIS\\text.md",
+      "bytes": 26404
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1659_Symptomatology_diagnosis_and_treatment_of_encephalitis_and_b\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1659_Symptomatology_diagnosis_and_treatment_of_encephalitis_and_b\\text.md",
+      "bytes": 98
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1659_Symptomatology_diagnosis_and_treatment_of_encephalitis_and_b\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1659_Symptomatology_diagnosis_and_treatment_of_encephalitis_and_b\\text.md",
+      "bytes": 98
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1660_A_CASE_OF_ENCYSTED_CEREBRAL_ABSCESS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1660_A_CASE_OF_ENCYSTED_CEREBRAL_ABSCESS\\text.md",
+      "bytes": 19460
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1660_A_CASE_OF_ENCYSTED_CEREBRAL_ABSCESS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1660_A_CASE_OF_ENCYSTED_CEREBRAL_ABSCESS\\text.md",
+      "bytes": 19460
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1661_Cerebral_Symptoms_in_Measles\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1661_Cerebral_Symptoms_in_Measles\\text.md",
+      "bytes": 28
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1661_Cerebral_Symptoms_in_Measles\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1661_Cerebral_Symptoms_in_Measles\\text.md",
+      "bytes": 28
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1662_Die_Medullaranästhesie_mittelst_Cocain-Suprarenin\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1662_Die_Medullaranästhesie_mittelst_Cocain-Suprarenin\\text.md",
+      "bytes": 73623
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1662_Die_Medullaranästhesie_mittelst_Cocain-Suprarenin\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1662_Die_Medullaranästhesie_mittelst_Cocain-Suprarenin\\text.md",
+      "bytes": 73623
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1663_THE_CIRCUMSTANCES_AND_TREATMENT_OF_BRIGHTS_DISEASE\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1663_THE_CIRCUMSTANCES_AND_TREATMENT_OF_BRIGHTS_DISEASE\\text.md",
+      "bytes": 27926
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1663_THE_CIRCUMSTANCES_AND_TREATMENT_OF_BRIGHTS_DISEASE\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1663_THE_CIRCUMSTANCES_AND_TREATMENT_OF_BRIGHTS_DISEASE\\text.md",
+      "bytes": 27926
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1664_THE_CURABILITY_OF_EARLY_PARESIS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1664_THE_CURABILITY_OF_EARLY_PARESIS\\text.md",
+      "bytes": 47229
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1664_THE_CURABILITY_OF_EARLY_PARESIS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1664_THE_CURABILITY_OF_EARLY_PARESIS\\text.md",
+      "bytes": 47229
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1665_Treatment_of_Cerebrospinal_Meningitis\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1665_Treatment_of_Cerebrospinal_Meningitis\\text.md",
+      "bytes": 27268
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1665_Treatment_of_Cerebrospinal_Meningitis\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1665_Treatment_of_Cerebrospinal_Meningitis\\text.md",
+      "bytes": 27268
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1666_The_High-frequency_Electrical_Treatment\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1666_The_High-frequency_Electrical_Treatment\\text.md",
+      "bytes": 51
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1666_The_High-frequency_Electrical_Treatment\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1666_The_High-frequency_Electrical_Treatment\\text.md",
+      "bytes": 51
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1667_EARLY_DIAGNOSIS_OF_SURGICAL_DISEASES_OF_THE_URINARY_TRACT\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1667_EARLY_DIAGNOSIS_OF_SURGICAL_DISEASES_OF_THE_URINARY_TRACT\\text.md",
+      "bytes": 25764
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1667_EARLY_DIAGNOSIS_OF_SURGICAL_DISEASES_OF_THE_URINARY_TRACT\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1667_EARLY_DIAGNOSIS_OF_SURGICAL_DISEASES_OF_THE_URINARY_TRACT\\text.md",
+      "bytes": 25764
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1668_Cerebrospinal_Meningitis_in_Animals_and_in_Man\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1668_Cerebrospinal_Meningitis_in_Animals_and_in_Man\\text.md",
+      "bytes": 7730
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1668_Cerebrospinal_Meningitis_in_Animals_and_in_Man\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1668_Cerebrospinal_Meningitis_in_Animals_and_in_Man\\text.md",
+      "bytes": 7730
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1669_Hyperemesis_Gravidarum\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1669_Hyperemesis_Gravidarum\\text.md",
+      "bytes": 25697
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1669_Hyperemesis_Gravidarum\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1669_Hyperemesis_Gravidarum\\text.md",
+      "bytes": 25697
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1670_Repraesentatio_Temporum_in_the_Oratio_Obliqua_of_Caesar\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1670_Repraesentatio_Temporum_in_the_Oratio_Obliqua_of_Caesar\\text.md",
+      "bytes": 27980
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1670_Repraesentatio_Temporum_in_the_Oratio_Obliqua_of_Caesar\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1670_Repraesentatio_Temporum_in_the_Oratio_Obliqua_of_Caesar\\text.md",
+      "bytes": 27980
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1671_A_CASE_OF_VISUAL_HALLUCINATIONS_AND_CROSSED_AMBLYOPIA_WITH_V\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1671_A_CASE_OF_VISUAL_HALLUCINATIONS_AND_CROSSED_AMBLYOPIA_WITH_V\\text.md",
+      "bytes": 19306
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1671_A_CASE_OF_VISUAL_HALLUCINATIONS_AND_CROSSED_AMBLYOPIA_WITH_V\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1671_A_CASE_OF_VISUAL_HALLUCINATIONS_AND_CROSSED_AMBLYOPIA_WITH_V\\text.md",
+      "bytes": 19306
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1672_A_CASE_OF_BRAIN_TUMOR_WITH_PROGRESSIVE_BLINDNESS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1672_A_CASE_OF_BRAIN_TUMOR_WITH_PROGRESSIVE_BLINDNESS\\text.md",
+      "bytes": 6270
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1672_A_CASE_OF_BRAIN_TUMOR_WITH_PROGRESSIVE_BLINDNESS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1672_A_CASE_OF_BRAIN_TUMOR_WITH_PROGRESSIVE_BLINDNESS\\text.md",
+      "bytes": 6270
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1672_A_CASE_OF_BRAIN_TUMOR_WITH_PROGRESSIVE_BLINDNESS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1672_A_CASE_OF_BRAIN_TUMOR_WITH_PROGRESSIVE_BLINDNESS\\text.md",
+      "bytes": 6270
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1672_A_CASE_OF_BRAIN_TUMOR_WITH_PROGRESSIVE_BLINDNESS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1672_A_CASE_OF_BRAIN_TUMOR_WITH_PROGRESSIVE_BLINDNESS\\text.md",
+      "bytes": 6270
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1673_A_CASE_OF_CHOLESTERIN_STONES_TN_THE_BRAIN_AND_CORD\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1673_A_CASE_OF_CHOLESTERIN_STONES_TN_THE_BRAIN_AND_CORD\\text.md",
+      "bytes": 21087
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1673_A_CASE_OF_CHOLESTERIN_STONES_TN_THE_BRAIN_AND_CORD\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1673_A_CASE_OF_CHOLESTERIN_STONES_TN_THE_BRAIN_AND_CORD\\text.md",
+      "bytes": 21087
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1674_BRAIN_TUMORS_A_STUDY_OF_CLINICAL_AND_POST-MORTEM_RECORDS_BEA\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1674_BRAIN_TUMORS_A_STUDY_OF_CLINICAL_AND_POST-MORTEM_RECORDS_BEA\\text.md",
+      "bytes": 22553
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1674_BRAIN_TUMORS_A_STUDY_OF_CLINICAL_AND_POST-MORTEM_RECORDS_BEA\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1674_BRAIN_TUMORS_A_STUDY_OF_CLINICAL_AND_POST-MORTEM_RECORDS_BEA\\text.md",
+      "bytes": 22553
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1675_IS_DELUSIONAL_INSANITY_DUE_TO_DISEASE_OF_THE_BRAIN\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1675_IS_DELUSIONAL_INSANITY_DUE_TO_DISEASE_OF_THE_BRAIN\\text.md",
+      "bytes": 28
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1675_IS_DELUSIONAL_INSANITY_DUE_TO_DISEASE_OF_THE_BRAIN\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1675_IS_DELUSIONAL_INSANITY_DUE_TO_DISEASE_OF_THE_BRAIN\\text.md",
+      "bytes": 28
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1676_REPORT_OF_TWO_FATAL_CASES_OF_BRAIN_ABSCESS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1676_REPORT_OF_TWO_FATAL_CASES_OF_BRAIN_ABSCESS\\text.md",
+      "bytes": 26955
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1676_REPORT_OF_TWO_FATAL_CASES_OF_BRAIN_ABSCESS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1676_REPORT_OF_TWO_FATAL_CASES_OF_BRAIN_ABSCESS\\text.md",
+      "bytes": 26955
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1677_THE_BRAIN_OF_THE_HISTOLOGIST_AND_PHYSIOLOGIST_OTTO_C_LOVEN\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1677_THE_BRAIN_OF_THE_HISTOLOGIST_AND_PHYSIOLOGIST_OTTO_C_LOVEN\\text.md",
+      "bytes": 4068
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1677_THE_BRAIN_OF_THE_HISTOLOGIST_AND_PHYSIOLOGIST_OTTO_C_LOVEN\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1677_THE_BRAIN_OF_THE_HISTOLOGIST_AND_PHYSIOLOGIST_OTTO_C_LOVEN\\text.md",
+      "bytes": 4068
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1677_THE_BRAIN_OF_THE_HISTOLOGIST_AND_PHYSIOLOGIST_OTTO_C_LOVEN\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1677_THE_BRAIN_OF_THE_HISTOLOGIST_AND_PHYSIOLOGIST_OTTO_C_LOVEN\\text.md",
+      "bytes": 4068
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1677_THE_BRAIN_OF_THE_HISTOLOGIST_AND_PHYSIOLOGIST_OTTO_C_LOVEN\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1677_THE_BRAIN_OF_THE_HISTOLOGIST_AND_PHYSIOLOGIST_OTTO_C_LOVEN\\text.md",
+      "bytes": 4068
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1678_THE_EFFECT_OF_ALCOHOL_UPON_THE_HUMAN_BRAIN\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1678_THE_EFFECT_OF_ALCOHOL_UPON_THE_HUMAN_BRAIN\\text.md",
+      "bytes": 53792
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1678_THE_EFFECT_OF_ALCOHOL_UPON_THE_HUMAN_BRAIN\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\1678_THE_EFFECT_OF_ALCOHOL_UPON_THE_HUMAN_BRAIN\\figures\\fig4.png",
+      "bytes": 432611
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1678_THE_EFFECT_OF_ALCOHOL_UPON_THE_HUMAN_BRAIN\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1678_THE_EFFECT_OF_ALCOHOL_UPON_THE_HUMAN_BRAIN\\text.md",
+      "bytes": 53792
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\1678_THE_EFFECT_OF_ALCOHOL_UPON_THE_HUMAN_BRAIN\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\1678_THE_EFFECT_OF_ALCOHOL_UPON_THE_HUMAN_BRAIN\\figures\\fig4.png",
+      "bytes": 432611
     }
   ],
   "missing": [],
