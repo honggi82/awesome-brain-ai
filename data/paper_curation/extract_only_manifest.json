@@ -1,12 +1,12 @@
 {
-  "generated": "2026-07-03T19:39:38.238443+00:00",
+  "generated": "2026-07-03T20:12:00.405901+00:00",
   "mode": "extract-only",
   "paperCurationDir": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect",
   "awesomeRepo": "E:\\조선대\\연구\\awesome-brain-ai",
   "extractReport": "data/paper_curation/extract_only_report.json",
   "docsDir": "docs/paper_curation/extract_only",
   "paperDir": "paper/extract_only",
-  "recordCount": 500,
+  "recordCount": 520,
   "syncedPaperSlugs": [
     "003_Hughlings_Jackson_and_the_Cortical_Motor_Centres_in_the_Ligh",
     "015_EXPERIMENTAL_AND_CLINICAL_NOTES_ON_THE_SUBARACHNOID_SPACE",
@@ -507,13 +507,33 @@
     "2347_The_motor_cortex_and_pyramid_tract_in_the_raccoon_Procyon_lo",
     "2348_APHASIA_AND_AGRAPHIA_IN_SOME_PRACTICAL_SURGICAL_RELATIONS",
     "2349_On_the_histology_of_the_cranial_autonomic_ganglia_of_the_she",
-    "2350_A_comparison_of_the_European_Norway_and_albino_rats_Mus_norv"
+    "2350_A_comparison_of_the_European_Norway_and_albino_rats_Mus_norv",
+    "2376_THE_OCCURRENCE_OF_A_POSITIVE_WASSERMANN_REACTION_IN_TWO_CASE",
+    "2377_The_Properties_of_Desiccated_Rabies_Virus_and_its_Use_in_Ant",
+    "2378_The_Production_of_Antirabic_Immunity_by_Intra-Spinal_Injecti",
+    "2379_BLOOD-PRESSURE_IN_CHEYNE-STOKES_RESPIRATION",
+    "2380_Die_Lokalisation_der_Kleinhirnerkrankungen1",
+    "2381_DIAGNOSIS_AND_LOCALIZATION_OF_BRAIN_ABSCESS",
+    "2382_PREPARATORY_CAPSULOTOMY_IN_EXTRACTION_OF_IMMATURE_SENILE_CAT",
+    "2383_A_STUDY_OF_THE_CEREBROSPINAL_FLUID_AND_BLOOD_IN_ACUTE_POLIOM",
+    "2384_MULTIPLE_HEMANGIOPERITHELIOMA_OF_THE_BRAIN",
+    "2385_The_Production_In_Vitro_in_the_Normal_Brain_of_Structures_Si",
+    "2386_ESSENTIAL_OR_PRIMARY_LATERAL_SCLEROSIS",
+    "2387_A_THIRTY-DAY_RHYTHM_IN_APOPLEXY_PRELIMINARY_NOTE_ON_A_NEW_FA",
+    "2388_ELEMENTARY_CONSIDERATIONS_OF_APHASIA",
+    "2389_THE_PRACTICAL_IMPORT_OF_RECENT_WORK_ON_HYSTERIA",
+    "2390_TUBERCULOUS_MENINGITIS_A_PATHOLOGIC_REPORT_OF_NINE_CASES",
+    "2391_Decerebration_and_the_action_of_morphine_in_frogs",
+    "2392_The_Brain_of_the_Late_Dr_John_Herr_Musser",
+    "2393_RELATIONSHIP_OF_DRUG_ADDICTIONS_PARTICULARLY_ALCOHOLISM_TO_N",
+    "2394_A_Plan_for_the_Adoption_of_the_Metric_System",
+    "2395_ACUTE_MASTOIDITIS_SINUS_THROMBOSIS_SUPERFICIAL_BRAIN_ABSCESS"
   ],
   "copied": [
     {
       "source": "E:\\조선대\\연구\\paper-curation\\paper\\awesome-brain-ai\\_folder_source_extract_report.json",
       "target": "E:\\조선대\\연구\\awesome-brain-ai\\data\\paper_curation\\extract_only_report.json",
-      "bytes": 305771
+      "bytes": 317692
     },
     {
       "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\003_Hughlings_Jackson_and_the_Cortical_Motor_Centres_in_the_Ligh\\text.md",
@@ -8064,6 +8084,226 @@
       "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2350_A_comparison_of_the_European_Norway_and_albino_rats_Mus_norv\\text.md",
       "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2350_A_comparison_of_the_European_Norway_and_albino_rats_Mus_norv\\text.md",
       "bytes": 50029
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2376_THE_OCCURRENCE_OF_A_POSITIVE_WASSERMANN_REACTION_IN_TWO_CASE\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2376_THE_OCCURRENCE_OF_A_POSITIVE_WASSERMANN_REACTION_IN_TWO_CASE\\text.md",
+      "bytes": 23069
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2376_THE_OCCURRENCE_OF_A_POSITIVE_WASSERMANN_REACTION_IN_TWO_CASE\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2376_THE_OCCURRENCE_OF_A_POSITIVE_WASSERMANN_REACTION_IN_TWO_CASE\\text.md",
+      "bytes": 23069
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2377_The_Properties_of_Desiccated_Rabies_Virus_and_its_Use_in_Ant\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2377_The_Properties_of_Desiccated_Rabies_Virus_and_its_Use_in_Ant\\text.md",
+      "bytes": 18292
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2377_The_Properties_of_Desiccated_Rabies_Virus_and_its_Use_in_Ant\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2377_The_Properties_of_Desiccated_Rabies_Virus_and_its_Use_in_Ant\\text.md",
+      "bytes": 18292
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2378_The_Production_of_Antirabic_Immunity_by_Intra-Spinal_Injecti\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2378_The_Production_of_Antirabic_Immunity_by_Intra-Spinal_Injecti\\text.md",
+      "bytes": 12502
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2378_The_Production_of_Antirabic_Immunity_by_Intra-Spinal_Injecti\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2378_The_Production_of_Antirabic_Immunity_by_Intra-Spinal_Injecti\\text.md",
+      "bytes": 12502
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2379_BLOOD-PRESSURE_IN_CHEYNE-STOKES_RESPIRATION\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2379_BLOOD-PRESSURE_IN_CHEYNE-STOKES_RESPIRATION\\text.md",
+      "bytes": 5004
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2379_BLOOD-PRESSURE_IN_CHEYNE-STOKES_RESPIRATION\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2379_BLOOD-PRESSURE_IN_CHEYNE-STOKES_RESPIRATION\\figures\\fig1.png",
+      "bytes": 613094
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2379_BLOOD-PRESSURE_IN_CHEYNE-STOKES_RESPIRATION\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2379_BLOOD-PRESSURE_IN_CHEYNE-STOKES_RESPIRATION\\figures\\fig2.png",
+      "bytes": 563727
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2379_BLOOD-PRESSURE_IN_CHEYNE-STOKES_RESPIRATION\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2379_BLOOD-PRESSURE_IN_CHEYNE-STOKES_RESPIRATION\\text.md",
+      "bytes": 5004
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2379_BLOOD-PRESSURE_IN_CHEYNE-STOKES_RESPIRATION\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2379_BLOOD-PRESSURE_IN_CHEYNE-STOKES_RESPIRATION\\figures\\fig1.png",
+      "bytes": 613094
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2379_BLOOD-PRESSURE_IN_CHEYNE-STOKES_RESPIRATION\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2379_BLOOD-PRESSURE_IN_CHEYNE-STOKES_RESPIRATION\\figures\\fig2.png",
+      "bytes": 563727
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2380_Die_Lokalisation_der_Kleinhirnerkrankungen1\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2380_Die_Lokalisation_der_Kleinhirnerkrankungen1\\text.md",
+      "bytes": 28991
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2380_Die_Lokalisation_der_Kleinhirnerkrankungen1\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2380_Die_Lokalisation_der_Kleinhirnerkrankungen1\\text.md",
+      "bytes": 28991
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2381_DIAGNOSIS_AND_LOCALIZATION_OF_BRAIN_ABSCESS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2381_DIAGNOSIS_AND_LOCALIZATION_OF_BRAIN_ABSCESS\\text.md",
+      "bytes": 35341
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2381_DIAGNOSIS_AND_LOCALIZATION_OF_BRAIN_ABSCESS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2381_DIAGNOSIS_AND_LOCALIZATION_OF_BRAIN_ABSCESS\\text.md",
+      "bytes": 35341
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2382_PREPARATORY_CAPSULOTOMY_IN_EXTRACTION_OF_IMMATURE_SENILE_CAT\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2382_PREPARATORY_CAPSULOTOMY_IN_EXTRACTION_OF_IMMATURE_SENILE_CAT\\text.md",
+      "bytes": 46004
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2382_PREPARATORY_CAPSULOTOMY_IN_EXTRACTION_OF_IMMATURE_SENILE_CAT\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2382_PREPARATORY_CAPSULOTOMY_IN_EXTRACTION_OF_IMMATURE_SENILE_CAT\\text.md",
+      "bytes": 46004
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2383_A_STUDY_OF_THE_CEREBROSPINAL_FLUID_AND_BLOOD_IN_ACUTE_POLIOM\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2383_A_STUDY_OF_THE_CEREBROSPINAL_FLUID_AND_BLOOD_IN_ACUTE_POLIOM\\text.md",
+      "bytes": 41383
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2383_A_STUDY_OF_THE_CEREBROSPINAL_FLUID_AND_BLOOD_IN_ACUTE_POLIOM\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2383_A_STUDY_OF_THE_CEREBROSPINAL_FLUID_AND_BLOOD_IN_ACUTE_POLIOM\\text.md",
+      "bytes": 41383
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2384_MULTIPLE_HEMANGIOPERITHELIOMA_OF_THE_BRAIN\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2384_MULTIPLE_HEMANGIOPERITHELIOMA_OF_THE_BRAIN\\text.md",
+      "bytes": 11540
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2384_MULTIPLE_HEMANGIOPERITHELIOMA_OF_THE_BRAIN\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2384_MULTIPLE_HEMANGIOPERITHELIOMA_OF_THE_BRAIN\\text.md",
+      "bytes": 11540
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2385_The_Production_In_Vitro_in_the_Normal_Brain_of_Structures_Si\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2385_The_Production_In_Vitro_in_the_Normal_Brain_of_Structures_Si\\text.md",
+      "bytes": 11166
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2385_The_Production_In_Vitro_in_the_Normal_Brain_of_Structures_Si\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2385_The_Production_In_Vitro_in_the_Normal_Brain_of_Structures_Si\\text.md",
+      "bytes": 11166
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2386_ESSENTIAL_OR_PRIMARY_LATERAL_SCLEROSIS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2386_ESSENTIAL_OR_PRIMARY_LATERAL_SCLEROSIS\\text.md",
+      "bytes": 40174
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2386_ESSENTIAL_OR_PRIMARY_LATERAL_SCLEROSIS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2386_ESSENTIAL_OR_PRIMARY_LATERAL_SCLEROSIS\\text.md",
+      "bytes": 40174
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2387_A_THIRTY-DAY_RHYTHM_IN_APOPLEXY_PRELIMINARY_NOTE_ON_A_NEW_FA\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2387_A_THIRTY-DAY_RHYTHM_IN_APOPLEXY_PRELIMINARY_NOTE_ON_A_NEW_FA\\text.md",
+      "bytes": 8526
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2387_A_THIRTY-DAY_RHYTHM_IN_APOPLEXY_PRELIMINARY_NOTE_ON_A_NEW_FA\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2387_A_THIRTY-DAY_RHYTHM_IN_APOPLEXY_PRELIMINARY_NOTE_ON_A_NEW_FA\\text.md",
+      "bytes": 8526
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2388_ELEMENTARY_CONSIDERATIONS_OF_APHASIA\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2388_ELEMENTARY_CONSIDERATIONS_OF_APHASIA\\text.md",
+      "bytes": 55065
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2388_ELEMENTARY_CONSIDERATIONS_OF_APHASIA\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2388_ELEMENTARY_CONSIDERATIONS_OF_APHASIA\\text.md",
+      "bytes": 55065
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2389_THE_PRACTICAL_IMPORT_OF_RECENT_WORK_ON_HYSTERIA\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2389_THE_PRACTICAL_IMPORT_OF_RECENT_WORK_ON_HYSTERIA\\text.md",
+      "bytes": 40370
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2389_THE_PRACTICAL_IMPORT_OF_RECENT_WORK_ON_HYSTERIA\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2389_THE_PRACTICAL_IMPORT_OF_RECENT_WORK_ON_HYSTERIA\\text.md",
+      "bytes": 40370
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2390_TUBERCULOUS_MENINGITIS_A_PATHOLOGIC_REPORT_OF_NINE_CASES\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2390_TUBERCULOUS_MENINGITIS_A_PATHOLOGIC_REPORT_OF_NINE_CASES\\text.md",
+      "bytes": 48197
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2390_TUBERCULOUS_MENINGITIS_A_PATHOLOGIC_REPORT_OF_NINE_CASES\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2390_TUBERCULOUS_MENINGITIS_A_PATHOLOGIC_REPORT_OF_NINE_CASES\\text.md",
+      "bytes": 48197
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2391_Decerebration_and_the_action_of_morphine_in_frogs\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2391_Decerebration_and_the_action_of_morphine_in_frogs\\text.md",
+      "bytes": 1914
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2391_Decerebration_and_the_action_of_morphine_in_frogs\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2391_Decerebration_and_the_action_of_morphine_in_frogs\\text.md",
+      "bytes": 1914
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2392_The_Brain_of_the_Late_Dr_John_Herr_Musser\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2392_The_Brain_of_the_Late_Dr_John_Herr_Musser\\text.md",
+      "bytes": 7864
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2392_The_Brain_of_the_Late_Dr_John_Herr_Musser\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2392_The_Brain_of_the_Late_Dr_John_Herr_Musser\\text.md",
+      "bytes": 7864
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2393_RELATIONSHIP_OF_DRUG_ADDICTIONS_PARTICULARLY_ALCOHOLISM_TO_N\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2393_RELATIONSHIP_OF_DRUG_ADDICTIONS_PARTICULARLY_ALCOHOLISM_TO_N\\text.md",
+      "bytes": 28136
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2393_RELATIONSHIP_OF_DRUG_ADDICTIONS_PARTICULARLY_ALCOHOLISM_TO_N\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2393_RELATIONSHIP_OF_DRUG_ADDICTIONS_PARTICULARLY_ALCOHOLISM_TO_N\\text.md",
+      "bytes": 28136
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2394_A_Plan_for_the_Adoption_of_the_Metric_System\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2394_A_Plan_for_the_Adoption_of_the_Metric_System\\text.md",
+      "bytes": 17098
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2394_A_Plan_for_the_Adoption_of_the_Metric_System\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2394_A_Plan_for_the_Adoption_of_the_Metric_System\\text.md",
+      "bytes": 17098
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2395_ACUTE_MASTOIDITIS_SINUS_THROMBOSIS_SUPERFICIAL_BRAIN_ABSCESS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2395_ACUTE_MASTOIDITIS_SINUS_THROMBOSIS_SUPERFICIAL_BRAIN_ABSCESS\\text.md",
+      "bytes": 13145
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2395_ACUTE_MASTOIDITIS_SINUS_THROMBOSIS_SUPERFICIAL_BRAIN_ABSCESS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2395_ACUTE_MASTOIDITIS_SINUS_THROMBOSIS_SUPERFICIAL_BRAIN_ABSCESS\\text.md",
+      "bytes": 13145
     }
   ],
   "missing": [],
