@@ -1,12 +1,12 @@
 {
-  "generated": "2026-07-03T18:07:46.860198+00:00",
+  "generated": "2026-07-03T19:09:18.389624+00:00",
   "mode": "extract-only",
   "paperCurationDir": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect",
   "awesomeRepo": "E:\\조선대\\연구\\awesome-brain-ai",
   "extractReport": "data/paper_curation/extract_only_report.json",
   "docsDir": "docs/paper_curation/extract_only",
   "paperDir": "paper/extract_only",
-  "recordCount": 460,
+  "recordCount": 480,
   "syncedPaperSlugs": [
     "003_Hughlings_Jackson_and_the_Cortical_Motor_Centres_in_the_Ligh",
     "015_EXPERIMENTAL_AND_CLINICAL_NOTES_ON_THE_SUBARACHNOID_SPACE",
@@ -467,13 +467,33 @@
     "2250_The_effect_of_underfeeding_on_the_percentage_of_water_on_the",
     "2251_A_CASE_OF_LESION_OF_THE_OPTIC_THALAMUS_WITH_AUTOPSY",
     "2252_TUMORS_OF_THE_PINEAL_BODY_WITH_AN_ACCOUNT_OF_THE_PINEAL_SYND",
-    "2253_THE_SYMPTOMATOLOGY_OF_TEMPOROSPHENOIDAL_TUMORS"
+    "2253_THE_SYMPTOMATOLOGY_OF_TEMPOROSPHENOIDAL_TUMORS",
+    "2280_Zur_Pharmakologie_der_Bronchialmuskulatur",
+    "2281_Localisation_of_the_motor_area_in_the_sheeps_brain_by_the_hi",
+    "2282_The_volume_of_the_ventricles_of_the_brain",
+    "2283_EPIDEMIC_POLIOMYELITIS_ELEVENTH_NOTE_RELATION_OF_THE_VIRUS_T",
+    "2284_THE_IMPORTANCE_OF_TONUS_FOR_THE_MOVEMENTS_OF_THE_ALIMENTARY",
+    "2285_CEREBROSPINAL_MENINGITIS_ITS_ETIOLOGY_DIAGNOSIS_PROGNOSIS_AN",
+    "2286_A_CASE_OF_MULTIPLE_EPENDYMOMATA_OF_THE_BRAIN_AND_SPINAL_CORD",
+    "2287_On_the_influence_of_exercise_on_the_weight_of_the_central_ne",
+    "2288_MENINGOCOCCUS_ENDOCARDITIS_WITH_SEPTICEMIA_ITS_BEARING_ON_TH",
+    "2289_Pelvic_Cysts_due_to_Spinal_Meningocele_with_Notes_of_a_Case",
+    "2290_The_effects_of_pneumonia_and_of_postmortem_changes_on_the_pe",
+    "2291_DISPLACEMENT_OF_THE_CEREBELLUM_FROM_TUMOUR_OF_THE_POSTERIOR",
+    "2292_THE_CEREBRAL_FORMS_OF_POLIOMYELITIS_AND_THEIR_DIAGNOSIS_FROM",
+    "2293_INTRA-OCULAR_NEOPLASMS_WITH_A_REPORT_OF_FIVE_CASES_OF_NEOPLA",
+    "2294_An_interpretation_of_growth_curves_from_a_dynamical_standpoi",
+    "2295_The_significance_of_the_structure_of_the_medullary_loop_of_t",
+    "2296_A_contribution_to_the_study_of_the_cere_bral_cortex_in_man",
+    "2297_CEREBRAL_TUMOUR_AFFECTING_THE_UNDER_SURFACE_OF_THE_CORPUS_CA",
+    "2292_THE_CEREBRAL_FORMS_OF_POLIOMYELITIS_AND_THEIR_DIAGNOSIS_FROM",
+    "2298_THE_DIAGNOSIS_OF_INFANTILE_TETANY_WITH_A_REPORT_ON_EXPERIMEN"
   ],
   "copied": [
     {
       "source": "E:\\조선대\\연구\\paper-curation\\paper\\awesome-brain-ai\\_folder_source_extract_report.json",
       "target": "E:\\조선대\\연구\\awesome-brain-ai\\data\\paper_curation\\extract_only_report.json",
-      "bytes": 281055
+      "bytes": 293624
     },
     {
       "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\003_Hughlings_Jackson_and_the_Cortical_Motor_Centres_in_the_Ligh\\text.md",
@@ -7524,6 +7544,296 @@
       "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2253_THE_SYMPTOMATOLOGY_OF_TEMPOROSPHENOIDAL_TUMORS\\figures\\fig2.png",
       "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2253_THE_SYMPTOMATOLOGY_OF_TEMPOROSPHENOIDAL_TUMORS\\figures\\fig2.png",
       "bytes": 556481
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2280_Zur_Pharmakologie_der_Bronchialmuskulatur\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2280_Zur_Pharmakologie_der_Bronchialmuskulatur\\text.md",
+      "bytes": 21624
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2280_Zur_Pharmakologie_der_Bronchialmuskulatur\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2280_Zur_Pharmakologie_der_Bronchialmuskulatur\\text.md",
+      "bytes": 21624
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2281_Localisation_of_the_motor_area_in_the_sheeps_brain_by_the_hi\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2281_Localisation_of_the_motor_area_in_the_sheeps_brain_by_the_hi\\text.md",
+      "bytes": 17395
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2281_Localisation_of_the_motor_area_in_the_sheeps_brain_by_the_hi\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2281_Localisation_of_the_motor_area_in_the_sheeps_brain_by_the_hi\\figures\\fig1.png",
+      "bytes": 233048
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2281_Localisation_of_the_motor_area_in_the_sheeps_brain_by_the_hi\\figures\\fig8.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2281_Localisation_of_the_motor_area_in_the_sheeps_brain_by_the_hi\\figures\\fig8.png",
+      "bytes": 1248657
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2281_Localisation_of_the_motor_area_in_the_sheeps_brain_by_the_hi\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2281_Localisation_of_the_motor_area_in_the_sheeps_brain_by_the_hi\\text.md",
+      "bytes": 17395
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2281_Localisation_of_the_motor_area_in_the_sheeps_brain_by_the_hi\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2281_Localisation_of_the_motor_area_in_the_sheeps_brain_by_the_hi\\figures\\fig1.png",
+      "bytes": 233048
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2281_Localisation_of_the_motor_area_in_the_sheeps_brain_by_the_hi\\figures\\fig8.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2281_Localisation_of_the_motor_area_in_the_sheeps_brain_by_the_hi\\figures\\fig8.png",
+      "bytes": 1248657
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2282_The_volume_of_the_ventricles_of_the_brain\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2282_The_volume_of_the_ventricles_of_the_brain\\text.md",
+      "bytes": 9489
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2282_The_volume_of_the_ventricles_of_the_brain\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2282_The_volume_of_the_ventricles_of_the_brain\\text.md",
+      "bytes": 9489
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2283_EPIDEMIC_POLIOMYELITIS_ELEVENTH_NOTE_RELATION_OF_THE_VIRUS_T\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2283_EPIDEMIC_POLIOMYELITIS_ELEVENTH_NOTE_RELATION_OF_THE_VIRUS_T\\text.md",
+      "bytes": 13064
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2283_EPIDEMIC_POLIOMYELITIS_ELEVENTH_NOTE_RELATION_OF_THE_VIRUS_T\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2283_EPIDEMIC_POLIOMYELITIS_ELEVENTH_NOTE_RELATION_OF_THE_VIRUS_T\\text.md",
+      "bytes": 13064
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2284_THE_IMPORTANCE_OF_TONUS_FOR_THE_MOVEMENTS_OF_THE_ALIMENTARY\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2284_THE_IMPORTANCE_OF_TONUS_FOR_THE_MOVEMENTS_OF_THE_ALIMENTARY\\text.md",
+      "bytes": 27760
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2284_THE_IMPORTANCE_OF_TONUS_FOR_THE_MOVEMENTS_OF_THE_ALIMENTARY\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2284_THE_IMPORTANCE_OF_TONUS_FOR_THE_MOVEMENTS_OF_THE_ALIMENTARY\\text.md",
+      "bytes": 27760
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2285_CEREBROSPINAL_MENINGITIS_ITS_ETIOLOGY_DIAGNOSIS_PROGNOSIS_AN\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2285_CEREBROSPINAL_MENINGITIS_ITS_ETIOLOGY_DIAGNOSIS_PROGNOSIS_AN\\text.md",
+      "bytes": 47742
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2285_CEREBROSPINAL_MENINGITIS_ITS_ETIOLOGY_DIAGNOSIS_PROGNOSIS_AN\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2285_CEREBROSPINAL_MENINGITIS_ITS_ETIOLOGY_DIAGNOSIS_PROGNOSIS_AN\\text.md",
+      "bytes": 47742
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2286_A_CASE_OF_MULTIPLE_EPENDYMOMATA_OF_THE_BRAIN_AND_SPINAL_CORD\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2286_A_CASE_OF_MULTIPLE_EPENDYMOMATA_OF_THE_BRAIN_AND_SPINAL_CORD\\text.md",
+      "bytes": 501
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2286_A_CASE_OF_MULTIPLE_EPENDYMOMATA_OF_THE_BRAIN_AND_SPINAL_CORD\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2286_A_CASE_OF_MULTIPLE_EPENDYMOMATA_OF_THE_BRAIN_AND_SPINAL_CORD\\text.md",
+      "bytes": 501
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2287_On_the_influence_of_exercise_on_the_weight_of_the_central_ne\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2287_On_the_influence_of_exercise_on_the_weight_of_the_central_ne\\text.md",
+      "bytes": 14716
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2287_On_the_influence_of_exercise_on_the_weight_of_the_central_ne\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2287_On_the_influence_of_exercise_on_the_weight_of_the_central_ne\\text.md",
+      "bytes": 14716
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2288_MENINGOCOCCUS_ENDOCARDITIS_WITH_SEPTICEMIA_ITS_BEARING_ON_TH\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2288_MENINGOCOCCUS_ENDOCARDITIS_WITH_SEPTICEMIA_ITS_BEARING_ON_TH\\text.md",
+      "bytes": 43803
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2288_MENINGOCOCCUS_ENDOCARDITIS_WITH_SEPTICEMIA_ITS_BEARING_ON_TH\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2288_MENINGOCOCCUS_ENDOCARDITIS_WITH_SEPTICEMIA_ITS_BEARING_ON_TH\\text.md",
+      "bytes": 43803
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2289_Pelvic_Cysts_due_to_Spinal_Meningocele_with_Notes_of_a_Case\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2289_Pelvic_Cysts_due_to_Spinal_Meningocele_with_Notes_of_a_Case\\text.md",
+      "bytes": 28855
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2289_Pelvic_Cysts_due_to_Spinal_Meningocele_with_Notes_of_a_Case\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2289_Pelvic_Cysts_due_to_Spinal_Meningocele_with_Notes_of_a_Case\\text.md",
+      "bytes": 28855
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2290_The_effects_of_pneumonia_and_of_postmortem_changes_on_the_pe\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2290_The_effects_of_pneumonia_and_of_postmortem_changes_on_the_pe\\text.md",
+      "bytes": 14277
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2290_The_effects_of_pneumonia_and_of_postmortem_changes_on_the_pe\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2290_The_effects_of_pneumonia_and_of_postmortem_changes_on_the_pe\\text.md",
+      "bytes": 14277
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2291_DISPLACEMENT_OF_THE_CEREBELLUM_FROM_TUMOUR_OF_THE_POSTERIOR\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2291_DISPLACEMENT_OF_THE_CEREBELLUM_FROM_TUMOUR_OF_THE_POSTERIOR\\text.md",
+      "bytes": 21620
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2291_DISPLACEMENT_OF_THE_CEREBELLUM_FROM_TUMOUR_OF_THE_POSTERIOR\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2291_DISPLACEMENT_OF_THE_CEREBELLUM_FROM_TUMOUR_OF_THE_POSTERIOR\\figures\\fig2.png",
+      "bytes": 1204192
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2291_DISPLACEMENT_OF_THE_CEREBELLUM_FROM_TUMOUR_OF_THE_POSTERIOR\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2291_DISPLACEMENT_OF_THE_CEREBELLUM_FROM_TUMOUR_OF_THE_POSTERIOR\\figures\\fig3.png",
+      "bytes": 1112043
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2291_DISPLACEMENT_OF_THE_CEREBELLUM_FROM_TUMOUR_OF_THE_POSTERIOR\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2291_DISPLACEMENT_OF_THE_CEREBELLUM_FROM_TUMOUR_OF_THE_POSTERIOR\\figures\\fig5.png",
+      "bytes": 1336960
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2291_DISPLACEMENT_OF_THE_CEREBELLUM_FROM_TUMOUR_OF_THE_POSTERIOR\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2291_DISPLACEMENT_OF_THE_CEREBELLUM_FROM_TUMOUR_OF_THE_POSTERIOR\\text.md",
+      "bytes": 21620
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2291_DISPLACEMENT_OF_THE_CEREBELLUM_FROM_TUMOUR_OF_THE_POSTERIOR\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2291_DISPLACEMENT_OF_THE_CEREBELLUM_FROM_TUMOUR_OF_THE_POSTERIOR\\figures\\fig2.png",
+      "bytes": 1204192
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2291_DISPLACEMENT_OF_THE_CEREBELLUM_FROM_TUMOUR_OF_THE_POSTERIOR\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2291_DISPLACEMENT_OF_THE_CEREBELLUM_FROM_TUMOUR_OF_THE_POSTERIOR\\figures\\fig3.png",
+      "bytes": 1112043
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2291_DISPLACEMENT_OF_THE_CEREBELLUM_FROM_TUMOUR_OF_THE_POSTERIOR\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2291_DISPLACEMENT_OF_THE_CEREBELLUM_FROM_TUMOUR_OF_THE_POSTERIOR\\figures\\fig5.png",
+      "bytes": 1336960
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2292_THE_CEREBRAL_FORMS_OF_POLIOMYELITIS_AND_THEIR_DIAGNOSIS_FROM\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2292_THE_CEREBRAL_FORMS_OF_POLIOMYELITIS_AND_THEIR_DIAGNOSIS_FROM\\text.md",
+      "bytes": 46275
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2292_THE_CEREBRAL_FORMS_OF_POLIOMYELITIS_AND_THEIR_DIAGNOSIS_FROM\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2292_THE_CEREBRAL_FORMS_OF_POLIOMYELITIS_AND_THEIR_DIAGNOSIS_FROM\\text.md",
+      "bytes": 46275
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2293_INTRA-OCULAR_NEOPLASMS_WITH_A_REPORT_OF_FIVE_CASES_OF_NEOPLA\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2293_INTRA-OCULAR_NEOPLASMS_WITH_A_REPORT_OF_FIVE_CASES_OF_NEOPLA\\text.md",
+      "bytes": 27665
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2293_INTRA-OCULAR_NEOPLASMS_WITH_A_REPORT_OF_FIVE_CASES_OF_NEOPLA\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2293_INTRA-OCULAR_NEOPLASMS_WITH_A_REPORT_OF_FIVE_CASES_OF_NEOPLA\\figures\\fig1.png",
+      "bytes": 1427401
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2293_INTRA-OCULAR_NEOPLASMS_WITH_A_REPORT_OF_FIVE_CASES_OF_NEOPLA\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2293_INTRA-OCULAR_NEOPLASMS_WITH_A_REPORT_OF_FIVE_CASES_OF_NEOPLA\\text.md",
+      "bytes": 27665
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2293_INTRA-OCULAR_NEOPLASMS_WITH_A_REPORT_OF_FIVE_CASES_OF_NEOPLA\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2293_INTRA-OCULAR_NEOPLASMS_WITH_A_REPORT_OF_FIVE_CASES_OF_NEOPLA\\figures\\fig1.png",
+      "bytes": 1427401
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2294_An_interpretation_of_growth_curves_from_a_dynamical_standpoi\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2294_An_interpretation_of_growth_curves_from_a_dynamical_standpoi\\text.md",
+      "bytes": 3401
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2294_An_interpretation_of_growth_curves_from_a_dynamical_standpoi\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2294_An_interpretation_of_growth_curves_from_a_dynamical_standpoi\\text.md",
+      "bytes": 3401
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2295_The_significance_of_the_structure_of_the_medullary_loop_of_t\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2295_The_significance_of_the_structure_of_the_medullary_loop_of_t\\text.md",
+      "bytes": 4367
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2295_The_significance_of_the_structure_of_the_medullary_loop_of_t\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2295_The_significance_of_the_structure_of_the_medullary_loop_of_t\\text.md",
+      "bytes": 4367
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2296_A_contribution_to_the_study_of_the_cere_bral_cortex_in_man\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2296_A_contribution_to_the_study_of_the_cere_bral_cortex_in_man\\text.md",
+      "bytes": 7515
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2296_A_contribution_to_the_study_of_the_cere_bral_cortex_in_man\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2296_A_contribution_to_the_study_of_the_cere_bral_cortex_in_man\\figures\\fig1.png",
+      "bytes": 394249
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2296_A_contribution_to_the_study_of_the_cere_bral_cortex_in_man\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2296_A_contribution_to_the_study_of_the_cere_bral_cortex_in_man\\figures\\fig3.png",
+      "bytes": 210248
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2296_A_contribution_to_the_study_of_the_cere_bral_cortex_in_man\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2296_A_contribution_to_the_study_of_the_cere_bral_cortex_in_man\\figures\\fig5.png",
+      "bytes": 496790
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2296_A_contribution_to_the_study_of_the_cere_bral_cortex_in_man\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2296_A_contribution_to_the_study_of_the_cere_bral_cortex_in_man\\text.md",
+      "bytes": 7515
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2296_A_contribution_to_the_study_of_the_cere_bral_cortex_in_man\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2296_A_contribution_to_the_study_of_the_cere_bral_cortex_in_man\\figures\\fig1.png",
+      "bytes": 394249
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2296_A_contribution_to_the_study_of_the_cere_bral_cortex_in_man\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2296_A_contribution_to_the_study_of_the_cere_bral_cortex_in_man\\figures\\fig3.png",
+      "bytes": 210248
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2296_A_contribution_to_the_study_of_the_cere_bral_cortex_in_man\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2296_A_contribution_to_the_study_of_the_cere_bral_cortex_in_man\\figures\\fig5.png",
+      "bytes": 496790
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2297_CEREBRAL_TUMOUR_AFFECTING_THE_UNDER_SURFACE_OF_THE_CORPUS_CA\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2297_CEREBRAL_TUMOUR_AFFECTING_THE_UNDER_SURFACE_OF_THE_CORPUS_CA\\text.md",
+      "bytes": 26203
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2297_CEREBRAL_TUMOUR_AFFECTING_THE_UNDER_SURFACE_OF_THE_CORPUS_CA\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2297_CEREBRAL_TUMOUR_AFFECTING_THE_UNDER_SURFACE_OF_THE_CORPUS_CA\\text.md",
+      "bytes": 26203
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2292_THE_CEREBRAL_FORMS_OF_POLIOMYELITIS_AND_THEIR_DIAGNOSIS_FROM\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2292_THE_CEREBRAL_FORMS_OF_POLIOMYELITIS_AND_THEIR_DIAGNOSIS_FROM\\text.md",
+      "bytes": 46275
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2292_THE_CEREBRAL_FORMS_OF_POLIOMYELITIS_AND_THEIR_DIAGNOSIS_FROM\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2292_THE_CEREBRAL_FORMS_OF_POLIOMYELITIS_AND_THEIR_DIAGNOSIS_FROM\\text.md",
+      "bytes": 46275
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2298_THE_DIAGNOSIS_OF_INFANTILE_TETANY_WITH_A_REPORT_ON_EXPERIMEN\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2298_THE_DIAGNOSIS_OF_INFANTILE_TETANY_WITH_A_REPORT_ON_EXPERIMEN\\text.md",
+      "bytes": 54307
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2298_THE_DIAGNOSIS_OF_INFANTILE_TETANY_WITH_A_REPORT_ON_EXPERIMEN\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2298_THE_DIAGNOSIS_OF_INFANTILE_TETANY_WITH_A_REPORT_ON_EXPERIMEN\\text.md",
+      "bytes": 54307
     }
   ],
   "missing": [],
