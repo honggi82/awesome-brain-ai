@@ -3,26 +3,31 @@
     {
       "id": "hdbscan-bridge-and-noise-papers",
       "name": "HDBSCAN Bridge and Noise Papers",
-      "count": 169
+      "count": 175
     },
     {
-      "id": "hdbscan-cluster-case-had-which-figure",
-      "name": "HDBSCAN Cluster: case, had, which, figure",
-      "count": 8
-    },
-    {
-      "id": "hdbscan-cluster-brain-had-tumor-figure",
-      "name": "HDBSCAN Cluster: brain, had, tumor, figure",
-      "count": 7
-    },
-    {
-      "id": "hdbscan-cluster-cases-brain-figure-hospital",
-      "name": "HDBSCAN Cluster: cases, brain, figure, hospital",
+      "id": "hdbscan-cluster-brain-figure-case-tumor",
+      "name": "HDBSCAN Cluster: brain, figure, case, tumor",
       "count": 6
+    },
+    {
+      "id": "hdbscan-cluster-figure-images-png-treatment",
+      "name": "HDBSCAN Cluster: figure, images, png, treatment",
+      "count": 5
     },
     {
       "id": "hdbscan-cluster-stage-development-alcohol-figure",
       "name": "HDBSCAN Cluster: stage, development, alcohol, figure",
+      "count": 5
+    },
+    {
+      "id": "hdbscan-cluster-had-case-not-which",
+      "name": "HDBSCAN Cluster: had, case, not, which",
+      "count": 5
+    },
+    {
+      "id": "hdbscan-cluster-mental-figure-sugar-disease",
+      "name": "HDBSCAN Cluster: mental, figure, sugar, disease",
       "count": 5
     },
     {
@@ -31,33 +36,38 @@
       "count": 5
     },
     {
-      "id": "hdbscan-cluster-figure-infantile-superior-worm",
-      "name": "HDBSCAN Cluster: figure, infantile, superior, worm",
+      "id": "hdbscan-cluster-brain-cells-figure-some",
+      "name": "HDBSCAN Cluster: brain, cells, figure, some",
+      "count": 5
+    },
+    {
+      "id": "hdbscan-cluster-case-brain-figure-disease",
+      "name": "HDBSCAN Cluster: case, brain, figure, disease",
+      "count": 5
+    },
+    {
+      "id": "hdbscan-cluster-case-brain-figure-there",
+      "name": "HDBSCAN Cluster: case, brain, figure, there",
       "count": 4
     },
     {
-      "id": "hdbscan-cluster-case-right-heard-cases",
-      "name": "HDBSCAN Cluster: case, right, heard, cases",
+      "id": "hdbscan-cluster-cells-which-ganglion-described",
+      "name": "HDBSCAN Cluster: cells, which, ganglion, described",
       "count": 4
     },
     {
-      "id": "hdbscan-cluster-vertigo-cases-figure-which",
-      "name": "HDBSCAN Cluster: vertigo, cases, figure, which",
+      "id": "hdbscan-cluster-much-cases-figure-his",
+      "name": "HDBSCAN Cluster: much, cases, figure, his",
+      "count": 4
+    },
+    {
+      "id": "hdbscan-cluster-figure-case-brain-carcinosis",
+      "name": "HDBSCAN Cluster: figure, case, brain, carcinosis",
       "count": 4
     },
     {
       "id": "hdbscan-cluster-elbow-movements-their-action",
       "name": "HDBSCAN Cluster: elbow, movements, their, action",
-      "count": 4
-    },
-    {
-      "id": "hdbscan-cluster-case-brain-disease-figure",
-      "name": "HDBSCAN Cluster: case, brain, disease, figure",
-      "count": 4
-    },
-    {
-      "id": "hdbscan-cluster-have-his-not-one",
-      "name": "HDBSCAN Cluster: have, his, not, one",
       "count": 4
     },
     {
@@ -71,6 +81,11 @@
       "count": 4
     },
     {
+      "id": "hdbscan-cluster-cases-brain-tumors-figure",
+      "name": "HDBSCAN Cluster: cases, brain, tumors, figure",
+      "count": 4
+    },
+    {
       "id": "hdbscan-cluster-figure-brain-diseases-they",
       "name": "HDBSCAN Cluster: figure, brain, diseases, they",
       "count": 4
@@ -81,13 +96,13 @@
       "count": 3
     },
     {
-      "id": "hdbscan-cluster-figure-images-png-insomnia",
-      "name": "HDBSCAN Cluster: figure, images, png, insomnia",
+      "id": "hdbscan-cluster-had-case-figure-been",
+      "name": "HDBSCAN Cluster: had, case, figure, been",
       "count": 3
     },
     {
-      "id": "hdbscan-cluster-figure-brain-case-boston",
-      "name": "HDBSCAN Cluster: figure, brain, case, boston",
+      "id": "hdbscan-cluster-figure-brain-reconstruction-serial",
+      "name": "HDBSCAN Cluster: figure, brain, reconstruction, serial",
       "count": 3
     },
     {
@@ -101,6 +116,11 @@
       "count": 3
     },
     {
+      "id": "hdbscan-cluster-figure-superior-worm-cerebellum",
+      "name": "HDBSCAN Cluster: figure, superior, worm, cerebellum",
+      "count": 3
+    },
+    {
       "id": "hdbscan-cluster-der-die-und-yon",
       "name": "HDBSCAN Cluster: der, die, und, yon",
       "count": 3
@@ -111,18 +131,18 @@
       "count": 3
     },
     {
-      "id": "hdbscan-cluster-brain-frontal-years-after",
-      "name": "HDBSCAN Cluster: brain, frontal, years, after",
-      "count": 3
-    },
-    {
       "id": "hdbscan-cluster-journal-sphenoidal-sinusitis-when",
       "name": "HDBSCAN Cluster: journal, sphenoidal, sinusitis, when",
       "count": 3
     },
     {
-      "id": "hdbscan-cluster-figure-thermo-electric-studies-epileptic",
-      "name": "HDBSCAN Cluster: figure, thermo-electric, studies, epileptic",
+      "id": "hdbscan-cluster-which-action-calcium-figure",
+      "name": "HDBSCAN Cluster: which, action, calcium, figure",
+      "count": 3
+    },
+    {
+      "id": "hdbscan-cluster-brain-tlie-has-figure",
+      "name": "HDBSCAN Cluster: brain, tlie, has, figure",
       "count": 3
     },
     {
@@ -131,38 +151,23 @@
       "count": 3
     },
     {
-      "id": "hdbscan-cluster-brain-embryo-neuroglia-which",
-      "name": "HDBSCAN Cluster: brain, embryo, neuroglia, which",
-      "count": 3
-    },
-    {
       "id": "hdbscan-cluster-which-not-figure-but",
       "name": "HDBSCAN Cluster: which, not, figure, but",
       "count": 3
     },
     {
-      "id": "hdbscan-cluster-symptoms-acute-ankle-slight",
-      "name": "HDBSCAN Cluster: symptoms, acute, ankle, slight",
+      "id": "hdbscan-cluster-condition-figure-cerebral-insanity",
+      "name": "HDBSCAN Cluster: condition, figure, cerebral, insanity",
       "count": 3
     },
     {
-      "id": "hdbscan-cluster-regeneration-light-other-embryos",
-      "name": "HDBSCAN Cluster: regeneration, light, other, embryos",
+      "id": "hdbscan-cluster-der-die-wir-pupille",
+      "name": "HDBSCAN Cluster: der, die, wir, pupille",
       "count": 3
     },
     {
-      "id": "hdbscan-cluster-cells-cortex-monkey-brain",
-      "name": "HDBSCAN Cluster: cells, cortex, monkey, brain",
-      "count": 3
-    },
-    {
-      "id": "hdbscan-cluster-japanese-professor-brain-weight-figure",
-      "name": "HDBSCAN Cluster: japanese, professor, brain-weight, figure",
-      "count": 3
-    },
-    {
-      "id": "hdbscan-cluster-figure-essai-sur-psycho-physiologie",
-      "name": "HDBSCAN Cluster: figure, essai, sur, psycho-physiologie",
+      "id": "hdbscan-cluster-brain-grams-his-weighed",
+      "name": "HDBSCAN Cluster: brain, grams, his, weighed",
       "count": 3
     },
     {
@@ -171,13 +176,18 @@
       "count": 3
     },
     {
+      "id": "hdbscan-cluster-have-his-not-had",
+      "name": "HDBSCAN Cluster: have, his, not, had",
+      "count": 3
+    },
+    {
       "id": "hdbscan-cluster-tetany-calcium-indol-symptoms",
       "name": "HDBSCAN Cluster: tetany, calcium, indol, symptoms",
       "count": 3
     },
     {
-      "id": "hdbscan-cluster-which-described-cells-mass",
-      "name": "HDBSCAN Cluster: which, described, cells, mass",
+      "id": "hdbscan-cluster-hemorrhages-may-but-vomiting",
+      "name": "HDBSCAN Cluster: hemorrhages, may, but, vomiting",
       "count": 3
     },
     {
@@ -186,13 +196,18 @@
       "count": 3
     },
     {
-      "id": "hdbscan-cluster-brain-hughlings-jackson-commission",
-      "name": "HDBSCAN Cluster: brain, hughlings, jackson, commission",
+      "id": "hdbscan-cluster-cases-pellagra-organisms-organism",
+      "name": "HDBSCAN Cluster: cases, pellagra, organisms, organism",
       "count": 3
     },
     {
-      "id": "hdbscan-cluster-figure-case-brain-report",
-      "name": "HDBSCAN Cluster: figure, case, brain, report",
+      "id": "hdbscan-cluster-symptoms-cerebellum-dog-brain",
+      "name": "HDBSCAN Cluster: symptoms, cerebellum, dog, brain",
+      "count": 3
+    },
+    {
+      "id": "hdbscan-cluster-some-other-mental-nervous",
+      "name": "HDBSCAN Cluster: some, other, mental, nervous",
       "count": 3
     },
     {
@@ -206,13 +221,8 @@
       "count": 2
     },
     {
-      "id": "hdbscan-cluster-cases-not-wound-operation",
-      "name": "HDBSCAN Cluster: cases, not, wound, operation",
-      "count": 2
-    },
-    {
-      "id": "hdbscan-cluster-figure-reconstruction-serial-sections",
-      "name": "HDBSCAN Cluster: figure, reconstruction, serial, sections",
+      "id": "hdbscan-cluster-there-flies-had-boer",
+      "name": "HDBSCAN Cluster: there, flies, had, boer",
       "count": 2
     },
     {
@@ -221,8 +231,8 @@
       "count": 2
     },
     {
-      "id": "hdbscan-cluster-have-more-cerebral-its",
-      "name": "HDBSCAN Cluster: have, more, cerebral, its",
+      "id": "hdbscan-cluster-danger-its-which-not",
+      "name": "HDBSCAN Cluster: danger, its, which, not",
       "count": 2
     },
     {
@@ -236,8 +246,8 @@
       "count": 2
     },
     {
-      "id": "hdbscan-cluster-aneurisms-arteries-aneurism-mental",
-      "name": "HDBSCAN Cluster: aneurisms, arteries, aneurism, mental",
+      "id": "hdbscan-cluster-brain-years-after-infection",
+      "name": "HDBSCAN Cluster: brain, years, after, infection",
       "count": 2
     },
     {
@@ -246,33 +256,28 @@
       "count": 2
     },
     {
-      "id": "hdbscan-cluster-mental-disease-system-types",
-      "name": "HDBSCAN Cluster: mental, disease, system, types",
-      "count": 2
-    },
-    {
-      "id": "hdbscan-cluster-action-calcium-thalamus-other",
-      "name": "HDBSCAN Cluster: action, calcium, thalamus, other",
-      "count": 2
-    },
-    {
       "id": "hdbscan-cluster-brain-prepared-not-mucoid",
       "name": "HDBSCAN Cluster: brain, prepared, not, mucoid",
       "count": 2
     },
     {
-      "id": "hdbscan-cluster-operation-brain-abscess-successful",
-      "name": "HDBSCAN Cluster: operation, brain, abscess, successful",
+      "id": "hdbscan-cluster-history-which-one-cases",
+      "name": "HDBSCAN Cluster: history, which, one, cases",
+      "count": 2
+    },
+    {
+      "id": "hdbscan-cluster-vertigo-cases-nervous-disease",
+      "name": "HDBSCAN Cluster: vertigo, cases, nervous, disease",
+      "count": 2
+    },
+    {
+      "id": "hdbscan-cluster-neuroglia-spinal-cord-elephant",
+      "name": "HDBSCAN Cluster: neuroglia, spinal, cord, elephant",
       "count": 2
     },
     {
       "id": "hdbscan-cluster-tibia-operation-surface-bone",
       "name": "HDBSCAN Cluster: tibia, operation, surface, bone",
-      "count": 2
-    },
-    {
-      "id": "hdbscan-cluster-had-case-figure-she",
-      "name": "HDBSCAN Cluster: had, case, figure, she",
       "count": 2
     },
     {
@@ -283,11 +288,6 @@
     {
       "id": "hdbscan-cluster-early-origin-differentiation-vesicle",
       "name": "HDBSCAN Cluster: early, origin, differentiation, vesicle",
-      "count": 2
-    },
-    {
-      "id": "hdbscan-cluster-case-matter-medulla-tract",
-      "name": "HDBSCAN Cluster: case, matter, medulla, tract",
       "count": 2
     },
     {
@@ -316,8 +316,23 @@
       "count": 2
     },
     {
-      "id": "hdbscan-cluster-spirit-not-our-have",
-      "name": "HDBSCAN Cluster: spirit, not, our, have",
+      "id": "hdbscan-cluster-regeneration-other-embryos-factors",
+      "name": "HDBSCAN Cluster: regeneration, other, embryos, factors",
+      "count": 2
+    },
+    {
+      "id": "hdbscan-cluster-fissures-transitory-permanent-human",
+      "name": "HDBSCAN Cluster: fissures, transitory, permanent, human",
+      "count": 2
+    },
+    {
+      "id": "hdbscan-cluster-they-will-cause-factors",
+      "name": "HDBSCAN Cluster: they, will, cause, factors",
+      "count": 2
+    },
+    {
+      "id": "hdbscan-cluster-all-brains-brain-weight-japanese",
+      "name": "HDBSCAN Cluster: all, brains, brain-weight, japanese",
       "count": 2
     },
     {
@@ -331,13 +346,13 @@
       "count": 2
     },
     {
-      "id": "hdbscan-cluster-der-die-wir-medulla",
-      "name": "HDBSCAN Cluster: der, die, wir, medulla",
+      "id": "hdbscan-cluster-influence-cerebral-cortex-figure",
+      "name": "HDBSCAN Cluster: influence, cerebral, cortex, figure",
       "count": 2
     },
     {
-      "id": "hdbscan-cluster-influence-cerebral-cortex-figure",
-      "name": "HDBSCAN Cluster: influence, cerebral, cortex, figure",
+      "id": "hdbscan-cluster-figure-affenspalte-human-brains",
+      "name": "HDBSCAN Cluster: figure, affenspalte, human, brains",
       "count": 2
     },
     {
@@ -346,8 +361,18 @@
       "count": 2
     },
     {
+      "id": "hdbscan-cluster-which-figure-brain-symptoms",
+      "name": "HDBSCAN Cluster: which, figure, brain, symptoms",
+      "count": 2
+    },
+    {
       "id": "hdbscan-cluster-lesions-cerebral-astereognosis-affections",
       "name": "HDBSCAN Cluster: lesions, cerebral, astereognosis, affections",
+      "count": 2
+    },
+    {
+      "id": "hdbscan-cluster-have-two-been-three",
+      "name": "HDBSCAN Cluster: have, two, been, three",
       "count": 2
     },
     {
@@ -356,18 +381,23 @@
       "count": 2
     },
     {
-      "id": "hdbscan-cluster-vomiting-appendix-kidney-but",
-      "name": "HDBSCAN Cluster: vomiting, appendix, kidney, but",
-      "count": 2
-    },
-    {
       "id": "hdbscan-cluster-group-action-saccharolytic-colon",
       "name": "HDBSCAN Cluster: group, action, saccharolytic, colon",
       "count": 2
     },
     {
-      "id": "hdbscan-cluster-has-urinary-early-been",
-      "name": "HDBSCAN Cluster: has, urinary, early, been",
+      "id": "hdbscan-cluster-protagon-cerebron-phrenosin-some",
+      "name": "HDBSCAN Cluster: protagon, cerebron, phrenosin, some",
+      "count": 2
+    },
+    {
+      "id": "hdbscan-cluster-case-much-which-can",
+      "name": "HDBSCAN Cluster: case, much, which, can",
+      "count": 2
+    },
+    {
+      "id": "hdbscan-cluster-diagnosis-diseases-urinary-surgical",
+      "name": "HDBSCAN Cluster: diagnosis, diseases, urinary, surgical",
       "count": 2
     },
     {
@@ -391,38 +421,33 @@
       "count": 2
     },
     {
+      "id": "hdbscan-cluster-acute-urine-later-have",
+      "name": "HDBSCAN Cluster: acute, urine, later, have",
+      "count": 2
+    },
+    {
       "id": "hdbscan-cluster-hospital-history-case-well",
       "name": "HDBSCAN Cluster: hospital, history, case, well",
       "count": 2
     },
     {
-      "id": "hdbscan-cluster-cases-pellagra-reported-also",
-      "name": "HDBSCAN Cluster: cases, pellagra, reported, also",
+      "id": "hdbscan-cluster-experiments-their-development-nervous",
+      "name": "HDBSCAN Cluster: experiments, their, development, nervous",
       "count": 2
     },
     {
-      "id": "hdbscan-cluster-sugar-cultivation-meningococcus-figure",
-      "name": "HDBSCAN Cluster: sugar, cultivation, meningococcus, figure",
-      "count": 2
-    },
-    {
-      "id": "hdbscan-cluster-some-mental-ocular-herpes",
-      "name": "HDBSCAN Cluster: some, mental, ocular, herpes",
-      "count": 2
-    },
-    {
-      "id": "hdbscan-cluster-symptoms-cerebellum-dog-tumour",
-      "name": "HDBSCAN Cluster: symptoms, cerebellum, dog, tumour",
-      "count": 2
-    },
-    {
-      "id": "hdbscan-cluster-tumor-been-case-brain",
-      "name": "HDBSCAN Cluster: tumor, been, case, brain",
+      "id": "hdbscan-cluster-brain-hughlings-jackson-commission",
+      "name": "HDBSCAN Cluster: brain, hughlings, jackson, commission",
       "count": 2
     },
     {
       "id": "hdbscan-cluster-her-she-not-smell",
       "name": "HDBSCAN Cluster: her, she, not, smell",
+      "count": 2
+    },
+    {
+      "id": "hdbscan-cluster-medical-infamous-oct-any",
+      "name": "HDBSCAN Cluster: medical, infamous, oct, any",
       "count": 2
     }
   ],
@@ -453,19 +478,19 @@
     },
     {
       "slug": "019_A_CASE_OF_TUMOR_AT_THE_BASE_OF_THE_BRAIN_IN_THE_PONTINE_REGI",
-      "category": "HDBSCAN Cluster: brain, had, tumor, figure",
+      "category": "HDBSCAN Cluster: brain, figure, case, tumor",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
     {
       "slug": "054_RADIOGRAPHIC_RESEARCHES_ON_THE_TOPOGRAPHICAL_RELATIONS_OF_TH",
-      "category": "HDBSCAN Bridge and Noise Papers",
+      "category": "HDBSCAN Cluster: case, brain, figure, there",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
     {
       "slug": "055_Cases_of_Acromegaly_and_Infantile_Myxœdema_Occurring_Respect",
-      "category": "HDBSCAN Cluster: figure, infantile, superior, worm",
+      "category": "HDBSCAN Bridge and Noise Papers",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -477,13 +502,13 @@
     },
     {
       "slug": "057_A_STUDY_OF_THE_NEUROFIBRILS_IS_THE_GANGLION_CELLS_OF_THE_CER",
-      "category": "HDBSCAN Bridge and Noise Papers",
+      "category": "HDBSCAN Cluster: cells, which, ganglion, described",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
     {
       "slug": "058_A_Case_of_Malignant_Malarial_Fever_with_Cerebral_Symptoms_Te",
-      "category": "HDBSCAN Cluster: case, had, which, figure",
+      "category": "HDBSCAN Bridge and Noise Papers",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -495,13 +520,13 @@
     },
     {
       "slug": "060_PROBABLE_BRAIN_TUMOR_WITH_RECOVERY",
-      "category": "HDBSCAN Cluster: brain, had, tumor, figure",
+      "category": "HDBSCAN Cluster: had, case, figure, been",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
     {
       "slug": "063_136_Gehirn-Substanz_In_Nervenkrankheiten_Use_of_Brain_Substa",
-      "category": "HDBSCAN Cluster: figure, images, png, insomnia",
+      "category": "HDBSCAN Cluster: figure, images, png, treatment",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -513,25 +538,25 @@
     },
     {
       "slug": "065_A_FEW_CASES_OF_BRAIN_INJURY_CLINICALLY_EXAMINED",
-      "category": "HDBSCAN Cluster: case, right, heard, cases",
+      "category": "HDBSCAN Cluster: much, cases, figure, his",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
     {
       "slug": "243_EXPERIMENTAL_WORK_ON_BRAIN_PRESSURE_FOLLOWING_INJURY",
-      "category": "HDBSCAN Cluster: figure, brain, case, boston",
+      "category": "HDBSCAN Bridge and Noise Papers",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
     {
       "slug": "244_GUNSHOT_WOUND_OF_THE_HEAD_PERFORATION_OF_THE_BRAIN_RECOVERY",
-      "category": "HDBSCAN Cluster: cases, not, wound, operation",
+      "category": "HDBSCAN Bridge and Noise Papers",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
     {
       "slug": "245_RECONSTRUCTION_OF_SERIAL_SECTIONS_OF_BRAIN",
-      "category": "HDBSCAN Cluster: figure, reconstruction, serial, sections",
+      "category": "HDBSCAN Cluster: figure, brain, reconstruction, serial",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -549,13 +574,13 @@
     },
     {
       "slug": "248_The_Effect_of_Small_Doses_of_Alcohol_on_the_Brain",
-      "category": "HDBSCAN Bridge and Noise Papers",
+      "category": "HDBSCAN Cluster: there, flies, had, boer",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
     {
       "slug": "293_Insomnia",
-      "category": "HDBSCAN Cluster: figure, images, png, insomnia",
+      "category": "HDBSCAN Cluster: figure, images, png, treatment",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -573,7 +598,7 @@
     },
     {
       "slug": "254_A_Brief_Report_of_a_Case_of_Cerebral_Abscess_of_Otitic_Origi",
-      "category": "HDBSCAN Cluster: case, had, which, figure",
+      "category": "HDBSCAN Cluster: had, case, not, which",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -603,7 +628,7 @@
     },
     {
       "slug": "250_CEREBRAL_CYST_REPORT_OF_A_CASE",
-      "category": "HDBSCAN Cluster: have, more, cerebral, its",
+      "category": "HDBSCAN Cluster: danger, its, which, not",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -645,7 +670,7 @@
     },
     {
       "slug": "264_Des_foyers_lacunaires_de_desintegration_et_de_differentes_au",
-      "category": "HDBSCAN Cluster: figure, infantile, superior, worm",
+      "category": "HDBSCAN Cluster: figure, superior, worm, cerebellum",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -693,7 +718,7 @@
     },
     {
       "slug": "272_MIRROR-WRITING_AND_THE_INVERTED_IMAGE",
-      "category": "HDBSCAN Cluster: aneurisms, arteries, aneurism, mental",
+      "category": "HDBSCAN Bridge and Noise Papers",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -705,7 +730,7 @@
     },
     {
       "slug": "274_A_REPORT_OF_SEVEN_OPERATIONS_FOR_BRAIN_TUMORS_AND_CYSTS",
-      "category": "HDBSCAN Cluster: brain, frontal, years, after",
+      "category": "HDBSCAN Cluster: brain, years, after, infection",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -759,7 +784,7 @@
     },
     {
       "slug": "284_Case_of_Cerebral_Tumour_at_the_Parieto-Occipital_Fissure",
-      "category": "HDBSCAN Cluster: case, had, which, figure",
+      "category": "HDBSCAN Cluster: had, case, not, which",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -771,13 +796,13 @@
     },
     {
       "slug": "285_EVOLUTIONAL_AND_INVOLUTIONAL_TYPES_OF_MENTAL_AND_NERVOUS_DIS",
-      "category": "HDBSCAN Cluster: mental, disease, system, types",
+      "category": "HDBSCAN Cluster: mental, figure, sugar, disease",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
     {
       "slug": "287_THREE_UNUSUAL_CASES_OF_CEREBROSPINAL_FEVER",
-      "category": "HDBSCAN Cluster: case, right, heard, cases",
+      "category": "HDBSCAN Cluster: much, cases, figure, his",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -795,7 +820,7 @@
     },
     {
       "slug": "772_The_Minute_Changes_in_the_Cerebral_Cortex_consecutive_to_Exp",
-      "category": "HDBSCAN Cluster: action, calcium, thalamus, other",
+      "category": "HDBSCAN Cluster: which, action, calcium, figure",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -819,31 +844,31 @@
     },
     {
       "slug": "775_A_CASE_OF_ASTEREOGNOSIS_RESULTING_FROM_INJURY_OF_THE_BRAIN_I",
-      "category": "HDBSCAN Bridge and Noise Papers",
+      "category": "HDBSCAN Cluster: case, brain, figure, there",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
     {
       "slug": "776_Observation_on_Brain_Surgery",
-      "category": "HDBSCAN Bridge and Noise Papers",
+      "category": "HDBSCAN Cluster: which, action, calcium, figure",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
     {
       "slug": "777_Some_Cases_of_Brain_Injury",
-      "category": "HDBSCAN Cluster: case, had, which, figure",
+      "category": "HDBSCAN Cluster: history, which, one, cases",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
     {
       "slug": "778_Successful_Operation_upon_a_Case_of_Brain_Abscess_Following",
-      "category": "HDBSCAN Cluster: operation, brain, abscess, successful",
+      "category": "HDBSCAN Bridge and Noise Papers",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
     {
       "slug": "779_THE_IMMEDIATE_AND_REMOTE_EFFECTS_OF_BRAIN_INJURY",
-      "category": "HDBSCAN Cluster: cases, brain, figure, hospital",
+      "category": "HDBSCAN Bridge and Noise Papers",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -855,7 +880,7 @@
     },
     {
       "slug": "781_Thermo-Electric_Studies_on_the_Epileptic_Brain",
-      "category": "HDBSCAN Cluster: figure, thermo-electric, studies, epileptic",
+      "category": "HDBSCAN Bridge and Noise Papers",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -867,19 +892,19 @@
     },
     {
       "slug": "783_A_CASE_OF_COMBINED_GASTRIC_AND_AURAL_VERTIGO_WITH_A_DISCUSSI",
-      "category": "HDBSCAN Cluster: vertigo, cases, figure, which",
+      "category": "HDBSCAN Cluster: vertigo, cases, nervous, disease",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
     {
       "slug": "784_A_TUMOR_NEUROGLIOMA_OF_THE_SUPERIOR_WORM_OF_THE_CEREBELLUM_A",
-      "category": "HDBSCAN Cluster: figure, infantile, superior, worm",
+      "category": "HDBSCAN Cluster: figure, superior, worm, cerebellum",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
     {
       "slug": "785_An_attempt_to_define_the_primitive_functional_divisions_of_t",
-      "category": "HDBSCAN Bridge and Noise Papers",
+      "category": "HDBSCAN Cluster: brain, tlie, has, figure",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -903,13 +928,13 @@
     },
     {
       "slug": "789_The_neuroglia_of_the_spinal_cord_of_the_elephant_with_some_p",
-      "category": "HDBSCAN Cluster: brain, embryo, neuroglia, which",
+      "category": "HDBSCAN Cluster: neuroglia, spinal, cord, elephant",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
     {
       "slug": "791_A_Case_of_Tumour_of_the_Left_Prefrontal_Lobe_Removed_by_Oper",
-      "category": "HDBSCAN Cluster: cases, brain, figure, hospital",
+      "category": "HDBSCAN Bridge and Noise Papers",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -945,7 +970,7 @@
     },
     {
       "slug": "797_PARADOXICAL_PSEUDO-HYPERTROPHY_FOLLOWING_INFANTILE_CEREBRAL",
-      "category": "HDBSCAN Cluster: figure, infantile, superior, worm",
+      "category": "HDBSCAN Cluster: figure, superior, worm, cerebellum",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -963,7 +988,7 @@
     },
     {
       "slug": "798_A_NEW_SCHEME_OF_THE_ZONES_AND_CENTERS_OF_THE_HUMAN_CEREBRUM",
-      "category": "HDBSCAN Cluster: case, had, which, figure",
+      "category": "HDBSCAN Cluster: had, case, not, which",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -975,7 +1000,7 @@
     },
     {
       "slug": "801_A_CASE_OF_CHOLESTEATOMA_OF_THE_BRAIN",
-      "category": "HDBSCAN Cluster: brain, had, tumor, figure",
+      "category": "HDBSCAN Cluster: brain, figure, case, tumor",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -1029,19 +1054,19 @@
     },
     {
       "slug": "1549_A_CASE_OF_HÆMOPHILIA_IN_A_WOMAN_WITH_SYMPTOMS_OF_DEFECTIVE_C",
-      "category": "HDBSCAN Cluster: symptoms, acute, ankle, slight",
+      "category": "HDBSCAN Cluster: much, cases, figure, his",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
     {
       "slug": "1550_A_CASE_OF_TUMOR_OF_THE_CEREBELLUM_AUTOPSY",
-      "category": "HDBSCAN Cluster: had, case, figure, she",
+      "category": "HDBSCAN Cluster: had, case, figure, been",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
     {
       "slug": "1551_A_CASE_OF_UNUSUAL_CEREBRAL_HEMORRHAGE",
-      "category": "HDBSCAN Cluster: had, case, figure, she",
+      "category": "HDBSCAN Cluster: had, case, figure, been",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -1059,7 +1084,7 @@
     },
     {
       "slug": "1552_A_case_of_heterotopia_of_the_white_matter_in_the_Medulla_obl",
-      "category": "HDBSCAN Cluster: case, matter, medulla, tract",
+      "category": "HDBSCAN Cluster: case, brain, figure, there",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -1071,7 +1096,7 @@
     },
     {
       "slug": "1554_Carcinosis_of_the_Central_Nervous_System",
-      "category": "HDBSCAN Bridge and Noise Papers",
+      "category": "HDBSCAN Cluster: figure, case, brain, carcinosis",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -1119,7 +1144,7 @@
     },
     {
       "slug": "1562_X_On_the_Morphology_of_the_Brain_in_the_Mammalia_with_Specia",
-      "category": "HDBSCAN Bridge and Noise Papers",
+      "category": "HDBSCAN Cluster: brain, tlie, has, figure",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -1155,7 +1180,7 @@
     },
     {
       "slug": "1566_Factors_in_heteromorphosis_in_planarians",
-      "category": "HDBSCAN Cluster: regeneration, light, other, embryos",
+      "category": "HDBSCAN Cluster: regeneration, other, embryos, factors",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -1167,7 +1192,7 @@
     },
     {
       "slug": "1568_The_microscopic_structure_of_cortical_areas_in_man_and_some",
-      "category": "HDBSCAN Cluster: cells, cortex, monkey, brain",
+      "category": "HDBSCAN Cluster: brain, cells, figure, some",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -1197,13 +1222,13 @@
     },
     {
       "slug": "1572_On_the_transitory_or_artificial_fissures_of_the_human_cerebr",
-      "category": "HDBSCAN Bridge and Noise Papers",
+      "category": "HDBSCAN Cluster: fissures, transitory, permanent, human",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
     {
       "slug": "1573_DETERMINATE_FACTORS_IN_THE_CAUSE_OF_INSANITY",
-      "category": "HDBSCAN Cluster: spirit, not, our, have",
+      "category": "HDBSCAN Cluster: they, will, cause, factors",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -1215,7 +1240,7 @@
     },
     {
       "slug": "1575_The_Brain-Weight_of_the_Japanese",
-      "category": "HDBSCAN Cluster: japanese, professor, brain-weight, figure",
+      "category": "HDBSCAN Cluster: all, brains, brain-weight, japanese",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -1251,19 +1276,19 @@
     },
     {
       "slug": "1581_THE_SYMPTOMATOLOGY_AND_TREATMENT_OF_TRAUMATIC_INSANITY",
-      "category": "HDBSCAN Bridge and Noise Papers",
+      "category": "HDBSCAN Cluster: condition, figure, cerebral, insanity",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
     {
       "slug": "1582_Essai_sur_la_Psycho-physiologie_des_Monstres_Humains",
-      "category": "HDBSCAN Cluster: figure, essai, sur, psycho-physiologie",
+      "category": "HDBSCAN Cluster: figure, images, png, treatment",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
     {
       "slug": "1583_A_CASE_OF_BRAIN_ABSCESS_DUE_TO_LATENT_TYPHOID_INFECTION_OPER",
-      "category": "HDBSCAN Cluster: case, brain, disease, figure",
+      "category": "HDBSCAN Cluster: case, brain, figure, disease",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -1299,7 +1324,7 @@
     },
     {
       "slug": "1589_Weitere_experimentelle_Untersuchungen_über_die_Beziehungen_d",
-      "category": "HDBSCAN Cluster: der, die, wir, medulla",
+      "category": "HDBSCAN Cluster: der, die, wir, pupille",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -1323,13 +1348,13 @@
     },
     {
       "slug": "1593_The_Affenspalte_in_Human_Brains",
-      "category": "HDBSCAN Cluster: figure, thermo-electric, studies, epileptic",
+      "category": "HDBSCAN Cluster: figure, affenspalte, human, brains",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
     {
       "slug": "1594_A_Brain_Hardened_by_Kaiserlings_Method_Showing_the_Track_of",
-      "category": "HDBSCAN Bridge and Noise Papers",
+      "category": "HDBSCAN Cluster: brain, grams, his, weighed",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -1353,7 +1378,7 @@
     },
     {
       "slug": "1598_Latent_Brain_Abscess_Becoming_Evident_with_Symptoms_of_Atrop",
-      "category": "HDBSCAN Cluster: vertigo, cases, figure, which",
+      "category": "HDBSCAN Cluster: which, figure, brain, symptoms",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -1371,7 +1396,7 @@
     },
     {
       "slug": "1601_OTITIC_BRAIN_ABSCESS_REPORT_OF_TWO_CASES_APHASIA_IN_ONE_RECO",
-      "category": "HDBSCAN Cluster: have, his, not, one",
+      "category": "HDBSCAN Cluster: have, his, not, had",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -1407,7 +1432,7 @@
     },
     {
       "slug": "1606_Studien_über_Neuroglia",
-      "category": "HDBSCAN Cluster: der, die, wir, medulla",
+      "category": "HDBSCAN Cluster: der, die, wir, pupille",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -1461,7 +1486,7 @@
     },
     {
       "slug": "1615_AUTOCHTHONOUS_SINUS_THROMBOSIS_OF_THE_CEREBRAL_DURAWITH_A_RE",
-      "category": "HDBSCAN Cluster: brain, had, tumor, figure",
+      "category": "HDBSCAN Cluster: brain, figure, case, tumor",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -1479,7 +1504,7 @@
     },
     {
       "slug": "1618_A_MICROSCOPICAL_STUDY_OF_THE_SPINAL_CORD_NOT_COMPRESSED_BY_D",
-      "category": "HDBSCAN Cluster: case, brain, disease, figure",
+      "category": "HDBSCAN Cluster: case, brain, figure, disease",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -1497,7 +1522,7 @@
     },
     {
       "slug": "1621_THE_CUTANEOUS_MANIFESTATIONS_IN_DIABETES_INSIPIDUSREPORTS_OF",
-      "category": "HDBSCAN Bridge and Noise Papers",
+      "category": "HDBSCAN Cluster: have, two, been, three",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -1515,13 +1540,13 @@
     },
     {
       "slug": "1624_A_CONSIDERATION_OF_THE_NEUROSES_OF_STATUS_LYMPHATICUS",
-      "category": "HDBSCAN Cluster: vomiting, appendix, kidney, but",
+      "category": "HDBSCAN Cluster: hemorrhages, may, but, vomiting",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
     {
       "slug": "1625_The_reactions_of_amphioxus_to_light",
-      "category": "HDBSCAN Cluster: regeneration, light, other, embryos",
+      "category": "HDBSCAN Bridge and Noise Papers",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -1539,7 +1564,7 @@
     },
     {
       "slug": "1628_The_Action_of_Calcium_on_the_Cerebral_Cortex_Azione_del_Calc",
-      "category": "HDBSCAN Cluster: action, calcium, thalamus, other",
+      "category": "HDBSCAN Cluster: which, action, calcium, figure",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -1551,7 +1576,7 @@
     },
     {
       "slug": "1630_Some_facts_showing_that_the_brain_educts_termed_phrenosin_18",
-      "category": "HDBSCAN Bridge and Noise Papers",
+      "category": "HDBSCAN Cluster: protagon, cerebron, phrenosin, some",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -1569,19 +1594,19 @@
     },
     {
       "slug": "1632_A_CONTRIBUTION_TO_THE_STUDY_OF_VISUAL_DISTURBANCES_IN_BRAIN",
-      "category": "HDBSCAN Cluster: spirit, not, our, have",
+      "category": "HDBSCAN Bridge and Noise Papers",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
     {
       "slug": "1633_A_HEAVY_JAPANESE_BRAIN",
-      "category": "HDBSCAN Cluster: japanese, professor, brain-weight, figure",
+      "category": "HDBSCAN Cluster: brain, grams, his, weighed",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
     {
       "slug": "1634_Brain_Surgery_in_Epilepsy_and_Concenital_Mental_Defect",
-      "category": "HDBSCAN Bridge and Noise Papers",
+      "category": "HDBSCAN Cluster: figure, brain, reconstruction, serial",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -1593,19 +1618,19 @@
     },
     {
       "slug": "1636_NEWCASTLE-UPON-TYNE_ROYAL_INFIRMARY_A_CASE_OF_JACKSONIAN_EPI",
-      "category": "HDBSCAN Cluster: brain, frontal, years, after",
+      "category": "HDBSCAN Cluster: brain, years, after, infection",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
     {
       "slug": "1637_THE_BRAIN_OF_A_SWEDISH_STATESMAN",
-      "category": "HDBSCAN Cluster: japanese, professor, brain-weight, figure",
+      "category": "HDBSCAN Cluster: all, brains, brain-weight, japanese",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
     {
       "slug": "1638_TWO_TUMORS_OF_THE_BRAIN",
-      "category": "HDBSCAN Cluster: brain, had, tumor, figure",
+      "category": "HDBSCAN Cluster: brain, figure, case, tumor",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -1617,7 +1642,7 @@
     },
     {
       "slug": "1640_AN_UNUSUAL_CASE_OF_CEREBRAL_ABSCESS_BILATERAL_TEMPOROSPHENOI",
-      "category": "HDBSCAN Cluster: case, had, which, figure",
+      "category": "HDBSCAN Cluster: had, case, not, which",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -1629,7 +1654,7 @@
     },
     {
       "slug": "1641_NOTE_ON_A_CASE_OF_ACUTE_CEREBRAL_ABSCESS",
-      "category": "HDBSCAN Cluster: case, right, heard, cases",
+      "category": "HDBSCAN Cluster: much, cases, figure, his",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -1641,7 +1666,7 @@
     },
     {
       "slug": "1643_On_the_Development_of_the_blood-vessels_of_the_brain_in_the",
-      "category": "HDBSCAN Cluster: brain, embryo, neuroglia, which",
+      "category": "HDBSCAN Cluster: neuroglia, spinal, cord, elephant",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -1653,7 +1678,7 @@
     },
     {
       "slug": "1645_A_three_weeks_human_embryo_with_especial_reference_to_the_br",
-      "category": "HDBSCAN Cluster: brain, embryo, neuroglia, which",
+      "category": "HDBSCAN Bridge and Noise Papers",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -1665,19 +1690,19 @@
     },
     {
       "slug": "1647_The_Theory_of_Colonization",
-      "category": "HDBSCAN Bridge and Noise Papers",
+      "category": "HDBSCAN Cluster: there, flies, had, boer",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
     {
       "slug": "1648_On_the_occurrence_of_sheath_cells_and_the_nature_of_the_axon",
-      "category": "HDBSCAN Cluster: which, described, cells, mass",
+      "category": "HDBSCAN Cluster: cells, which, ganglion, described",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
     {
       "slug": "1649_Can_Birds_Smell",
-      "category": "HDBSCAN Cluster: figure, essai, sur, psycho-physiologie",
+      "category": "HDBSCAN Bridge and Noise Papers",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -1689,19 +1714,19 @@
     },
     {
       "slug": "1651_A_study_of_the_location_and_arrangement_of_the_giant_cells_i",
-      "category": "HDBSCAN Cluster: cells, cortex, monkey, brain",
+      "category": "HDBSCAN Cluster: brain, cells, figure, some",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
     {
       "slug": "1652_A_study_of_the_functions_of_different_parts_of_the_frogs_bra",
-      "category": "HDBSCAN Cluster: cells, cortex, monkey, brain",
+      "category": "HDBSCAN Cluster: brain, cells, figure, some",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
     {
       "slug": "1653_A_FOOTNOTE_TO_THE_ANCESTRAL_HISTORY_OF_THE_VERTEBRATE_BRAIN",
-      "category": "HDBSCAN Bridge and Noise Papers",
+      "category": "HDBSCAN Cluster: brain, tlie, has, figure",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -1713,7 +1738,7 @@
     },
     {
       "slug": "1655_The_Treatment_of_Cerebral_Tumors",
-      "category": "HDBSCAN Cluster: figure, reconstruction, serial, sections",
+      "category": "HDBSCAN Cluster: figure, brain, reconstruction, serial",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -1725,7 +1750,7 @@
     },
     {
       "slug": "1657_A_CASE_OF_HEART_GUMMATA_WITH_SUDDEN_DEATH",
-      "category": "HDBSCAN Bridge and Noise Papers",
+      "category": "HDBSCAN Cluster: case, much, which, can",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -1761,13 +1786,13 @@
     },
     {
       "slug": "1663_THE_CIRCUMSTANCES_AND_TREATMENT_OF_BRIGHTS_DISEASE",
-      "category": "HDBSCAN Cluster: have, his, not, one",
+      "category": "HDBSCAN Cluster: have, his, not, had",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
     {
       "slug": "1664_THE_CURABILITY_OF_EARLY_PARESIS",
-      "category": "HDBSCAN Cluster: has, urinary, early, been",
+      "category": "HDBSCAN Bridge and Noise Papers",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -1779,13 +1804,13 @@
     },
     {
       "slug": "1666_The_High-frequency_Electrical_Treatment",
-      "category": "HDBSCAN Cluster: figure, essai, sur, psycho-physiologie",
+      "category": "HDBSCAN Cluster: figure, images, png, treatment",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
     {
       "slug": "1667_EARLY_DIAGNOSIS_OF_SURGICAL_DISEASES_OF_THE_URINARY_TRACT",
-      "category": "HDBSCAN Cluster: has, urinary, early, been",
+      "category": "HDBSCAN Cluster: diagnosis, diseases, urinary, surgical",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -1809,7 +1834,7 @@
     },
     {
       "slug": "1671_A_CASE_OF_VISUAL_HALLUCINATIONS_AND_CROSSED_AMBLYOPIA_WITH_V",
-      "category": "HDBSCAN Bridge and Noise Papers",
+      "category": "HDBSCAN Cluster: case, brain, figure, disease",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -1833,7 +1858,7 @@
     },
     {
       "slug": "1674_BRAIN_TUMORS_A_STUDY_OF_CLINICAL_AND_POST-MORTEM_RECORDS_BEA",
-      "category": "HDBSCAN Cluster: cases, brain, figure, hospital",
+      "category": "HDBSCAN Cluster: cases, brain, tumors, figure",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -1845,7 +1870,7 @@
     },
     {
       "slug": "1676_REPORT_OF_TWO_FATAL_CASES_OF_BRAIN_ABSCESS",
-      "category": "HDBSCAN Cluster: case, brain, disease, figure",
+      "category": "HDBSCAN Cluster: case, brain, figure, disease",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -1875,7 +1900,7 @@
     },
     {
       "slug": "1780_A_PHILIPPINE_FEVER",
-      "category": "HDBSCAN Cluster: have, his, not, one",
+      "category": "HDBSCAN Cluster: have, his, not, had",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -1887,13 +1912,13 @@
     },
     {
       "slug": "1782_APHASIA_AND_THE_CEREBRAL_ZONE_OF_SPEECH",
-      "category": "HDBSCAN Cluster: figure, thermo-electric, studies, epileptic",
+      "category": "HDBSCAN Cluster: figure, affenspalte, human, brains",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
     {
       "slug": "1783_ATMOSPHERIC_CONDITIONS_AND_THE_OCCURRENCE_OF_CEREBRAL_HÆMORR",
-      "category": "HDBSCAN Cluster: have, more, cerebral, its",
+      "category": "HDBSCAN Bridge and Noise Papers",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -1905,7 +1930,7 @@
     },
     {
       "slug": "1785_Some_racial_peculiarities_of_the_Negro_brain",
-      "category": "HDBSCAN Bridge and Noise Papers",
+      "category": "HDBSCAN Cluster: brain, cells, figure, some",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -1947,7 +1972,7 @@
     },
     {
       "slug": "1792_The_Mental_Symptoms_of_Cerebral_Tumor",
-      "category": "HDBSCAN Cluster: cases, brain, figure, hospital",
+      "category": "HDBSCAN Cluster: cases, brain, tumors, figure",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -1983,13 +2008,13 @@
     },
     {
       "slug": "1798_A_CASE_OF_POSTERIOR_BASAL_MENINGITIS_WITH_FEW_CEREBRAL_SYMPT",
-      "category": "HDBSCAN Cluster: case, had, which, figure",
+      "category": "HDBSCAN Cluster: history, which, one, cases",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
     {
       "slug": "1819_A_STUDY_OF_BRAIN_INFECTIONS_WITH_THE_PNEUMOCOCCUS",
-      "category": "HDBSCAN Cluster: symptoms, acute, ankle, slight",
+      "category": "HDBSCAN Cluster: acute, urine, later, have",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -2001,7 +2026,7 @@
     },
     {
       "slug": "1821_The_Results_of_Operation_for_the_Removal_of_Cerebral_Tumors",
-      "category": "HDBSCAN Cluster: cases, not, wound, operation",
+      "category": "HDBSCAN Bridge and Noise Papers",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -2019,7 +2044,7 @@
     },
     {
       "slug": "1823_A_DEFINITE_CLINICAL_VARIETY_OF_CEREBRAL_ARTERIOSCLEROSIS",
-      "category": "HDBSCAN Bridge and Noise Papers",
+      "category": "HDBSCAN Cluster: condition, figure, cerebral, insanity",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -2067,7 +2092,7 @@
     },
     {
       "slug": "1831_LIMITED_AREA_OF_ANESTHESIA_EPILEPTIFORM_ATTACKS_OF_HEMIALGES",
-      "category": "HDBSCAN Cluster: figure, brain, case, boston",
+      "category": "HDBSCAN Bridge and Noise Papers",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -2091,7 +2116,7 @@
     },
     {
       "slug": "1835_A_CASE_OF_ONE_CEREBRAL_HEMISPHERE_SUPPLYING_BOTH_SIDES_OF_TH",
-      "category": "HDBSCAN Cluster: case, matter, medulla, tract",
+      "category": "HDBSCAN Cluster: case, brain, figure, there",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -2103,7 +2128,7 @@
     },
     {
       "slug": "1837_CONGENITAL_CYSTIC_KIDNEY",
-      "category": "HDBSCAN Cluster: brain, had, tumor, figure",
+      "category": "HDBSCAN Cluster: brain, figure, case, tumor",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -2115,7 +2140,7 @@
     },
     {
       "slug": "1865_INJURIES_TO_THE_CHILDS_HEAD_DURING_LABOR",
-      "category": "HDBSCAN Bridge and Noise Papers",
+      "category": "HDBSCAN Cluster: case, much, which, can",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -2127,7 +2152,7 @@
     },
     {
       "slug": "1867_ETIOLOGY_OF_CEREBRAL_PALSIES_IN_CHILDREN",
-      "category": "HDBSCAN Cluster: cases, pellagra, reported, also",
+      "category": "HDBSCAN Cluster: cases, pellagra, organisms, organism",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -2163,7 +2188,7 @@
     },
     {
       "slug": "1873_REPORT_OF_A_BRAIN_WEIGHING_2069_GRAMS_73_OUNCES",
-      "category": "HDBSCAN Bridge and Noise Papers",
+      "category": "HDBSCAN Cluster: brain, grams, his, weighed",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -2181,13 +2206,13 @@
     },
     {
       "slug": "1876_Brain_Abscess_Operation_Recovery",
-      "category": "HDBSCAN Cluster: case, had, which, figure",
+      "category": "HDBSCAN Cluster: had, case, not, which",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
     {
       "slug": "1877_CONCUSSION_OF_THE_BRAIN_SO-CALLED_AND_ITS_TREATMENT",
-      "category": "HDBSCAN Cluster: figure, images, png, insomnia",
+      "category": "HDBSCAN Cluster: figure, images, png, treatment",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -2205,13 +2230,13 @@
     },
     {
       "slug": "1880_Experiments_in_transplanting_limbs_and_their_bearing_upon_th",
-      "category": "HDBSCAN Bridge and Noise Papers",
+      "category": "HDBSCAN Cluster: experiments, their, development, nervous",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
     {
       "slug": "1881_ANEURISMS_OF_THE_LARGER_CEREBRAL_ARTERIES",
-      "category": "HDBSCAN Cluster: aneurisms, arteries, aneurism, mental",
+      "category": "HDBSCAN Cluster: symptoms, cerebellum, dog, brain",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -2229,7 +2254,7 @@
     },
     {
       "slug": "1910_The_corpus_ponto-bulbare-A_hitherto_undescribed_nuclear_mass",
-      "category": "HDBSCAN Cluster: which, described, cells, mass",
+      "category": "HDBSCAN Cluster: cells, which, ganglion, described",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -2253,7 +2278,7 @@
     },
     {
       "slug": "1914_The_tactile_centers_in_the_spinal_cord_and_brain_of_the_sea",
-      "category": "HDBSCAN Bridge and Noise Papers",
+      "category": "HDBSCAN Cluster: brain, cells, figure, some",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -2271,31 +2296,31 @@
     },
     {
       "slug": "1917_EPIDEMIC_ACUTE_POLIOMYELITIS_IN_NORWAY_IN_THE_YEARS_1903_TO",
-      "category": "HDBSCAN Cluster: symptoms, acute, ankle, slight",
+      "category": "HDBSCAN Cluster: acute, urine, later, have",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
     {
       "slug": "1918_DR_HUGHLINGS_JACKSONS_VIEWS_OF_THE_FUNCTIONS_OF_THE_CEREBELL",
-      "category": "HDBSCAN Bridge and Noise Papers",
+      "category": "HDBSCAN Cluster: mental, figure, sugar, disease",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
     {
       "slug": "1919_THE_PATHOLOGICAL_CHANGES_IN_THE_CENTRAL_NERVOUS_SYSTEM_IN_EX",
-      "category": "HDBSCAN Cluster: brain, hughlings, jackson, commission",
+      "category": "HDBSCAN Bridge and Noise Papers",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
     {
       "slug": "1920_ON_THE_CULTIVATION_OF_THE_MENINGOCOCCUS_IN_THE_PRESENT_EPIDE",
-      "category": "HDBSCAN Cluster: sugar, cultivation, meningococcus, figure",
+      "category": "HDBSCAN Cluster: mental, figure, sugar, disease",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
     {
       "slug": "1921_SOME_UNUSUAL_OCULAR_MANIFESTATIONS_OF_ARTERIOSCLEROSIS",
-      "category": "HDBSCAN Cluster: some, mental, ocular, herpes",
+      "category": "HDBSCAN Cluster: some, other, mental, nervous",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -2331,19 +2356,19 @@
     },
     {
       "slug": "1927_Tumour_of_the_Cerebellum_in_a_Dog_Associated_with_Forced_Mov",
-      "category": "HDBSCAN Cluster: symptoms, cerebellum, dog, tumour",
+      "category": "HDBSCAN Cluster: symptoms, cerebellum, dog, brain",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
     {
       "slug": "1928_OTITIO_BRAIN_ABSCESS",
-      "category": "HDBSCAN Cluster: cases, brain, figure, hospital",
+      "category": "HDBSCAN Cluster: cases, brain, tumors, figure",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
     {
       "slug": "1929_SYMPTOMS_SIMULATING_BRAIN_TUMOR_DUE_TO_THE_OBLITERATION_OF_T",
-      "category": "HDBSCAN Cluster: brain, had, tumor, figure",
+      "category": "HDBSCAN Cluster: brain, figure, case, tumor",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -2355,7 +2380,7 @@
     },
     {
       "slug": "1957_MIGRAINIC_PSYCHOSESAPROPOS_OF_TWELVE_CASES",
-      "category": "HDBSCAN Cluster: some, mental, ocular, herpes",
+      "category": "HDBSCAN Cluster: some, other, mental, nervous",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -2367,13 +2392,13 @@
     },
     {
       "slug": "1959_Tumors_of_the_Cerebrum",
-      "category": "HDBSCAN Cluster: cases, brain, figure, hospital",
+      "category": "HDBSCAN Cluster: cases, brain, tumors, figure",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
     {
       "slug": "1927_Tumour_of_the_Cerebellum_in_a_Dog_Associated_with_Forced_Mov",
-      "category": "HDBSCAN Cluster: symptoms, cerebellum, dog, tumour",
+      "category": "HDBSCAN Cluster: symptoms, cerebellum, dog, brain",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -2385,19 +2410,19 @@
     },
     {
       "slug": "1961_TUMOR_OF_THE_RIGHT_VERSUS_TUMOR_OF_THE_LEFT_FRONTAL_LOBE_OF",
-      "category": "HDBSCAN Cluster: brain, frontal, years, after",
+      "category": "HDBSCAN Bridge and Noise Papers",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
     {
       "slug": "1962_A_CASE_OF_ALTERNATING_UNILATERAL_EPILEPTIFORM_CONVULSIONS_AS",
-      "category": "HDBSCAN Bridge and Noise Papers",
+      "category": "HDBSCAN Cluster: condition, figure, cerebral, insanity",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
     {
       "slug": "1963_JOINT_AFFECTIONS_IN_NERVOUS_DISEASE",
-      "category": "HDBSCAN Bridge and Noise Papers",
+      "category": "HDBSCAN Cluster: vertigo, cases, nervous, disease",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -2409,13 +2434,13 @@
     },
     {
       "slug": "1965_THE_FUNCTION_OF_THE_PREFRONTAL_LOBESAPROPOS_OF_THE_PATHOLOGI",
-      "category": "HDBSCAN Cluster: vomiting, appendix, kidney, but",
+      "category": "HDBSCAN Cluster: hemorrhages, may, but, vomiting",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
     {
       "slug": "1966_PARANOIA_ITS_VARIETIES_AND_MEDICOLEGAL_IMPORTANCE",
-      "category": "HDBSCAN Cluster: mental, disease, system, types",
+      "category": "HDBSCAN Cluster: mental, figure, sugar, disease",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -2433,7 +2458,7 @@
     },
     {
       "slug": "1969_A_CASE_OF_PROBABLE_TUMOR_OF_THE_BRAIN_OF_PARIETOOCCIPITAL_LO",
-      "category": "HDBSCAN Cluster: tumor, been, case, brain",
+      "category": "HDBSCAN Bridge and Noise Papers",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -2451,7 +2476,7 @@
     },
     {
       "slug": "1972_Report_Of_A_Case_Of_Melanosis_Of_The_Brain_Cord_And_Meninges",
-      "category": "HDBSCAN Cluster: figure, case, brain, report",
+      "category": "HDBSCAN Cluster: figure, case, brain, carcinosis",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -2481,7 +2506,7 @@
     },
     {
       "slug": "2003_Eversion_and_inversion_of_the_dorso-lateral_wall_in_differen",
-      "category": "HDBSCAN Bridge and Noise Papers",
+      "category": "HDBSCAN Cluster: fissures, transitory, permanent, human",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -2547,7 +2572,7 @@
     },
     {
       "slug": "2014_Abnormal_Pulsating_Vessels_in_the_Pharynx",
-      "category": "HDBSCAN Cluster: sugar, cultivation, meningococcus, figure",
+      "category": "HDBSCAN Cluster: mental, figure, sugar, disease",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -2577,13 +2602,13 @@
     },
     {
       "slug": "2019_A_DETAILED_STUDY_OF_THE_CHANGES_OCCURRING_IN_THE_PHYSIOLOGIC",
-      "category": "HDBSCAN Cluster: which, described, cells, mass",
+      "category": "HDBSCAN Cluster: cells, which, ganglion, described",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
     {
       "slug": "2020_A_STUDY_IN_TACTUAL_LOCALIZATION_IN_A_CASE_PRESENTING_ASTEREO",
-      "category": "HDBSCAN Cluster: figure, brain, case, boston",
+      "category": "HDBSCAN Bridge and Noise Papers",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -2601,7 +2626,7 @@
     },
     {
       "slug": "2048_MIGRAINE_AN_OCCUPATION_NEUROSIS",
-      "category": "HDBSCAN Cluster: vertigo, cases, figure, which",
+      "category": "HDBSCAN Cluster: which, figure, brain, symptoms",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -2643,7 +2668,7 @@
     },
     {
       "slug": "2055_A_CASE_OF_MENINGEAL_TUMOR_COMPRESSING_THE_CEREBELLUM",
-      "category": "HDBSCAN Cluster: case, brain, disease, figure",
+      "category": "HDBSCAN Cluster: case, brain, figure, disease",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -2661,13 +2686,13 @@
     },
     {
       "slug": "2058_A_SIMPLE_RESTRAINT",
-      "category": "HDBSCAN Cluster: vertigo, cases, figure, which",
+      "category": "HDBSCAN Bridge and Noise Papers",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
     {
       "slug": "2059_A_study_of_protagon_prepared_by_the_Wilson-Cramer_method",
-      "category": "HDBSCAN Bridge and Noise Papers",
+      "category": "HDBSCAN Cluster: protagon, cerebron, phrenosin, some",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -2679,7 +2704,7 @@
     },
     {
       "slug": "2061_PELLAGRA_ITS_OCCURRENCE_IN_THIS_COUNTRY_REPORT_OF_CASES",
-      "category": "HDBSCAN Cluster: cases, pellagra, reported, also",
+      "category": "HDBSCAN Cluster: cases, pellagra, organisms, organism",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -2697,13 +2722,13 @@
     },
     {
       "slug": "2064_A_CASE_OF_PREFRONTAL_TUMOR_WITH_EXHIBITION_OF_THE_BRAIN",
-      "category": "HDBSCAN Cluster: figure, case, brain, report",
+      "category": "HDBSCAN Cluster: figure, case, brain, carcinosis",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
     {
       "slug": "2065_INDICATIONS_FOR_OPERATIVE_INTERFERENCE_IN_CEREBRAL_COMPLICAT",
-      "category": "HDBSCAN Cluster: operation, brain, abscess, successful",
+      "category": "HDBSCAN Bridge and Noise Papers",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -2721,7 +2746,7 @@
     },
     {
       "slug": "2100_A_CASE_OF_BRAIN_ABSCESS_SHOWING_THE_PNEUMOCOCCUS",
-      "category": "HDBSCAN Cluster: case, right, heard, cases",
+      "category": "HDBSCAN Bridge and Noise Papers",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -2739,7 +2764,7 @@
     },
     {
       "slug": "2102_A_CASE_OF_GLIOMA_OF_THE_BRAIN",
-      "category": "HDBSCAN Cluster: figure, case, brain, report",
+      "category": "HDBSCAN Cluster: figure, case, brain, carcinosis",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -2757,7 +2782,7 @@
     },
     {
       "slug": "2105_CASE_OF_BRAIN_ABSCESS",
-      "category": "HDBSCAN Cluster: have, his, not, one",
+      "category": "HDBSCAN Bridge and Noise Papers",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -2799,7 +2824,7 @@
     },
     {
       "slug": "2112_The_influence_of_alcohol_and_other_anesthetics_on_developing",
-      "category": "HDBSCAN Cluster: regeneration, light, other, embryos",
+      "category": "HDBSCAN Cluster: regeneration, other, embryos, factors",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -2811,7 +2836,7 @@
     },
     {
       "slug": "2114_OBSERVATIONS_ON_CHOKED_DISC_WITH_ESPECIAL_REFERENCE_TO_DECOM",
-      "category": "HDBSCAN Cluster: tumor, been, case, brain",
+      "category": "HDBSCAN Bridge and Noise Papers",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     },
@@ -2823,7 +2848,127 @@
     },
     {
       "slug": "2116_INTERMITTENT_CLOSING_OF_CEREBRAL_ARTERIES",
+      "category": "HDBSCAN Cluster: medical, infamous, oct, any",
+      "confidence": 0.74,
+      "source": "codex-native-hdbscan"
+    },
+    {
+      "slug": "2144_PROBLEMS_AND_PROCEDURES_IN_CRANIAL_SURGERY",
       "category": "HDBSCAN Bridge and Noise Papers",
+      "confidence": 0.74,
+      "source": "codex-native-hdbscan"
+    },
+    {
+      "slug": "2145_A_Post-Graduate_Lecture_ON_INTERMITTENT_CLOSING_OF_CEREBRAL",
+      "category": "HDBSCAN Bridge and Noise Papers",
+      "confidence": 0.74,
+      "source": "codex-native-hdbscan"
+    },
+    {
+      "slug": "2116_INTERMITTENT_CLOSING_OF_CEREBRAL_ARTERIES",
+      "category": "HDBSCAN Cluster: medical, infamous, oct, any",
+      "confidence": 0.74,
+      "source": "codex-native-hdbscan"
+    },
+    {
+      "slug": "2146_THE_BUTYRIC_ACID_TEST_FOR_SYPHILIS_IN_THE_DIAGNOSIS_OF_METAS",
+      "category": "HDBSCAN Cluster: some, other, mental, nervous",
+      "confidence": 0.74,
+      "source": "codex-native-hdbscan"
+    },
+    {
+      "slug": "2147_BLASTOMYCOTIC_LESIONS_OF_THE_BRAIN",
+      "category": "HDBSCAN Cluster: have, two, been, three",
+      "confidence": 0.74,
+      "source": "codex-native-hdbscan"
+    },
+    {
+      "slug": "2148_OTOLOGIC_AND_RHINOLOGIC_COMPLICATIONS_OF_SKULL_FRACTURE",
+      "category": "HDBSCAN Bridge and Noise Papers",
+      "confidence": 0.74,
+      "source": "codex-native-hdbscan"
+    },
+    {
+      "slug": "2149_Über_die_Erweiterung_der_Pupille_bei_Adrenalineinträufelunge",
+      "category": "HDBSCAN Cluster: der, die, wir, pupille",
+      "confidence": 0.74,
+      "source": "codex-native-hdbscan"
+    },
+    {
+      "slug": "2150_MENINGOCOCCUS_SEPTICEMIA_WITH_STERILE_CEREBROSPINAL_FLUID_IR",
+      "category": "HDBSCAN Cluster: cases, pellagra, organisms, organism",
+      "confidence": 0.74,
+      "source": "codex-native-hdbscan"
+    },
+    {
+      "slug": "2151_THE_KINAESTHETIC_AREA_OF_THE_BRAIN",
+      "category": "HDBSCAN Bridge and Noise Papers",
+      "confidence": 0.74,
+      "source": "codex-native-hdbscan"
+    },
+    {
+      "slug": "2152_CLINICAL_DIAGNOSIS_OF_THE_SYPHILOGENOUS_DISEASES_OF_THE_CENT",
+      "category": "HDBSCAN Cluster: danger, its, which, not",
+      "confidence": 0.74,
+      "source": "codex-native-hdbscan"
+    },
+    {
+      "slug": "2153_THE_INSANE_DIATHESIS",
+      "category": "HDBSCAN Bridge and Noise Papers",
+      "confidence": 0.74,
+      "source": "codex-native-hdbscan"
+    },
+    {
+      "slug": "2154_Function_of_Adrenal_Cortex",
+      "category": "HDBSCAN Bridge and Noise Papers",
+      "confidence": 0.74,
+      "source": "codex-native-hdbscan"
+    },
+    {
+      "slug": "2155_The_Tracheal_Supply_in_the_Central_Nervous_System_of_the_Lar",
+      "category": "HDBSCAN Cluster: experiments, their, development, nervous",
+      "confidence": 0.74,
+      "source": "codex-native-hdbscan"
+    },
+    {
+      "slug": "2156_THE_X_RAY_TREATMENT_OF_RINGWORM_OF_THE_SCALP_WITH_SPECIAL_RE",
+      "category": "HDBSCAN Bridge and Noise Papers",
+      "confidence": 0.74,
+      "source": "codex-native-hdbscan"
+    },
+    {
+      "slug": "2157_A_CASE_OF_CEREBRAL_TUMOR_PRESENTING_A_VERY_UNUSUAL_CLINICAL",
+      "category": "HDBSCAN Bridge and Noise Papers",
+      "confidence": 0.74,
+      "source": "codex-native-hdbscan"
+    },
+    {
+      "slug": "2158_A_report_on_experimental_poliomyelitis",
+      "category": "HDBSCAN Bridge and Noise Papers",
+      "confidence": 0.74,
+      "source": "codex-native-hdbscan"
+    },
+    {
+      "slug": "2159_STUDIES_IN_INACCESSIBLE_INTERNAL_HEMORRHAGES_I_THE_EFFECT_OF",
+      "category": "HDBSCAN Cluster: hemorrhages, may, but, vomiting",
+      "confidence": 0.74,
+      "source": "codex-native-hdbscan"
+    },
+    {
+      "slug": "2160_A_FURTHER_CONTRIBUTION_TO_PALLIATIVE_OPERATIONS_FOR_BRAIN_TU",
+      "category": "HDBSCAN Cluster: they, will, cause, factors",
+      "confidence": 0.74,
+      "source": "codex-native-hdbscan"
+    },
+    {
+      "slug": "2161_PHOSPHORUS_COMPOUNDS_AS_BRAIN_FOODS",
+      "category": "HDBSCAN Bridge and Noise Papers",
+      "confidence": 0.74,
+      "source": "codex-native-hdbscan"
+    },
+    {
+      "slug": "2162_THE_WASSERMANN_REACTION_IN_ITS_RELATION_TO_DISEASES_OF_THE_C",
+      "category": "HDBSCAN Cluster: diagnosis, diseases, urinary, surgical",
       "confidence": 0.74,
       "source": "codex-native-hdbscan"
     }
