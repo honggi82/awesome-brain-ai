@@ -1,12 +1,12 @@
 {
-  "generated": "2026-07-03T21:51:26.958228+00:00",
+  "generated": "2026-07-03T22:28:41.003193+00:00",
   "mode": "extract-only",
   "paperCurationDir": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect",
   "awesomeRepo": "E:\\조선대\\연구\\awesome-brain-ai",
   "extractReport": "data/paper_curation/extract_only_report.json",
   "docsDir": "docs/paper_curation/extract_only",
   "paperDir": "paper/extract_only",
-  "recordCount": 580,
+  "recordCount": 600,
   "syncedPaperSlugs": [
     "003_Hughlings_Jackson_and_the_Cortical_Motor_Centres_in_the_Ligh",
     "015_EXPERIMENTAL_AND_CLINICAL_NOTES_ON_THE_SUBARACHNOID_SPACE",
@@ -587,13 +587,33 @@
     "2534_Transplantation_of_the_spinal_ganglion_with_observations_on",
     "2535_The_cerebellum_of_necturus_and_other_urodele_amphibia",
     "2536_ON_APHASIA_DUE_TO_ATROPHY_OF_THE_CEREBRAL_CONVOLUTIONS",
-    "2537_A_study_of_ganglion_cells_in_the_sympathetic_nervous_system"
+    "2537_A_study_of_ganglion_cells_in_the_sympathetic_nervous_system",
+    "2566_The_parietal_region_in_the_primate_brain",
+    "2567_The_morphology_and_histology_of_a_certain_structure_connecte",
+    "2441_The_Galactosides_of_the_Brain_I",
+    "2568_ADRENAL_PRECOCITY_PRECOCIOUS_DEVELOPMENT_OF_THE_EXTERNAL_GEN",
+    "2569_Klinischer_und_anatomischer_Beitrag_zur_Kenntnis_der_Catarac",
+    "2570_SOME_RELATIONS_OF_THE_BRAIN_AND_OF_THE_OLFACTORY_APPARATUS_T",
+    "2571_FURTHER_OBSERVATIONS_ON_THE_HEMIOPIC_PUPILLARY_REACTION_OBTA",
+    "2572_A_racial_peculiarity_in_the_pole_of_the_temporal_lobe_of_the",
+    "2573_The_Cholesterol_of_the_Brain_II_The_Presence_of_Oxycholester",
+    "2441_The_Galactosides_of_the_Brain_I",
+    "2574_CLINICAL_STUDIES_IN_CAFFEIN",
+    "2575_The_Cholesterol_of_the_Brain_III_Note_on_the_Cholesterol_Con",
+    "2576_INTRASPINOUS_INJECTION_OF_SALVARSANIZED_SERUM_IN_THE_TREATME",
+    "2577_THE_TREATMENT_OF_SYPHILIS_OF_THE_NERVOUS_SYSTEM",
+    "2578_THE_NORMAL_AND_PATHOLOGIC_PHYSIOLOGY_OF_THE_VISCERAL_NERVOUS",
+    "2579_Brain_infection_from_sinus_disease",
+    "2580_A_STUDY_OF_BRAIN_ATROPHY_IN_RELATION_TO_INSANITY",
+    "2581_ANEURISMS_OF_THE_VESSELS_OF_THE_BRAIN",
+    "2582_A_CRITICAL_STUDY_OF_LANGES_COLLOIDAL_GOLD_REACTION_IN_CEREBR",
+    "2583_Stammering_and_Cognate_Defects_of_Speech"
   ],
   "copied": [
     {
       "source": "E:\\조선대\\연구\\paper-curation\\paper\\awesome-brain-ai\\_folder_source_extract_report.json",
       "target": "E:\\조선대\\연구\\awesome-brain-ai\\data\\paper_curation\\extract_only_report.json",
-      "bytes": 354563
+      "bytes": 367059
     },
     {
       "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\003_Hughlings_Jackson_and_the_Cortical_Motor_Centres_in_the_Ligh\\text.md",
@@ -8721,9 +8741,19 @@
       "bytes": 18722
     },
     {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2441_The_Galactosides_of_the_Brain_I\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2441_The_Galactosides_of_the_Brain_I\\figures\\fig1.png",
+      "bytes": 933533
+    },
+    {
       "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2441_The_Galactosides_of_the_Brain_I\\text.md",
       "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2441_The_Galactosides_of_the_Brain_I\\text.md",
       "bytes": 18722
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2441_The_Galactosides_of_the_Brain_I\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2441_The_Galactosides_of_the_Brain_I\\figures\\fig1.png",
+      "bytes": 933533
     },
     {
       "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2442_The_development_of_the_cerebral_ventricles_in_the_pig\\text.md",
@@ -9524,6 +9554,316 @@
       "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2537_A_study_of_ganglion_cells_in_the_sympathetic_nervous_system\\figures\\fig1.png",
       "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2537_A_study_of_ganglion_cells_in_the_sympathetic_nervous_system\\figures\\fig1.png",
       "bytes": 378473
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2566_The_parietal_region_in_the_primate_brain\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2566_The_parietal_region_in_the_primate_brain\\text.md",
+      "bytes": 100655
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2566_The_parietal_region_in_the_primate_brain\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2566_The_parietal_region_in_the_primate_brain\\figures\\fig1.png",
+      "bytes": 283800
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2566_The_parietal_region_in_the_primate_brain\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2566_The_parietal_region_in_the_primate_brain\\figures\\fig3.png",
+      "bytes": 362703
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2566_The_parietal_region_in_the_primate_brain\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2566_The_parietal_region_in_the_primate_brain\\figures\\fig4.png",
+      "bytes": 381503
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2566_The_parietal_region_in_the_primate_brain\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2566_The_parietal_region_in_the_primate_brain\\figures\\fig5.png",
+      "bytes": 431873
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2566_The_parietal_region_in_the_primate_brain\\figures\\fig7.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2566_The_parietal_region_in_the_primate_brain\\figures\\fig7.png",
+      "bytes": 371725
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2566_The_parietal_region_in_the_primate_brain\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2566_The_parietal_region_in_the_primate_brain\\text.md",
+      "bytes": 100655
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2566_The_parietal_region_in_the_primate_brain\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2566_The_parietal_region_in_the_primate_brain\\figures\\fig1.png",
+      "bytes": 283800
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2566_The_parietal_region_in_the_primate_brain\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2566_The_parietal_region_in_the_primate_brain\\figures\\fig3.png",
+      "bytes": 362703
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2566_The_parietal_region_in_the_primate_brain\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2566_The_parietal_region_in_the_primate_brain\\figures\\fig4.png",
+      "bytes": 381503
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2566_The_parietal_region_in_the_primate_brain\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2566_The_parietal_region_in_the_primate_brain\\figures\\fig5.png",
+      "bytes": 431873
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2566_The_parietal_region_in_the_primate_brain\\figures\\fig7.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2566_The_parietal_region_in_the_primate_brain\\figures\\fig7.png",
+      "bytes": 371725
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2567_The_morphology_and_histology_of_a_certain_structure_connecte\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2567_The_morphology_and_histology_of_a_certain_structure_connecte\\text.md",
+      "bytes": 18209
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2567_The_morphology_and_histology_of_a_certain_structure_connecte\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2567_The_morphology_and_histology_of_a_certain_structure_connecte\\figures\\fig1.png",
+      "bytes": 412360
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2567_The_morphology_and_histology_of_a_certain_structure_connecte\\figures\\fig14.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2567_The_morphology_and_histology_of_a_certain_structure_connecte\\figures\\fig14.png",
+      "bytes": 813914
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2567_The_morphology_and_histology_of_a_certain_structure_connecte\\figures\\fig15.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2567_The_morphology_and_histology_of_a_certain_structure_connecte\\figures\\fig15.png",
+      "bytes": 483505
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2567_The_morphology_and_histology_of_a_certain_structure_connecte\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2567_The_morphology_and_histology_of_a_certain_structure_connecte\\text.md",
+      "bytes": 18209
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2567_The_morphology_and_histology_of_a_certain_structure_connecte\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2567_The_morphology_and_histology_of_a_certain_structure_connecte\\figures\\fig1.png",
+      "bytes": 412360
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2567_The_morphology_and_histology_of_a_certain_structure_connecte\\figures\\fig14.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2567_The_morphology_and_histology_of_a_certain_structure_connecte\\figures\\fig14.png",
+      "bytes": 813914
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2567_The_morphology_and_histology_of_a_certain_structure_connecte\\figures\\fig15.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2567_The_morphology_and_histology_of_a_certain_structure_connecte\\figures\\fig15.png",
+      "bytes": 483505
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2441_The_Galactosides_of_the_Brain_I\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2441_The_Galactosides_of_the_Brain_I\\text.md",
+      "bytes": 18722
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2441_The_Galactosides_of_the_Brain_I\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2441_The_Galactosides_of_the_Brain_I\\figures\\fig1.png",
+      "bytes": 933533
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2441_The_Galactosides_of_the_Brain_I\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2441_The_Galactosides_of_the_Brain_I\\text.md",
+      "bytes": 18722
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2441_The_Galactosides_of_the_Brain_I\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2441_The_Galactosides_of_the_Brain_I\\figures\\fig1.png",
+      "bytes": 933533
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2568_ADRENAL_PRECOCITY_PRECOCIOUS_DEVELOPMENT_OF_THE_EXTERNAL_GEN\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2568_ADRENAL_PRECOCITY_PRECOCIOUS_DEVELOPMENT_OF_THE_EXTERNAL_GEN\\text.md",
+      "bytes": 14838
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2568_ADRENAL_PRECOCITY_PRECOCIOUS_DEVELOPMENT_OF_THE_EXTERNAL_GEN\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2568_ADRENAL_PRECOCITY_PRECOCIOUS_DEVELOPMENT_OF_THE_EXTERNAL_GEN\\text.md",
+      "bytes": 14838
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2569_Klinischer_und_anatomischer_Beitrag_zur_Kenntnis_der_Catarac\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2569_Klinischer_und_anatomischer_Beitrag_zur_Kenntnis_der_Catarac\\text.md",
+      "bytes": 79389
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2569_Klinischer_und_anatomischer_Beitrag_zur_Kenntnis_der_Catarac\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2569_Klinischer_und_anatomischer_Beitrag_zur_Kenntnis_der_Catarac\\text.md",
+      "bytes": 79389
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2570_SOME_RELATIONS_OF_THE_BRAIN_AND_OF_THE_OLFACTORY_APPARATUS_T\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2570_SOME_RELATIONS_OF_THE_BRAIN_AND_OF_THE_OLFACTORY_APPARATUS_T\\text.md",
+      "bytes": 97709
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2570_SOME_RELATIONS_OF_THE_BRAIN_AND_OF_THE_OLFACTORY_APPARATUS_T\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2570_SOME_RELATIONS_OF_THE_BRAIN_AND_OF_THE_OLFACTORY_APPARATUS_T\\text.md",
+      "bytes": 97709
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2571_FURTHER_OBSERVATIONS_ON_THE_HEMIOPIC_PUPILLARY_REACTION_OBTA\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2571_FURTHER_OBSERVATIONS_ON_THE_HEMIOPIC_PUPILLARY_REACTION_OBTA\\text.md",
+      "bytes": 39026
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2571_FURTHER_OBSERVATIONS_ON_THE_HEMIOPIC_PUPILLARY_REACTION_OBTA\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2571_FURTHER_OBSERVATIONS_ON_THE_HEMIOPIC_PUPILLARY_REACTION_OBTA\\figures\\fig3.png",
+      "bytes": 1178733
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2571_FURTHER_OBSERVATIONS_ON_THE_HEMIOPIC_PUPILLARY_REACTION_OBTA\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2571_FURTHER_OBSERVATIONS_ON_THE_HEMIOPIC_PUPILLARY_REACTION_OBTA\\text.md",
+      "bytes": 39026
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2571_FURTHER_OBSERVATIONS_ON_THE_HEMIOPIC_PUPILLARY_REACTION_OBTA\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2571_FURTHER_OBSERVATIONS_ON_THE_HEMIOPIC_PUPILLARY_REACTION_OBTA\\figures\\fig3.png",
+      "bytes": 1178733
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2572_A_racial_peculiarity_in_the_pole_of_the_temporal_lobe_of_the\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2572_A_racial_peculiarity_in_the_pole_of_the_temporal_lobe_of_the\\text.md",
+      "bytes": 20679
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2572_A_racial_peculiarity_in_the_pole_of_the_temporal_lobe_of_the\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2572_A_racial_peculiarity_in_the_pole_of_the_temporal_lobe_of_the\\text.md",
+      "bytes": 20679
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2573_The_Cholesterol_of_the_Brain_II_The_Presence_of_Oxycholester\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2573_The_Cholesterol_of_the_Brain_II_The_Presence_of_Oxycholester\\text.md",
+      "bytes": 22150
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2573_The_Cholesterol_of_the_Brain_II_The_Presence_of_Oxycholester\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2573_The_Cholesterol_of_the_Brain_II_The_Presence_of_Oxycholester\\text.md",
+      "bytes": 22150
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2441_The_Galactosides_of_the_Brain_I\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2441_The_Galactosides_of_the_Brain_I\\text.md",
+      "bytes": 18722
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2441_The_Galactosides_of_the_Brain_I\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2441_The_Galactosides_of_the_Brain_I\\figures\\fig1.png",
+      "bytes": 933533
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2441_The_Galactosides_of_the_Brain_I\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2441_The_Galactosides_of_the_Brain_I\\text.md",
+      "bytes": 18722
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2441_The_Galactosides_of_the_Brain_I\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2441_The_Galactosides_of_the_Brain_I\\figures\\fig1.png",
+      "bytes": 933533
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2574_CLINICAL_STUDIES_IN_CAFFEIN\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2574_CLINICAL_STUDIES_IN_CAFFEIN\\text.md",
+      "bytes": 22136
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2574_CLINICAL_STUDIES_IN_CAFFEIN\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2574_CLINICAL_STUDIES_IN_CAFFEIN\\text.md",
+      "bytes": 22136
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2575_The_Cholesterol_of_the_Brain_III_Note_on_the_Cholesterol_Con\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2575_The_Cholesterol_of_the_Brain_III_Note_on_the_Cholesterol_Con\\text.md",
+      "bytes": 2912
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2575_The_Cholesterol_of_the_Brain_III_Note_on_the_Cholesterol_Con\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2575_The_Cholesterol_of_the_Brain_III_Note_on_the_Cholesterol_Con\\text.md",
+      "bytes": 2912
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2576_INTRASPINOUS_INJECTION_OF_SALVARSANIZED_SERUM_IN_THE_TREATME\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2576_INTRASPINOUS_INJECTION_OF_SALVARSANIZED_SERUM_IN_THE_TREATME\\text.md",
+      "bytes": 32176
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2576_INTRASPINOUS_INJECTION_OF_SALVARSANIZED_SERUM_IN_THE_TREATME\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2576_INTRASPINOUS_INJECTION_OF_SALVARSANIZED_SERUM_IN_THE_TREATME\\text.md",
+      "bytes": 32176
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2577_THE_TREATMENT_OF_SYPHILIS_OF_THE_NERVOUS_SYSTEM\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2577_THE_TREATMENT_OF_SYPHILIS_OF_THE_NERVOUS_SYSTEM\\text.md",
+      "bytes": 51952
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2577_THE_TREATMENT_OF_SYPHILIS_OF_THE_NERVOUS_SYSTEM\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2577_THE_TREATMENT_OF_SYPHILIS_OF_THE_NERVOUS_SYSTEM\\text.md",
+      "bytes": 51952
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2578_THE_NORMAL_AND_PATHOLOGIC_PHYSIOLOGY_OF_THE_VISCERAL_NERVOUS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2578_THE_NORMAL_AND_PATHOLOGIC_PHYSIOLOGY_OF_THE_VISCERAL_NERVOUS\\text.md",
+      "bytes": 32456
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2578_THE_NORMAL_AND_PATHOLOGIC_PHYSIOLOGY_OF_THE_VISCERAL_NERVOUS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2578_THE_NORMAL_AND_PATHOLOGIC_PHYSIOLOGY_OF_THE_VISCERAL_NERVOUS\\text.md",
+      "bytes": 32456
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2579_Brain_infection_from_sinus_disease\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2579_Brain_infection_from_sinus_disease\\text.md",
+      "bytes": 27963
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2579_Brain_infection_from_sinus_disease\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2579_Brain_infection_from_sinus_disease\\text.md",
+      "bytes": 27963
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2580_A_STUDY_OF_BRAIN_ATROPHY_IN_RELATION_TO_INSANITY\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2580_A_STUDY_OF_BRAIN_ATROPHY_IN_RELATION_TO_INSANITY\\text.md",
+      "bytes": 72815
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2580_A_STUDY_OF_BRAIN_ATROPHY_IN_RELATION_TO_INSANITY\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2580_A_STUDY_OF_BRAIN_ATROPHY_IN_RELATION_TO_INSANITY\\text.md",
+      "bytes": 72815
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2581_ANEURISMS_OF_THE_VESSELS_OF_THE_BRAIN\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2581_ANEURISMS_OF_THE_VESSELS_OF_THE_BRAIN\\text.md",
+      "bytes": 231
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2581_ANEURISMS_OF_THE_VESSELS_OF_THE_BRAIN\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2581_ANEURISMS_OF_THE_VESSELS_OF_THE_BRAIN\\text.md",
+      "bytes": 231
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2582_A_CRITICAL_STUDY_OF_LANGES_COLLOIDAL_GOLD_REACTION_IN_CEREBR\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2582_A_CRITICAL_STUDY_OF_LANGES_COLLOIDAL_GOLD_REACTION_IN_CEREBR\\text.md",
+      "bytes": 22000
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2582_A_CRITICAL_STUDY_OF_LANGES_COLLOIDAL_GOLD_REACTION_IN_CEREBR\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2582_A_CRITICAL_STUDY_OF_LANGES_COLLOIDAL_GOLD_REACTION_IN_CEREBR\\text.md",
+      "bytes": 22000
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2583_Stammering_and_Cognate_Defects_of_Speech\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2583_Stammering_and_Cognate_Defects_of_Speech\\text.md",
+      "bytes": 14912
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2583_Stammering_and_Cognate_Defects_of_Speech\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2583_Stammering_and_Cognate_Defects_of_Speech\\text.md",
+      "bytes": 14912
     }
   ],
   "missing": [],
