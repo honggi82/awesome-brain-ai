@@ -1,12 +1,12 @@
 {
-  "generated": "2026-07-05T11:26:31.217210+00:00",
+  "generated": "2026-07-05T12:01:38.871951+00:00",
   "mode": "extract-only",
   "paperCurationDir": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect",
   "awesomeRepo": "E:\\조선대\\연구\\awesome-brain-ai",
   "extractReport": "data/paper_curation/extract_only_report.json",
   "docsDir": "docs/paper_curation/extract_only",
   "paperDir": "paper/extract_only",
-  "recordCount": 880,
+  "recordCount": 900,
   "syncedPaperSlugs": [
     "003_Hughlings_Jackson_and_the_Cortical_Motor_Centres_in_the_Ligh",
     "015_EXPERIMENTAL_AND_CLINICAL_NOTES_ON_THE_SUBARACHNOID_SPACE",
@@ -887,13 +887,33 @@
     "3212_AN_ACUTE_DESCENDING_RADICULAR_TYPE_OF_EPIDEMIC_ENCEPHALITIS",
     "3213_SYPHILITIC_INFECTION_OF_THE_CENTRAL_NERVOUS_SYSTEM_OF_THE_RA",
     "3214_Über_einen_ungewöhnlichen_Fall_von_Conglomerattuberkulose_de",
-    "3215_The_Journal_of_Neurology_and_Psychopathology"
+    "3215_The_Journal_of_Neurology_and_Psychopathology",
+    "3242_THE_PHYSIOLOGIC_SIGNIFICANCE_OF_THE_BABINSKI_TOE_RESPONSE",
+    "3243_Visual_Field_Findings_in_a_Case_of_Brain_Tumor",
+    "3244_OBSERVATIONS_ON_THE_PATH_OF_FARADIC_SENSIBILITY",
+    "3245_THE_ASSOCIATION_OF_NEUROPSYCHIATRIC_CONDITIONS_WITH_INFLUENZ",
+    "3246_MICROGYRIA_AND_ITS_EFFECTS_ON_OTHER_PARTS_OF_THE_CENTRAL_NER",
+    "3247_PATHWAYS_OF_THE_CEREBROSPINAL_FLUID_AND_THE_CHOROID_PLEXUS",
+    "3248_Studies_on_the_Cerebrospinal_Fluid_VI_A_Study_of_Tissue_Extr",
+    "3249_THE_NERVOUS_SYSTEM_OF_THE_LARVA_OF_STHENOPIS_THULE_STRECKER",
+    "3250_ON_VERTICAL_LOCALIZATION_IN_THE_CEREBRAL_CORTEX",
+    "3251_Observations_regarding_the_treatment_of_brain_abscess",
+    "3160_SNAPPING_OF_THE_BRAIN",
+    "3252_AN_IMPROVED_NEEDLE_FOR_SINUS_THERAPY",
+    "3253_A_CASE_OF_CEREBRAL_POROSIS_WITH_A_HISTOPATHOLOGIC_REPORT",
+    "3254_INTRASPINAL_TREATMENT_IN_NEUROSYPHILIS",
+    "3255_A_sketch_of_the_origin_of_the_cerebral_hemispheres",
+    "3256_The_vascularity_of_the_cerebral_cortex_of_the_albino_rat",
+    "3257_STUDIES_OF_CEREBRAL_FUNCTION_IN_LEARNING_No_III-THE_MOTOR_AR",
+    "3258_The_Form_and_Functions_of_the_Central_Nervous_System_an_Intr",
+    "3259_The_growth_of_the_central_nervous_system_in_the_human_fetus",
+    "3260_PERSISTENT_PAIN_IN_LESIONS_OF_THE_PERIPHERAL_AND_CENTRAL_NER"
   ],
   "copied": [
     {
       "source": "E:\\조선대\\연구\\paper-curation\\paper\\awesome-brain-ai\\_folder_source_extract_report.json",
       "target": "E:\\조선대\\연구\\awesome-brain-ai\\data\\paper_curation\\extract_only_report.json",
-      "bytes": 537375
+      "bytes": 549035
     },
     {
       "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\003_Hughlings_Jackson_and_the_Cortical_Motor_Centres_in_the_Ligh\\text.md",
@@ -15564,6 +15584,516 @@
       "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3215_The_Journal_of_Neurology_and_Psychopathology\\text.md",
       "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3215_The_Journal_of_Neurology_and_Psychopathology\\text.md",
       "bytes": 893
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3242_THE_PHYSIOLOGIC_SIGNIFICANCE_OF_THE_BABINSKI_TOE_RESPONSE\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3242_THE_PHYSIOLOGIC_SIGNIFICANCE_OF_THE_BABINSKI_TOE_RESPONSE\\text.md",
+      "bytes": 18798
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3242_THE_PHYSIOLOGIC_SIGNIFICANCE_OF_THE_BABINSKI_TOE_RESPONSE\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3242_THE_PHYSIOLOGIC_SIGNIFICANCE_OF_THE_BABINSKI_TOE_RESPONSE\\figures\\fig1.png",
+      "bytes": 477928
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3242_THE_PHYSIOLOGIC_SIGNIFICANCE_OF_THE_BABINSKI_TOE_RESPONSE\\figures\\fig8.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3242_THE_PHYSIOLOGIC_SIGNIFICANCE_OF_THE_BABINSKI_TOE_RESPONSE\\figures\\fig8.png",
+      "bytes": 1191757
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3242_THE_PHYSIOLOGIC_SIGNIFICANCE_OF_THE_BABINSKI_TOE_RESPONSE\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3242_THE_PHYSIOLOGIC_SIGNIFICANCE_OF_THE_BABINSKI_TOE_RESPONSE\\text.md",
+      "bytes": 18798
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3242_THE_PHYSIOLOGIC_SIGNIFICANCE_OF_THE_BABINSKI_TOE_RESPONSE\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3242_THE_PHYSIOLOGIC_SIGNIFICANCE_OF_THE_BABINSKI_TOE_RESPONSE\\figures\\fig1.png",
+      "bytes": 477928
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3242_THE_PHYSIOLOGIC_SIGNIFICANCE_OF_THE_BABINSKI_TOE_RESPONSE\\figures\\fig8.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3242_THE_PHYSIOLOGIC_SIGNIFICANCE_OF_THE_BABINSKI_TOE_RESPONSE\\figures\\fig8.png",
+      "bytes": 1191757
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3243_Visual_Field_Findings_in_a_Case_of_Brain_Tumor\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3243_Visual_Field_Findings_in_a_Case_of_Brain_Tumor\\text.md",
+      "bytes": 11801
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3243_Visual_Field_Findings_in_a_Case_of_Brain_Tumor\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3243_Visual_Field_Findings_in_a_Case_of_Brain_Tumor\\figures\\fig1.png",
+      "bytes": 511644
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3243_Visual_Field_Findings_in_a_Case_of_Brain_Tumor\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3243_Visual_Field_Findings_in_a_Case_of_Brain_Tumor\\figures\\fig3.png",
+      "bytes": 498803
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3243_Visual_Field_Findings_in_a_Case_of_Brain_Tumor\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3243_Visual_Field_Findings_in_a_Case_of_Brain_Tumor\\text.md",
+      "bytes": 11801
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3243_Visual_Field_Findings_in_a_Case_of_Brain_Tumor\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3243_Visual_Field_Findings_in_a_Case_of_Brain_Tumor\\figures\\fig1.png",
+      "bytes": 511644
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3243_Visual_Field_Findings_in_a_Case_of_Brain_Tumor\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3243_Visual_Field_Findings_in_a_Case_of_Brain_Tumor\\figures\\fig3.png",
+      "bytes": 498803
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3244_OBSERVATIONS_ON_THE_PATH_OF_FARADIC_SENSIBILITY\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3244_OBSERVATIONS_ON_THE_PATH_OF_FARADIC_SENSIBILITY\\text.md",
+      "bytes": 49271
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3244_OBSERVATIONS_ON_THE_PATH_OF_FARADIC_SENSIBILITY\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3244_OBSERVATIONS_ON_THE_PATH_OF_FARADIC_SENSIBILITY\\text.md",
+      "bytes": 49271
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3245_THE_ASSOCIATION_OF_NEUROPSYCHIATRIC_CONDITIONS_WITH_INFLUENZ\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3245_THE_ASSOCIATION_OF_NEUROPSYCHIATRIC_CONDITIONS_WITH_INFLUENZ\\text.md",
+      "bytes": 32466
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3245_THE_ASSOCIATION_OF_NEUROPSYCHIATRIC_CONDITIONS_WITH_INFLUENZ\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3245_THE_ASSOCIATION_OF_NEUROPSYCHIATRIC_CONDITIONS_WITH_INFLUENZ\\text.md",
+      "bytes": 32466
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3246_MICROGYRIA_AND_ITS_EFFECTS_ON_OTHER_PARTS_OF_THE_CENTRAL_NER\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3246_MICROGYRIA_AND_ITS_EFFECTS_ON_OTHER_PARTS_OF_THE_CENTRAL_NER\\text.md",
+      "bytes": 24251
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3246_MICROGYRIA_AND_ITS_EFFECTS_ON_OTHER_PARTS_OF_THE_CENTRAL_NER\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3246_MICROGYRIA_AND_ITS_EFFECTS_ON_OTHER_PARTS_OF_THE_CENTRAL_NER\\figures\\fig4.png",
+      "bytes": 922972
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3246_MICROGYRIA_AND_ITS_EFFECTS_ON_OTHER_PARTS_OF_THE_CENTRAL_NER\\figures\\fig7.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3246_MICROGYRIA_AND_ITS_EFFECTS_ON_OTHER_PARTS_OF_THE_CENTRAL_NER\\figures\\fig7.png",
+      "bytes": 1054940
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3246_MICROGYRIA_AND_ITS_EFFECTS_ON_OTHER_PARTS_OF_THE_CENTRAL_NER\\figures\\fig8.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3246_MICROGYRIA_AND_ITS_EFFECTS_ON_OTHER_PARTS_OF_THE_CENTRAL_NER\\figures\\fig8.png",
+      "bytes": 921057
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3246_MICROGYRIA_AND_ITS_EFFECTS_ON_OTHER_PARTS_OF_THE_CENTRAL_NER\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3246_MICROGYRIA_AND_ITS_EFFECTS_ON_OTHER_PARTS_OF_THE_CENTRAL_NER\\text.md",
+      "bytes": 24251
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3246_MICROGYRIA_AND_ITS_EFFECTS_ON_OTHER_PARTS_OF_THE_CENTRAL_NER\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3246_MICROGYRIA_AND_ITS_EFFECTS_ON_OTHER_PARTS_OF_THE_CENTRAL_NER\\figures\\fig4.png",
+      "bytes": 922972
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3246_MICROGYRIA_AND_ITS_EFFECTS_ON_OTHER_PARTS_OF_THE_CENTRAL_NER\\figures\\fig7.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3246_MICROGYRIA_AND_ITS_EFFECTS_ON_OTHER_PARTS_OF_THE_CENTRAL_NER\\figures\\fig7.png",
+      "bytes": 1054940
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3246_MICROGYRIA_AND_ITS_EFFECTS_ON_OTHER_PARTS_OF_THE_CENTRAL_NER\\figures\\fig8.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3246_MICROGYRIA_AND_ITS_EFFECTS_ON_OTHER_PARTS_OF_THE_CENTRAL_NER\\figures\\fig8.png",
+      "bytes": 921057
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3247_PATHWAYS_OF_THE_CEREBROSPINAL_FLUID_AND_THE_CHOROID_PLEXUS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3247_PATHWAYS_OF_THE_CEREBROSPINAL_FLUID_AND_THE_CHOROID_PLEXUS\\text.md",
+      "bytes": 28
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3247_PATHWAYS_OF_THE_CEREBROSPINAL_FLUID_AND_THE_CHOROID_PLEXUS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3247_PATHWAYS_OF_THE_CEREBROSPINAL_FLUID_AND_THE_CHOROID_PLEXUS\\text.md",
+      "bytes": 28
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3248_Studies_on_the_Cerebrospinal_Fluid_VI_A_Study_of_Tissue_Extr\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3248_Studies_on_the_Cerebrospinal_Fluid_VI_A_Study_of_Tissue_Extr\\text.md",
+      "bytes": 56
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3248_Studies_on_the_Cerebrospinal_Fluid_VI_A_Study_of_Tissue_Extr\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3248_Studies_on_the_Cerebrospinal_Fluid_VI_A_Study_of_Tissue_Extr\\text.md",
+      "bytes": 56
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3249_THE_NERVOUS_SYSTEM_OF_THE_LARVA_OF_STHENOPIS_THULE_STRECKER\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3249_THE_NERVOUS_SYSTEM_OF_THE_LARVA_OF_STHENOPIS_THULE_STRECKER\\text.md",
+      "bytes": 19615
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3249_THE_NERVOUS_SYSTEM_OF_THE_LARVA_OF_STHENOPIS_THULE_STRECKER\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3249_THE_NERVOUS_SYSTEM_OF_THE_LARVA_OF_STHENOPIS_THULE_STRECKER\\text.md",
+      "bytes": 19615
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3250_ON_VERTICAL_LOCALIZATION_IN_THE_CEREBRAL_CORTEX\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3250_ON_VERTICAL_LOCALIZATION_IN_THE_CEREBRAL_CORTEX\\text.md",
+      "bytes": 28
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3250_ON_VERTICAL_LOCALIZATION_IN_THE_CEREBRAL_CORTEX\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3250_ON_VERTICAL_LOCALIZATION_IN_THE_CEREBRAL_CORTEX\\text.md",
+      "bytes": 28
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3251_Observations_regarding_the_treatment_of_brain_abscess\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3251_Observations_regarding_the_treatment_of_brain_abscess\\text.md",
+      "bytes": 141
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3251_Observations_regarding_the_treatment_of_brain_abscess\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3251_Observations_regarding_the_treatment_of_brain_abscess\\text.md",
+      "bytes": 141
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3160_SNAPPING_OF_THE_BRAIN\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3160_SNAPPING_OF_THE_BRAIN\\text.md",
+      "bytes": 8632
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3160_SNAPPING_OF_THE_BRAIN\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3160_SNAPPING_OF_THE_BRAIN\\text.md",
+      "bytes": 8632
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3252_AN_IMPROVED_NEEDLE_FOR_SINUS_THERAPY\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3252_AN_IMPROVED_NEEDLE_FOR_SINUS_THERAPY\\text.md",
+      "bytes": 2786
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3252_AN_IMPROVED_NEEDLE_FOR_SINUS_THERAPY\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3252_AN_IMPROVED_NEEDLE_FOR_SINUS_THERAPY\\text.md",
+      "bytes": 2786
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3253_A_CASE_OF_CEREBRAL_POROSIS_WITH_A_HISTOPATHOLOGIC_REPORT\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3253_A_CASE_OF_CEREBRAL_POROSIS_WITH_A_HISTOPATHOLOGIC_REPORT\\text.md",
+      "bytes": 24271
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3253_A_CASE_OF_CEREBRAL_POROSIS_WITH_A_HISTOPATHOLOGIC_REPORT\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3253_A_CASE_OF_CEREBRAL_POROSIS_WITH_A_HISTOPATHOLOGIC_REPORT\\figures\\fig1.png",
+      "bytes": 768979
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3253_A_CASE_OF_CEREBRAL_POROSIS_WITH_A_HISTOPATHOLOGIC_REPORT\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3253_A_CASE_OF_CEREBRAL_POROSIS_WITH_A_HISTOPATHOLOGIC_REPORT\\figures\\fig2.png",
+      "bytes": 787268
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3253_A_CASE_OF_CEREBRAL_POROSIS_WITH_A_HISTOPATHOLOGIC_REPORT\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3253_A_CASE_OF_CEREBRAL_POROSIS_WITH_A_HISTOPATHOLOGIC_REPORT\\figures\\fig3.png",
+      "bytes": 835823
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3253_A_CASE_OF_CEREBRAL_POROSIS_WITH_A_HISTOPATHOLOGIC_REPORT\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3253_A_CASE_OF_CEREBRAL_POROSIS_WITH_A_HISTOPATHOLOGIC_REPORT\\figures\\fig4.png",
+      "bytes": 781167
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3253_A_CASE_OF_CEREBRAL_POROSIS_WITH_A_HISTOPATHOLOGIC_REPORT\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3253_A_CASE_OF_CEREBRAL_POROSIS_WITH_A_HISTOPATHOLOGIC_REPORT\\figures\\fig5.png",
+      "bytes": 733814
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3253_A_CASE_OF_CEREBRAL_POROSIS_WITH_A_HISTOPATHOLOGIC_REPORT\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3253_A_CASE_OF_CEREBRAL_POROSIS_WITH_A_HISTOPATHOLOGIC_REPORT\\text.md",
+      "bytes": 24271
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3253_A_CASE_OF_CEREBRAL_POROSIS_WITH_A_HISTOPATHOLOGIC_REPORT\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3253_A_CASE_OF_CEREBRAL_POROSIS_WITH_A_HISTOPATHOLOGIC_REPORT\\figures\\fig1.png",
+      "bytes": 768979
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3253_A_CASE_OF_CEREBRAL_POROSIS_WITH_A_HISTOPATHOLOGIC_REPORT\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3253_A_CASE_OF_CEREBRAL_POROSIS_WITH_A_HISTOPATHOLOGIC_REPORT\\figures\\fig2.png",
+      "bytes": 787268
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3253_A_CASE_OF_CEREBRAL_POROSIS_WITH_A_HISTOPATHOLOGIC_REPORT\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3253_A_CASE_OF_CEREBRAL_POROSIS_WITH_A_HISTOPATHOLOGIC_REPORT\\figures\\fig3.png",
+      "bytes": 835823
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3253_A_CASE_OF_CEREBRAL_POROSIS_WITH_A_HISTOPATHOLOGIC_REPORT\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3253_A_CASE_OF_CEREBRAL_POROSIS_WITH_A_HISTOPATHOLOGIC_REPORT\\figures\\fig4.png",
+      "bytes": 781167
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3253_A_CASE_OF_CEREBRAL_POROSIS_WITH_A_HISTOPATHOLOGIC_REPORT\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3253_A_CASE_OF_CEREBRAL_POROSIS_WITH_A_HISTOPATHOLOGIC_REPORT\\figures\\fig5.png",
+      "bytes": 733814
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3254_INTRASPINAL_TREATMENT_IN_NEUROSYPHILIS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3254_INTRASPINAL_TREATMENT_IN_NEUROSYPHILIS\\text.md",
+      "bytes": 16398
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3254_INTRASPINAL_TREATMENT_IN_NEUROSYPHILIS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3254_INTRASPINAL_TREATMENT_IN_NEUROSYPHILIS\\text.md",
+      "bytes": 16398
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3255_A_sketch_of_the_origin_of_the_cerebral_hemispheres\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3255_A_sketch_of_the_origin_of_the_cerebral_hemispheres\\text.md",
+      "bytes": 54494
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3255_A_sketch_of_the_origin_of_the_cerebral_hemispheres\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3255_A_sketch_of_the_origin_of_the_cerebral_hemispheres\\figures\\fig1.png",
+      "bytes": 428026
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3255_A_sketch_of_the_origin_of_the_cerebral_hemispheres\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3255_A_sketch_of_the_origin_of_the_cerebral_hemispheres\\figures\\fig3.png",
+      "bytes": 374295
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3255_A_sketch_of_the_origin_of_the_cerebral_hemispheres\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3255_A_sketch_of_the_origin_of_the_cerebral_hemispheres\\figures\\fig4.png",
+      "bytes": 413131
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3255_A_sketch_of_the_origin_of_the_cerebral_hemispheres\\figures\\fig8.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3255_A_sketch_of_the_origin_of_the_cerebral_hemispheres\\figures\\fig8.png",
+      "bytes": 423481
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3255_A_sketch_of_the_origin_of_the_cerebral_hemispheres\\figures\\fig9.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3255_A_sketch_of_the_origin_of_the_cerebral_hemispheres\\figures\\fig9.png",
+      "bytes": 445822
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3255_A_sketch_of_the_origin_of_the_cerebral_hemispheres\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3255_A_sketch_of_the_origin_of_the_cerebral_hemispheres\\text.md",
+      "bytes": 54494
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3255_A_sketch_of_the_origin_of_the_cerebral_hemispheres\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3255_A_sketch_of_the_origin_of_the_cerebral_hemispheres\\figures\\fig1.png",
+      "bytes": 428026
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3255_A_sketch_of_the_origin_of_the_cerebral_hemispheres\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3255_A_sketch_of_the_origin_of_the_cerebral_hemispheres\\figures\\fig3.png",
+      "bytes": 374295
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3255_A_sketch_of_the_origin_of_the_cerebral_hemispheres\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3255_A_sketch_of_the_origin_of_the_cerebral_hemispheres\\figures\\fig4.png",
+      "bytes": 413131
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3255_A_sketch_of_the_origin_of_the_cerebral_hemispheres\\figures\\fig8.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3255_A_sketch_of_the_origin_of_the_cerebral_hemispheres\\figures\\fig8.png",
+      "bytes": 423481
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3255_A_sketch_of_the_origin_of_the_cerebral_hemispheres\\figures\\fig9.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3255_A_sketch_of_the_origin_of_the_cerebral_hemispheres\\figures\\fig9.png",
+      "bytes": 445822
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3256_The_vascularity_of_the_cerebral_cortex_of_the_albino_rat\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3256_The_vascularity_of_the_cerebral_cortex_of_the_albino_rat\\text.md",
+      "bytes": 38795
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3256_The_vascularity_of_the_cerebral_cortex_of_the_albino_rat\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3256_The_vascularity_of_the_cerebral_cortex_of_the_albino_rat\\figures\\fig1.png",
+      "bytes": 349222
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3256_The_vascularity_of_the_cerebral_cortex_of_the_albino_rat\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3256_The_vascularity_of_the_cerebral_cortex_of_the_albino_rat\\figures\\fig2.png",
+      "bytes": 289306
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3256_The_vascularity_of_the_cerebral_cortex_of_the_albino_rat\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3256_The_vascularity_of_the_cerebral_cortex_of_the_albino_rat\\figures\\fig4.png",
+      "bytes": 421232
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3256_The_vascularity_of_the_cerebral_cortex_of_the_albino_rat\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3256_The_vascularity_of_the_cerebral_cortex_of_the_albino_rat\\figures\\fig5.png",
+      "bytes": 398208
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3256_The_vascularity_of_the_cerebral_cortex_of_the_albino_rat\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3256_The_vascularity_of_the_cerebral_cortex_of_the_albino_rat\\text.md",
+      "bytes": 38795
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3256_The_vascularity_of_the_cerebral_cortex_of_the_albino_rat\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3256_The_vascularity_of_the_cerebral_cortex_of_the_albino_rat\\figures\\fig1.png",
+      "bytes": 349222
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3256_The_vascularity_of_the_cerebral_cortex_of_the_albino_rat\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3256_The_vascularity_of_the_cerebral_cortex_of_the_albino_rat\\figures\\fig2.png",
+      "bytes": 289306
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3256_The_vascularity_of_the_cerebral_cortex_of_the_albino_rat\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3256_The_vascularity_of_the_cerebral_cortex_of_the_albino_rat\\figures\\fig4.png",
+      "bytes": 421232
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3256_The_vascularity_of_the_cerebral_cortex_of_the_albino_rat\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3256_The_vascularity_of_the_cerebral_cortex_of_the_albino_rat\\figures\\fig5.png",
+      "bytes": 398208
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3257_STUDIES_OF_CEREBRAL_FUNCTION_IN_LEARNING_No_III-THE_MOTOR_AR\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3257_STUDIES_OF_CEREBRAL_FUNCTION_IN_LEARNING_No_III-THE_MOTOR_AR\\text.md",
+      "bytes": 65175
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3257_STUDIES_OF_CEREBRAL_FUNCTION_IN_LEARNING_No_III-THE_MOTOR_AR\\figures\\fig10.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3257_STUDIES_OF_CEREBRAL_FUNCTION_IN_LEARNING_No_III-THE_MOTOR_AR\\figures\\fig10.png",
+      "bytes": 429671
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3257_STUDIES_OF_CEREBRAL_FUNCTION_IN_LEARNING_No_III-THE_MOTOR_AR\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3257_STUDIES_OF_CEREBRAL_FUNCTION_IN_LEARNING_No_III-THE_MOTOR_AR\\figures\\fig2.png",
+      "bytes": 373981
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3257_STUDIES_OF_CEREBRAL_FUNCTION_IN_LEARNING_No_III-THE_MOTOR_AR\\figures\\fig7.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3257_STUDIES_OF_CEREBRAL_FUNCTION_IN_LEARNING_No_III-THE_MOTOR_AR\\figures\\fig7.png",
+      "bytes": 397759
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3257_STUDIES_OF_CEREBRAL_FUNCTION_IN_LEARNING_No_III-THE_MOTOR_AR\\figures\\fig8.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3257_STUDIES_OF_CEREBRAL_FUNCTION_IN_LEARNING_No_III-THE_MOTOR_AR\\figures\\fig8.png",
+      "bytes": 392047
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3257_STUDIES_OF_CEREBRAL_FUNCTION_IN_LEARNING_No_III-THE_MOTOR_AR\\figures\\fig9.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3257_STUDIES_OF_CEREBRAL_FUNCTION_IN_LEARNING_No_III-THE_MOTOR_AR\\figures\\fig9.png",
+      "bytes": 350617
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3257_STUDIES_OF_CEREBRAL_FUNCTION_IN_LEARNING_No_III-THE_MOTOR_AR\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3257_STUDIES_OF_CEREBRAL_FUNCTION_IN_LEARNING_No_III-THE_MOTOR_AR\\text.md",
+      "bytes": 65175
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3257_STUDIES_OF_CEREBRAL_FUNCTION_IN_LEARNING_No_III-THE_MOTOR_AR\\figures\\fig10.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3257_STUDIES_OF_CEREBRAL_FUNCTION_IN_LEARNING_No_III-THE_MOTOR_AR\\figures\\fig10.png",
+      "bytes": 429671
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3257_STUDIES_OF_CEREBRAL_FUNCTION_IN_LEARNING_No_III-THE_MOTOR_AR\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3257_STUDIES_OF_CEREBRAL_FUNCTION_IN_LEARNING_No_III-THE_MOTOR_AR\\figures\\fig2.png",
+      "bytes": 373981
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3257_STUDIES_OF_CEREBRAL_FUNCTION_IN_LEARNING_No_III-THE_MOTOR_AR\\figures\\fig7.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3257_STUDIES_OF_CEREBRAL_FUNCTION_IN_LEARNING_No_III-THE_MOTOR_AR\\figures\\fig7.png",
+      "bytes": 397759
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3257_STUDIES_OF_CEREBRAL_FUNCTION_IN_LEARNING_No_III-THE_MOTOR_AR\\figures\\fig8.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3257_STUDIES_OF_CEREBRAL_FUNCTION_IN_LEARNING_No_III-THE_MOTOR_AR\\figures\\fig8.png",
+      "bytes": 392047
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3257_STUDIES_OF_CEREBRAL_FUNCTION_IN_LEARNING_No_III-THE_MOTOR_AR\\figures\\fig9.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3257_STUDIES_OF_CEREBRAL_FUNCTION_IN_LEARNING_No_III-THE_MOTOR_AR\\figures\\fig9.png",
+      "bytes": 350617
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3258_The_Form_and_Functions_of_the_Central_Nervous_System_an_Intr\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3258_The_Form_and_Functions_of_the_Central_Nervous_System_an_Intr\\text.md",
+      "bytes": 8031
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3258_The_Form_and_Functions_of_the_Central_Nervous_System_an_Intr\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3258_The_Form_and_Functions_of_the_Central_Nervous_System_an_Intr\\text.md",
+      "bytes": 8031
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3259_The_growth_of_the_central_nervous_system_in_the_human_fetus\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3259_The_growth_of_the_central_nervous_system_in_the_human_fetus\\text.md",
+      "bytes": 125953
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3259_The_growth_of_the_central_nervous_system_in_the_human_fetus\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3259_The_growth_of_the_central_nervous_system_in_the_human_fetus\\figures\\fig1.png",
+      "bytes": 534643
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3259_The_growth_of_the_central_nervous_system_in_the_human_fetus\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3259_The_growth_of_the_central_nervous_system_in_the_human_fetus\\figures\\fig2.png",
+      "bytes": 513687
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3259_The_growth_of_the_central_nervous_system_in_the_human_fetus\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3259_The_growth_of_the_central_nervous_system_in_the_human_fetus\\figures\\fig4.png",
+      "bytes": 229724
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3259_The_growth_of_the_central_nervous_system_in_the_human_fetus\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3259_The_growth_of_the_central_nervous_system_in_the_human_fetus\\figures\\fig5.png",
+      "bytes": 235194
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3259_The_growth_of_the_central_nervous_system_in_the_human_fetus\\figures\\fig6.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3259_The_growth_of_the_central_nervous_system_in_the_human_fetus\\figures\\fig6.png",
+      "bytes": 272088
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3259_The_growth_of_the_central_nervous_system_in_the_human_fetus\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3259_The_growth_of_the_central_nervous_system_in_the_human_fetus\\text.md",
+      "bytes": 125953
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3259_The_growth_of_the_central_nervous_system_in_the_human_fetus\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3259_The_growth_of_the_central_nervous_system_in_the_human_fetus\\figures\\fig1.png",
+      "bytes": 534643
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3259_The_growth_of_the_central_nervous_system_in_the_human_fetus\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3259_The_growth_of_the_central_nervous_system_in_the_human_fetus\\figures\\fig2.png",
+      "bytes": 513687
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3259_The_growth_of_the_central_nervous_system_in_the_human_fetus\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3259_The_growth_of_the_central_nervous_system_in_the_human_fetus\\figures\\fig4.png",
+      "bytes": 229724
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3259_The_growth_of_the_central_nervous_system_in_the_human_fetus\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3259_The_growth_of_the_central_nervous_system_in_the_human_fetus\\figures\\fig5.png",
+      "bytes": 235194
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3259_The_growth_of_the_central_nervous_system_in_the_human_fetus\\figures\\fig6.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3259_The_growth_of_the_central_nervous_system_in_the_human_fetus\\figures\\fig6.png",
+      "bytes": 272088
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3260_PERSISTENT_PAIN_IN_LESIONS_OF_THE_PERIPHERAL_AND_CENTRAL_NER\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3260_PERSISTENT_PAIN_IN_LESIONS_OF_THE_PERIPHERAL_AND_CENTRAL_NER\\text.md",
+      "bytes": 45964
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3260_PERSISTENT_PAIN_IN_LESIONS_OF_THE_PERIPHERAL_AND_CENTRAL_NER\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3260_PERSISTENT_PAIN_IN_LESIONS_OF_THE_PERIPHERAL_AND_CENTRAL_NER\\text.md",
+      "bytes": 45964
     }
   ],
   "missing": [],
