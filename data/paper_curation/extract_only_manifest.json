@@ -1,12 +1,12 @@
 {
-  "generated": "2026-07-05T07:40:21.227312+00:00",
+  "generated": "2026-07-05T08:06:30.916929+00:00",
   "mode": "extract-only",
   "paperCurationDir": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect",
   "awesomeRepo": "E:\\조선대\\연구\\awesome-brain-ai",
   "extractReport": "data/paper_curation/extract_only_report.json",
   "docsDir": "docs/paper_curation/extract_only",
   "paperDir": "paper/extract_only",
-  "recordCount": 720,
+  "recordCount": 740,
   "syncedPaperSlugs": [
     "003_Hughlings_Jackson_and_the_Cortical_Motor_Centres_in_the_Ligh",
     "015_EXPERIMENTAL_AND_CLINICAL_NOTES_ON_THE_SUBARACHNOID_SPACE",
@@ -727,13 +727,33 @@
     "2853_The_Hydrogen-ion_Concentration_of_Cerebrospinal_Fluid_Studie",
     "2854_Some_experiments_on_the_nature_and_function_of_reissners_fib",
     "2855_The_skull_of_Acanthias_vulgaris",
-    "2856_A_NEW_MASTIC_TEST_FOR_THE_SPINAL_FLUID"
+    "2856_A_NEW_MASTIC_TEST_FOR_THE_SPINAL_FLUID",
+    "2882_Metabolic_activity_of_the_nervous_system_I_Amount_of_non-pro",
+    "2883_TORULA_IN_MAN_REPORT_OF_A_CASE_WITH_NECROPSY_FINDINGS",
+    "2884_RECENT_VIEWS_AS_TO_THE_FUNCTION_OF_THE_ADRENAL_BODIES",
+    "2885_Cerebral_Symptoms_and_Permeability_of_the_Méninges_in_Typhus",
+    "2886_Chemical_Differentiation_of_the_Central_Nervous_System_in_In",
+    "2887_Part_V_The_Pathology_of_Congenital_Syphilitic_Disease_of_the",
+    "2888_SPINAL_PUNCTURE_IN_DIABETES_INSIPIDUS",
+    "2889_THE_INFLUENCE_OF_LABOR_ON_THE_BRAIN_DEVELOPMENT_OF_THE_CHILD",
+    "2890_THE_STRATIGRAPHICAL_ANALYSIS_OF_FINER_CORTEX_CHANGES_IN_CERT",
+    "2891_CEREBROSPINAL_FLUID_TESTS_ESPECIALLY_THE_GOLD_REACTIONS_IN_P",
+    "2892_METASTASIS_OF_CANCER_IN_THE_CENTRAL_NERVOUS_SYSTEM_An_Experi",
+    "2893_The_Cerebrospinal_Fluid_in_Anterior_Poliomyelitis_Report_on",
+    "2894_THE_RELATION_OF_LOW_BLOOD_PRESSURE_TO_A_FATAL_TERMINATION_IN",
+    "2895_EARLY_DIAGNOSIS_OF_TABES_DORSALIS",
+    "2896_PUNCTIFORM_HAEMORRHAGES_OF_THE_BRAIN_IN_GAS_POISONING",
+    "2897_ANTHRAX_SIMULATING_CEREBROSPINAL_FEVER",
+    "2898_The_central_nervous_system_of_simple_Crustacea",
+    "2899_THE_CEREBROSPINAL_FLUID_IN_POLIOMYELITIS_WITH_ESPECIAL_REFER",
+    "2900_THE_COLLOIDAL_GOLD_REACTION_OF_THE_CEREBROSPINAL_FLUID_IN_AC",
+    "2901_VI_The_Tonsils_as_an_Atrium_of_Infection_in_Poliomyelitis"
   ],
   "copied": [
     {
       "source": "E:\\조선대\\연구\\paper-curation\\paper\\awesome-brain-ai\\_folder_source_extract_report.json",
       "target": "E:\\조선대\\연구\\awesome-brain-ai\\data\\paper_curation\\extract_only_report.json",
-      "bytes": 440016
+      "bytes": 452204
     },
     {
       "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\003_Hughlings_Jackson_and_the_Cortical_Motor_Centres_in_the_Ligh\\text.md",
@@ -12434,6 +12454,346 @@
       "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2856_A_NEW_MASTIC_TEST_FOR_THE_SPINAL_FLUID\\figures\\fig2.png",
       "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2856_A_NEW_MASTIC_TEST_FOR_THE_SPINAL_FLUID\\figures\\fig2.png",
       "bytes": 1001438
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2882_Metabolic_activity_of_the_nervous_system_I_Amount_of_non-pro\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2882_Metabolic_activity_of_the_nervous_system_I_Amount_of_non-pro\\text.md",
+      "bytes": 37440
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2882_Metabolic_activity_of_the_nervous_system_I_Amount_of_non-pro\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2882_Metabolic_activity_of_the_nervous_system_I_Amount_of_non-pro\\text.md",
+      "bytes": 37440
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2883_TORULA_IN_MAN_REPORT_OF_A_CASE_WITH_NECROPSY_FINDINGS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2883_TORULA_IN_MAN_REPORT_OF_A_CASE_WITH_NECROPSY_FINDINGS\\text.md",
+      "bytes": 19011
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2883_TORULA_IN_MAN_REPORT_OF_A_CASE_WITH_NECROPSY_FINDINGS\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2883_TORULA_IN_MAN_REPORT_OF_A_CASE_WITH_NECROPSY_FINDINGS\\figures\\fig2.png",
+      "bytes": 800779
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2883_TORULA_IN_MAN_REPORT_OF_A_CASE_WITH_NECROPSY_FINDINGS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2883_TORULA_IN_MAN_REPORT_OF_A_CASE_WITH_NECROPSY_FINDINGS\\text.md",
+      "bytes": 19011
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2883_TORULA_IN_MAN_REPORT_OF_A_CASE_WITH_NECROPSY_FINDINGS\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2883_TORULA_IN_MAN_REPORT_OF_A_CASE_WITH_NECROPSY_FINDINGS\\figures\\fig2.png",
+      "bytes": 800779
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2884_RECENT_VIEWS_AS_TO_THE_FUNCTION_OF_THE_ADRENAL_BODIES\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2884_RECENT_VIEWS_AS_TO_THE_FUNCTION_OF_THE_ADRENAL_BODIES\\text.md",
+      "bytes": 22915
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2884_RECENT_VIEWS_AS_TO_THE_FUNCTION_OF_THE_ADRENAL_BODIES\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2884_RECENT_VIEWS_AS_TO_THE_FUNCTION_OF_THE_ADRENAL_BODIES\\text.md",
+      "bytes": 22915
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2885_Cerebral_Symptoms_and_Permeability_of_the_Méninges_in_Typhus\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2885_Cerebral_Symptoms_and_Permeability_of_the_Méninges_in_Typhus\\text.md",
+      "bytes": 20303
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2885_Cerebral_Symptoms_and_Permeability_of_the_Méninges_in_Typhus\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2885_Cerebral_Symptoms_and_Permeability_of_the_Méninges_in_Typhus\\text.md",
+      "bytes": 20303
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2886_Chemical_Differentiation_of_the_Central_Nervous_System_in_In\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2886_Chemical_Differentiation_of_the_Central_Nervous_System_in_In\\text.md",
+      "bytes": 13085
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2886_Chemical_Differentiation_of_the_Central_Nervous_System_in_In\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2886_Chemical_Differentiation_of_the_Central_Nervous_System_in_In\\text.md",
+      "bytes": 13085
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2887_Part_V_The_Pathology_of_Congenital_Syphilitic_Disease_of_the\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2887_Part_V_The_Pathology_of_Congenital_Syphilitic_Disease_of_the\\text.md",
+      "bytes": 70954
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2887_Part_V_The_Pathology_of_Congenital_Syphilitic_Disease_of_the\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2887_Part_V_The_Pathology_of_Congenital_Syphilitic_Disease_of_the\\figures\\fig1.png",
+      "bytes": 1733037
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2887_Part_V_The_Pathology_of_Congenital_Syphilitic_Disease_of_the\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2887_Part_V_The_Pathology_of_Congenital_Syphilitic_Disease_of_the\\figures\\fig2.png",
+      "bytes": 828228
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2887_Part_V_The_Pathology_of_Congenital_Syphilitic_Disease_of_the\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2887_Part_V_The_Pathology_of_Congenital_Syphilitic_Disease_of_the\\figures\\fig3.png",
+      "bytes": 1066696
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2887_Part_V_The_Pathology_of_Congenital_Syphilitic_Disease_of_the\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2887_Part_V_The_Pathology_of_Congenital_Syphilitic_Disease_of_the\\figures\\fig4.png",
+      "bytes": 1877492
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2887_Part_V_The_Pathology_of_Congenital_Syphilitic_Disease_of_the\\figures\\fig6.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2887_Part_V_The_Pathology_of_Congenital_Syphilitic_Disease_of_the\\figures\\fig6.png",
+      "bytes": 1110767
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2887_Part_V_The_Pathology_of_Congenital_Syphilitic_Disease_of_the\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2887_Part_V_The_Pathology_of_Congenital_Syphilitic_Disease_of_the\\text.md",
+      "bytes": 70954
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2887_Part_V_The_Pathology_of_Congenital_Syphilitic_Disease_of_the\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2887_Part_V_The_Pathology_of_Congenital_Syphilitic_Disease_of_the\\figures\\fig1.png",
+      "bytes": 1733037
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2887_Part_V_The_Pathology_of_Congenital_Syphilitic_Disease_of_the\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2887_Part_V_The_Pathology_of_Congenital_Syphilitic_Disease_of_the\\figures\\fig2.png",
+      "bytes": 828228
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2887_Part_V_The_Pathology_of_Congenital_Syphilitic_Disease_of_the\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2887_Part_V_The_Pathology_of_Congenital_Syphilitic_Disease_of_the\\figures\\fig3.png",
+      "bytes": 1066696
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2887_Part_V_The_Pathology_of_Congenital_Syphilitic_Disease_of_the\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2887_Part_V_The_Pathology_of_Congenital_Syphilitic_Disease_of_the\\figures\\fig4.png",
+      "bytes": 1877492
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2887_Part_V_The_Pathology_of_Congenital_Syphilitic_Disease_of_the\\figures\\fig6.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2887_Part_V_The_Pathology_of_Congenital_Syphilitic_Disease_of_the\\figures\\fig6.png",
+      "bytes": 1110767
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2888_SPINAL_PUNCTURE_IN_DIABETES_INSIPIDUS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2888_SPINAL_PUNCTURE_IN_DIABETES_INSIPIDUS\\text.md",
+      "bytes": 20613
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2888_SPINAL_PUNCTURE_IN_DIABETES_INSIPIDUS\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2888_SPINAL_PUNCTURE_IN_DIABETES_INSIPIDUS\\figures\\fig1.png",
+      "bytes": 686950
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2888_SPINAL_PUNCTURE_IN_DIABETES_INSIPIDUS\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2888_SPINAL_PUNCTURE_IN_DIABETES_INSIPIDUS\\figures\\fig2.png",
+      "bytes": 796311
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2888_SPINAL_PUNCTURE_IN_DIABETES_INSIPIDUS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2888_SPINAL_PUNCTURE_IN_DIABETES_INSIPIDUS\\text.md",
+      "bytes": 20613
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2888_SPINAL_PUNCTURE_IN_DIABETES_INSIPIDUS\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2888_SPINAL_PUNCTURE_IN_DIABETES_INSIPIDUS\\figures\\fig1.png",
+      "bytes": 686950
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2888_SPINAL_PUNCTURE_IN_DIABETES_INSIPIDUS\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2888_SPINAL_PUNCTURE_IN_DIABETES_INSIPIDUS\\figures\\fig2.png",
+      "bytes": 796311
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2889_THE_INFLUENCE_OF_LABOR_ON_THE_BRAIN_DEVELOPMENT_OF_THE_CHILD\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2889_THE_INFLUENCE_OF_LABOR_ON_THE_BRAIN_DEVELOPMENT_OF_THE_CHILD\\text.md",
+      "bytes": 62444
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2889_THE_INFLUENCE_OF_LABOR_ON_THE_BRAIN_DEVELOPMENT_OF_THE_CHILD\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2889_THE_INFLUENCE_OF_LABOR_ON_THE_BRAIN_DEVELOPMENT_OF_THE_CHILD\\text.md",
+      "bytes": 62444
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2890_THE_STRATIGRAPHICAL_ANALYSIS_OF_FINER_CORTEX_CHANGES_IN_CERT\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2890_THE_STRATIGRAPHICAL_ANALYSIS_OF_FINER_CORTEX_CHANGES_IN_CERT\\text.md",
+      "bytes": 981
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2890_THE_STRATIGRAPHICAL_ANALYSIS_OF_FINER_CORTEX_CHANGES_IN_CERT\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2890_THE_STRATIGRAPHICAL_ANALYSIS_OF_FINER_CORTEX_CHANGES_IN_CERT\\text.md",
+      "bytes": 981
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2891_CEREBROSPINAL_FLUID_TESTS_ESPECIALLY_THE_GOLD_REACTIONS_IN_P\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2891_CEREBROSPINAL_FLUID_TESTS_ESPECIALLY_THE_GOLD_REACTIONS_IN_P\\text.md",
+      "bytes": 741
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2891_CEREBROSPINAL_FLUID_TESTS_ESPECIALLY_THE_GOLD_REACTIONS_IN_P\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2891_CEREBROSPINAL_FLUID_TESTS_ESPECIALLY_THE_GOLD_REACTIONS_IN_P\\text.md",
+      "bytes": 741
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2892_METASTASIS_OF_CANCER_IN_THE_CENTRAL_NERVOUS_SYSTEM_An_Experi\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2892_METASTASIS_OF_CANCER_IN_THE_CENTRAL_NERVOUS_SYSTEM_An_Experi\\text.md",
+      "bytes": 1266
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2892_METASTASIS_OF_CANCER_IN_THE_CENTRAL_NERVOUS_SYSTEM_An_Experi\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2892_METASTASIS_OF_CANCER_IN_THE_CENTRAL_NERVOUS_SYSTEM_An_Experi\\text.md",
+      "bytes": 1266
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2893_The_Cerebrospinal_Fluid_in_Anterior_Poliomyelitis_Report_on\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2893_The_Cerebrospinal_Fluid_in_Anterior_Poliomyelitis_Report_on\\text.md",
+      "bytes": 12308
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2893_The_Cerebrospinal_Fluid_in_Anterior_Poliomyelitis_Report_on\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2893_The_Cerebrospinal_Fluid_in_Anterior_Poliomyelitis_Report_on\\text.md",
+      "bytes": 12308
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2894_THE_RELATION_OF_LOW_BLOOD_PRESSURE_TO_A_FATAL_TERMINATION_IN\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2894_THE_RELATION_OF_LOW_BLOOD_PRESSURE_TO_A_FATAL_TERMINATION_IN\\text.md",
+      "bytes": 13787
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2894_THE_RELATION_OF_LOW_BLOOD_PRESSURE_TO_A_FATAL_TERMINATION_IN\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2894_THE_RELATION_OF_LOW_BLOOD_PRESSURE_TO_A_FATAL_TERMINATION_IN\\text.md",
+      "bytes": 13787
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2895_EARLY_DIAGNOSIS_OF_TABES_DORSALIS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2895_EARLY_DIAGNOSIS_OF_TABES_DORSALIS\\text.md",
+      "bytes": 35845
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2895_EARLY_DIAGNOSIS_OF_TABES_DORSALIS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2895_EARLY_DIAGNOSIS_OF_TABES_DORSALIS\\text.md",
+      "bytes": 35845
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2896_PUNCTIFORM_HAEMORRHAGES_OF_THE_BRAIN_IN_GAS_POISONING\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2896_PUNCTIFORM_HAEMORRHAGES_OF_THE_BRAIN_IN_GAS_POISONING\\text.md",
+      "bytes": 26523
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2896_PUNCTIFORM_HAEMORRHAGES_OF_THE_BRAIN_IN_GAS_POISONING\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2896_PUNCTIFORM_HAEMORRHAGES_OF_THE_BRAIN_IN_GAS_POISONING\\figures\\fig2.png",
+      "bytes": 2802512
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2896_PUNCTIFORM_HAEMORRHAGES_OF_THE_BRAIN_IN_GAS_POISONING\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2896_PUNCTIFORM_HAEMORRHAGES_OF_THE_BRAIN_IN_GAS_POISONING\\figures\\fig4.png",
+      "bytes": 1862751
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2896_PUNCTIFORM_HAEMORRHAGES_OF_THE_BRAIN_IN_GAS_POISONING\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2896_PUNCTIFORM_HAEMORRHAGES_OF_THE_BRAIN_IN_GAS_POISONING\\text.md",
+      "bytes": 26523
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2896_PUNCTIFORM_HAEMORRHAGES_OF_THE_BRAIN_IN_GAS_POISONING\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2896_PUNCTIFORM_HAEMORRHAGES_OF_THE_BRAIN_IN_GAS_POISONING\\figures\\fig2.png",
+      "bytes": 2802512
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2896_PUNCTIFORM_HAEMORRHAGES_OF_THE_BRAIN_IN_GAS_POISONING\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2896_PUNCTIFORM_HAEMORRHAGES_OF_THE_BRAIN_IN_GAS_POISONING\\figures\\fig4.png",
+      "bytes": 1862751
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2897_ANTHRAX_SIMULATING_CEREBROSPINAL_FEVER\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2897_ANTHRAX_SIMULATING_CEREBROSPINAL_FEVER\\text.md",
+      "bytes": 49012
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2897_ANTHRAX_SIMULATING_CEREBROSPINAL_FEVER\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2897_ANTHRAX_SIMULATING_CEREBROSPINAL_FEVER\\text.md",
+      "bytes": 49012
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2898_The_central_nervous_system_of_simple_Crustacea\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2898_The_central_nervous_system_of_simple_Crustacea\\text.md",
+      "bytes": 16273
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2898_The_central_nervous_system_of_simple_Crustacea\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2898_The_central_nervous_system_of_simple_Crustacea\\figures\\fig1.png",
+      "bytes": 140297
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2898_The_central_nervous_system_of_simple_Crustacea\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2898_The_central_nervous_system_of_simple_Crustacea\\figures\\fig4.png",
+      "bytes": 256447
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2898_The_central_nervous_system_of_simple_Crustacea\\figures\\fig7.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2898_The_central_nervous_system_of_simple_Crustacea\\figures\\fig7.png",
+      "bytes": 451510
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2898_The_central_nervous_system_of_simple_Crustacea\\figures\\fig9.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2898_The_central_nervous_system_of_simple_Crustacea\\figures\\fig9.png",
+      "bytes": 431672
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2898_The_central_nervous_system_of_simple_Crustacea\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2898_The_central_nervous_system_of_simple_Crustacea\\text.md",
+      "bytes": 16273
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2898_The_central_nervous_system_of_simple_Crustacea\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2898_The_central_nervous_system_of_simple_Crustacea\\figures\\fig1.png",
+      "bytes": 140297
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2898_The_central_nervous_system_of_simple_Crustacea\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2898_The_central_nervous_system_of_simple_Crustacea\\figures\\fig4.png",
+      "bytes": 256447
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2898_The_central_nervous_system_of_simple_Crustacea\\figures\\fig7.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2898_The_central_nervous_system_of_simple_Crustacea\\figures\\fig7.png",
+      "bytes": 451510
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2898_The_central_nervous_system_of_simple_Crustacea\\figures\\fig9.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2898_The_central_nervous_system_of_simple_Crustacea\\figures\\fig9.png",
+      "bytes": 431672
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2899_THE_CEREBROSPINAL_FLUID_IN_POLIOMYELITIS_WITH_ESPECIAL_REFER\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2899_THE_CEREBROSPINAL_FLUID_IN_POLIOMYELITIS_WITH_ESPECIAL_REFER\\text.md",
+      "bytes": 17267
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2899_THE_CEREBROSPINAL_FLUID_IN_POLIOMYELITIS_WITH_ESPECIAL_REFER\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2899_THE_CEREBROSPINAL_FLUID_IN_POLIOMYELITIS_WITH_ESPECIAL_REFER\\text.md",
+      "bytes": 17267
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2900_THE_COLLOIDAL_GOLD_REACTION_OF_THE_CEREBROSPINAL_FLUID_IN_AC\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2900_THE_COLLOIDAL_GOLD_REACTION_OF_THE_CEREBROSPINAL_FLUID_IN_AC\\text.md",
+      "bytes": 18196
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2900_THE_COLLOIDAL_GOLD_REACTION_OF_THE_CEREBROSPINAL_FLUID_IN_AC\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2900_THE_COLLOIDAL_GOLD_REACTION_OF_THE_CEREBROSPINAL_FLUID_IN_AC\\text.md",
+      "bytes": 18196
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2901_VI_The_Tonsils_as_an_Atrium_of_Infection_in_Poliomyelitis\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2901_VI_The_Tonsils_as_an_Atrium_of_Infection_in_Poliomyelitis\\text.md",
+      "bytes": 14680
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2901_VI_The_Tonsils_as_an_Atrium_of_Infection_in_Poliomyelitis\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2901_VI_The_Tonsils_as_an_Atrium_of_Infection_in_Poliomyelitis\\text.md",
+      "bytes": 14680
     }
   ],
   "missing": [],
