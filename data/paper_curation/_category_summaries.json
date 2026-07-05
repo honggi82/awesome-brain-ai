@@ -2,38 +2,23 @@
   "categories": [
     {
       "name": "HDBSCAN Bridge and Noise Papers",
-      "summary": "Codex-native cluster containing 350 processed papers.",
-      "count": 350
+      "summary": "Codex-native cluster containing 343 processed papers.",
+      "count": 343
     },
     {
       "name": "HDBSCAN Cluster: der, die, und, des",
-      "summary": "Codex-native cluster containing 8 processed papers.",
-      "count": 8
+      "summary": "Codex-native cluster containing 9 processed papers.",
+      "count": 9
+    },
+    {
+      "name": "HDBSCAN Cluster: figure, cerebral, case, brain",
+      "summary": "Codex-native cluster containing 7 processed papers.",
+      "count": 7
     },
     {
       "name": "HDBSCAN Cluster: surgery, figure, epilepsy, brain",
       "summary": "Codex-native cluster containing 7 processed papers.",
       "count": 7
-    },
-    {
-      "name": "HDBSCAN Cluster: not, figure, his, which",
-      "summary": "Codex-native cluster containing 6 processed papers.",
-      "count": 6
-    },
-    {
-      "name": "HDBSCAN Cluster: operation, figure, tibia, gland",
-      "summary": "Codex-native cluster containing 6 processed papers.",
-      "count": 6
-    },
-    {
-      "name": "HDBSCAN Cluster: figure, brain, cerebral, reconstruction",
-      "summary": "Codex-native cluster containing 6 processed papers.",
-      "count": 6
-    },
-    {
-      "name": "HDBSCAN Cluster: which, have, figure, one",
-      "summary": "Codex-native cluster containing 6 processed papers.",
-      "count": 6
     },
     {
       "name": "HDBSCAN Cluster: nerves, nerve, fibers, have",
@@ -51,17 +36,32 @@
       "count": 6
     },
     {
-      "name": "HDBSCAN Cluster: its, syphilis, nervous, clinical",
-      "summary": "Codex-native cluster containing 6 processed papers.",
-      "count": 6
-    },
-    {
       "name": "HDBSCAN Cluster: figure, brain, cerebral, manifestation",
       "summary": "Codex-native cluster containing 6 processed papers.",
       "count": 6
     },
     {
-      "name": "HDBSCAN Cluster: tumors, diagnosis, which, cerebral",
+      "name": "HDBSCAN Cluster: which, figure, case, not",
+      "summary": "Codex-native cluster containing 5 processed papers.",
+      "count": 5
+    },
+    {
+      "name": "HDBSCAN Cluster: operation, tibia, gland, figure",
+      "summary": "Codex-native cluster containing 5 processed papers.",
+      "count": 5
+    },
+    {
+      "name": "HDBSCAN Cluster: figure, significance, cerebral, certain",
+      "summary": "Codex-native cluster containing 5 processed papers.",
+      "count": 5
+    },
+    {
+      "name": "HDBSCAN Cluster: cerebral, case, tumour, had",
+      "summary": "Codex-native cluster containing 5 processed papers.",
+      "count": 5
+    },
+    {
+      "name": "HDBSCAN Cluster: lesions, figure, which, cerebellum",
       "summary": "Codex-native cluster containing 5 processed papers.",
       "count": 5
     },
@@ -71,27 +71,27 @@
       "count": 5
     },
     {
-      "name": "HDBSCAN Cluster: university, contents, figure, introduction",
+      "name": "HDBSCAN Cluster: tumors, cases, brain, figure",
       "summary": "Codex-native cluster containing 5 processed papers.",
       "count": 5
     },
     {
-      "name": "HDBSCAN Cluster: which, case, figure, his",
-      "summary": "Codex-native cluster containing 4 processed papers.",
-      "count": 4
+      "name": "HDBSCAN Cluster: clinical, figure, cases, nerve",
+      "summary": "Codex-native cluster containing 5 processed papers.",
+      "count": 5
     },
     {
-      "name": "HDBSCAN Cluster: brain, ventricles, casts, figure",
-      "summary": "Codex-native cluster containing 4 processed papers.",
-      "count": 4
+      "name": "HDBSCAN Cluster: cases, child, figure, will",
+      "summary": "Codex-native cluster containing 5 processed papers.",
+      "count": 5
     },
     {
-      "name": "HDBSCAN Cluster: ganglion, cells, body, which",
-      "summary": "Codex-native cluster containing 4 processed papers.",
-      "count": 4
+      "name": "HDBSCAN Cluster: limbs, development, upon, experiments",
+      "summary": "Codex-native cluster containing 5 processed papers.",
+      "count": 5
     },
     {
-      "name": "HDBSCAN Cluster: figure, significance, cerebral, certain",
+      "name": "HDBSCAN Cluster: not, his, their, have",
       "summary": "Codex-native cluster containing 4 processed papers.",
       "count": 4
     },
@@ -102,6 +102,11 @@
     },
     {
       "name": "HDBSCAN Cluster: which, figure, has, other",
+      "summary": "Codex-native cluster containing 4 processed papers.",
+      "count": 4
+    },
+    {
+      "name": "HDBSCAN Cluster: which, have, mental, figure",
       "summary": "Codex-native cluster containing 4 processed papers.",
       "count": 4
     },
@@ -126,11 +131,6 @@
       "count": 4
     },
     {
-      "name": "HDBSCAN Cluster: lesions, which, figure, been",
-      "summary": "Codex-native cluster containing 4 processed papers.",
-      "count": 4
-    },
-    {
       "name": "HDBSCAN Cluster: figure, case, well, report",
       "summary": "Codex-native cluster containing 4 processed papers.",
       "count": 4
@@ -141,12 +141,12 @@
       "count": 4
     },
     {
-      "name": "HDBSCAN Cluster: nerve, which, spinal, terminalis",
+      "name": "HDBSCAN Cluster: nerve, brain, spinal, which",
       "summary": "Codex-native cluster containing 4 processed papers.",
       "count": 4
     },
     {
-      "name": "HDBSCAN Cluster: nerve, have, been, cases",
+      "name": "HDBSCAN Cluster: cases, alcohol, figure, hospital",
       "summary": "Codex-native cluster containing 4 processed papers.",
       "count": 4
     },
@@ -161,16 +161,6 @@
       "count": 4
     },
     {
-      "name": "HDBSCAN Cluster: cases, not, figure, can",
-      "summary": "Codex-native cluster containing 4 processed papers.",
-      "count": 4
-    },
-    {
-      "name": "HDBSCAN Cluster: wrist, which, figure, nervous",
-      "summary": "Codex-native cluster containing 4 processed papers.",
-      "count": 4
-    },
-    {
       "name": "HDBSCAN Cluster: per, cent, then, hours",
       "summary": "Codex-native cluster containing 4 processed papers.",
       "count": 4
@@ -181,7 +171,12 @@
       "count": 4
     },
     {
-      "name": "HDBSCAN Cluster: brain, cerebellum, figure, displacement",
+      "name": "HDBSCAN Cluster: syphilis, nervous, other, disorders",
+      "summary": "Codex-native cluster containing 4 processed papers.",
+      "count": 4
+    },
+    {
+      "name": "HDBSCAN Cluster: university, contents, growth, kidney",
       "summary": "Codex-native cluster containing 4 processed papers.",
       "count": 4
     },
@@ -196,9 +191,24 @@
       "count": 4
     },
     {
-      "name": "HDBSCAN Cluster: regeneration, upon, limbs, system",
+      "name": "HDBSCAN Cluster: brain, roots, introduction, fibers",
       "summary": "Codex-native cluster containing 4 processed papers.",
       "count": 4
+    },
+    {
+      "name": "HDBSCAN Cluster: patient, but, his, have",
+      "summary": "Codex-native cluster containing 3 processed papers.",
+      "count": 3
+    },
+    {
+      "name": "HDBSCAN Cluster: brain, ventricles, sinuses, development",
+      "summary": "Codex-native cluster containing 3 processed papers.",
+      "count": 3
+    },
+    {
+      "name": "HDBSCAN Cluster: ganglion, cells, spinal, cell",
+      "summary": "Codex-native cluster containing 3 processed papers.",
+      "count": 3
     },
     {
       "name": "HDBSCAN Cluster: fall, von, case, cerebral",
@@ -216,7 +226,7 @@
       "count": 3
     },
     {
-      "name": "HDBSCAN Cluster: not, his, have, which",
+      "name": "HDBSCAN Cluster: figure, brain, reconstruction, serial",
       "summary": "Codex-native cluster containing 3 processed papers.",
       "count": 3
     },
@@ -231,7 +241,7 @@
       "count": 3
     },
     {
-      "name": "HDBSCAN Cluster: case, cerebral, which, before",
+      "name": "HDBSCAN Cluster: diphtheria, not, cultures, carriers",
       "summary": "Codex-native cluster containing 3 processed papers.",
       "count": 3
     },
@@ -311,7 +321,27 @@
       "count": 3
     },
     {
+      "name": "HDBSCAN Cluster: not, imagination, its, pharmacology",
+      "summary": "Codex-native cluster containing 3 processed papers.",
+      "count": 3
+    },
+    {
+      "name": "HDBSCAN Cluster: wrist, which, muscular, fork",
+      "summary": "Codex-native cluster containing 3 processed papers.",
+      "count": 3
+    },
+    {
+      "name": "HDBSCAN Cluster: some, cases, mental, migraine",
+      "summary": "Codex-native cluster containing 3 processed papers.",
+      "count": 3
+    },
+    {
       "name": "HDBSCAN Cluster: rat, albino, brain, spinal",
+      "summary": "Codex-native cluster containing 3 processed papers.",
+      "count": 3
+    },
+    {
+      "name": "HDBSCAN Cluster: cerebellum, displacement, which, brain",
       "summary": "Codex-native cluster containing 3 processed papers.",
       "count": 3
     },
@@ -326,6 +356,11 @@
       "count": 3
     },
     {
+      "name": "HDBSCAN Cluster: cerebrospinal, epidemic, fluid, first",
+      "summary": "Codex-native cluster containing 3 processed papers.",
+      "count": 3
+    },
+    {
       "name": "HDBSCAN Cluster: fluid, poliomyelitis, cerebrospinal, infections",
       "summary": "Codex-native cluster containing 3 processed papers.",
       "count": 3
@@ -336,17 +371,7 @@
       "count": 3
     },
     {
-      "name": "HDBSCAN Cluster: ear, right, mastoiditis, had",
-      "summary": "Codex-native cluster containing 3 processed papers.",
-      "count": 3
-    },
-    {
       "name": "HDBSCAN Cluster: brain, has, acids, been",
-      "summary": "Codex-native cluster containing 3 processed papers.",
-      "count": 3
-    },
-    {
-      "name": "HDBSCAN Cluster: brain, roots, introduction, castes",
       "summary": "Codex-native cluster containing 3 processed papers.",
       "count": 3
     },
@@ -386,12 +411,12 @@
       "count": 2
     },
     {
-      "name": "HDBSCAN Cluster: infantile, cases, figure, cerebral",
+      "name": "HDBSCAN Cluster: cases, not, any, three",
       "summary": "Codex-native cluster containing 2 processed papers.",
       "count": 2
     },
     {
-      "name": "HDBSCAN Cluster: cases, not, any, three",
+      "name": "HDBSCAN Cluster: four, health, not, case",
       "summary": "Codex-native cluster containing 2 processed papers.",
       "count": 2
     },
@@ -426,6 +451,11 @@
       "count": 2
     },
     {
+      "name": "HDBSCAN Cluster: shadow, heard, figure, right",
+      "summary": "Codex-native cluster containing 2 processed papers.",
+      "count": 2
+    },
+    {
       "name": "HDBSCAN Cluster: brain, years, after, infection",
       "summary": "Codex-native cluster containing 2 processed papers.",
       "count": 2
@@ -441,17 +471,17 @@
       "count": 2
     },
     {
+      "name": "HDBSCAN Cluster: figure, thermo-electric, studies, epileptic",
+      "summary": "Codex-native cluster containing 2 processed papers.",
+      "count": 2
+    },
+    {
       "name": "HDBSCAN Cluster: tlie, brain, has, been",
       "summary": "Codex-native cluster containing 2 processed papers.",
       "count": 2
     },
     {
       "name": "HDBSCAN Cluster: mental, functions, brain, lancet",
-      "summary": "Codex-native cluster containing 2 processed papers.",
-      "count": 2
-    },
-    {
-      "name": "HDBSCAN Cluster: cerebral, had, years, her",
       "summary": "Codex-native cluster containing 2 processed papers.",
       "count": 2
     },
@@ -481,7 +511,17 @@
       "count": 2
     },
     {
+      "name": "HDBSCAN Cluster: its, case, matter, medulla",
+      "summary": "Codex-native cluster containing 2 processed papers.",
+      "count": 2
+    },
+    {
       "name": "HDBSCAN Cluster: left, urine, side, there",
+      "summary": "Codex-native cluster containing 2 processed papers.",
+      "count": 2
+    },
+    {
+      "name": "HDBSCAN Cluster: dystonia, disease, nervous, been",
       "summary": "Codex-native cluster containing 2 processed papers.",
       "count": 2
     },
@@ -531,6 +571,11 @@
       "count": 2
     },
     {
+      "name": "HDBSCAN Cluster: center, optic, fibers, fasciculus",
+      "summary": "Codex-native cluster containing 2 processed papers.",
+      "count": 2
+    },
+    {
       "name": "HDBSCAN Cluster: tumor, two, years, brain",
       "summary": "Codex-native cluster containing 2 processed papers.",
       "count": 2
@@ -541,12 +586,12 @@
       "count": 2
     },
     {
-      "name": "HDBSCAN Cluster: protagon, cerebron, phrenosin, some",
+      "name": "HDBSCAN Cluster: its, has, davidia, baill",
       "summary": "Codex-native cluster containing 2 processed papers.",
       "count": 2
     },
     {
-      "name": "HDBSCAN Cluster: not, spirit, great, our",
+      "name": "HDBSCAN Cluster: protagon, cerebron, phrenosin, some",
       "summary": "Codex-native cluster containing 2 processed papers.",
       "count": 2
     },
@@ -556,7 +601,7 @@
       "count": 2
     },
     {
-      "name": "HDBSCAN Cluster: figure, brain, symptomatology, diagnosis",
+      "name": "HDBSCAN Cluster: figure, symptomatology, diagnosis, treatment",
       "summary": "Codex-native cluster containing 2 processed papers.",
       "count": 2
     },
@@ -567,11 +612,6 @@
     },
     {
       "name": "HDBSCAN Cluster: cliff, sands, deposits, third",
-      "summary": "Codex-native cluster containing 2 processed papers.",
-      "count": 2
-    },
-    {
-      "name": "HDBSCAN Cluster: alcohol, pressure, effect, hospital",
       "summary": "Codex-native cluster containing 2 processed papers.",
       "count": 2
     },
@@ -626,11 +666,6 @@
       "count": 2
     },
     {
-      "name": "HDBSCAN Cluster: some, ocular, herpes, seems",
-      "summary": "Codex-native cluster containing 2 processed papers.",
-      "count": 2
-    },
-    {
       "name": "HDBSCAN Cluster: symptoms, cerebellum, dog, tumour",
       "summary": "Codex-native cluster containing 2 processed papers.",
       "count": 2
@@ -646,7 +681,7 @@
       "count": 2
     },
     {
-      "name": "HDBSCAN Cluster: figure, report, case, melanosis",
+      "name": "HDBSCAN Cluster: tumor, been, case, brain",
       "summary": "Codex-native cluster containing 2 processed papers.",
       "count": 2
     },
@@ -661,6 +696,11 @@
       "count": 2
     },
     {
+      "name": "HDBSCAN Cluster: salicylates, figure, has, more",
+      "summary": "Codex-native cluster containing 2 processed papers.",
+      "count": 2
+    },
+    {
       "name": "HDBSCAN Cluster: tile, figure, penetrating, wounds",
       "summary": "Codex-native cluster containing 2 processed papers.",
       "count": 2
@@ -671,22 +711,17 @@
       "count": 2
     },
     {
-      "name": "HDBSCAN Cluster: patient, health, had, have",
-      "summary": "Codex-native cluster containing 2 processed papers.",
-      "count": 2
-    },
-    {
       "name": "HDBSCAN Cluster: show, nuclei, fibers, tissue",
       "summary": "Codex-native cluster containing 2 processed papers.",
       "count": 2
     },
     {
-      "name": "HDBSCAN Cluster: spinal, fluid, number, cases",
+      "name": "HDBSCAN Cluster: morphin, patients, effect, simple",
       "summary": "Codex-native cluster containing 2 processed papers.",
       "count": 2
     },
     {
-      "name": "HDBSCAN Cluster: figure, case, brain, prefrontal",
+      "name": "HDBSCAN Cluster: spinal, fluid, number, cases",
       "summary": "Codex-native cluster containing 2 processed papers.",
       "count": 2
     },
@@ -731,11 +766,6 @@
       "count": 2
     },
     {
-      "name": "HDBSCAN Cluster: cerebrospinal, fluid, poliomyelitis, lesions",
-      "summary": "Codex-native cluster containing 2 processed papers.",
-      "count": 2
-    },
-    {
       "name": "HDBSCAN Cluster: meningitis, cerebrospinal, epidemic, etiology",
       "summary": "Codex-native cluster containing 2 processed papers.",
       "count": 2
@@ -757,6 +787,11 @@
     },
     {
       "name": "HDBSCAN Cluster: poliomyelitis, cerebral, forms, there",
+      "summary": "Codex-native cluster containing 2 processed papers.",
+      "count": 2
+    },
+    {
+      "name": "HDBSCAN Cluster: tissue, significance, pancreatic, lymphoid",
       "summary": "Codex-native cluster containing 2 processed papers.",
       "count": 2
     },
@@ -786,6 +821,11 @@
       "count": 2
     },
     {
+      "name": "HDBSCAN Cluster: hexamethylenamin, had, experimental, value",
+      "summary": "Codex-native cluster containing 2 processed papers.",
+      "count": 2
+    },
+    {
       "name": "HDBSCAN Cluster: mus, norvegicus, norway, albino",
       "summary": "Codex-native cluster containing 2 processed papers.",
       "count": 2
@@ -802,6 +842,11 @@
     },
     {
       "name": "HDBSCAN Cluster: normal, pain, left, very",
+      "summary": "Codex-native cluster containing 2 processed papers.",
+      "count": 2
+    },
+    {
+      "name": "HDBSCAN Cluster: had, mastoiditis, she, her",
       "summary": "Codex-native cluster containing 2 processed papers.",
       "count": 2
     },
@@ -861,12 +906,22 @@
       "count": 2
     },
     {
+      "name": "HDBSCAN Cluster: its, syphilis, brain, cerebrospinal",
+      "summary": "Codex-native cluster containing 2 processed papers.",
+      "count": 2
+    },
+    {
       "name": "HDBSCAN Cluster: blood, calcium, effect, has",
       "summary": "Codex-native cluster containing 2 processed papers.",
       "count": 2
     },
     {
       "name": "HDBSCAN Cluster: cerebrospinal, fluid, spaces, its",
+      "summary": "Codex-native cluster containing 2 processed papers.",
+      "count": 2
+    },
+    {
+      "name": "HDBSCAN Cluster: kidney, not, which, extension",
       "summary": "Codex-native cluster containing 2 processed papers.",
       "count": 2
     },
@@ -881,7 +936,7 @@
       "count": 2
     },
     {
-      "name": "HDBSCAN Cluster: diphtheria, cultures, carriers, not",
+      "name": "HDBSCAN Cluster: cerebral, findings, tissue, animal",
       "summary": "Codex-native cluster containing 2 processed papers.",
       "count": 2
     },
@@ -891,17 +946,12 @@
       "count": 2
     },
     {
-      "name": "HDBSCAN Cluster: tissue, cells, other, lymphoid",
-      "summary": "Codex-native cluster containing 2 processed papers.",
-      "count": 2
-    },
-    {
-      "name": "HDBSCAN Cluster: all, cases, meningitis, findings",
-      "summary": "Codex-native cluster containing 2 processed papers.",
-      "count": 2
-    },
-    {
       "name": "HDBSCAN Cluster: trophic, changes, herpes, has",
+      "summary": "Codex-native cluster containing 2 processed papers.",
+      "count": 2
+    },
+    {
+      "name": "HDBSCAN Cluster: brain, abscess, histopathology, carcinoma",
       "summary": "Codex-native cluster containing 2 processed papers.",
       "count": 2
     },
@@ -922,6 +972,11 @@
     },
     {
       "name": "HDBSCAN Cluster: del, las, cerebelo, areas",
+      "summary": "Codex-native cluster containing 2 processed papers.",
+      "count": 2
+    },
+    {
+      "name": "HDBSCAN Cluster: brain, cases, hospitals, tumors",
       "summary": "Codex-native cluster containing 2 processed papers.",
       "count": 2
     },
