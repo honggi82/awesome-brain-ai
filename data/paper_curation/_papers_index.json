@@ -15,7 +15,7 @@
     {
       "slug": "015_EXPERIMENTAL_AND_CLINICAL_NOTES_ON_THE_SUBARACHNOID_SPACE",
       "title": "EXPERIMENTAL AND CLINICAL NOTES ON THE SUBARACHNOID SPACE.",
-      "category": "HDBSCAN Cluster: case, which, figure, not",
+      "category": "HDBSCAN Cluster: figure, which, case, not",
       "key": "FOLDER00005_4c697892d500",
       "sourceIndex": null,
       "textBytes": 37623,
@@ -35,7 +35,7 @@
     {
       "slug": "018_THYROID_EXTRACT_IN_JUVENILE_OBESITY_A_CLINICAL_NOTE",
       "title": "THYROID EXTRACT IN JUVENILE OBESITY: A CLINICAL NOTE.",
-      "category": "HDBSCAN Cluster: patient, but, his, have",
+      "category": "HDBSCAN Cluster: his, such, figure, patient",
       "key": "FOLDER00021_69ebe9dc5193",
       "sourceIndex": null,
       "textBytes": 15042,
@@ -175,7 +175,7 @@
     {
       "slug": "245_RECONSTRUCTION_OF_SERIAL_SECTIONS_OF_BRAIN",
       "title": "RECONSTRUCTION OF SERIAL SECTIONS OF BRAIN",
-      "category": "HDBSCAN Cluster: figure, brain, reconstruction, serial",
+      "category": "HDBSCAN Cluster: figure, brain, cerebral, reconstruction",
       "key": "FOLDER00067_cf46bece416f",
       "sourceIndex": 17,
       "textBytes": 0,
@@ -195,7 +195,7 @@
     {
       "slug": "247_The_Alleged_Adulteration_of_Milk_with_Brain-matter1",
       "title": "The Alleged Adulteration of Milk with Brain-matter:1",
-      "category": "HDBSCAN Cluster: figure, development, contents, university",
+      "category": "HDBSCAN Bridge and Noise Papers",
       "key": "FOLDER00069_ba3152b570a3",
       "sourceIndex": 19,
       "textBytes": 9061,
@@ -405,7 +405,7 @@
     {
       "slug": "268_ABNORMAL_BRAIN_DEVELOPMENT",
       "title": "ABNORMAL BRAIN DEVELOPMENT",
-      "category": "HDBSCAN Cluster: patient, but, his, have",
+      "category": "HDBSCAN Cluster: his, such, figure, patient",
       "key": "FOLDER00120_77be0543c2a0",
       "sourceIndex": 40,
       "textBytes": 21182,
@@ -425,7 +425,7 @@
     {
       "slug": "271_Four_Cases_of_Primary_Thrombosis_of_Cerebral_Veins_and_Sinus",
       "title": "Four Cases of Primary Thrombosis of Cerebral Veins and Sinuses in Children *",
-      "category": "HDBSCAN Bridge and Noise Papers",
+      "category": "HDBSCAN Cluster: figure, which, case, not",
       "key": "FOLDER00127_f5c72e8d2466",
       "sourceIndex": 42,
       "textBytes": 36784,
@@ -535,7 +535,7 @@
     {
       "slug": "281_REPORT_OF_A_CASE_OF_BRAIN_INJURY_WITH_PECULIAR_WHISTLING_SPE",
       "title": "REPORT OF A CASE OF BRAIN INJURY, WITH PECULIAR WHISTLING SPELLS FOLLOWING OPERATION",
-      "category": "HDBSCAN Cluster: case, brain, fits, injury",
+      "category": "HDBSCAN Bridge and Noise Papers",
       "key": "FOLDER00148_cc6fab272dee",
       "sourceIndex": 53,
       "textBytes": 3374,
@@ -625,7 +625,7 @@
     {
       "slug": "288_THE_ETIOLOGY_OF_PARETIC_DEMENTIA",
       "title": "THE ETIOLOGY OF PARETIC DEMENTIA.",
-      "category": "HDBSCAN Cluster: diagnosis, disease, not, has",
+      "category": "HDBSCAN Bridge and Noise Papers",
       "key": "FOLDER00163_703468c1c0a5",
       "sourceIndex": 62,
       "textBytes": 24155,
@@ -685,7 +685,7 @@
     {
       "slug": "778_Successful_Operation_upon_a_Case_of_Brain_Abscess_Following",
       "title": "Successful Operation upon a Case of Brain Abscess Following Suppurative Middle Ear Disease",
-      "category": "HDBSCAN Bridge and Noise Papers",
+      "category": "HDBSCAN Cluster: tetanus, successful, upon, three",
       "key": "FOLDER00182_03cf974c5454",
       "sourceIndex": 68,
       "textBytes": 15332,
@@ -715,7 +715,7 @@
     {
       "slug": "781_Thermo-Electric_Studies_on_the_Epileptic_Brain",
       "title": "Thermo-Electric Studies on the Epileptic Brain",
-      "category": "HDBSCAN Cluster: figure, thermo-electric, studies, epileptic",
+      "category": "HDBSCAN Cluster: figure, brain, cerebral, reconstruction",
       "key": "FOLDER00189_0ff9e7d207e6",
       "sourceIndex": 71,
       "textBytes": 0,
@@ -735,7 +735,7 @@
     {
       "slug": "783_A_CASE_OF_COMBINED_GASTRIC_AND_AURAL_VERTIGO_WITH_A_DISCUSSI",
       "title": "A CASE OF COMBINED GASTRIC AND AURAL VERTIGO, WITH A DISCUSSION OF THE PATHOLOGY OF SUCH CASES.",
-      "category": "HDBSCAN Cluster: cases, some, vertigo, case",
+      "category": "HDBSCAN Bridge and Noise Papers",
       "key": "FOLDER00196_46909481d624",
       "sourceIndex": 73,
       "textBytes": 24925,
@@ -795,7 +795,7 @@
     {
       "slug": "789_The_neuroglia_of_the_spinal_cord_of_the_elephant_with_some_p",
       "title": "The neuroglia of the spinal cord of the elephant with some preliminary observations upon the development of neuroglia fibers",
-      "category": "HDBSCAN Cluster: neuroglia, spinal, cord, elephant",
+      "category": "HDBSCAN Cluster: neuroglia, which, spinal, cord",
       "key": "FOLDER00215_45dca8e59bb6",
       "sourceIndex": 79,
       "textBytes": 58647,
@@ -925,7 +925,7 @@
     {
       "slug": "802_A_Clinical_Lecture_ON_A_CASE_OF_TRAUMATIC_EPILEPSY_WITH_ADHE",
       "title": "A Clinical Lecture ON A CASE OF TRAUMATIC EPILEPSY WITH ADHESION OF SKIN TO BRAIN",
-      "category": "HDBSCAN Cluster: case, brain, fits, injury",
+      "category": "HDBSCAN Bridge and Noise Papers",
       "key": "FOLDER00245_5e9603812f8a",
       "sourceIndex": 92,
       "textBytes": 12420,
@@ -955,7 +955,7 @@
     {
       "slug": "805_Clinical_Differentiation_of_Brain_Syphilis_And_General_Pares",
       "title": "Clinical Differentiation of Brain Syphilis And General Paresis",
-      "category": "HDBSCAN Bridge and Noise Papers",
+      "category": "HDBSCAN Cluster: figure, clinical, differentiation, brain",
       "key": "FOLDER00250_85f93e798b80",
       "sourceIndex": 95,
       "textBytes": 0,
@@ -1015,7 +1015,7 @@
     {
       "slug": "1550_A_CASE_OF_TUMOR_OF_THE_CEREBELLUM_AUTOPSY",
       "title": "A CASE OF TUMOR OF THE CEREBELLUM; AUTOPSY",
-      "category": "HDBSCAN Cluster: had, case, figure, patient",
+      "category": "HDBSCAN Cluster: had, case, figure, she",
       "key": "FOLDER00269_172ebf3bdf3d",
       "sourceIndex": 101,
       "textBytes": 7755,
@@ -1025,7 +1025,7 @@
     {
       "slug": "1551_A_CASE_OF_UNUSUAL_CEREBRAL_HEMORRHAGE",
       "title": "A CASE OF UNUSUAL CEREBRAL HEMORRHAGE",
-      "category": "HDBSCAN Cluster: had, case, figure, patient",
+      "category": "HDBSCAN Cluster: had, case, figure, she",
       "key": "FOLDER00270_3cf561d38edb",
       "sourceIndex": 102,
       "textBytes": 4787,
@@ -1275,7 +1275,7 @@
     {
       "slug": "1571_THE_RESULTS_OF_SURGICAL_TREATMENT_OF_BRAIN_TUMORS",
       "title": "THE RESULTS OF SURGICAL TREATMENT OF BRAIN TUMORS",
-      "category": "HDBSCAN Bridge and Noise Papers",
+      "category": "HDBSCAN Cluster: been, have, but, operation",
       "key": "FOLDER00325_8ab11d3b7bf7",
       "sourceIndex": 127,
       "textBytes": 30696,
@@ -1305,7 +1305,7 @@
     {
       "slug": "1574_RESULTS_OF_BRAIN_SURGERY_IN_EPILEPSY_AND_CONGENITAL_MENTAL_D",
       "title": "RESULTS OF BRAIN SURGERY IN EPILEPSY AND CONGENITAL MENTAL DEFECT",
-      "category": "HDBSCAN Bridge and Noise Papers",
+      "category": "HDBSCAN Cluster: epilepsy, surgery, treatment, university",
       "key": "FOLDER00332_59683352be07",
       "sourceIndex": 130,
       "textBytes": 51961,
@@ -1315,7 +1315,7 @@
     {
       "slug": "1575_The_Brain-Weight_of_the_Japanese",
       "title": "The Brain-Weight of the Japanese",
-      "category": "HDBSCAN Cluster: japanese, professor, brain-weight, figure",
+      "category": "HDBSCAN Cluster: all, brains, brain-weight, japanese",
       "key": "FOLDER00333_945cf4bad2e6",
       "sourceIndex": 131,
       "textBytes": 11066,
@@ -1395,7 +1395,7 @@
     {
       "slug": "1583_A_CASE_OF_BRAIN_ABSCESS_DUE_TO_LATENT_TYPHOID_INFECTION_OPER",
       "title": "A CASE OF BRAIN ABSCESS: DUE TO LATENT TYPHOID INFECTION; OPERATION; DEATH FROM CARDIAC COMPLICATION.",
-      "category": "HDBSCAN Cluster: case, brain, optic, neuritis",
+      "category": "HDBSCAN Cluster: brain, case, abscess, figure",
       "key": "FOLDER00342_c988d30c4c00",
       "sourceIndex": 139,
       "textBytes": 14242,
@@ -1495,7 +1495,7 @@
     {
       "slug": "1593_The_Affenspalte_in_Human_Brains",
       "title": "The \"Affenspalte\" in Human Brains",
-      "category": "HDBSCAN Cluster: figure, thermo-electric, studies, epileptic",
+      "category": "HDBSCAN Cluster: figure, brain, cerebral, reconstruction",
       "key": "FOLDER00366_83cc5e202688",
       "sourceIndex": 149,
       "textBytes": 0,
@@ -1505,7 +1505,7 @@
     {
       "slug": "1594_A_Brain_Hardened_by_Kaiserlings_Method_Showing_the_Track_of",
       "title": "A Brain Hardened by Kaiserling's Method Showing the Track of a Bullet",
-      "category": "HDBSCAN Cluster: brain, his, grams, weighed",
+      "category": "HDBSCAN Cluster: brain, grams, his, weighed",
       "key": "FOLDER00367_3aba753ef907",
       "sourceIndex": 150,
       "textBytes": 11765,
@@ -1545,7 +1545,7 @@
     {
       "slug": "1598_Latent_Brain_Abscess_Becoming_Evident_with_Symptoms_of_Atrop",
       "title": "Latent Brain Abscess Becoming Evident with Symptoms of Atropine Poisoning",
-      "category": "HDBSCAN Cluster: case, which, figure, not",
+      "category": "HDBSCAN Cluster: figure, which, case, not",
       "key": "FOLDER00380_4a4df70f742e",
       "sourceIndex": 154,
       "textBytes": 7788,
@@ -1605,7 +1605,7 @@
     {
       "slug": "1603_On_the_development_and_nature_of_the_Neuroglia",
       "title": "On the development and nature of the Neuroglia",
-      "category": "HDBSCAN Cluster: figure, development, contents, university",
+      "category": "HDBSCAN Bridge and Noise Papers",
       "key": "FOLDER00401_4099a96e6b43",
       "sourceIndex": 160,
       "textBytes": 113969,
@@ -1705,7 +1705,7 @@
     {
       "slug": "1613_The_toxicity_of_indol",
       "title": "\"The toxicity of indol\"",
-      "category": "HDBSCAN Cluster: gelatin, indol, figure, cent",
+      "category": "HDBSCAN Cluster: gelatin, indol, cent, red",
       "key": "FOLDER00423_f295d5f2150f",
       "sourceIndex": 170,
       "textBytes": 4565,
@@ -1805,7 +1805,7 @@
     {
       "slug": "1623_Analogies_between_the_phosphorized_fats_obtained_from_the_br",
       "title": "\"Analogies between the phosphorized fats obtained from the brain and kidney,\" with exhibition of products",
-      "category": "HDBSCAN Cluster: gelatin, indol, figure, cent",
+      "category": "HDBSCAN Cluster: gelatin, indol, cent, red",
       "key": "FOLDER00443_adeda760b0d9",
       "sourceIndex": 180,
       "textBytes": 7871,
@@ -1845,7 +1845,7 @@
     {
       "slug": "1627_PATHOLOGY_OF_INEBRIETYSUPERINTENDENT_WALNUT_LODGE_HOSPITAL",
       "title": "PATHOLOGY OF INEBRIETY.SUPERINTENDENT WALNUT LODGE HOSPITAL.",
-      "category": "HDBSCAN Cluster: gelatin, indol, figure, cent",
+      "category": "HDBSCAN Cluster: group, sugar, test, cases",
       "key": "FOLDER00451_00b3b48ff432",
       "sourceIndex": 184,
       "textBytes": 22280,
@@ -1905,7 +1905,7 @@
     {
       "slug": "1632_A_CONTRIBUTION_TO_THE_STUDY_OF_VISUAL_DISTURBANCES_IN_BRAIN",
       "title": "A CONTRIBUTION TO THE STUDY OF VISUAL DISTURBANCES IN BRAIN INJURY.",
-      "category": "HDBSCAN Cluster: not, spirit, great, our",
+      "category": "HDBSCAN Bridge and Noise Papers",
       "key": "FOLDER00464_102a3648b0d4",
       "sourceIndex": 190,
       "textBytes": 42238,
@@ -1915,7 +1915,7 @@
     {
       "slug": "1633_A_HEAVY_JAPANESE_BRAIN",
       "title": "A HEAVY JAPANESE BRAIN.",
-      "category": "HDBSCAN Cluster: japanese, professor, brain-weight, figure",
+      "category": "HDBSCAN Cluster: brain, grams, his, weighed",
       "key": "FOLDER00467_397968a58c23",
       "sourceIndex": 191,
       "textBytes": 4275,
@@ -1925,7 +1925,7 @@
     {
       "slug": "1634_Brain_Surgery_in_Epilepsy_and_Concenital_Mental_Defect",
       "title": "Brain Surgery in Epilepsy and Concenital Mental Defect",
-      "category": "HDBSCAN Cluster: figure, brain, reconstruction, serial",
+      "category": "HDBSCAN Cluster: figure, brain, cerebral, reconstruction",
       "key": "FOLDER00471_cfb8ab6a05fd",
       "sourceIndex": 192,
       "textBytes": 0,
@@ -1955,7 +1955,7 @@
     {
       "slug": "1637_THE_BRAIN_OF_A_SWEDISH_STATESMAN",
       "title": "THE BRAIN OF A SWEDISH STATESMAN.",
-      "category": "HDBSCAN Cluster: japanese, professor, brain-weight, figure",
+      "category": "HDBSCAN Cluster: all, brains, brain-weight, japanese",
       "key": "FOLDER00481_fb03e72c6e0c",
       "sourceIndex": 195,
       "textBytes": 8525,
@@ -2025,7 +2025,7 @@
     {
       "slug": "1643_On_the_Development_of_the_blood-vessels_of_the_brain_in_the",
       "title": "On the Development of the blood-vessels of the brain in the human embryo",
-      "category": "HDBSCAN Cluster: neuroglia, spinal, cord, elephant",
+      "category": "HDBSCAN Cluster: neuroglia, which, spinal, cord",
       "key": "FOLDER00502_111a8bd1224f",
       "sourceIndex": 202,
       "textBytes": 46624,
@@ -2135,7 +2135,7 @@
     {
       "slug": "1654_THE_TREATMENT_OF_CEREBRAL_PALSIES_AND_ATHETOSIS_BY_NERVE_ANA",
       "title": "THE TREATMENT OF CEREBRAL PALSIES AND ATHETOSIS BY NERVE ANASTOMOSIS AND TRANSPLANTATION",
-      "category": "HDBSCAN Bridge and Noise Papers",
+      "category": "HDBSCAN Cluster: epilepsy, surgery, treatment, university",
       "key": "FOLDER00528_c1f14b4e63f8",
       "sourceIndex": 213,
       "textBytes": 16900,
@@ -2145,7 +2145,7 @@
     {
       "slug": "1655_The_Treatment_of_Cerebral_Tumors",
       "title": "The Treatment of Cerebral Tumors",
-      "category": "HDBSCAN Cluster: figure, brain, reconstruction, serial",
+      "category": "HDBSCAN Cluster: figure, brain, cerebral, reconstruction",
       "key": "FOLDER00532_6deacaf811a3",
       "sourceIndex": 214,
       "textBytes": 0,
@@ -2165,7 +2165,7 @@
     {
       "slug": "1657_A_CASE_OF_HEART_GUMMATA_WITH_SUDDEN_DEATH",
       "title": "A CASE OF HEART GUMMATA, WITH SUDDEN DEATH.",
-      "category": "HDBSCAN Cluster: tube, not, case, also",
+      "category": "HDBSCAN Bridge and Noise Papers",
       "key": "FOLDER00538_39dadd44b8e5",
       "sourceIndex": 216,
       "textBytes": 31039,
@@ -2205,7 +2205,7 @@
     {
       "slug": "1661_Cerebral_Symptoms_in_Measles",
       "title": "Cerebral Symptoms in Measles",
-      "category": "HDBSCAN Bridge and Noise Papers",
+      "category": "HDBSCAN Cluster: figure, clinical, differentiation, brain",
       "key": "FOLDER00545_ab795e82278b",
       "sourceIndex": 220,
       "textBytes": 0,
@@ -2265,7 +2265,7 @@
     {
       "slug": "1667_EARLY_DIAGNOSIS_OF_SURGICAL_DISEASES_OF_THE_URINARY_TRACT",
       "title": "EARLY DIAGNOSIS OF SURGICAL DISEASES OF THE URINARY TRACT.",
-      "category": "HDBSCAN Cluster: diagnosis, disease, not, has",
+      "category": "HDBSCAN Cluster: diagnosis, diseases, urinary, nervous",
       "key": "FOLDER00554_8d94cf4c2110",
       "sourceIndex": 226,
       "textBytes": 25764,
@@ -2335,7 +2335,7 @@
     {
       "slug": "1673_A_CASE_OF_CHOLESTERIN_STONES_TN_THE_BRAIN_AND_CORD",
       "title": "A CASE OF CHOLESTERIN STONES TN THE BRAIN AND CORD.",
-      "category": "HDBSCAN Cluster: gelatin, indol, figure, cent",
+      "category": "HDBSCAN Cluster: gelatin, indol, cent, red",
       "key": "FOLDER00565_787e4d658707",
       "sourceIndex": 233,
       "textBytes": 21087,
@@ -2365,7 +2365,7 @@
     {
       "slug": "1676_REPORT_OF_TWO_FATAL_CASES_OF_BRAIN_ABSCESS",
       "title": "REPORT OF TWO FATAL CASES OF BRAIN ABSCESS",
-      "category": "HDBSCAN Bridge and Noise Papers",
+      "category": "HDBSCAN Cluster: brain, case, abscess, figure",
       "key": "FOLDER00576_e68960709dee",
       "sourceIndex": 236,
       "textBytes": 26955,
@@ -2395,7 +2395,7 @@
     {
       "slug": "1678_THE_EFFECT_OF_ALCOHOL_UPON_THE_HUMAN_BRAIN",
       "title": "THE EFFECT OF ALCOHOL UPON THE HUMAN BRAIN",
-      "category": "HDBSCAN Bridge and Noise Papers",
+      "category": "HDBSCAN Cluster: alcohol, pressure, effect, hospital",
       "key": "FOLDER00579_803890c5f487",
       "sourceIndex": 239,
       "textBytes": 53792,
@@ -2405,7 +2405,7 @@
     {
       "slug": "1779_A_FURTHER_NOTE_ON_THE_RELATION_BETWEEN_VARIOUS_ATMOSPHERIC_C",
       "title": "A FURTHER NOTE ON THE RELATION BETWEEN VARIOUS ATMOSPHERIC CONDITIONS AND THE OCCURRENCE OF CEREBRAL HÆMORRHAGE.",
-      "category": "HDBSCAN Bridge and Noise Papers",
+      "category": "HDBSCAN Cluster: alcohol, pressure, effect, hospital",
       "key": "FOLDER00585_9e53911c6161",
       "sourceIndex": 240,
       "textBytes": 7996,
@@ -2435,7 +2435,7 @@
     {
       "slug": "1782_APHASIA_AND_THE_CEREBRAL_ZONE_OF_SPEECH",
       "title": "APHASIA AND THE CEREBRAL ZONE OF SPEECH",
-      "category": "HDBSCAN Cluster: figure, thermo-electric, studies, epileptic",
+      "category": "HDBSCAN Cluster: figure, brain, cerebral, reconstruction",
       "key": "FOLDER00590_792e5ce23c8f",
       "sourceIndex": 243,
       "textBytes": 0,
@@ -2555,7 +2555,7 @@
     {
       "slug": "1794_REMOVAL_OF_A_CEREBRAL_TUMOUR_ENDOTHELIOMA_WHICH_HAD_INVADED",
       "title": "REMOVAL OF A CEREBRAL TUMOUR (ENDOTHELIOMA) WHICH HAD INVADED THE OVERLYING CRANIAL BONE.",
-      "category": "HDBSCAN Cluster: should, which, how, had",
+      "category": "HDBSCAN Cluster: been, have, but, operation",
       "key": "FOLDER00620_9137ef94d55d",
       "sourceIndex": 255,
       "textBytes": 23943,
@@ -2585,7 +2585,7 @@
     {
       "slug": "1797_THE_RELATIVE_BRAIN-WEIGHT_OF_MAN_AND_WOMAN",
       "title": "THE RELATIVE BRAIN-WEIGHT OF MAN AND WOMAN",
-      "category": "HDBSCAN Cluster: but, have, been, very",
+      "category": "HDBSCAN Cluster: been, have, but, operation",
       "key": "FOLDER00625_ebda96dbda48",
       "sourceIndex": 258,
       "textBytes": 16752,
@@ -2645,7 +2645,7 @@
     {
       "slug": "1797_THE_RELATIVE_BRAIN-WEIGHT_OF_MAN_AND_WOMAN",
       "title": "THE RELATIVE BRAIN-WEIGHT OF MAN AND WOMAN",
-      "category": "HDBSCAN Cluster: but, have, been, very",
+      "category": "HDBSCAN Cluster: been, have, but, operation",
       "key": "FOLDER00639_3174b25c3466",
       "sourceIndex": 264,
       "textBytes": 16752,
@@ -2665,7 +2665,7 @@
     {
       "slug": "1824_CEREBROSPINAL_MENINGITIS_IN_NEW_YORK_CITY_DURING_1904_AND_19",
       "title": "CEREBROSPINAL MENINGITIS IN NEW YORK CITY DURING 1904 AND 1905.",
-      "category": "HDBSCAN Cluster: figure, have, nervous, brain",
+      "category": "HDBSCAN Bridge and Noise Papers",
       "key": "FOLDER00642_571140604085",
       "sourceIndex": 266,
       "textBytes": 43453,
@@ -2705,7 +2705,7 @@
     {
       "slug": "1828_THE_LOCALIZATION_OF_THE_HIGHER_PSYCHIC_FUNCTIONS_WITH_SPECIA",
       "title": "THE LOCALIZATION OF THE HIGHER PSYCHIC FUNCTIONS, WITH SPECIAL REFERENCE TO THE PREFRONTAL LOBE.",
-      "category": "HDBSCAN Cluster: more, cortex, localization, cerebral",
+      "category": "HDBSCAN Bridge and Noise Papers",
       "key": "FOLDER00649_6c67e6d598e7",
       "sourceIndex": 270,
       "textBytes": 36209,
@@ -2825,7 +2825,7 @@
     {
       "slug": "1866_The_Childs_World_of_Imagination",
       "title": "The Child's World of Imagination",
-      "category": "HDBSCAN Bridge and Noise Papers",
+      "category": "HDBSCAN Cluster: imagination, not, child, world",
       "key": "FOLDER00668_90897fb16a0a",
       "sourceIndex": 282,
       "textBytes": 34853,
@@ -2895,7 +2895,7 @@
     {
       "slug": "1873_REPORT_OF_A_BRAIN_WEIGHING_2069_GRAMS_73_OUNCES",
       "title": "REPORT OF A BRAIN WEIGHING 2,069 GRAMS (73 OUNCES).",
-      "category": "HDBSCAN Cluster: brain, his, grams, weighed",
+      "category": "HDBSCAN Cluster: brain, grams, his, weighed",
       "key": "FOLDER00684_6533f61fafe0",
       "sourceIndex": 289,
       "textBytes": 6801,
@@ -2945,7 +2945,7 @@
     {
       "slug": "1878_HYSTERICAL_STIGMATA_CAUSED_BY_ORGANIC_BRAIN_LESSIONS",
       "title": "HYSTERICAL STIGMATA CAUSED BY ORGANIC BRAIN LESSIONS",
-      "category": "HDBSCAN Cluster: figure, have, nervous, brain",
+      "category": "HDBSCAN Cluster: figure, brain, diseases, they",
       "key": "FOLDER00696_6f0b4d3b8202",
       "sourceIndex": 294,
       "textBytes": 32929,
@@ -2965,7 +2965,7 @@
     {
       "slug": "1880_Experiments_in_transplanting_limbs_and_their_bearing_upon_th",
       "title": "Experiments in transplanting limbs and their bearing upon the problems of the development of nerves",
-      "category": "HDBSCAN Cluster: experiments, their, development, nerve",
+      "category": "HDBSCAN Bridge and Noise Papers",
       "key": "FOLDER00703_066745dd6b90",
       "sourceIndex": 296,
       "textBytes": 89667,
@@ -2975,7 +2975,7 @@
     {
       "slug": "1881_ANEURISMS_OF_THE_LARGER_CEREBRAL_ARTERIES",
       "title": "ANEURISMS OF THE LARGER CEREBRAL ARTERIES",
-      "category": "HDBSCAN Cluster: aneurisms, arteries, brain, aneurism",
+      "category": "HDBSCAN Cluster: brain, aneurisms, arteries, diagnosis",
       "key": "FOLDER00704_1b1b6fcc4090",
       "sourceIndex": 297,
       "textBytes": 118601,
@@ -2995,7 +2995,7 @@
     {
       "slug": "1883_CASE_OF_TUMOUR_OF_THE_MIDDLE_LOBE_OF_THE_CEREBELLUM_-_CEREBE",
       "title": "CASE OF TUMOUR OF THE MIDDLE LOBE OF THE CEREBELLUM - CEREBELLAR PARALYSIS WITH RIGIDITY (CEREBELLAR ATTITUDE) - OCCASIONAL TETANUS-LIKE SEIZURES (1871)",
-      "category": "HDBSCAN Cluster: aneurisms, arteries, brain, aneurism",
+      "category": "HDBSCAN Cluster: brain, aneurisms, arteries, diagnosis",
       "key": "FOLDER00706_2786985c1fc2",
       "sourceIndex": 299,
       "textBytes": 28452,
@@ -3065,7 +3065,7 @@
     {
       "slug": "1916_ON_DR_HUGHLINGS_JACKSONS_VIEWS_OF_THE_FUNCTIONS_OF_THE_CEREB",
       "title": "ON DR. HUGHLINGS JACKSON'S VIEWS OF THE FUNCTIONS OF THE CEREBELLUM AS ILLUSTRATED BY RECENT RESEARCH",
-      "category": "HDBSCAN Cluster: brain, hughlings, jackson, commission",
+      "category": "HDBSCAN Cluster: hughlings, jackson, has, his",
       "key": "FOLDER00719_411270337936",
       "sourceIndex": 306,
       "textBytes": 44748,
@@ -3085,7 +3085,7 @@
     {
       "slug": "1918_DR_HUGHLINGS_JACKSONS_VIEWS_OF_THE_FUNCTIONS_OF_THE_CEREBELL",
       "title": "DR. HUGHLINGS JACKSON'S VIEWS OF THE FUNCTIONS OF THE CEREBELLUM, AS ILLUSTRATED BY RECENT RESEARCH",
-      "category": "HDBSCAN Cluster: figure, discharge, such, they",
+      "category": "HDBSCAN Cluster: his, such, figure, patient",
       "key": "FOLDER00728_27d451aa0922",
       "sourceIndex": 308,
       "textBytes": 49873,
@@ -3095,7 +3095,7 @@
     {
       "slug": "1919_THE_PATHOLOGICAL_CHANGES_IN_THE_CENTRAL_NERVOUS_SYSTEM_IN_EX",
       "title": "THE PATHOLOGICAL CHANGES IN THE CENTRAL NERVOUS SYSTEM IN EXPERIMENTAL DIPHTHERIA",
-      "category": "HDBSCAN Cluster: brain, hughlings, jackson, commission",
+      "category": "HDBSCAN Cluster: brain, commission, pathological, present",
       "key": "FOLDER00729_28374c76b391",
       "sourceIndex": 309,
       "textBytes": 21842,
@@ -3105,7 +3105,7 @@
     {
       "slug": "1920_ON_THE_CULTIVATION_OF_THE_MENINGOCOCCUS_IN_THE_PRESENT_EPIDE",
       "title": "ON THE CULTIVATION OF THE MENINGOCOCCUS IN THE PRESENT EPIDEMIC OF CEREBROSPINAL MENINGITIS IN BELFAST",
-      "category": "HDBSCAN Bridge and Noise Papers",
+      "category": "HDBSCAN Cluster: group, sugar, test, cases",
       "key": "FOLDER00731_2776af81ffd7",
       "sourceIndex": 310,
       "textBytes": 26667,
@@ -3115,7 +3115,7 @@
     {
       "slug": "1921_SOME_UNUSUAL_OCULAR_MANIFESTATIONS_OF_ARTERIOSCLEROSIS",
       "title": "SOME UNUSUAL OCULAR MANIFESTATIONS OF ARTERIOSCLEROSIS.",
-      "category": "HDBSCAN Cluster: cases, some, vertigo, case",
+      "category": "HDBSCAN Cluster: cases, have, some, injection",
       "key": "FOLDER00733_d1d4fd4427c5",
       "sourceIndex": 311,
       "textBytes": 34711,
@@ -3215,7 +3215,7 @@
     {
       "slug": "1957_MIGRAINIC_PSYCHOSESAPROPOS_OF_TWELVE_CASES",
       "title": "MIGRAINIC PSYCHOSES.APROPOS OF TWELVE CASES.",
-      "category": "HDBSCAN Cluster: cases, some, vertigo, case",
+      "category": "HDBSCAN Cluster: cases, have, some, injection",
       "key": "FOLDER00762_4f99998e2f0a",
       "sourceIndex": 321,
       "textBytes": 40359,
@@ -3255,7 +3255,7 @@
     {
       "slug": "1960_CHRONIC_ACETANILID_POISONING_FROM_HARPERS_BRAIN_FOOD",
       "title": "CHRONIC ACETANILID POISONING FROM HARPER'S BRAIN FOOD.",
-      "category": "HDBSCAN Cluster: tube, not, case, also",
+      "category": "HDBSCAN Bridge and Noise Papers",
       "key": "FOLDER00771_61a1ce9236ef",
       "sourceIndex": 325,
       "textBytes": 5450,
@@ -3285,7 +3285,7 @@
     {
       "slug": "1963_JOINT_AFFECTIONS_IN_NERVOUS_DISEASE",
       "title": "JOINT AFFECTIONS IN NERVOUS DISEASE.",
-      "category": "HDBSCAN Cluster: diagnosis, disease, not, has",
+      "category": "HDBSCAN Cluster: diagnosis, diseases, urinary, nervous",
       "key": "FOLDER00777_ef8a7ccad4de",
       "sourceIndex": 328,
       "textBytes": 29389,
@@ -3455,7 +3455,7 @@
     {
       "slug": "2006_ON_THE_MECHANISM_OF_GLIOSIS_IN_ACQUIRED_EPILEPSY",
       "title": "ON THE MECHANISM OF GLIOSIS IN ACQUIRED EPILEPSY",
-      "category": "HDBSCAN Cluster: figure, have, nervous, brain",
+      "category": "HDBSCAN Cluster: figure, brain, diseases, they",
       "key": "FOLDER00829_18a2e7932493",
       "sourceIndex": 345,
       "textBytes": 98971,
@@ -3485,7 +3485,7 @@
     {
       "slug": "2009_THE_STATE_OF_THE_BRAIN_DURING_HYPNOSIS",
       "title": "THE STATE OF THE BRAIN DURING HYPNOSIS.",
-      "category": "HDBSCAN Cluster: figure, have, nervous, brain",
+      "category": "HDBSCAN Cluster: figure, brain, diseases, they",
       "key": "FOLDER00835_57065479c067",
       "sourceIndex": 348,
       "textBytes": 49701,
@@ -3515,7 +3515,7 @@
     {
       "slug": "2012_Report_on_the_present_status_of_the_Academic_Institutes_for",
       "title": "Report on the present status of the Academic Institutes for brain study, together with a report of the meetings of the executive committee of the brain commission, held at Berlin, March 14, 1908",
-      "category": "HDBSCAN Cluster: brain, hughlings, jackson, commission",
+      "category": "HDBSCAN Cluster: brain, commission, pathological, present",
       "key": "FOLDER00839_5b5529bbb904",
       "sourceIndex": 351,
       "textBytes": 7850,
@@ -3525,7 +3525,7 @@
     {
       "slug": "2013_SOME_POINTS_ABOUT_PUNCTURE_OF_THE_BRAIN",
       "title": "SOME POINTS ABOUT PUNCTURE OF THE BRAIN.",
-      "category": "HDBSCAN Bridge and Noise Papers",
+      "category": "HDBSCAN Cluster: tetanus, successful, upon, three",
       "key": "FOLDER00844_58971f84c6ed",
       "sourceIndex": 352,
       "textBytes": 17862,
@@ -3535,7 +3535,7 @@
     {
       "slug": "2014_Abnormal_Pulsating_Vessels_in_the_Pharynx",
       "title": "Abnormal Pulsating Vessels in the Pharynx",
-      "category": "HDBSCAN Cluster: figure, discharge, such, they",
+      "category": "HDBSCAN Cluster: his, such, figure, patient",
       "key": "FOLDER00845_e16b6ffccb9e",
       "sourceIndex": 353,
       "textBytes": 10602,
@@ -3575,7 +3575,7 @@
     {
       "slug": "2018_HEMORRHAGE_INTO_THE_VENTRICLES_ITS_RELATION_TO_CONVULSIONS_A",
       "title": "HEMORRHAGE INTO THE VENTRICLES.: ITS RELATION TO CONVULSIONS AND RIGIDITY IN APOPLECTIFORM HEMIPLEGIA.",
-      "category": "HDBSCAN Cluster: case, which, figure, not",
+      "category": "HDBSCAN Cluster: figure, which, case, not",
       "key": "FOLDER00849_26a4a7b526dc",
       "sourceIndex": 357,
       "textBytes": 40308,
@@ -3585,7 +3585,7 @@
     {
       "slug": "2019_A_DETAILED_STUDY_OF_THE_CHANGES_OCCURRING_IN_THE_PHYSIOLOGIC",
       "title": "A DETAILED STUDY OF THE CHANGES OCCURRING IN THE PHYSIOLOGICAL DEGENERATION OF ACTINOSPHÆRIUM EICHORNI",
-      "category": "HDBSCAN Bridge and Noise Papers",
+      "category": "HDBSCAN Cluster: cells, which, nerve, brain",
       "key": "FOLDER00850_d46d24b716b2",
       "sourceIndex": 358,
       "textBytes": 56060,
@@ -3625,7 +3625,7 @@
     {
       "slug": "2048_MIGRAINE_AN_OCCUPATION_NEUROSIS",
       "title": "MIGRAINE, AN OCCUPATION NEUROSIS.",
-      "category": "HDBSCAN Cluster: cases, some, vertigo, case",
+      "category": "HDBSCAN Cluster: cases, have, some, injection",
       "key": "FOLDER00856_2030fca38f63",
       "sourceIndex": 362,
       "textBytes": 31259,
@@ -3645,7 +3645,7 @@
     {
       "slug": "2050_TACTILE_STEREOGNOSIS_AND_SYMBOLIA_HAVE_THEY_LOCALIZATION_IN",
       "title": "TACTILE STEREOGNOSIS AND SYMBOLIA; HAVE THEY LOCALIZATION IN THE CEREBRAL CORTEX?*",
-      "category": "HDBSCAN Cluster: figure, have, nervous, brain",
+      "category": "HDBSCAN Cluster: figure, brain, diseases, they",
       "key": "FOLDER00858_d15abca88937",
       "sourceIndex": 364,
       "textBytes": 27069,
@@ -3655,7 +3655,7 @@
     {
       "slug": "2051_Dementia_Precox_Paranoid_Associated_with_Bronchiectatic_Lung",
       "title": "Dementia Precox, Paranoid, Associated with Bronchiectatic Lung Disease and Terminated by Brain Abscesses (Micrococcus Catarrhalis)",
-      "category": "HDBSCAN Bridge and Noise Papers",
+      "category": "HDBSCAN Cluster: patient, tuberculosis, died, have",
       "key": "FOLDER00859_7c741816b98e",
       "sourceIndex": 365,
       "textBytes": 40959,
@@ -3675,7 +3675,7 @@
     {
       "slug": "2053_THE_COORDINATION_OF_SINGLE_MUSCULAR_MOVEMENTS_IN_THE_CENTRAL",
       "title": "THE COORDINATION OF SINGLE MUSCULAR MOVEMENTS IN THE CENTRAL NERVOUS SYSTEM.",
-      "category": "HDBSCAN Bridge and Noise Papers",
+      "category": "HDBSCAN Cluster: wrist, their, nervous, system",
       "key": "FOLDER00861_e698407a0ced",
       "sourceIndex": 367,
       "textBytes": 65308,
@@ -3695,7 +3695,7 @@
     {
       "slug": "2055_A_CASE_OF_MENINGEAL_TUMOR_COMPRESSING_THE_CEREBELLUM",
       "title": "A CASE OF MENINGEAL TUMOR COMPRESSING THE CEREBELLUM",
-      "category": "HDBSCAN Cluster: case, brain, optic, neuritis",
+      "category": "HDBSCAN Cluster: brain, case, abscess, figure",
       "key": "FOLDER00863_10c81653e55e",
       "sourceIndex": 369,
       "textBytes": 23615,
@@ -3765,7 +3765,7 @@
     {
       "slug": "2062_PSYCHOTHERAPY_WITH_SOME_OF_ITS_RESULTS",
       "title": "PSYCHOTHERAPY, WITH SOME OF ITS RESULTS.",
-      "category": "HDBSCAN Bridge and Noise Papers",
+      "category": "HDBSCAN Cluster: group, sugar, test, cases",
       "key": "FOLDER00873_8686a49c8b6b",
       "sourceIndex": 376,
       "textBytes": 30012,
@@ -3825,7 +3825,7 @@
     {
       "slug": "2100_A_CASE_OF_BRAIN_ABSCESS_SHOWING_THE_PNEUMOCOCCUS",
       "title": "A CASE OF BRAIN ABSCESS SHOWING THE PNEUMOCOCCUS.",
-      "category": "HDBSCAN Cluster: case, which, figure, not",
+      "category": "HDBSCAN Cluster: figure, which, case, not",
       "key": "FOLDER00887_245587b380c0",
       "sourceIndex": 382,
       "textBytes": 30042,
@@ -3875,7 +3875,7 @@
     {
       "slug": "2104_Anatomy_of_the_brain_and_spinal_cord_with_special_reference",
       "title": "Anatomy of the brain and spinal cord, with special reference to mechanism and function. By Harris E. Santee, M. D., Ph.D. Fourth edition, revised and enlarged. Philadelphia: P. Blakiston's Son & Co., 1907",
-      "category": "HDBSCAN Cluster: not, spirit, great, our",
+      "category": "HDBSCAN Bridge and Noise Papers",
       "key": "FOLDER00899_39b5d5385831",
       "sourceIndex": 387,
       "textBytes": 7633,
@@ -3905,7 +3905,7 @@
     {
       "slug": "2107_The_morphology_of_the_forebrain_vesicle_in_vertebrates",
       "title": "The morphology of the forebrain vesicle in vertebrates.",
-      "category": "HDBSCAN Cluster: figure, development, contents, university",
+      "category": "HDBSCAN Bridge and Noise Papers",
       "key": "FOLDER00905_41f6c9037bde",
       "sourceIndex": 390,
       "textBytes": 150221,
@@ -3945,7 +3945,7 @@
     {
       "slug": "2111_The_development_of_theridium_an_aranead_up_to_the_stage_of_r",
       "title": "The development of theridium, an aranead, up to the stage of reversion",
-      "category": "HDBSCAN Cluster: figure, development, contents, university",
+      "category": "HDBSCAN Bridge and Noise Papers",
       "key": "FOLDER00915_75bbe14b2ad2",
       "sourceIndex": 394,
       "textBytes": 142939,
@@ -4035,7 +4035,7 @@
     {
       "slug": "2146_THE_BUTYRIC_ACID_TEST_FOR_SYPHILIS_IN_THE_DIAGNOSIS_OF_METAS",
       "title": "THE BUTYRIC ACID TEST FOR SYPHILIS IN THE DIAGNOSIS OF METASYPHILITIC AND OTHER NERVOUS DISORDERS",
-      "category": "HDBSCAN Cluster: other, nervous, disorders, syphilis",
+      "category": "HDBSCAN Bridge and Noise Papers",
       "key": "FOLDER00939_7a96c7872fb0",
       "sourceIndex": 403,
       "textBytes": 19841,
@@ -4135,7 +4135,7 @@
     {
       "slug": "2156_THE_X_RAY_TREATMENT_OF_RINGWORM_OF_THE_SCALP_WITH_SPECIAL_RE",
       "title": "THE X RAY TREATMENT OF RINGWORM OF THE SCALP, WITH SPECIAL REFERENCE TO THE RISKS OF DERMATITIS AND THE SUGGESTED INJURY TO THE BRAIN.",
-      "category": "HDBSCAN Cluster: figure, discharge, such, they",
+      "category": "HDBSCAN Bridge and Noise Papers",
       "key": "FOLDER00957_926580f9c13f",
       "sourceIndex": 413,
       "textBytes": 42789,
@@ -4195,7 +4195,7 @@
     {
       "slug": "2162_THE_WASSERMANN_REACTION_IN_ITS_RELATION_TO_DISEASES_OF_THE_C",
       "title": "THE WASSERMANN REACTION IN ITS RELATION TO DISEASES OF THE CENTRAL NERVOUS SYSTEM",
-      "category": "HDBSCAN Cluster: diagnosis, disease, not, has",
+      "category": "HDBSCAN Cluster: diagnosis, diseases, urinary, nervous",
       "key": "FOLDER00976_f493780b04a1",
       "sourceIndex": 419,
       "textBytes": 44120,
@@ -4415,7 +4415,7 @@
     {
       "slug": "2237_A_method_of_isolating_the_cerebro-medullary_circulation",
       "title": "A method of isolating the cerebro-medullary circulation",
-      "category": "HDBSCAN Bridge and Noise Papers",
+      "category": "HDBSCAN Cluster: protein, growth, very, tumor",
       "key": "FOLDER01057_d61649f74b43",
       "sourceIndex": 441,
       "textBytes": 9515,
@@ -4525,7 +4525,7 @@
     {
       "slug": "2246_The_development_of_the_purkinje_cells_and_of_the_cortical_la",
       "title": "The development of the purkinje cells and of the cortical layers in the cerebellum of the albino rat",
-      "category": "HDBSCAN Cluster: figure, development, contents, university",
+      "category": "HDBSCAN Cluster: cerebellum, purkinje, cells, university",
       "key": "FOLDER01102_ee803d59c792",
       "sourceIndex": 452,
       "textBytes": 56556,
@@ -4535,7 +4535,7 @@
     {
       "slug": "2247_DISTORTIONS_OF_THE_VISUAL_FIELDS_IN_CASES_OF_BRAIN_TUMOR_Sec",
       "title": "DISTORTIONS OF THE VISUAL FIELDS IN CASES OF BRAIN TUMOR: (Second Paper) DYSCHROMATOPSIA IN RELATION TO STAGES OF CHOKED DISK",
-      "category": "HDBSCAN Cluster: should, which, how, had",
+      "category": "HDBSCAN Bridge and Noise Papers",
       "key": "FOLDER01104_1b719ee30db6",
       "sourceIndex": 453,
       "textBytes": 52820,
@@ -4655,7 +4655,7 @@
     {
       "slug": "2285_CEREBROSPINAL_MENINGITIS_ITS_ETIOLOGY_DIAGNOSIS_PROGNOSIS_AN",
       "title": "CEREBROSPINAL MENINGITIS, ITS ETIOLOGY, DIAGNOSIS, PROGNOSIS AND TREATMENT",
-      "category": "HDBSCAN Bridge and Noise Papers",
+      "category": "HDBSCAN Cluster: brain, aneurisms, arteries, diagnosis",
       "key": "FOLDER01135_9ebfae59bf42",
       "sourceIndex": 465,
       "textBytes": 47742,
@@ -4765,7 +4765,7 @@
     {
       "slug": "2296_A_contribution_to_the_study_of_the_cere_bral_cortex_in_man",
       "title": "A contribution to the study of the cere bral cortex in man",
-      "category": "HDBSCAN Cluster: more, cortex, localization, cerebral",
+      "category": "HDBSCAN Bridge and Noise Papers",
       "key": "FOLDER01166_d2d9970b775f",
       "sourceIndex": 476,
       "textBytes": 7515,
@@ -4835,7 +4835,7 @@
     {
       "slug": "2334_Book_Review_IV_Practical_Theology_Successful_Teaching",
       "title": "Book Review: IV. Practical Theology: Successful Teaching",
-      "category": "HDBSCAN Cluster: chapter, has, book, figure",
+      "category": "HDBSCAN Cluster: hughlings, jackson, has, his",
       "key": "FOLDER01185_f3a44cc4d11b",
       "sourceIndex": 483,
       "textBytes": 4262,
@@ -4865,7 +4865,7 @@
     {
       "slug": "2337_Landmarks_and_Surface_Markings_of_the_Human_Body",
       "title": "Landmarks and Surface Markings of the Human Body",
-      "category": "HDBSCAN Cluster: chapter, has, book, figure",
+      "category": "HDBSCAN Cluster: hughlings, jackson, has, his",
       "key": "FOLDER01195_32981c0dfc5e",
       "sourceIndex": 486,
       "textBytes": 7923,
@@ -5115,7 +5115,7 @@
     {
       "slug": "2387_A_THIRTY-DAY_RHYTHM_IN_APOPLEXY_PRELIMINARY_NOTE_ON_A_NEW_FA",
       "title": "A THIRTY-DAY RHYTHM IN APOPLEXY: PRELIMINARY NOTE ON A NEW FACTOR IN ETIOLOGY AND TREATMENT",
-      "category": "HDBSCAN Cluster: case, which, figure, not",
+      "category": "HDBSCAN Cluster: figure, which, case, not",
       "key": "FOLDER01252_bca2e10d1a4c",
       "sourceIndex": 511,
       "textBytes": 8526,
@@ -5135,7 +5135,7 @@
     {
       "slug": "2389_THE_PRACTICAL_IMPORT_OF_RECENT_WORK_ON_HYSTERIA",
       "title": "THE PRACTICAL IMPORT OF RECENT WORK ON HYSTERIA",
-      "category": "HDBSCAN Cluster: patient, but, his, have",
+      "category": "HDBSCAN Cluster: his, such, figure, patient",
       "key": "FOLDER01270_f72943897ced",
       "sourceIndex": 513,
       "textBytes": 40370,
@@ -5195,7 +5195,7 @@
     {
       "slug": "2395_ACUTE_MASTOIDITIS_SINUS_THROMBOSIS_SUPERFICIAL_BRAIN_ABSCESS",
       "title": "ACUTE MASTOIDITIS, SINUS THROMBOSIS, SUPERFICIAL BRAIN ABSCESS; RECOVERY",
-      "category": "HDBSCAN Cluster: normal, pain, left, very",
+      "category": "HDBSCAN Bridge and Noise Papers",
       "key": "FOLDER01286_671a9c9af10b",
       "sourceIndex": 519,
       "textBytes": 13145,
@@ -5215,7 +5215,7 @@
     {
       "slug": "2425_XVIII_Acute_Mastoiditis_Sinus_Thrombosis_Superficial_Brain_A",
       "title": "XVIII. Acute Mastoiditis, Sinus Thrombosis, Superficial Brain Abscess; Recovery",
-      "category": "HDBSCAN Cluster: had, case, figure, patient",
+      "category": "HDBSCAN Cluster: ear, mastoiditis, had, patient",
       "key": "FOLDER01288_12e4f91c33e6",
       "sourceIndex": 521,
       "textBytes": 7912,
@@ -5235,7 +5235,7 @@
     {
       "slug": "2427_LXVIII_Hysteria_Simulating_Mastoiditis_with_Suspected_Brain",
       "title": "LXVIII. Hysteria Simulating Mastoiditis, with Suspected Brain Abscess Formation",
-      "category": "HDBSCAN Cluster: had, case, figure, patient",
+      "category": "HDBSCAN Cluster: ear, mastoiditis, had, patient",
       "key": "FOLDER01297_83318d1e9649",
       "sourceIndex": 523,
       "textBytes": 6070,
@@ -5255,7 +5255,7 @@
     {
       "slug": "2429_MENTAL_DISORDERS_ASSOCIATED_WITH_BRAIN_SYPHILIS",
       "title": "MENTAL DISORDERS ASSOCIATED WITH BRAIN SYPHILIS",
-      "category": "HDBSCAN Cluster: other, nervous, disorders, syphilis",
+      "category": "HDBSCAN Cluster: syphilis, been, nervous, system",
       "key": "FOLDER01299_608b45ef13d9",
       "sourceIndex": 525,
       "textBytes": 73735,
@@ -5265,7 +5265,7 @@
     {
       "slug": "2430_AN_EXPERIMENTAL_AND_CLINICAL_STUDY_OF_INTERNAL_HYDROCEPHALUS",
       "title": "AN EXPERIMENTAL AND CLINICAL STUDY OF INTERNAL HYDROCEPHALUS",
-      "category": "HDBSCAN Cluster: figure, have, nervous, brain",
+      "category": "HDBSCAN Bridge and Noise Papers",
       "key": "FOLDER01301_c26883915857",
       "sourceIndex": 526,
       "textBytes": 14068,
@@ -5365,7 +5365,7 @@
     {
       "slug": "2440_The_central_nervous_system_in_a_case_of_cyclopia_in_homo",
       "title": "The central nervous system in a case of cyclopia in homo",
-      "category": "HDBSCAN Cluster: figure, development, contents, university",
+      "category": "HDBSCAN Cluster: cerebellum, purkinje, cells, university",
       "key": "FOLDER01318_e7f9fdb298c3",
       "sourceIndex": 536,
       "textBytes": 106154,
@@ -5475,7 +5475,7 @@
     {
       "slug": "2479_The_study_of_an_atypical_cerebral_cortex",
       "title": "The study of an atypical cerebral cortex",
-      "category": "HDBSCAN Cluster: figure, development, contents, university",
+      "category": "HDBSCAN Cluster: roots, fibers, cortex, sensory",
       "key": "FOLDER01338_e3dca0296d7f",
       "sourceIndex": 547,
       "textBytes": 34518,
@@ -5515,7 +5515,7 @@
     {
       "slug": "2483_THE_BRAIN_OF_A_MACROCEPHALIC_EPILEPTIC",
       "title": "THE BRAIN OF A MACROCEPHALIC EPILEPTIC",
-      "category": "HDBSCAN Cluster: figure, development, contents, university",
+      "category": "HDBSCAN Bridge and Noise Papers",
       "key": "FOLDER01350_b44c9a658b69",
       "sourceIndex": 551,
       "textBytes": 99375,
@@ -5545,7 +5545,7 @@
     {
       "slug": "2485_The_influence_of_the_central_nervous_system_in_regeneration",
       "title": "The influence of the central nervous system in regeneration of an annelid worm",
-      "category": "HDBSCAN Cluster: experiments, their, development, nerve",
+      "category": "HDBSCAN Bridge and Noise Papers",
       "key": "FOLDER01355_93e47d170070",
       "sourceIndex": 554,
       "textBytes": 1887,
@@ -5555,7 +5555,7 @@
     {
       "slug": "2486_Combined_action_of_magnesium_and_ether_evidence_of_a_central",
       "title": "Combined action of magnesium and ether; evidence of a central effect of magnesium",
-      "category": "HDBSCAN Cluster: gelatin, indol, figure, cent",
+      "category": "HDBSCAN Cluster: gelatin, indol, cent, red",
       "key": "FOLDER01357_7ee705a30f23",
       "sourceIndex": 555,
       "textBytes": 6741,
@@ -5565,7 +5565,7 @@
     {
       "slug": "2487_THE_DEMONSTRATION_OF_THE_SPIROCHAETA_PALLIDA_IN_THE_BRAIN_SU",
       "title": "THE DEMONSTRATION OF THE SPIROCHAETA PALLIDA IN THE BRAIN SUBSTANCE OF LIVING PARETICS (FORSTER AND TOMASCZEWSKI)",
-      "category": "HDBSCAN Bridge and Noise Papers",
+      "category": "HDBSCAN Cluster: cases, have, some, injection",
       "key": "FOLDER01358_9d4fe182598a",
       "sourceIndex": 556,
       "textBytes": 6969,
@@ -5675,7 +5675,7 @@
     {
       "slug": "2526_THE_NECESSITY_OF_RECOGNIZING_MIDWIFERY_AS_A_BRANCH_OF_SURGER",
       "title": "THE NECESSITY OF RECOGNIZING MIDWIFERY AS A BRANCH OF SURGERY *",
-      "category": "HDBSCAN Cluster: case, which, figure, not",
+      "category": "HDBSCAN Cluster: figure, which, case, not",
       "key": "FOLDER01385_77da5a1ebd3a",
       "sourceIndex": 567,
       "textBytes": 25505,
@@ -5705,7 +5705,7 @@
     {
       "slug": "2528_TWO_CASES_OF_CIRCULATORY_DISTURBANCE_OF_THE_BRAIN",
       "title": "TWO CASES OF CIRCULATORY DISTURBANCE OF THE BRAIN",
-      "category": "HDBSCAN Cluster: normal, pain, left, very",
+      "category": "HDBSCAN Bridge and Noise Papers",
       "key": "FOLDER01395_d3662c4616ea",
       "sourceIndex": 570,
       "textBytes": 23277,
@@ -5745,7 +5745,7 @@
     {
       "slug": "2532_The_medulla_oblongata_of_larval_amblystoma",
       "title": "The medulla oblongata of larval amblystoma",
-      "category": "HDBSCAN Cluster: figure, development, contents, university",
+      "category": "HDBSCAN Cluster: roots, fibers, cortex, sensory",
       "key": "FOLDER01402_ddcd094c26cd",
       "sourceIndex": 574,
       "textBytes": 138290,
@@ -5775,7 +5775,7 @@
     {
       "slug": "2535_The_cerebellum_of_necturus_and_other_urodele_amphibia",
       "title": "The cerebellum of necturus and other urodele amphibia",
-      "category": "HDBSCAN Cluster: cerebellum, anatomical, pituitary, body",
+      "category": "HDBSCAN Bridge and Noise Papers",
       "key": "FOLDER01406_34c43fa22286",
       "sourceIndex": 577,
       "textBytes": 48921,
@@ -5815,7 +5815,7 @@
     {
       "slug": "2567_The_morphology_and_histology_of_a_certain_structure_connecte",
       "title": "The morphology and histology of a certain structure connected with the pars intermedia of the pituitary body of the ox",
-      "category": "HDBSCAN Cluster: cerebellum, anatomical, pituitary, body",
+      "category": "HDBSCAN Bridge and Noise Papers",
       "key": "FOLDER01414_582e62bf8456",
       "sourceIndex": 581,
       "textBytes": 18209,
@@ -5975,7 +5975,7 @@
     {
       "slug": "2581_ANEURISMS_OF_THE_VESSELS_OF_THE_BRAIN",
       "title": "ANEURISMS OF THE VESSELS OF THE BRAIN",
-      "category": "HDBSCAN Bridge and Noise Papers",
+      "category": "HDBSCAN Cluster: figure, aneurisms, vessels, brain",
       "key": "FOLDER01445_c0b5b62e6d65",
       "sourceIndex": 597,
       "textBytes": 231,
@@ -5995,12 +5995,212 @@
     {
       "slug": "2583_Stammering_and_Cognate_Defects_of_Speech",
       "title": "Stammering and Cognate Defects of Speech",
-      "category": "HDBSCAN Bridge and Noise Papers",
+      "category": "HDBSCAN Cluster: imagination, not, child, world",
       "key": "FOLDER01450_648311db928c",
       "sourceIndex": 599,
       "textBytes": 14912,
       "figuresExtracted": 0,
       "excerpt": "[Figure 1] # MAY, 1914.- CALIFORNIA STATE JOURNAL OF' MEDICINE 215 ing maiden who seek assistance in the determination of their fate, from this mixed assortment of knowledge, are not likely to reach a determination that will necessarily be helpful to the race. Nevertheless this little book contains a large amount of interesting and useful information which is not always as well known by even the medical profession as it should be. H. D'A. P. The first deals with electro-physics as it pertains to electro-medicine, physiology and its therapeutics as applied to dentistry and the various kinds of apparatus and appliances necessary for its proper exhibition and application. The second part deals with electro-therapeutics in the treatment of vari- - ous dental diseases and abnormal oral conditions, particularly with the periodontal membrane, pyorrhea alveolaris, dental-alveolar abscess, devita"
+    },
+    {
+      "slug": "2608_SOME_CONSIDERATIONS_ON_THE_PHYSIOLOGY_OF_THE_OTIC_LABYRINTH",
+      "title": "SOME CONSIDERATIONS ON THE PHYSIOLOGY OF THE OTIC LABYRINTH",
+      "category": "HDBSCAN Cluster: wrist, their, nervous, system",
+      "key": "FOLDER01451_29a356461ebe",
+      "sourceIndex": 600,
+      "textBytes": 26558,
+      "figuresExtracted": 0,
+      "excerpt": "[Figure 1] ## SOME CONSIDERATIONS ON THE PHYSIOLOGY OF THE OTIC LABYRINTH* J. GORDON WILSON, M.D., and F. H. PIKE, M.D. CHICAGO NEW YORK The philosopher's statement, now more than a century old, that there is nothing in the mind that has not come in through the senses, might be applied to motion in general. Certainly, so far as those movements due to the central nervous system are concerned, we may say that there are extremely few motions that have not had their antecedent afferent impulses. The modern conception of the nervous system regards it as a mechanism in which afferent impulses, arising in the various kinds of peripheral receptors or sensory endings are gathered up into a definite body of sensory impulses, and somewhere in their course, are summed or integrated to a definite orderly motor response. For example, when a child is learning to write, and is copying a simple figure, a"
+    },
+    {
+      "slug": "2609_FORTIETH_ANNUAL_MEETING_OF_THE_AMERICAN_NEUROLOGICAL_ASSOCIA",
+      "title": "FORTIETH ANNUAL MEETING OF THE AMERICAN NEUROLOGICAL ASSOCIATION: THE CORTICAL CONNECTIONS OF THE RED NUCLEUS",
+      "category": "HDBSCAN Cluster: figure, aneurisms, vessels, brain",
+      "key": "FOLDER01454_c07bf3288df1",
+      "sourceIndex": 601,
+      "textBytes": 231,
+      "figuresExtracted": 0,
+      "excerpt": "[Figure 1] [Figure 2] [Figure 3] [Figure 4] [Figure 5] [Figure 6] [Figure 7] [Figure 8] [Figure 9] [Figure 10] [Figure 11] [Figure 12] [Figure 13] [Figure 14] [Figure 15] [Figure 16]"
+    },
+    {
+      "slug": "2610_EXPERIMENTAL_STUDIES_IN_POLIOMYELITIS",
+      "title": "EXPERIMENTAL STUDIES IN POLIOMYELITIS",
+      "category": "HDBSCAN Bridge and Noise Papers",
+      "key": "FOLDER01457_741cbdb497e1",
+      "sourceIndex": 602,
+      "textBytes": 13484,
+      "figuresExtracted": 0,
+      "excerpt": "[Figure 1] effect. 2. A 1 per cent, solution has but slight irritant action. 3. A dilution of 1:80,000, or nearly one onethousandth of 1 per cent., exhibits marked germicidal powers. Dr. Hildreth's0 trial of the remedy satisfied him as to its benefits in \"functional dyspepsia, amenorrhea, dys¬ menorrhea, leukorrhea, scrofulous affections, aseites and general dropsy.\" These two men used the solution of At a glance Table 2 will give a graphic idea of where this solution stands in relation to other common antisep¬ tics. ### thethe drug in doses equivalent to from x/12 to 1/20 grain of Itscrystals. ' value as an internal remedy in all of the conditions mentioned is doubtful. It does, however, seem to have a marked effect on all catarrhal conditions of the mucous TABLE 2.- -PARIvS TABLE OF ANTISEPTIC GERMICIDAL STRENGTH* ## membranes, clearing up the common cold, apparently shorteninginfectio"
+    },
+    {
+      "slug": "2611_UNFAVORABLE_COMPLICATIONS_FOLLOWING_AN_INTRADURAL_INJECTION",
+      "title": "UNFAVORABLE COMPLICATIONS FOLLOWING AN INTRADURAL INJECTION OF NEOSALVARSAN",
+      "category": "HDBSCAN Cluster: cases, have, some, injection",
+      "key": "FOLDER01459_b364e310fc48",
+      "sourceIndex": 603,
+      "textBytes": 6848,
+      "figuresExtracted": 0,
+      "excerpt": "[Figure 1] iodids and mercury. At this time the Wassermann reaction of serum and spinal fluid was positive. UNFAVORABLE COMPLICATIONS FOLLOWING AN INTRADURAL INJECTION OF NEOSALVARSAN ALFRED GORDON, M.D. I proposed at once the treatment with autosalvarsanizedresult serum which was promptly accepted. The from one injection was gratifying. The pain had almost disappeared, the ataxia improved, also the incontinence of urine decreased considerably. Con¬ stipation remained unaltered. PHILADELPHIA In the treatment of syphilitic affections of the nervous system three principal methods are at our disposal, namely, intravenous injection of the drug, intradural injection of autosalvarsanized serum (Swift-Ellis), and intradural injection of neosalvarsan (Ravaut). According to the majority of competent observers the first procedure has proved to be of little avail, especially in cases of late manife"
+    },
+    {
+      "slug": "2612_AMYLOID_DEGENERATION_OF_THE_BRAIN_IN_TWO_CASES_OF_GENERAL_PA",
+      "title": "AMYLOID DEGENERATION OF THE BRAIN IN TWO CASES OF GENERAL PARESIS",
+      "category": "HDBSCAN Bridge and Noise Papers",
+      "key": "FOLDER01460_8678b86fd5a2",
+      "sourceIndex": 604,
+      "textBytes": 105134,
+      "figuresExtracted": 0,
+      "excerpt": "[Figure 1] AMYLOID DEGENERATION OF THE BRAIN IN TWO CASES OF GENERAL PARESIS.* B SOLOMON C. FULLER, M. D. (From the Pathological Laboratory, Westborough State Hospital, Massachusetts.) In two recent communications (1911 and 1912) Mignot and Marchand ‘ reported certain alterations in vessels of the cerebral cortex of a general paretic and extravascular lesions of like nature, deposits of variable size in the vicinity of the affected vessels, which displaced or destroyed by pressure the surrounding nervous elements. The walls of the affected vessels were thickened, homogeneous and ref ractile, their lumina narrowed or obliterated. These changes, while implicating some of the larger vessels, involved chiefly capillaries and pre-capillaries. In the larger vessels the process began in the media; in the capillaries it first appeared in the adventitia. The intima, though not immune, was less fr"
+    },
+    {
+      "slug": "2613_HEMORRHAGIC_HYPERNEPHRITIS_WITH_REPORT_OF_CASE",
+      "title": "HEMORRHAGIC HYPERNEPHRITIS: WITH REPORT OF CASE",
+      "category": "HDBSCAN Bridge and Noise Papers",
+      "key": "FOLDER01462_72a82869c5f5",
+      "sourceIndex": 605,
+      "textBytes": 14976,
+      "figuresExtracted": 0,
+      "excerpt": "[Figure 1] History.—C. L. R., white, man. aged 43, sergeant, who had served in the army seventeen and one-half years, entered the hospital Nov. 22, 1911. The family history was negative. •The patient had had dysentery in 1909, and malaria in 1908. In July, 1898, the left ear began, without pain, to discharge pus, and had discharged off and on ever since. Patient had had growths in both sides of scrotum ever since he could remember. The present illness began in April, 1909. Patient was hoarse, had slight expectoration and cough. In April, 1911, he contracted a heavy cold, and the hoarseness, expec¬ toration and cough became worse. He had gradually lost 50 pounds since April, 1909. His best weight was 220 pounds, in 1896. Sputum was positive for tubercle bacilli in October, 1911. - Case 43.—C. Acute articular rheumatism. Luetin—. - Case 44.—Nephritis. Luetin—. - Case 45.—Mc, aged 48. Mitra"
+    },
+    {
+      "slug": "2614_THE_INTRAMENINGEAL_TREATMENT_OF_TABES_AND_CEREBROSPINAL_SYPH",
+      "title": "THE INTRAMENINGEAL TREATMENT OF TABES AND CEREBROSPINAL SYPHILIS",
+      "category": "HDBSCAN Cluster: syphilis, been, nervous, system",
+      "key": "FOLDER01463_2dae477fac4b",
+      "sourceIndex": 606,
+      "textBytes": 25949,
+      "figuresExtracted": 0,
+      "excerpt": "[Figure 1] ### THE INTRAMENINGEAL TREATMENT OF TABES AND CEREBROSPINAL SYPHILIS * THOMAS R. BOGGS, M.D., and R. R. SNOWDEN, M.D. BALTIMORE The treatment of syphilis of the central nervous system has always been unsatisfactory. The cerebrospinal system is a closed one, and the diffusion of drugs from the circulating blood into the cerebrospinal fluid is slow and incomplete. For this reason organisms which have invaded the nervous tissue or meninges remain more or less protected from the drugs which may be present in the vascular system. For a number of years the desirability of the direct application of antisyphilitic drugs has been recognized. Horsley1 went so far as to advocate the \"heroic\" treatment of opening into the subdural space and washing out with mercuric chlorid (1:1,000) solution, but this procedure proved too irritating. With the advent of salvarsan and neosalvarsan, hope wa"
+    },
+    {
+      "slug": "2615_Cholesterol_atheroma_in_rabbits",
+      "title": "Cholesterol atheroma in rabbits",
+      "category": "HDBSCAN Cluster: protein, growth, very, tumor",
+      "key": "FOLDER01464_52c73529f317",
+      "sourceIndex": 607,
+      "textBytes": 5106,
+      "figuresExtracted": 0,
+      "excerpt": "[Figure 1] ### 68 SCIENTIFIPCR OCEEDINGS(63). ## The influence of the anterior lobe of the pituitary body upon the growth of carcinomata. (Preliminary Communication.) By T. BRAILSFORDROBERTSONand THEODOREC. BURNETT. [Fromthe Rudolfih Spreckels Physiological Laboratory of the University of California.] We have found that the administration of aqueous emulsions of the anterior lobe of the ox-pituitary, in doses of 0.5 grammes of fresh glandular tissue at intervals of two or three days, either directly into the tumor or hypodermically elsewhere, leads to a very marked increase in the rate of growth of the primary tumor in rats inoculated with the Flexner- Jobling carcinoma. The growth of small tumors is accelerated relatively more than that of large tumors. This acceleration is only evidenced, however, at a certain stage in the growth of the tumor, subsequent to the twentieth day succeeding"
+    },
+    {
+      "slug": "2616_Hyperplasia_of_the_Nasal_Septum_associated_with_Nasal_Polypi",
+      "title": "Hyperplasia of the Nasal Septum associated with Nasal Polypi",
+      "category": "HDBSCAN Bridge and Noise Papers",
+      "key": "FOLDER01465_0434dd9244f4",
+      "sourceIndex": 608,
+      "textBytes": 5197,
+      "figuresExtracted": 0,
+      "excerpt": "[Figure 1] ## 196 The Journal of Laryngology, [April, 1914. same pressure. As the hair-cells shrink away the heavy, elastic expansile tectorial membrane attempts to press after them, but it cannot do so because of the reticulate membrane which arrests it. The hair-cells are free, for they have shrunk beneath the reticulate membrane, which is now a roof above their heads, and the underlying segment of the basilar membrane is free, and now the undamped fibres and the free hair-cells can fully respond to the particular \"sound pattern\" which has awakened their activities, and transmit their impressions through the cochlear branch of the auditory nerve to the cortex, which interprets them as a particular sound. With regard to the share which the ligamentum spirale has in the intricate mechanism of auditory accommodation, I shall, in this communication, merely state that many experiments and c"
+    },
+    {
+      "slug": "2617_BRAIN_STRUCTURE_ACCORDING_TO_AGE",
+      "title": "BRAIN STRUCTURE ACCORDING TO AGE",
+      "category": "HDBSCAN Cluster: figure, brain, cerebral, reconstruction",
+      "key": "FOLDER01468_2905bad57513",
+      "sourceIndex": 609,
+      "textBytes": 0,
+      "figuresExtracted": 0,
+      "excerpt": "[Figure 1] [Figure 2]"
+    },
+    {
+      "slug": "2618_A_Note_on_the_Increase_of_Total_Nitrogen_and_Urea_Nitrogen_i",
+      "title": "A Note on the Increase of Total Nitrogen and Urea Nitrogen in the Cerebrospinal Fluid in Certain Cases of Insanity, with Remarks on the Uric Acid Content of the Blood",
+      "category": "HDBSCAN Cluster: group, sugar, test, cases",
+      "key": "FOLDER01474_4ec30050ccc6",
+      "sourceIndex": 610,
+      "textBytes": 15038,
+      "figuresExtracted": 0,
+      "excerpt": "[Figure 1] clinic, advises omitting the second part of the test. The per cent, of cases in which the chloro-, phyll test ran parallel with other tests of motility was smaller, in both series, 62% Kemmerling, 78%' Wartensleben (90% in our series). This difference is largely due to their frequent comparisons of the chlorophyll test with the bismuth meal and x-ray test of motility. I do not believe that the bismuth test of motility should be used, as a criterion to judge the value of other tests of motility for the reason stated above, namely, that bismuth often leaves the stomach at an entirely different rate from ordinary food or drink. SUMMARY. The second colorimetric part of the test is better omitted and the estimate of the motor power of the stomach based on the number of c.c. of residue found at the end of one-half hour. We may answer the question whether it is better than older meth"
+    },
+    {
+      "slug": "2619_CARCINOMA_SYPHILIS_AND_TUBERCULOSIS_COEXISTENT_IN_THE_SAME_P",
+      "title": "CARCINOMA, SYPHILIS, AND TUBERCULOSIS COEXISTENT IN THE SAME PATIENT: WITH REPORT OF A CASE",
+      "category": "HDBSCAN Cluster: patient, tuberculosis, died, have",
+      "key": "FOLDER01475_9f4eb0550e93",
+      "sourceIndex": 611,
+      "textBytes": 27861,
+      "figuresExtracted": 4,
+      "excerpt": "[Figure 1] throat symptoms appeared. Bowels have been regular, no bladder symptoms. She has lost greatly in weight. CARCINOMA, SYPHILIS, AND TUBERCULOSIS COEXISTENT IN THE SAME PATIENT Past History.—Patient had measles, mumps and whoopingcough during childhood, typhoid fever and malaria in later life. Menstrual history is negative, except that the periods ceased after her first injection of salvarsan. She married at the age of 33 and had two children, both alive and well, one instrumental and the other a normal delivery. Does not use alcohol ani. denies venereal history. WITH REPORT OF A CASE ELLIS KELLERT, M.D. Resident Physician, Huntington Memorial Hospital, Cancer Commission of Harvard University Family History.—The patient's father died of blood-poison¬ ing, but no information was afforded concerning recent injury or other cause. Mother died of asthma. Has one sister who is alive an"
+    },
+    {
+      "slug": "2620_PITUITARY_EXTRACT_AN_EXAMINATION_OF_SOME_COMMERCIAL_PREPARAT",
+      "title": "PITUITARY EXTRACT: AN EXAMINATION OF SOME COMMERCIAL PREPARATIONS MADE FROM THE POSTERIOR LOBE OF THE PITUITARY BODY",
+      "category": "HDBSCAN Bridge and Noise Papers",
+      "key": "FOLDER01480_1159e4f8095e",
+      "sourceIndex": 612,
+      "textBytes": 28810,
+      "figuresExtracted": 0,
+      "excerpt": "[Figure 1] In another series, cataplasma kaolini, as made at the German Hospital, was applied hot to a wet-shaved part and allowed to remain in place twelve hours. It was then removed and the field was washed with soap and water and tested. Another application of the cata¬ plasm was then made and the same procedure carried out at twelve-hour intervals for forty-eight hours. The skin was then protected by a dry sterile covering and again tested after a twelve-hour interval. In this series, 100 per cent, of the tests gave growths at the end of twelve hours ; 50 per cent, gave growths at the end of twenty-four hours. No growths were obtained in any instance after the twenty-four-hour test. The cataplasma kaolini, as made at-the German Hospital, consists of 50 per cent, glycerin and 50 per cent, of kaolin combined with a negligible quantity of flavor¬ ing-matter and antiseptics. In this appl"
+    },
+    {
+      "slug": "2621_THE_CEREBROSPINAL_FLUID_AS_A_PROBLEM_IN_INTRACRANIAL_SURGERY",
+      "title": "THE CEREBROSPINAL FLUID AS A PROBLEM IN INTRACRANIAL SURGERY",
+      "category": "HDBSCAN Cluster: figure, brain, diseases, they",
+      "key": "FOLDER01482_30c72b6c251a",
+      "sourceIndex": 613,
+      "textBytes": 26657,
+      "figuresExtracted": 0,
+      "excerpt": "[Figure 1] surgeon who endeavored to work out problems in the laboratory and not in the clinic. But who is there among you to-day that does not look with admiration THE CEREBROSPINAL FLUID AS A PROBLEM IN INTRACRANIAL ## andhas appreciation on the addition to knowledge that SURGERY CHARLES H. FRAZIER, M.D., Sc.D. been derived from the laboratories of Halsted, of Matas, of Crile, of Cushing, of Carrel and of Sweet? Through blundering errors and at the cost of human life the clinician may hit on truths which might have been solved at less cost in the experimental laboratory. Surgery has won its place as a scientific branch of medicine, and the hidden truths, on which will depend the progress of surgery as of all other human attain¬ ment, will be the product of the surgeon in his rôle of PHILADELPHIA The rapid strides that have been made in the evolution of modern civilization are almost pa"
+    },
+    {
+      "slug": "2622_Royal_Society_of_Medicine-Otological_Section",
+      "title": "Royal Society of Medicine-Otological Section",
+      "category": "HDBSCAN Bridge and Noise Papers",
+      "key": "FOLDER01486_8dbc149fdb47",
+      "sourceIndex": 614,
+      "textBytes": 88665,
+      "figuresExtracted": 0,
+      "excerpt": "[Figure 1] ###### 140 The Journal of Laryngology, [March, 1914. its way upwards into the nose and has led to the formation of a subperichondrial septal abscess (4). In some instances the explanation given is that the pus probably reached the septum by way of the anterior palatine foramen, but one or two observers suggest as an alternative route that followed from above by the pus in my case, namely, along the outer aspect of the bone of the maxilla. Septal abscess is known to follow typhoid fever, smallpox, erysipelas and influenza, but, as I have already said, I have not been able to find any record of its association with furunculosis of the vestibule. REFERENCES. - (1) MCKENZIE, DAN. — JOURNAL OF LARYNGOLOQY, RHINOLOGY, AND OTOLOOT, vol. xxv, p. 632. - (2) FAULDER, JEFFERSON.—Ibid., vol. xxviii, p. 545. - (3) MOKENZIE, DAN.—Ibid., vol. xxiii, p. 258. - (4) TRAUTMANN, Gt.—Frankel's Arc"
+    },
+    {
+      "slug": "2623_SPONTANEOUS_SUBARACHNOID_HEMORRHAGE_A_CONTRIBUTION_TO_THE_SU",
+      "title": "SPONTANEOUS SUBARACHNOID HEMORRHAGE: A CONTRIBUTION TO THE SUBJECT OF MENINGEAL HEMORRHAGE",
+      "category": "HDBSCAN Bridge and Noise Papers",
+      "key": "FOLDER01487_45c5626b0572",
+      "sourceIndex": 615,
+      "textBytes": 21168,
+      "figuresExtracted": 0,
+      "excerpt": "[Figure 1] Schlesinger,40 in his case found an associated tetany. Thisinvolvement.is the only recorded instance of parathyroid SPONTANEOUS SUBARACHNOID HEMORRHAGE We have found no reference to pan¬ creas changes except for a normal organ in Orzechowski's24 case. A CONTRIBUTION TO THE SUBJECT OF MENINGEAL HEMORRHAGE* Numerous observers record the simultaneous SAMUEL LEOPOLD, M.D. Instructor in Neurology and Neuropathology, University of Pennsylvania involvement of the hypophysis. Prognathism without further comment is a common observance. Acrome¬ ## galy and von Recklinghausen's disease are chronicled by De Castro,41 Wolfsohn and Marcus,42 Cushing,43 Nicholas and Favre44 and others. Thomas45 observed fingers and lower jaw suggestive of acromegaly ; Feindel and Frounard,46 an acromegalie skull contour. PHILADELPHIA Aside from the rare pachymeningitis hemorrhagica interna, and the traumatic"
+    },
+    {
+      "slug": "2624_THE_POTASSIUM_CONTENT_OF_CEREBROSPINAL_FLUID_IN_VARIOUS_DISE",
+      "title": "THE POTASSIUM CONTENT OF CEREBROSPINAL FLUID IN VARIOUS DISEASES",
+      "category": "HDBSCAN Bridge and Noise Papers",
+      "key": "FOLDER01490_eb0ebeb7f00c",
+      "sourceIndex": 616,
+      "textBytes": 8753,
+      "figuresExtracted": 0,
+      "excerpt": "[Figure 1] THE POTASSIUM CONTENT OF CEREBROSPINAL FLUID IN VARIOUS DISEASES* ### JACOB ROSENBLOOM, M.D., PH.D., AND VERNON L. ANDREWS, M.D. PITTSBURGH It is now well recognized that certain inorganic ions play a most important part in the proper functioning of cells. Through the researches of Macallum1 and Macdonald2 it is known that potassium is present in the nerve-fibers and not in the nerve-cells, and that it was not until some change had taken place in the axis cylinder that potassium was liberated in an ionic state. It might be true, therefore, on the basis of these observations that in any disease with changes in the axis cylinders we might expect to find that the cerebrospinal fluid contained an increased amount of potassium. Rosenheim3 asserted that in all cases of acute degenerative insanity in which the presence of cholin was demonstrated in the cerebrospinal fluid, potassium "
+    },
+    {
+      "slug": "2625_A_MICROCEPHALIC_IDIOT_WITH_MALFORMATION_OF_BRAIN_REPORT_OF_A",
+      "title": "A MICROCEPHALIC IDIOT WITH MALFORMATION OF BRAIN: REPORT OF A CASE",
+      "category": "HDBSCAN Cluster: been, have, but, operation",
+      "key": "FOLDER01491_f073aee72b45",
+      "sourceIndex": 617,
+      "textBytes": 21420,
+      "figuresExtracted": 2,
+      "excerpt": "[Figure 1] time of operation, you are clinically or pathologically unde¬ cided as to whether or not the case is malignant, then Rod¬ man's operation is the operation of election. It seems to me, however, that in the average case the principles laid down by Dr. Bartlett are the ones we should apply. Any measure that has just been introduced is, of course, going to have a hard voyage, but I do believe that if we practice this operation we shall find it applicable to a large number of patients who will do better than if we perform gastrojejunostomy. equally good results in experimental work ; the same seemsis to be the case in my clinical work, although this not so easily ascertained. I leave the reader to choose between the two, after trying them. # 400 Metropolitan Building. ABSTRACT OF DISCUSSION Dr. William L. Rodman, Philadelphia : So many methods have been proposed from time to time t"
+    },
+    {
+      "slug": "2626_A_brain_macrotome",
+      "title": "A brain macrotome",
+      "category": "HDBSCAN Cluster: neuroglia, which, spinal, cord",
+      "key": "FOLDER01493_479b3eb9c62e",
+      "sourceIndex": 618,
+      "textBytes": 3311,
+      "figuresExtracted": 0,
+      "excerpt": "[Figure 1] # A BRAIS MACROTO~IE RICHARD \\\\-. HARVEY Hewst Anatomical h h o r r c / o r g , University o j CaliJoruia In recent work on the asymmetry of the basal ganglia it became necessary to obtain sections of the brain of uniform tliicLness mhic!i were traced on wax plates of similar thickness. The section!, were 3.5 mm. thick. In order to facilitate the work and render it accurate, a macrotome was devised, which has since been modified from suggestion by Dr. G. Y. Rusk of the Department of Pathology. The base and standard of the instrument are cast qeparately and screwed together. The base is Y-shaped, similar to that of a compound microscope, measuring 29 x 19 cm. and 2 cm. thick, of cast-iron. affording a firm support to the instrument. The standard measure< 2 x 5 em. and 32 em. long, and is provided nt the back with tno flange< for additional strength. Near the top of the standard"
+    },
+    {
+      "slug": "2627_BILATERAL_SYMMETRICAL_PETECHIAL_HEMORRHAGES_OF_THE_BRAIN_AFT",
+      "title": "BILATERAL SYMMETRICAL PETECHIAL HEMORRHAGES OF THE BRAIN AFTER NEOSALVARSAN",
+      "category": "HDBSCAN Cluster: figure, brain, case, abscess",
+      "key": "FOLDER01496_851331700faa",
+      "sourceIndex": 619,
+      "textBytes": 0,
+      "figuresExtracted": 0,
+      "excerpt": "[Figure 1] [Figure 2] [Figure 3] [Figure 4] [Figure 5] [Figure 6]"
     }
   ]
 }
