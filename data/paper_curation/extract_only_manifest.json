@@ -1,12 +1,12 @@
 {
-  "generated": "2026-07-05T08:06:30.916929+00:00",
+  "generated": "2026-07-05T08:33:38.450688+00:00",
   "mode": "extract-only",
   "paperCurationDir": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect",
   "awesomeRepo": "E:\\조선대\\연구\\awesome-brain-ai",
   "extractReport": "data/paper_curation/extract_only_report.json",
   "docsDir": "docs/paper_curation/extract_only",
   "paperDir": "paper/extract_only",
-  "recordCount": 740,
+  "recordCount": 760,
   "syncedPaperSlugs": [
     "003_Hughlings_Jackson_and_the_Cortical_Motor_Centres_in_the_Ligh",
     "015_EXPERIMENTAL_AND_CLINICAL_NOTES_ON_THE_SUBARACHNOID_SPACE",
@@ -747,13 +747,33 @@
     "2898_The_central_nervous_system_of_simple_Crustacea",
     "2899_THE_CEREBROSPINAL_FLUID_IN_POLIOMYELITIS_WITH_ESPECIAL_REFER",
     "2900_THE_COLLOIDAL_GOLD_REACTION_OF_THE_CEREBROSPINAL_FLUID_IN_AC",
-    "2901_VI_The_Tonsils_as_an_Atrium_of_Infection_in_Poliomyelitis"
+    "2901_VI_The_Tonsils_as_an_Atrium_of_Infection_in_Poliomyelitis",
+    "2927_The_effect_of_decerebration_upon_the_quick_component_of_laby",
+    "2928_VALUE_OF_BÁRÁNY_TESTS_IN_THE_DIAGNOSIS_OF_VERTIGO_FROM_WHATE",
+    "2929_DIFFERENTIAL_DIAGNOSIS_BETWEEN_PURULENT_LABYRINTHITIS_AND_CE",
+    "2930_XLIII_The_Static_Labyrinth_in_Syphilis",
+    "2931_THE_OCULOCARDIAC_REFLEX_IN_SYPHILIS_OF_THE_CENTRAL_NERVOUS_S",
+    "2932_VERTIGO_DUE_TO_INTRACRANIAL_DISEASE",
+    "2933_A_cerebral_complication_of_acute_mastoiditis_with_very_sudde",
+    "2934_SALVARSAN_AND_NEOSALVARSAN_MYELITIS_REPORT_OF_A_FATAL_CASE",
+    "2935_VERTIGO_AS_A_SYMPTOM_OF_PRIMARY_DISEASE_OF_THE_LABYRINTH",
+    "2936_XXII_Some_Interesting_Labyrinth_and_Eighth_Nerve_Cases",
+    "2937_Immune_Reactions_in_Rabbits_Injected_with_Micrococci_from_Ac",
+    "2938_NOTES_ON_PENETRATING_WOUNDS_OF_THE_BRAIN",
+    "2939_EARLY_DIAGNOSIS_AND_INTRAVENOUS_SERUM_TREATMENT_OF_EPIDEMIC",
+    "2940_The_Cerebrospinal_Fever_Epidemic_of_1917_at_X_Depot",
+    "2941_TRICHINOSIS_A_REPORT_OF_THREE_CASES_SIMULATING_MENINGITIS_WI",
+    "2942_PATHOLOGIC_REPORT_ON_FORTY-THREE_CASES_OF_ACUTE_POLIOMYELITI",
+    "2847_Comparative_studies_on_the_growth_of_the_cerebral_cortex_I_O",
+    "2943_ON_THE_EVOLUTION_OF_THE_NEUROGLIA_AND_SPECIALLY_THEIR_RELATI",
+    "2944_HEAT_STROKE_WITH_A_SECOND_STUDY_OF_CEREBRAL_EDEMA",
+    "2945_A_contribution_to_the_study_of_the_pathways_of_the_cerebrosp"
   ],
   "copied": [
     {
       "source": "E:\\조선대\\연구\\paper-curation\\paper\\awesome-brain-ai\\_folder_source_extract_report.json",
       "target": "E:\\조선대\\연구\\awesome-brain-ai\\data\\paper_curation\\extract_only_report.json",
-      "bytes": 452204
+      "bytes": 464572
     },
     {
       "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\003_Hughlings_Jackson_and_the_Cortical_Motor_Centres_in_the_Ligh\\text.md",
@@ -12794,6 +12814,326 @@
       "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2901_VI_The_Tonsils_as_an_Atrium_of_Infection_in_Poliomyelitis\\text.md",
       "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2901_VI_The_Tonsils_as_an_Atrium_of_Infection_in_Poliomyelitis\\text.md",
       "bytes": 14680
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2927_The_effect_of_decerebration_upon_the_quick_component_of_laby\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2927_The_effect_of_decerebration_upon_the_quick_component_of_laby\\text.md",
+      "bytes": 6644
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2927_The_effect_of_decerebration_upon_the_quick_component_of_laby\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2927_The_effect_of_decerebration_upon_the_quick_component_of_laby\\text.md",
+      "bytes": 6644
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2928_VALUE_OF_BÁRÁNY_TESTS_IN_THE_DIAGNOSIS_OF_VERTIGO_FROM_WHATE\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2928_VALUE_OF_BÁRÁNY_TESTS_IN_THE_DIAGNOSIS_OF_VERTIGO_FROM_WHATE\\text.md",
+      "bytes": 41419
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2928_VALUE_OF_BÁRÁNY_TESTS_IN_THE_DIAGNOSIS_OF_VERTIGO_FROM_WHATE\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2928_VALUE_OF_BÁRÁNY_TESTS_IN_THE_DIAGNOSIS_OF_VERTIGO_FROM_WHATE\\text.md",
+      "bytes": 41419
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2929_DIFFERENTIAL_DIAGNOSIS_BETWEEN_PURULENT_LABYRINTHITIS_AND_CE\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2929_DIFFERENTIAL_DIAGNOSIS_BETWEEN_PURULENT_LABYRINTHITIS_AND_CE\\text.md",
+      "bytes": 38679
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2929_DIFFERENTIAL_DIAGNOSIS_BETWEEN_PURULENT_LABYRINTHITIS_AND_CE\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2929_DIFFERENTIAL_DIAGNOSIS_BETWEEN_PURULENT_LABYRINTHITIS_AND_CE\\text.md",
+      "bytes": 38679
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2930_XLIII_The_Static_Labyrinth_in_Syphilis\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2930_XLIII_The_Static_Labyrinth_in_Syphilis\\text.md",
+      "bytes": 38179
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2930_XLIII_The_Static_Labyrinth_in_Syphilis\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2930_XLIII_The_Static_Labyrinth_in_Syphilis\\text.md",
+      "bytes": 38179
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2931_THE_OCULOCARDIAC_REFLEX_IN_SYPHILIS_OF_THE_CENTRAL_NERVOUS_S\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2931_THE_OCULOCARDIAC_REFLEX_IN_SYPHILIS_OF_THE_CENTRAL_NERVOUS_S\\text.md",
+      "bytes": 12274
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2931_THE_OCULOCARDIAC_REFLEX_IN_SYPHILIS_OF_THE_CENTRAL_NERVOUS_S\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2931_THE_OCULOCARDIAC_REFLEX_IN_SYPHILIS_OF_THE_CENTRAL_NERVOUS_S\\text.md",
+      "bytes": 12274
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2932_VERTIGO_DUE_TO_INTRACRANIAL_DISEASE\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2932_VERTIGO_DUE_TO_INTRACRANIAL_DISEASE\\text.md",
+      "bytes": 20982
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2932_VERTIGO_DUE_TO_INTRACRANIAL_DISEASE\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2932_VERTIGO_DUE_TO_INTRACRANIAL_DISEASE\\text.md",
+      "bytes": 20982
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2933_A_cerebral_complication_of_acute_mastoiditis_with_very_sudde\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2933_A_cerebral_complication_of_acute_mastoiditis_with_very_sudde\\text.md",
+      "bytes": 201
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2933_A_cerebral_complication_of_acute_mastoiditis_with_very_sudde\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2933_A_cerebral_complication_of_acute_mastoiditis_with_very_sudde\\text.md",
+      "bytes": 201
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2934_SALVARSAN_AND_NEOSALVARSAN_MYELITIS_REPORT_OF_A_FATAL_CASE\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2934_SALVARSAN_AND_NEOSALVARSAN_MYELITIS_REPORT_OF_A_FATAL_CASE\\text.md",
+      "bytes": 22045
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2934_SALVARSAN_AND_NEOSALVARSAN_MYELITIS_REPORT_OF_A_FATAL_CASE\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2934_SALVARSAN_AND_NEOSALVARSAN_MYELITIS_REPORT_OF_A_FATAL_CASE\\text.md",
+      "bytes": 22045
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2935_VERTIGO_AS_A_SYMPTOM_OF_PRIMARY_DISEASE_OF_THE_LABYRINTH\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2935_VERTIGO_AS_A_SYMPTOM_OF_PRIMARY_DISEASE_OF_THE_LABYRINTH\\text.md",
+      "bytes": 21598
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2935_VERTIGO_AS_A_SYMPTOM_OF_PRIMARY_DISEASE_OF_THE_LABYRINTH\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2935_VERTIGO_AS_A_SYMPTOM_OF_PRIMARY_DISEASE_OF_THE_LABYRINTH\\text.md",
+      "bytes": 21598
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2936_XXII_Some_Interesting_Labyrinth_and_Eighth_Nerve_Cases\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2936_XXII_Some_Interesting_Labyrinth_and_Eighth_Nerve_Cases\\text.md",
+      "bytes": 13276
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2936_XXII_Some_Interesting_Labyrinth_and_Eighth_Nerve_Cases\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2936_XXII_Some_Interesting_Labyrinth_and_Eighth_Nerve_Cases\\text.md",
+      "bytes": 13276
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2937_Immune_Reactions_in_Rabbits_Injected_with_Micrococci_from_Ac\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2937_Immune_Reactions_in_Rabbits_Injected_with_Micrococci_from_Ac\\text.md",
+      "bytes": 14049
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2937_Immune_Reactions_in_Rabbits_Injected_with_Micrococci_from_Ac\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2937_Immune_Reactions_in_Rabbits_Injected_with_Micrococci_from_Ac\\text.md",
+      "bytes": 14049
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2938_NOTES_ON_PENETRATING_WOUNDS_OF_THE_BRAIN\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2938_NOTES_ON_PENETRATING_WOUNDS_OF_THE_BRAIN\\text.md",
+      "bytes": 38602
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2938_NOTES_ON_PENETRATING_WOUNDS_OF_THE_BRAIN\\figures\\fig11.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2938_NOTES_ON_PENETRATING_WOUNDS_OF_THE_BRAIN\\figures\\fig11.png",
+      "bytes": 1763683
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2938_NOTES_ON_PENETRATING_WOUNDS_OF_THE_BRAIN\\figures\\fig14.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2938_NOTES_ON_PENETRATING_WOUNDS_OF_THE_BRAIN\\figures\\fig14.png",
+      "bytes": 1714613
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2938_NOTES_ON_PENETRATING_WOUNDS_OF_THE_BRAIN\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2938_NOTES_ON_PENETRATING_WOUNDS_OF_THE_BRAIN\\figures\\fig2.png",
+      "bytes": 2085329
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2938_NOTES_ON_PENETRATING_WOUNDS_OF_THE_BRAIN\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2938_NOTES_ON_PENETRATING_WOUNDS_OF_THE_BRAIN\\figures\\fig5.png",
+      "bytes": 2038665
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2938_NOTES_ON_PENETRATING_WOUNDS_OF_THE_BRAIN\\figures\\fig9.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2938_NOTES_ON_PENETRATING_WOUNDS_OF_THE_BRAIN\\figures\\fig9.png",
+      "bytes": 1781001
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2938_NOTES_ON_PENETRATING_WOUNDS_OF_THE_BRAIN\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2938_NOTES_ON_PENETRATING_WOUNDS_OF_THE_BRAIN\\text.md",
+      "bytes": 38602
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2938_NOTES_ON_PENETRATING_WOUNDS_OF_THE_BRAIN\\figures\\fig11.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2938_NOTES_ON_PENETRATING_WOUNDS_OF_THE_BRAIN\\figures\\fig11.png",
+      "bytes": 1763683
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2938_NOTES_ON_PENETRATING_WOUNDS_OF_THE_BRAIN\\figures\\fig14.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2938_NOTES_ON_PENETRATING_WOUNDS_OF_THE_BRAIN\\figures\\fig14.png",
+      "bytes": 1714613
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2938_NOTES_ON_PENETRATING_WOUNDS_OF_THE_BRAIN\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2938_NOTES_ON_PENETRATING_WOUNDS_OF_THE_BRAIN\\figures\\fig2.png",
+      "bytes": 2085329
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2938_NOTES_ON_PENETRATING_WOUNDS_OF_THE_BRAIN\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2938_NOTES_ON_PENETRATING_WOUNDS_OF_THE_BRAIN\\figures\\fig5.png",
+      "bytes": 2038665
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2938_NOTES_ON_PENETRATING_WOUNDS_OF_THE_BRAIN\\figures\\fig9.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2938_NOTES_ON_PENETRATING_WOUNDS_OF_THE_BRAIN\\figures\\fig9.png",
+      "bytes": 1781001
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2939_EARLY_DIAGNOSIS_AND_INTRAVENOUS_SERUM_TREATMENT_OF_EPIDEMIC\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2939_EARLY_DIAGNOSIS_AND_INTRAVENOUS_SERUM_TREATMENT_OF_EPIDEMIC\\text.md",
+      "bytes": 41953
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2939_EARLY_DIAGNOSIS_AND_INTRAVENOUS_SERUM_TREATMENT_OF_EPIDEMIC\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2939_EARLY_DIAGNOSIS_AND_INTRAVENOUS_SERUM_TREATMENT_OF_EPIDEMIC\\text.md",
+      "bytes": 41953
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2940_The_Cerebrospinal_Fever_Epidemic_of_1917_at_X_Depot\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2940_The_Cerebrospinal_Fever_Epidemic_of_1917_at_X_Depot\\text.md",
+      "bytes": 34164
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2940_The_Cerebrospinal_Fever_Epidemic_of_1917_at_X_Depot\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2940_The_Cerebrospinal_Fever_Epidemic_of_1917_at_X_Depot\\text.md",
+      "bytes": 34164
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2941_TRICHINOSIS_A_REPORT_OF_THREE_CASES_SIMULATING_MENINGITIS_WI\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2941_TRICHINOSIS_A_REPORT_OF_THREE_CASES_SIMULATING_MENINGITIS_WI\\text.md",
+      "bytes": 23254
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2941_TRICHINOSIS_A_REPORT_OF_THREE_CASES_SIMULATING_MENINGITIS_WI\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2941_TRICHINOSIS_A_REPORT_OF_THREE_CASES_SIMULATING_MENINGITIS_WI\\text.md",
+      "bytes": 23254
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2942_PATHOLOGIC_REPORT_ON_FORTY-THREE_CASES_OF_ACUTE_POLIOMYELITI\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2942_PATHOLOGIC_REPORT_ON_FORTY-THREE_CASES_OF_ACUTE_POLIOMYELITI\\text.md",
+      "bytes": 32151
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2942_PATHOLOGIC_REPORT_ON_FORTY-THREE_CASES_OF_ACUTE_POLIOMYELITI\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2942_PATHOLOGIC_REPORT_ON_FORTY-THREE_CASES_OF_ACUTE_POLIOMYELITI\\figures\\fig1.png",
+      "bytes": 880161
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2942_PATHOLOGIC_REPORT_ON_FORTY-THREE_CASES_OF_ACUTE_POLIOMYELITI\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2942_PATHOLOGIC_REPORT_ON_FORTY-THREE_CASES_OF_ACUTE_POLIOMYELITI\\figures\\fig2.png",
+      "bytes": 649411
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2942_PATHOLOGIC_REPORT_ON_FORTY-THREE_CASES_OF_ACUTE_POLIOMYELITI\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2942_PATHOLOGIC_REPORT_ON_FORTY-THREE_CASES_OF_ACUTE_POLIOMYELITI\\figures\\fig3.png",
+      "bytes": 813538
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2942_PATHOLOGIC_REPORT_ON_FORTY-THREE_CASES_OF_ACUTE_POLIOMYELITI\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2942_PATHOLOGIC_REPORT_ON_FORTY-THREE_CASES_OF_ACUTE_POLIOMYELITI\\figures\\fig4.png",
+      "bytes": 841521
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2942_PATHOLOGIC_REPORT_ON_FORTY-THREE_CASES_OF_ACUTE_POLIOMYELITI\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2942_PATHOLOGIC_REPORT_ON_FORTY-THREE_CASES_OF_ACUTE_POLIOMYELITI\\figures\\fig5.png",
+      "bytes": 827845
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2942_PATHOLOGIC_REPORT_ON_FORTY-THREE_CASES_OF_ACUTE_POLIOMYELITI\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2942_PATHOLOGIC_REPORT_ON_FORTY-THREE_CASES_OF_ACUTE_POLIOMYELITI\\text.md",
+      "bytes": 32151
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2942_PATHOLOGIC_REPORT_ON_FORTY-THREE_CASES_OF_ACUTE_POLIOMYELITI\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2942_PATHOLOGIC_REPORT_ON_FORTY-THREE_CASES_OF_ACUTE_POLIOMYELITI\\figures\\fig1.png",
+      "bytes": 880161
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2942_PATHOLOGIC_REPORT_ON_FORTY-THREE_CASES_OF_ACUTE_POLIOMYELITI\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2942_PATHOLOGIC_REPORT_ON_FORTY-THREE_CASES_OF_ACUTE_POLIOMYELITI\\figures\\fig2.png",
+      "bytes": 649411
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2942_PATHOLOGIC_REPORT_ON_FORTY-THREE_CASES_OF_ACUTE_POLIOMYELITI\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2942_PATHOLOGIC_REPORT_ON_FORTY-THREE_CASES_OF_ACUTE_POLIOMYELITI\\figures\\fig3.png",
+      "bytes": 813538
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2942_PATHOLOGIC_REPORT_ON_FORTY-THREE_CASES_OF_ACUTE_POLIOMYELITI\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2942_PATHOLOGIC_REPORT_ON_FORTY-THREE_CASES_OF_ACUTE_POLIOMYELITI\\figures\\fig4.png",
+      "bytes": 841521
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2942_PATHOLOGIC_REPORT_ON_FORTY-THREE_CASES_OF_ACUTE_POLIOMYELITI\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2942_PATHOLOGIC_REPORT_ON_FORTY-THREE_CASES_OF_ACUTE_POLIOMYELITI\\figures\\fig5.png",
+      "bytes": 827845
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2847_Comparative_studies_on_the_growth_of_the_cerebral_cortex_I_O\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2847_Comparative_studies_on_the_growth_of_the_cerebral_cortex_I_O\\text.md",
+      "bytes": 29803
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2847_Comparative_studies_on_the_growth_of_the_cerebral_cortex_I_O\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2847_Comparative_studies_on_the_growth_of_the_cerebral_cortex_I_O\\figures\\fig1.png",
+      "bytes": 380860
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2847_Comparative_studies_on_the_growth_of_the_cerebral_cortex_I_O\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2847_Comparative_studies_on_the_growth_of_the_cerebral_cortex_I_O\\text.md",
+      "bytes": 29803
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2847_Comparative_studies_on_the_growth_of_the_cerebral_cortex_I_O\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2847_Comparative_studies_on_the_growth_of_the_cerebral_cortex_I_O\\figures\\fig1.png",
+      "bytes": 380860
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2943_ON_THE_EVOLUTION_OF_THE_NEUROGLIA_AND_SPECIALLY_THEIR_RELATI\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2943_ON_THE_EVOLUTION_OF_THE_NEUROGLIA_AND_SPECIALLY_THEIR_RELATI\\text.md",
+      "bytes": 291
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2943_ON_THE_EVOLUTION_OF_THE_NEUROGLIA_AND_SPECIALLY_THEIR_RELATI\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2943_ON_THE_EVOLUTION_OF_THE_NEUROGLIA_AND_SPECIALLY_THEIR_RELATI\\text.md",
+      "bytes": 291
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2944_HEAT_STROKE_WITH_A_SECOND_STUDY_OF_CEREBRAL_EDEMA\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2944_HEAT_STROKE_WITH_A_SECOND_STUDY_OF_CEREBRAL_EDEMA\\text.md",
+      "bytes": 28240
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2944_HEAT_STROKE_WITH_A_SECOND_STUDY_OF_CEREBRAL_EDEMA\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2944_HEAT_STROKE_WITH_A_SECOND_STUDY_OF_CEREBRAL_EDEMA\\text.md",
+      "bytes": 28240
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2945_A_contribution_to_the_study_of_the_pathways_of_the_cerebrosp\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2945_A_contribution_to_the_study_of_the_pathways_of_the_cerebrosp\\text.md",
+      "bytes": 44762
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2945_A_contribution_to_the_study_of_the_pathways_of_the_cerebrosp\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2945_A_contribution_to_the_study_of_the_pathways_of_the_cerebrosp\\figures\\fig1.png",
+      "bytes": 403225
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2945_A_contribution_to_the_study_of_the_pathways_of_the_cerebrosp\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2945_A_contribution_to_the_study_of_the_pathways_of_the_cerebrosp\\text.md",
+      "bytes": 44762
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2945_A_contribution_to_the_study_of_the_pathways_of_the_cerebrosp\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2945_A_contribution_to_the_study_of_the_pathways_of_the_cerebrosp\\figures\\fig1.png",
+      "bytes": 403225
     }
   ],
   "missing": [],
