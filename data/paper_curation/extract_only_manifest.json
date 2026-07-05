@@ -1,12 +1,12 @@
 {
-  "generated": "2026-07-05T10:00:33.136922+00:00",
+  "generated": "2026-07-05T10:27:43.108046+00:00",
   "mode": "extract-only",
   "paperCurationDir": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect",
   "awesomeRepo": "E:\\조선대\\연구\\awesome-brain-ai",
   "extractReport": "data/paper_curation/extract_only_report.json",
   "docsDir": "docs/paper_curation/extract_only",
   "paperDir": "paper/extract_only",
-  "recordCount": 820,
+  "recordCount": 840,
   "syncedPaperSlugs": [
     "003_Hughlings_Jackson_and_the_Cortical_Motor_Centres_in_the_Ligh",
     "015_EXPERIMENTAL_AND_CLINICAL_NOTES_ON_THE_SUBARACHNOID_SPACE",
@@ -827,13 +827,33 @@
     "3075_THE_ROLE_OF_THE_PITUITARY_GLAND_IN_EPILEPSY",
     "3076_STUDY_OF_THE_CEREBROSPINAL_FLUID_IN_THE_DIFFERENT_PERIODS_OF",
     "3077_UNSUSPECTED_INVOLVEMENT_OF_THE_CENTRAL_NERVOUS_SYSTEM_IN_SYP",
-    "3078_LOCOMOTOR_DISTURBANCES_IN_DISEASE_OF_THE_CEREBELLUM_A_GRAPHI"
+    "3078_LOCOMOTOR_DISTURBANCES_IN_DISEASE_OF_THE_CEREBELLUM_A_GRAPHI",
+    "3104_Metabolic_activity_of_the_nervous_system_IV_The_content_of_n",
+    "3105_GUNSHOT_INJURIES_OF_THE_CORTICAL_VISUAL_AREAS",
+    "3106_A_PROBABLE_ETIOLOGIC_FACTOR_IN_MULTIPLE_SCLEROSIS",
+    "3107_THE_EYE_SYMPTOMS_IN_PSEUDOTUMOR_CEREBRI_WITH_REPORT_OF_AN_AD",
+    "3108_The_Significance_of_the_Cerebral_Cortex",
+    "3109_Factors_influencing_the_behavior_of_the_brain_of_the_albino",
+    "3110_The_action_of_camphor_on_the_central_nervous_system_of_the_s",
+    "3111_A_STUDY_OF_THE_RELATIONSHIP_OF_CONVULSIONS_IN_INFANCY_AND_CH",
+    "3112_CALIPER_EXTENSION_IN_THE_TREATMENT_OF_FRACTURES_OF_THE_FEMUR",
+    "3113_XIII_Cerebral_Abscesses_of_the_Frontal_Lobe_Originating_from",
+    "3114_NONEPIDEMIC_EPIDEMIC_MENINGITIS",
+    "3115_SPINAL_CORD_INJURIES_IN_WARFARE_SYMPTOMATOLOGY_AND_DIAGNOSIS",
+    "3116_THE_CENTRAL_NERVOUS_SYSTEM_IN_PURPURA_HEMORRHAGICA",
+    "3117_The_Hysterical_Element_in_Organic_Disease_and_Injury_of_the",
+    "3118_THE_EARLY_RECOGNITION_OF_HYDROCEPHALUS_IN_MENINGITIS",
+    "3119_A_contribution_to_the_study_of_vasomotor_reflexes",
+    "3025_CEREBROSPINAL_FLUID_FINDINGS_IN_HERPES_ZOSTER",
+    "3120_Cerebral_Cortex_Nystagmus_in_a_Soldier",
+    "3121_CHEMICAL_ANALYSES_OF_TWO_PATHOLOGICAL_HUMAN_BRAINS",
+    "3122_EPIDEMIC_MENINGITIS_AND_DETECTION_OF_MENINGOCOCCUS_CARRIERS"
   ],
   "copied": [
     {
       "source": "E:\\조선대\\연구\\paper-curation\\paper\\awesome-brain-ai\\_folder_source_extract_report.json",
       "target": "E:\\조선대\\연구\\awesome-brain-ai\\data\\paper_curation\\extract_only_report.json",
-      "bytes": 501119
+      "bytes": 513306
     },
     {
       "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\003_Hughlings_Jackson_and_the_Cortical_Motor_Centres_in_the_Ligh\\text.md",
@@ -14304,6 +14324,276 @@
       "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3078_LOCOMOTOR_DISTURBANCES_IN_DISEASE_OF_THE_CEREBELLUM_A_GRAPHI\\figures\\fig2.png",
       "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3078_LOCOMOTOR_DISTURBANCES_IN_DISEASE_OF_THE_CEREBELLUM_A_GRAPHI\\figures\\fig2.png",
       "bytes": 616798
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3104_Metabolic_activity_of_the_nervous_system_IV_The_content_of_n\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3104_Metabolic_activity_of_the_nervous_system_IV_The_content_of_n\\text.md",
+      "bytes": 29497
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3104_Metabolic_activity_of_the_nervous_system_IV_The_content_of_n\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3104_Metabolic_activity_of_the_nervous_system_IV_The_content_of_n\\text.md",
+      "bytes": 29497
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3105_GUNSHOT_INJURIES_OF_THE_CORTICAL_VISUAL_AREAS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3105_GUNSHOT_INJURIES_OF_THE_CORTICAL_VISUAL_AREAS\\text.md",
+      "bytes": 12491
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3105_GUNSHOT_INJURIES_OF_THE_CORTICAL_VISUAL_AREAS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3105_GUNSHOT_INJURIES_OF_THE_CORTICAL_VISUAL_AREAS\\text.md",
+      "bytes": 12491
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3106_A_PROBABLE_ETIOLOGIC_FACTOR_IN_MULTIPLE_SCLEROSIS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3106_A_PROBABLE_ETIOLOGIC_FACTOR_IN_MULTIPLE_SCLEROSIS\\text.md",
+      "bytes": 14419
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3106_A_PROBABLE_ETIOLOGIC_FACTOR_IN_MULTIPLE_SCLEROSIS\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3106_A_PROBABLE_ETIOLOGIC_FACTOR_IN_MULTIPLE_SCLEROSIS\\figures\\fig1.png",
+      "bytes": 493331
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3106_A_PROBABLE_ETIOLOGIC_FACTOR_IN_MULTIPLE_SCLEROSIS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3106_A_PROBABLE_ETIOLOGIC_FACTOR_IN_MULTIPLE_SCLEROSIS\\text.md",
+      "bytes": 14419
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3106_A_PROBABLE_ETIOLOGIC_FACTOR_IN_MULTIPLE_SCLEROSIS\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3106_A_PROBABLE_ETIOLOGIC_FACTOR_IN_MULTIPLE_SCLEROSIS\\figures\\fig1.png",
+      "bytes": 493331
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3107_THE_EYE_SYMPTOMS_IN_PSEUDOTUMOR_CEREBRI_WITH_REPORT_OF_AN_AD\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3107_THE_EYE_SYMPTOMS_IN_PSEUDOTUMOR_CEREBRI_WITH_REPORT_OF_AN_AD\\text.md",
+      "bytes": 62716
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3107_THE_EYE_SYMPTOMS_IN_PSEUDOTUMOR_CEREBRI_WITH_REPORT_OF_AN_AD\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3107_THE_EYE_SYMPTOMS_IN_PSEUDOTUMOR_CEREBRI_WITH_REPORT_OF_AN_AD\\text.md",
+      "bytes": 62716
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3108_The_Significance_of_the_Cerebral_Cortex\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3108_The_Significance_of_the_Cerebral_Cortex\\text.md",
+      "bytes": 112
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3108_The_Significance_of_the_Cerebral_Cortex\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3108_The_Significance_of_the_Cerebral_Cortex\\text.md",
+      "bytes": 112
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3109_Factors_influencing_the_behavior_of_the_brain_of_the_albino\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3109_Factors_influencing_the_behavior_of_the_brain_of_the_albino\\text.md",
+      "bytes": 27102
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3109_Factors_influencing_the_behavior_of_the_brain_of_the_albino\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3109_Factors_influencing_the_behavior_of_the_brain_of_the_albino\\text.md",
+      "bytes": 27102
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3110_The_action_of_camphor_on_the_central_nervous_system_of_the_s\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3110_The_action_of_camphor_on_the_central_nervous_system_of_the_s\\text.md",
+      "bytes": 4034
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3110_The_action_of_camphor_on_the_central_nervous_system_of_the_s\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3110_The_action_of_camphor_on_the_central_nervous_system_of_the_s\\text.md",
+      "bytes": 4034
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3111_A_STUDY_OF_THE_RELATIONSHIP_OF_CONVULSIONS_IN_INFANCY_AND_CH\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3111_A_STUDY_OF_THE_RELATIONSHIP_OF_CONVULSIONS_IN_INFANCY_AND_CH\\text.md",
+      "bytes": 21758
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3111_A_STUDY_OF_THE_RELATIONSHIP_OF_CONVULSIONS_IN_INFANCY_AND_CH\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3111_A_STUDY_OF_THE_RELATIONSHIP_OF_CONVULSIONS_IN_INFANCY_AND_CH\\text.md",
+      "bytes": 21758
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3112_CALIPER_EXTENSION_IN_THE_TREATMENT_OF_FRACTURES_OF_THE_FEMUR\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3112_CALIPER_EXTENSION_IN_THE_TREATMENT_OF_FRACTURES_OF_THE_FEMUR\\text.md",
+      "bytes": 5763
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3112_CALIPER_EXTENSION_IN_THE_TREATMENT_OF_FRACTURES_OF_THE_FEMUR\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3112_CALIPER_EXTENSION_IN_THE_TREATMENT_OF_FRACTURES_OF_THE_FEMUR\\figures\\fig4.png",
+      "bytes": 247343
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3112_CALIPER_EXTENSION_IN_THE_TREATMENT_OF_FRACTURES_OF_THE_FEMUR\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3112_CALIPER_EXTENSION_IN_THE_TREATMENT_OF_FRACTURES_OF_THE_FEMUR\\text.md",
+      "bytes": 5763
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3112_CALIPER_EXTENSION_IN_THE_TREATMENT_OF_FRACTURES_OF_THE_FEMUR\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3112_CALIPER_EXTENSION_IN_THE_TREATMENT_OF_FRACTURES_OF_THE_FEMUR\\figures\\fig4.png",
+      "bytes": 247343
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3113_XIII_Cerebral_Abscesses_of_the_Frontal_Lobe_Originating_from\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3113_XIII_Cerebral_Abscesses_of_the_Frontal_Lobe_Originating_from\\text.md",
+      "bytes": 144039
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3113_XIII_Cerebral_Abscesses_of_the_Frontal_Lobe_Originating_from\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3113_XIII_Cerebral_Abscesses_of_the_Frontal_Lobe_Originating_from\\text.md",
+      "bytes": 144039
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3114_NONEPIDEMIC_EPIDEMIC_MENINGITIS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3114_NONEPIDEMIC_EPIDEMIC_MENINGITIS\\text.md",
+      "bytes": 31568
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3114_NONEPIDEMIC_EPIDEMIC_MENINGITIS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3114_NONEPIDEMIC_EPIDEMIC_MENINGITIS\\text.md",
+      "bytes": 31568
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3115_SPINAL_CORD_INJURIES_IN_WARFARE_SYMPTOMATOLOGY_AND_DIAGNOSIS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3115_SPINAL_CORD_INJURIES_IN_WARFARE_SYMPTOMATOLOGY_AND_DIAGNOSIS\\text.md",
+      "bytes": 90392
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3115_SPINAL_CORD_INJURIES_IN_WARFARE_SYMPTOMATOLOGY_AND_DIAGNOSIS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3115_SPINAL_CORD_INJURIES_IN_WARFARE_SYMPTOMATOLOGY_AND_DIAGNOSIS\\text.md",
+      "bytes": 90392
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3116_THE_CENTRAL_NERVOUS_SYSTEM_IN_PURPURA_HEMORRHAGICA\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3116_THE_CENTRAL_NERVOUS_SYSTEM_IN_PURPURA_HEMORRHAGICA\\text.md",
+      "bytes": 141
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3116_THE_CENTRAL_NERVOUS_SYSTEM_IN_PURPURA_HEMORRHAGICA\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3116_THE_CENTRAL_NERVOUS_SYSTEM_IN_PURPURA_HEMORRHAGICA\\text.md",
+      "bytes": 141
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3117_The_Hysterical_Element_in_Organic_Disease_and_Injury_of_the\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3117_The_Hysterical_Element_in_Organic_Disease_and_Injury_of_the\\text.md",
+      "bytes": 24478
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3117_The_Hysterical_Element_in_Organic_Disease_and_Injury_of_the\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3117_The_Hysterical_Element_in_Organic_Disease_and_Injury_of_the\\text.md",
+      "bytes": 24478
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3118_THE_EARLY_RECOGNITION_OF_HYDROCEPHALUS_IN_MENINGITIS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3118_THE_EARLY_RECOGNITION_OF_HYDROCEPHALUS_IN_MENINGITIS\\text.md",
+      "bytes": 25219
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3118_THE_EARLY_RECOGNITION_OF_HYDROCEPHALUS_IN_MENINGITIS\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3118_THE_EARLY_RECOGNITION_OF_HYDROCEPHALUS_IN_MENINGITIS\\figures\\fig1.png",
+      "bytes": 1067853
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3118_THE_EARLY_RECOGNITION_OF_HYDROCEPHALUS_IN_MENINGITIS\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3118_THE_EARLY_RECOGNITION_OF_HYDROCEPHALUS_IN_MENINGITIS\\figures\\fig2.png",
+      "bytes": 791445
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3118_THE_EARLY_RECOGNITION_OF_HYDROCEPHALUS_IN_MENINGITIS\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3118_THE_EARLY_RECOGNITION_OF_HYDROCEPHALUS_IN_MENINGITIS\\figures\\fig3.png",
+      "bytes": 915375
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3118_THE_EARLY_RECOGNITION_OF_HYDROCEPHALUS_IN_MENINGITIS\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3118_THE_EARLY_RECOGNITION_OF_HYDROCEPHALUS_IN_MENINGITIS\\figures\\fig4.png",
+      "bytes": 767486
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3118_THE_EARLY_RECOGNITION_OF_HYDROCEPHALUS_IN_MENINGITIS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3118_THE_EARLY_RECOGNITION_OF_HYDROCEPHALUS_IN_MENINGITIS\\text.md",
+      "bytes": 25219
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3118_THE_EARLY_RECOGNITION_OF_HYDROCEPHALUS_IN_MENINGITIS\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3118_THE_EARLY_RECOGNITION_OF_HYDROCEPHALUS_IN_MENINGITIS\\figures\\fig1.png",
+      "bytes": 1067853
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3118_THE_EARLY_RECOGNITION_OF_HYDROCEPHALUS_IN_MENINGITIS\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3118_THE_EARLY_RECOGNITION_OF_HYDROCEPHALUS_IN_MENINGITIS\\figures\\fig2.png",
+      "bytes": 791445
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3118_THE_EARLY_RECOGNITION_OF_HYDROCEPHALUS_IN_MENINGITIS\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3118_THE_EARLY_RECOGNITION_OF_HYDROCEPHALUS_IN_MENINGITIS\\figures\\fig3.png",
+      "bytes": 915375
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3118_THE_EARLY_RECOGNITION_OF_HYDROCEPHALUS_IN_MENINGITIS\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3118_THE_EARLY_RECOGNITION_OF_HYDROCEPHALUS_IN_MENINGITIS\\figures\\fig4.png",
+      "bytes": 767486
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3119_A_contribution_to_the_study_of_vasomotor_reflexes\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3119_A_contribution_to_the_study_of_vasomotor_reflexes\\text.md",
+      "bytes": 60994
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3119_A_contribution_to_the_study_of_vasomotor_reflexes\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3119_A_contribution_to_the_study_of_vasomotor_reflexes\\figures\\fig1.png",
+      "bytes": 197233
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3119_A_contribution_to_the_study_of_vasomotor_reflexes\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3119_A_contribution_to_the_study_of_vasomotor_reflexes\\text.md",
+      "bytes": 60994
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3119_A_contribution_to_the_study_of_vasomotor_reflexes\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3119_A_contribution_to_the_study_of_vasomotor_reflexes\\figures\\fig1.png",
+      "bytes": 197233
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3025_CEREBROSPINAL_FLUID_FINDINGS_IN_HERPES_ZOSTER\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3025_CEREBROSPINAL_FLUID_FINDINGS_IN_HERPES_ZOSTER\\text.md",
+      "bytes": 13279
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3025_CEREBROSPINAL_FLUID_FINDINGS_IN_HERPES_ZOSTER\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3025_CEREBROSPINAL_FLUID_FINDINGS_IN_HERPES_ZOSTER\\text.md",
+      "bytes": 13279
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3120_Cerebral_Cortex_Nystagmus_in_a_Soldier\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3120_Cerebral_Cortex_Nystagmus_in_a_Soldier\\text.md",
+      "bytes": 28
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3120_Cerebral_Cortex_Nystagmus_in_a_Soldier\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3120_Cerebral_Cortex_Nystagmus_in_a_Soldier\\text.md",
+      "bytes": 28
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3121_CHEMICAL_ANALYSES_OF_TWO_PATHOLOGICAL_HUMAN_BRAINS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3121_CHEMICAL_ANALYSES_OF_TWO_PATHOLOGICAL_HUMAN_BRAINS\\text.md",
+      "bytes": 20417
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3121_CHEMICAL_ANALYSES_OF_TWO_PATHOLOGICAL_HUMAN_BRAINS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3121_CHEMICAL_ANALYSES_OF_TWO_PATHOLOGICAL_HUMAN_BRAINS\\text.md",
+      "bytes": 20417
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3122_EPIDEMIC_MENINGITIS_AND_DETECTION_OF_MENINGOCOCCUS_CARRIERS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3122_EPIDEMIC_MENINGITIS_AND_DETECTION_OF_MENINGOCOCCUS_CARRIERS\\text.md",
+      "bytes": 38424
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3122_EPIDEMIC_MENINGITIS_AND_DETECTION_OF_MENINGOCOCCUS_CARRIERS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3122_EPIDEMIC_MENINGITIS_AND_DETECTION_OF_MENINGOCOCCUS_CARRIERS\\text.md",
+      "bytes": 38424
     }
   ],
   "missing": [],
