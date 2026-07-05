@@ -1,12 +1,12 @@
 {
-  "generated": "2026-07-05T05:17:28.225157+00:00",
+  "generated": "2026-07-05T05:47:30.663976+00:00",
   "mode": "extract-only",
   "paperCurationDir": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect",
   "awesomeRepo": "E:\\조선대\\연구\\awesome-brain-ai",
   "extractReport": "data/paper_curation/extract_only_report.json",
   "docsDir": "docs/paper_curation/extract_only",
   "paperDir": "paper/extract_only",
-  "recordCount": 620,
+  "recordCount": 640,
   "syncedPaperSlugs": [
     "003_Hughlings_Jackson_and_the_Cortical_Motor_Centres_in_the_Ligh",
     "015_EXPERIMENTAL_AND_CLINICAL_NOTES_ON_THE_SUBARACHNOID_SPACE",
@@ -627,13 +627,33 @@
     "2624_THE_POTASSIUM_CONTENT_OF_CEREBROSPINAL_FLUID_IN_VARIOUS_DISE",
     "2625_A_MICROCEPHALIC_IDIOT_WITH_MALFORMATION_OF_BRAIN_REPORT_OF_A",
     "2626_A_brain_macrotome",
-    "2627_BILATERAL_SYMMETRICAL_PETECHIAL_HEMORRHAGES_OF_THE_BRAIN_AFT"
+    "2627_BILATERAL_SYMMETRICAL_PETECHIAL_HEMORRHAGES_OF_THE_BRAIN_AFT",
+    "2654_Brain_Vol_XXXVI_Part_I",
+    "2655_Brain_explorer_and_two_modifications_of_all-ports_speculum",
+    "2656_CONTUSION_OF_THE_BRAIN",
+    "2657_The_cell_masses_in_the_forebrain_of_the_turtle_cistudo_carol",
+    "2658_The_development_of_reflex_mechanisms_in_amblystoma",
+    "2659_A_note_on_the_course_and_distribution_of_the_nervus_terminal",
+    "2660_THE_SPECIFIC_GRAVITY_OF_THE_HUMAN_BODY",
+    "2661_THE_POSSIBILITY_OF_RECOVERY_OF_MOTOR_FUNCTION_IN_LONG-STANDI",
+    "2662_On_the_rhinencephalon_of_Delphinus_delphis_L",
+    "2663_On_the_influence_of_exercise_on_the_growth_of_organs_in_the",
+    "2664_X_On_Isoëtes_japonica_A_Br",
+    "2665_Observations_on_cholesterol-fed_guinea_pigs",
+    "2666_A_study_of_the_endocranial_casts_of_ocapia_giraffa_and_samot",
+    "2667_INTRASPINAL_ADMINISTRATION_OF_MORPHIN",
+    "2668_GALVANOMETRIC_STUDIES_OF_THE_CEREBELLAR_FUNCTION",
+    "2669_THE_CEREBROSPINAL_FLUID_IN_HEALTH_AND_DISEASE",
+    "2670_A_study_of_the_american_negro_brain",
+    "2671_Brain_Abscess_in_a_Case_of_Paratyphoid_B",
+    "2672_THE_DIFFERENTIATION_OF_CEREBRAL_AND_CARDIAC_TYPES_OF_HYPERAR",
+    "2673_PILOUS_CEREBRAL_ADIPOSITY_A_NEW_SYNDROME"
   ],
   "copied": [
     {
       "source": "E:\\조선대\\연구\\paper-curation\\paper\\awesome-brain-ai\\_folder_source_extract_report.json",
       "target": "E:\\조선대\\연구\\awesome-brain-ai\\data\\paper_curation\\extract_only_report.json",
-      "bytes": 378949
+      "bytes": 390425
     },
     {
       "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\003_Hughlings_Jackson_and_the_Cortical_Motor_Centres_in_the_Ligh\\text.md",
@@ -10144,6 +10164,496 @@
       "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2627_BILATERAL_SYMMETRICAL_PETECHIAL_HEMORRHAGES_OF_THE_BRAIN_AFT\\text.md",
       "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2627_BILATERAL_SYMMETRICAL_PETECHIAL_HEMORRHAGES_OF_THE_BRAIN_AFT\\text.md",
       "bytes": 84
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2654_Brain_Vol_XXXVI_Part_I\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2654_Brain_Vol_XXXVI_Part_I\\text.md",
+      "bytes": 382
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2654_Brain_Vol_XXXVI_Part_I\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2654_Brain_Vol_XXXVI_Part_I\\text.md",
+      "bytes": 382
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2655_Brain_explorer_and_two_modifications_of_all-ports_speculum\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2655_Brain_explorer_and_two_modifications_of_all-ports_speculum\\text.md",
+      "bytes": 3300
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2655_Brain_explorer_and_two_modifications_of_all-ports_speculum\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2655_Brain_explorer_and_two_modifications_of_all-ports_speculum\\figures\\fig1.png",
+      "bytes": 587334
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2655_Brain_explorer_and_two_modifications_of_all-ports_speculum\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2655_Brain_explorer_and_two_modifications_of_all-ports_speculum\\figures\\fig3.png",
+      "bytes": 603530
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2655_Brain_explorer_and_two_modifications_of_all-ports_speculum\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2655_Brain_explorer_and_two_modifications_of_all-ports_speculum\\text.md",
+      "bytes": 3300
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2655_Brain_explorer_and_two_modifications_of_all-ports_speculum\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2655_Brain_explorer_and_two_modifications_of_all-ports_speculum\\figures\\fig1.png",
+      "bytes": 587334
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2655_Brain_explorer_and_two_modifications_of_all-ports_speculum\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2655_Brain_explorer_and_two_modifications_of_all-ports_speculum\\figures\\fig3.png",
+      "bytes": 603530
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2656_CONTUSION_OF_THE_BRAIN\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2656_CONTUSION_OF_THE_BRAIN\\text.md",
+      "bytes": 261
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2656_CONTUSION_OF_THE_BRAIN\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2656_CONTUSION_OF_THE_BRAIN\\text.md",
+      "bytes": 261
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2657_The_cell_masses_in_the_forebrain_of_the_turtle_cistudo_carol\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2657_The_cell_masses_in_the_forebrain_of_the_turtle_cistudo_carol\\text.md",
+      "bytes": 121365
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2657_The_cell_masses_in_the_forebrain_of_the_turtle_cistudo_carol\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2657_The_cell_masses_in_the_forebrain_of_the_turtle_cistudo_carol\\text.md",
+      "bytes": 121365
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2658_The_development_of_reflex_mechanisms_in_amblystoma\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2658_The_development_of_reflex_mechanisms_in_amblystoma\\text.md",
+      "bytes": 35189
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2658_The_development_of_reflex_mechanisms_in_amblystoma\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2658_The_development_of_reflex_mechanisms_in_amblystoma\\figures\\fig1.png",
+      "bytes": 425682
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2658_The_development_of_reflex_mechanisms_in_amblystoma\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2658_The_development_of_reflex_mechanisms_in_amblystoma\\figures\\fig2.png",
+      "bytes": 386470
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2658_The_development_of_reflex_mechanisms_in_amblystoma\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2658_The_development_of_reflex_mechanisms_in_amblystoma\\figures\\fig3.png",
+      "bytes": 526187
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2658_The_development_of_reflex_mechanisms_in_amblystoma\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2658_The_development_of_reflex_mechanisms_in_amblystoma\\figures\\fig4.png",
+      "bytes": 174153
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2658_The_development_of_reflex_mechanisms_in_amblystoma\\figures\\fig7.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2658_The_development_of_reflex_mechanisms_in_amblystoma\\figures\\fig7.png",
+      "bytes": 384270
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2658_The_development_of_reflex_mechanisms_in_amblystoma\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2658_The_development_of_reflex_mechanisms_in_amblystoma\\text.md",
+      "bytes": 35189
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2658_The_development_of_reflex_mechanisms_in_amblystoma\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2658_The_development_of_reflex_mechanisms_in_amblystoma\\figures\\fig1.png",
+      "bytes": 425682
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2658_The_development_of_reflex_mechanisms_in_amblystoma\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2658_The_development_of_reflex_mechanisms_in_amblystoma\\figures\\fig2.png",
+      "bytes": 386470
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2658_The_development_of_reflex_mechanisms_in_amblystoma\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2658_The_development_of_reflex_mechanisms_in_amblystoma\\figures\\fig3.png",
+      "bytes": 526187
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2658_The_development_of_reflex_mechanisms_in_amblystoma\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2658_The_development_of_reflex_mechanisms_in_amblystoma\\figures\\fig4.png",
+      "bytes": 174153
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2658_The_development_of_reflex_mechanisms_in_amblystoma\\figures\\fig7.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2658_The_development_of_reflex_mechanisms_in_amblystoma\\figures\\fig7.png",
+      "bytes": 384270
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2659_A_note_on_the_course_and_distribution_of_the_nervus_terminal\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2659_A_note_on_the_course_and_distribution_of_the_nervus_terminal\\text.md",
+      "bytes": 6320
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2659_A_note_on_the_course_and_distribution_of_the_nervus_terminal\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2659_A_note_on_the_course_and_distribution_of_the_nervus_terminal\\figures\\fig1.png",
+      "bytes": 578232
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2659_A_note_on_the_course_and_distribution_of_the_nervus_terminal\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2659_A_note_on_the_course_and_distribution_of_the_nervus_terminal\\text.md",
+      "bytes": 6320
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2659_A_note_on_the_course_and_distribution_of_the_nervus_terminal\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2659_A_note_on_the_course_and_distribution_of_the_nervus_terminal\\figures\\fig1.png",
+      "bytes": 578232
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2660_THE_SPECIFIC_GRAVITY_OF_THE_HUMAN_BODY\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2660_THE_SPECIFIC_GRAVITY_OF_THE_HUMAN_BODY\\text.md",
+      "bytes": 34959
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2660_THE_SPECIFIC_GRAVITY_OF_THE_HUMAN_BODY\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2660_THE_SPECIFIC_GRAVITY_OF_THE_HUMAN_BODY\\text.md",
+      "bytes": 34959
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2661_THE_POSSIBILITY_OF_RECOVERY_OF_MOTOR_FUNCTION_IN_LONG-STANDI\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2661_THE_POSSIBILITY_OF_RECOVERY_OF_MOTOR_FUNCTION_IN_LONG-STANDI\\text.md",
+      "bytes": 37975
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2661_THE_POSSIBILITY_OF_RECOVERY_OF_MOTOR_FUNCTION_IN_LONG-STANDI\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2661_THE_POSSIBILITY_OF_RECOVERY_OF_MOTOR_FUNCTION_IN_LONG-STANDI\\text.md",
+      "bytes": 37975
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2662_On_the_rhinencephalon_of_Delphinus_delphis_L\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2662_On_the_rhinencephalon_of_Delphinus_delphis_L\\text.md",
+      "bytes": 44588
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2662_On_the_rhinencephalon_of_Delphinus_delphis_L\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2662_On_the_rhinencephalon_of_Delphinus_delphis_L\\figures\\fig1.png",
+      "bytes": 640305
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2662_On_the_rhinencephalon_of_Delphinus_delphis_L\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2662_On_the_rhinencephalon_of_Delphinus_delphis_L\\figures\\fig4.png",
+      "bytes": 445876
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2662_On_the_rhinencephalon_of_Delphinus_delphis_L\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2662_On_the_rhinencephalon_of_Delphinus_delphis_L\\figures\\fig5.png",
+      "bytes": 347777
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2662_On_the_rhinencephalon_of_Delphinus_delphis_L\\figures\\fig6.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2662_On_the_rhinencephalon_of_Delphinus_delphis_L\\figures\\fig6.png",
+      "bytes": 403440
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2662_On_the_rhinencephalon_of_Delphinus_delphis_L\\figures\\fig7.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2662_On_the_rhinencephalon_of_Delphinus_delphis_L\\figures\\fig7.png",
+      "bytes": 502675
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2662_On_the_rhinencephalon_of_Delphinus_delphis_L\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2662_On_the_rhinencephalon_of_Delphinus_delphis_L\\text.md",
+      "bytes": 44588
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2662_On_the_rhinencephalon_of_Delphinus_delphis_L\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2662_On_the_rhinencephalon_of_Delphinus_delphis_L\\figures\\fig1.png",
+      "bytes": 640305
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2662_On_the_rhinencephalon_of_Delphinus_delphis_L\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2662_On_the_rhinencephalon_of_Delphinus_delphis_L\\figures\\fig4.png",
+      "bytes": 445876
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2662_On_the_rhinencephalon_of_Delphinus_delphis_L\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2662_On_the_rhinencephalon_of_Delphinus_delphis_L\\figures\\fig5.png",
+      "bytes": 347777
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2662_On_the_rhinencephalon_of_Delphinus_delphis_L\\figures\\fig6.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2662_On_the_rhinencephalon_of_Delphinus_delphis_L\\figures\\fig6.png",
+      "bytes": 403440
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2662_On_the_rhinencephalon_of_Delphinus_delphis_L\\figures\\fig7.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2662_On_the_rhinencephalon_of_Delphinus_delphis_L\\figures\\fig7.png",
+      "bytes": 502675
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2663_On_the_influence_of_exercise_on_the_growth_of_organs_in_the\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2663_On_the_influence_of_exercise_on_the_growth_of_organs_in_the\\text.md",
+      "bytes": 35338
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2663_On_the_influence_of_exercise_on_the_growth_of_organs_in_the\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2663_On_the_influence_of_exercise_on_the_growth_of_organs_in_the\\text.md",
+      "bytes": 35338
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2664_X_On_Isoëtes_japonica_A_Br\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2664_X_On_Isoëtes_japonica_A_Br\\text.md",
+      "bytes": 113069
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2664_X_On_Isoëtes_japonica_A_Br\\figures\\fig45.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2664_X_On_Isoëtes_japonica_A_Br\\figures\\fig45.png",
+      "bytes": 861825
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2664_X_On_Isoëtes_japonica_A_Br\\figures\\fig62.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2664_X_On_Isoëtes_japonica_A_Br\\figures\\fig62.png",
+      "bytes": 806611
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2664_X_On_Isoëtes_japonica_A_Br\\figures\\fig63.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2664_X_On_Isoëtes_japonica_A_Br\\figures\\fig63.png",
+      "bytes": 830761
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2664_X_On_Isoëtes_japonica_A_Br\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2664_X_On_Isoëtes_japonica_A_Br\\text.md",
+      "bytes": 113069
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2664_X_On_Isoëtes_japonica_A_Br\\figures\\fig45.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2664_X_On_Isoëtes_japonica_A_Br\\figures\\fig45.png",
+      "bytes": 861825
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2664_X_On_Isoëtes_japonica_A_Br\\figures\\fig62.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2664_X_On_Isoëtes_japonica_A_Br\\figures\\fig62.png",
+      "bytes": 806611
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2664_X_On_Isoëtes_japonica_A_Br\\figures\\fig63.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2664_X_On_Isoëtes_japonica_A_Br\\figures\\fig63.png",
+      "bytes": 830761
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2665_Observations_on_cholesterol-fed_guinea_pigs\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2665_Observations_on_cholesterol-fed_guinea_pigs\\text.md",
+      "bytes": 6903
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2665_Observations_on_cholesterol-fed_guinea_pigs\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2665_Observations_on_cholesterol-fed_guinea_pigs\\text.md",
+      "bytes": 6903
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2666_A_study_of_the_endocranial_casts_of_ocapia_giraffa_and_samot\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2666_A_study_of_the_endocranial_casts_of_ocapia_giraffa_and_samot\\text.md",
+      "bytes": 56039
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2666_A_study_of_the_endocranial_casts_of_ocapia_giraffa_and_samot\\figures\\fig10.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2666_A_study_of_the_endocranial_casts_of_ocapia_giraffa_and_samot\\figures\\fig10.png",
+      "bytes": 384460
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2666_A_study_of_the_endocranial_casts_of_ocapia_giraffa_and_samot\\figures\\fig12.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2666_A_study_of_the_endocranial_casts_of_ocapia_giraffa_and_samot\\figures\\fig12.png",
+      "bytes": 362468
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2666_A_study_of_the_endocranial_casts_of_ocapia_giraffa_and_samot\\figures\\fig14.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2666_A_study_of_the_endocranial_casts_of_ocapia_giraffa_and_samot\\figures\\fig14.png",
+      "bytes": 364809
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2666_A_study_of_the_endocranial_casts_of_ocapia_giraffa_and_samot\\figures\\fig9.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2666_A_study_of_the_endocranial_casts_of_ocapia_giraffa_and_samot\\figures\\fig9.png",
+      "bytes": 494197
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2666_A_study_of_the_endocranial_casts_of_ocapia_giraffa_and_samot\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2666_A_study_of_the_endocranial_casts_of_ocapia_giraffa_and_samot\\text.md",
+      "bytes": 56039
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2666_A_study_of_the_endocranial_casts_of_ocapia_giraffa_and_samot\\figures\\fig10.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2666_A_study_of_the_endocranial_casts_of_ocapia_giraffa_and_samot\\figures\\fig10.png",
+      "bytes": 384460
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2666_A_study_of_the_endocranial_casts_of_ocapia_giraffa_and_samot\\figures\\fig12.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2666_A_study_of_the_endocranial_casts_of_ocapia_giraffa_and_samot\\figures\\fig12.png",
+      "bytes": 362468
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2666_A_study_of_the_endocranial_casts_of_ocapia_giraffa_and_samot\\figures\\fig14.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2666_A_study_of_the_endocranial_casts_of_ocapia_giraffa_and_samot\\figures\\fig14.png",
+      "bytes": 364809
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2666_A_study_of_the_endocranial_casts_of_ocapia_giraffa_and_samot\\figures\\fig9.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2666_A_study_of_the_endocranial_casts_of_ocapia_giraffa_and_samot\\figures\\fig9.png",
+      "bytes": 494197
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2667_INTRASPINAL_ADMINISTRATION_OF_MORPHIN\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2667_INTRASPINAL_ADMINISTRATION_OF_MORPHIN\\text.md",
+      "bytes": 14656
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2667_INTRASPINAL_ADMINISTRATION_OF_MORPHIN\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2667_INTRASPINAL_ADMINISTRATION_OF_MORPHIN\\text.md",
+      "bytes": 14656
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2668_GALVANOMETRIC_STUDIES_OF_THE_CEREBELLAR_FUNCTION\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2668_GALVANOMETRIC_STUDIES_OF_THE_CEREBELLAR_FUNCTION\\text.md",
+      "bytes": 55698
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2668_GALVANOMETRIC_STUDIES_OF_THE_CEREBELLAR_FUNCTION\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2668_GALVANOMETRIC_STUDIES_OF_THE_CEREBELLAR_FUNCTION\\figures\\fig1.png",
+      "bytes": 461264
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2668_GALVANOMETRIC_STUDIES_OF_THE_CEREBELLAR_FUNCTION\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2668_GALVANOMETRIC_STUDIES_OF_THE_CEREBELLAR_FUNCTION\\figures\\fig2.png",
+      "bytes": 382272
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2668_GALVANOMETRIC_STUDIES_OF_THE_CEREBELLAR_FUNCTION\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2668_GALVANOMETRIC_STUDIES_OF_THE_CEREBELLAR_FUNCTION\\figures\\fig3.png",
+      "bytes": 346538
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2668_GALVANOMETRIC_STUDIES_OF_THE_CEREBELLAR_FUNCTION\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2668_GALVANOMETRIC_STUDIES_OF_THE_CEREBELLAR_FUNCTION\\figures\\fig5.png",
+      "bytes": 337594
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2668_GALVANOMETRIC_STUDIES_OF_THE_CEREBELLAR_FUNCTION\\figures\\fig6.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2668_GALVANOMETRIC_STUDIES_OF_THE_CEREBELLAR_FUNCTION\\figures\\fig6.png",
+      "bytes": 360546
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2668_GALVANOMETRIC_STUDIES_OF_THE_CEREBELLAR_FUNCTION\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2668_GALVANOMETRIC_STUDIES_OF_THE_CEREBELLAR_FUNCTION\\text.md",
+      "bytes": 55698
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2668_GALVANOMETRIC_STUDIES_OF_THE_CEREBELLAR_FUNCTION\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2668_GALVANOMETRIC_STUDIES_OF_THE_CEREBELLAR_FUNCTION\\figures\\fig1.png",
+      "bytes": 461264
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2668_GALVANOMETRIC_STUDIES_OF_THE_CEREBELLAR_FUNCTION\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2668_GALVANOMETRIC_STUDIES_OF_THE_CEREBELLAR_FUNCTION\\figures\\fig2.png",
+      "bytes": 382272
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2668_GALVANOMETRIC_STUDIES_OF_THE_CEREBELLAR_FUNCTION\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2668_GALVANOMETRIC_STUDIES_OF_THE_CEREBELLAR_FUNCTION\\figures\\fig3.png",
+      "bytes": 346538
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2668_GALVANOMETRIC_STUDIES_OF_THE_CEREBELLAR_FUNCTION\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2668_GALVANOMETRIC_STUDIES_OF_THE_CEREBELLAR_FUNCTION\\figures\\fig5.png",
+      "bytes": 337594
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2668_GALVANOMETRIC_STUDIES_OF_THE_CEREBELLAR_FUNCTION\\figures\\fig6.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2668_GALVANOMETRIC_STUDIES_OF_THE_CEREBELLAR_FUNCTION\\figures\\fig6.png",
+      "bytes": 360546
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2669_THE_CEREBROSPINAL_FLUID_IN_HEALTH_AND_DISEASE\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2669_THE_CEREBROSPINAL_FLUID_IN_HEALTH_AND_DISEASE\\text.md",
+      "bytes": 1658
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2669_THE_CEREBROSPINAL_FLUID_IN_HEALTH_AND_DISEASE\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2669_THE_CEREBROSPINAL_FLUID_IN_HEALTH_AND_DISEASE\\text.md",
+      "bytes": 1658
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2670_A_study_of_the_american_negro_brain\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2670_A_study_of_the_american_negro_brain\\text.md",
+      "bytes": 58750
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2670_A_study_of_the_american_negro_brain\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2670_A_study_of_the_american_negro_brain\\figures\\fig1.png",
+      "bytes": 290510
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2670_A_study_of_the_american_negro_brain\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2670_A_study_of_the_american_negro_brain\\figures\\fig4.png",
+      "bytes": 299743
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2670_A_study_of_the_american_negro_brain\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2670_A_study_of_the_american_negro_brain\\figures\\fig5.png",
+      "bytes": 301829
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2670_A_study_of_the_american_negro_brain\\figures\\fig7.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2670_A_study_of_the_american_negro_brain\\figures\\fig7.png",
+      "bytes": 281058
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2670_A_study_of_the_american_negro_brain\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2670_A_study_of_the_american_negro_brain\\text.md",
+      "bytes": 58750
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2670_A_study_of_the_american_negro_brain\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2670_A_study_of_the_american_negro_brain\\figures\\fig1.png",
+      "bytes": 290510
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2670_A_study_of_the_american_negro_brain\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2670_A_study_of_the_american_negro_brain\\figures\\fig4.png",
+      "bytes": 299743
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2670_A_study_of_the_american_negro_brain\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2670_A_study_of_the_american_negro_brain\\figures\\fig5.png",
+      "bytes": 301829
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2670_A_study_of_the_american_negro_brain\\figures\\fig7.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2670_A_study_of_the_american_negro_brain\\figures\\fig7.png",
+      "bytes": 281058
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2671_Brain_Abscess_in_a_Case_of_Paratyphoid_B\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2671_Brain_Abscess_in_a_Case_of_Paratyphoid_B\\text.md",
+      "bytes": 13101
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2671_Brain_Abscess_in_a_Case_of_Paratyphoid_B\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2671_Brain_Abscess_in_a_Case_of_Paratyphoid_B\\text.md",
+      "bytes": 13101
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2672_THE_DIFFERENTIATION_OF_CEREBRAL_AND_CARDIAC_TYPES_OF_HYPERAR\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2672_THE_DIFFERENTIATION_OF_CEREBRAL_AND_CARDIAC_TYPES_OF_HYPERAR\\text.md",
+      "bytes": 47887
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2672_THE_DIFFERENTIATION_OF_CEREBRAL_AND_CARDIAC_TYPES_OF_HYPERAR\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2672_THE_DIFFERENTIATION_OF_CEREBRAL_AND_CARDIAC_TYPES_OF_HYPERAR\\text.md",
+      "bytes": 47887
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2673_PILOUS_CEREBRAL_ADIPOSITY_A_NEW_SYNDROME\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2673_PILOUS_CEREBRAL_ADIPOSITY_A_NEW_SYNDROME\\text.md",
+      "bytes": 20533
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2673_PILOUS_CEREBRAL_ADIPOSITY_A_NEW_SYNDROME\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2673_PILOUS_CEREBRAL_ADIPOSITY_A_NEW_SYNDROME\\text.md",
+      "bytes": 20533
     }
   ],
   "missing": [],

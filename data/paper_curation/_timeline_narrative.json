@@ -5,7 +5,7 @@
     {
       "id": "hdbscan-bridge-and-noise-papers",
       "name": "HDBSCAN Bridge and Noise Papers",
-      "count": 261
+      "count": 282
     },
     {
       "id": "hdbscan-cluster-figure-which-case-not",
@@ -23,24 +23,19 @@
       "count": 6
     },
     {
-      "id": "hdbscan-cluster-not-which-cases-figure",
-      "name": "HDBSCAN Cluster: not, which, cases, figure",
-      "count": 6
-    },
-    {
       "id": "hdbscan-cluster-der-die-und-yon",
       "name": "HDBSCAN Cluster: der, die, und, yon",
       "count": 6
     },
     {
-      "id": "hdbscan-cluster-cells-which-nerve-brain",
-      "name": "HDBSCAN Cluster: cells, which, nerve, brain",
+      "id": "hdbscan-cluster-nerves-fibers-nerve-observations",
+      "name": "HDBSCAN Cluster: nerves, fibers, nerve, observations",
       "count": 6
     },
     {
-      "id": "hdbscan-cluster-his-such-figure-patient",
-      "name": "HDBSCAN Cluster: his, such, figure, patient",
-      "count": 5
+      "id": "hdbscan-cluster-figure-have-been-brain",
+      "name": "HDBSCAN Cluster: figure, have, been, brain",
+      "count": 6
     },
     {
       "id": "hdbscan-cluster-figure-brain-case-abscess",
@@ -58,28 +53,13 @@
       "count": 5
     },
     {
-      "id": "hdbscan-cluster-been-have-but-operation",
-      "name": "HDBSCAN Cluster: been, have, but, operation",
+      "id": "hdbscan-cluster-cells-which-nerve-brain",
+      "name": "HDBSCAN Cluster: cells, which, nerve, brain",
       "count": 5
     },
     {
-      "id": "hdbscan-cluster-figure-brain-diseases-they",
-      "name": "HDBSCAN Cluster: figure, brain, diseases, they",
-      "count": 5
-    },
-    {
-      "id": "hdbscan-cluster-cases-have-some-injection",
-      "name": "HDBSCAN Cluster: cases, have, some, injection",
-      "count": 5
-    },
-    {
-      "id": "hdbscan-cluster-not-his-their-have",
-      "name": "HDBSCAN Cluster: not, his, their, have",
-      "count": 4
-    },
-    {
-      "id": "hdbscan-cluster-nerves-fibers-nerve-cerebral",
-      "name": "HDBSCAN Cluster: nerves, fibers, nerve, cerebral",
+      "id": "hdbscan-cluster-operation-figure-removal-solution",
+      "name": "HDBSCAN Cluster: operation, figure, removal, solution",
       "count": 4
     },
     {
@@ -98,13 +78,13 @@
       "count": 4
     },
     {
-      "id": "hdbscan-cluster-gelatin-indol-cent-red",
-      "name": "HDBSCAN Cluster: gelatin, indol, cent, red",
+      "id": "hdbscan-cluster-been-operation-have-results",
+      "name": "HDBSCAN Cluster: been, operation, have, results",
       "count": 4
     },
     {
-      "id": "hdbscan-cluster-has-been-madagascar-its",
-      "name": "HDBSCAN Cluster: has, been, madagascar, its",
+      "id": "hdbscan-cluster-hemorrhages-may-but-vomiting",
+      "name": "HDBSCAN Cluster: hemorrhages, may, but, vomiting",
       "count": 4
     },
     {
@@ -118,13 +98,28 @@
       "count": 4
     },
     {
-      "id": "hdbscan-cluster-ventricles-casts-brain-sinuses",
-      "name": "HDBSCAN Cluster: ventricles, casts, brain, sinuses",
+      "id": "hdbscan-cluster-cases-which-not-diagnosis",
+      "name": "HDBSCAN Cluster: cases, which, not, diagnosis",
+      "count": 4
+    },
+    {
+      "id": "hdbscan-cluster-cases-have-injection-some",
+      "name": "HDBSCAN Cluster: cases, have, injection, some",
+      "count": 4
+    },
+    {
+      "id": "hdbscan-cluster-brain-cerebellum-figure-displacement",
+      "name": "HDBSCAN Cluster: brain, cerebellum, figure, displacement",
+      "count": 4
+    },
+    {
+      "id": "hdbscan-cluster-patient-but-his-have",
+      "name": "HDBSCAN Cluster: patient, but, his, have",
       "count": 3
     },
     {
-      "id": "hdbscan-cluster-had-four-these-but",
-      "name": "HDBSCAN Cluster: had, four, these, but",
+      "id": "hdbscan-cluster-ventricles-casts-brain-sinuses",
+      "name": "HDBSCAN Cluster: ventricles, casts, brain, sinuses",
       "count": 3
     },
     {
@@ -143,11 +138,6 @@
       "count": 3
     },
     {
-      "id": "hdbscan-cluster-cerebral-case-tumour-had",
-      "name": "HDBSCAN Cluster: cerebral, case, tumour, had",
-      "count": 3
-    },
-    {
       "id": "hdbscan-cluster-mental-one-which-different",
       "name": "HDBSCAN Cluster: mental, one, which, different",
       "count": 3
@@ -155,11 +145,6 @@
     {
       "id": "hdbscan-cluster-which-figure-thalamus-case",
       "name": "HDBSCAN Cluster: which, figure, thalamus, case",
-      "count": 3
-    },
-    {
-      "id": "hdbscan-cluster-neuroglia-which-spinal-cord",
-      "name": "HDBSCAN Cluster: neuroglia, which, spinal, cord",
       "count": 3
     },
     {
@@ -173,8 +158,13 @@
       "count": 3
     },
     {
-      "id": "hdbscan-cluster-other-regeneration-embryos-glycogen",
-      "name": "HDBSCAN Cluster: other, regeneration, embryos, glycogen",
+      "id": "hdbscan-cluster-brain-brains-macaque-anatomical",
+      "name": "HDBSCAN Cluster: brain, brains, macaque, anatomical",
+      "count": 3
+    },
+    {
+      "id": "hdbscan-cluster-japanese-professor-brain-weight-figure",
+      "name": "HDBSCAN Cluster: japanese, professor, brain-weight, figure",
       "count": 3
     },
     {
@@ -188,18 +178,13 @@
       "count": 3
     },
     {
-      "id": "hdbscan-cluster-brain-grams-his-weighed",
-      "name": "HDBSCAN Cluster: brain, grams, his, weighed",
-      "count": 3
-    },
-    {
       "id": "hdbscan-cluster-his-years-has-months",
       "name": "HDBSCAN Cluster: his, years, has, months",
       "count": 3
     },
     {
-      "id": "hdbscan-cluster-regeneration-studies-relation-nervous",
-      "name": "HDBSCAN Cluster: regeneration, studies, relation, nervous",
+      "id": "hdbscan-cluster-system-more-nervous-regeneration",
+      "name": "HDBSCAN Cluster: system, more, nervous, regeneration",
       "count": 3
     },
     {
@@ -208,8 +193,13 @@
       "count": 3
     },
     {
-      "id": "hdbscan-cluster-hemorrhages-may-but-vomiting",
-      "name": "HDBSCAN Cluster: hemorrhages, may, but, vomiting",
+      "id": "hdbscan-cluster-has-madagascar-been-scott",
+      "name": "HDBSCAN Cluster: has, madagascar, been, scott",
+      "count": 3
+    },
+    {
+      "id": "hdbscan-cluster-gelatin-cent-red-per",
+      "name": "HDBSCAN Cluster: gelatin, cent, red, per",
       "count": 3
     },
     {
@@ -238,16 +228,6 @@
       "count": 3
     },
     {
-      "id": "hdbscan-cluster-cases-not-diagnosis-have",
-      "name": "HDBSCAN Cluster: cases, not, diagnosis, have",
-      "count": 3
-    },
-    {
-      "id": "hdbscan-cluster-brain-aneurisms-arteries-diagnosis",
-      "name": "HDBSCAN Cluster: brain, aneurisms, arteries, diagnosis",
-      "count": 3
-    },
-    {
       "id": "hdbscan-cluster-hughlings-jackson-has-his",
       "name": "HDBSCAN Cluster: hughlings, jackson, has, his",
       "count": 3
@@ -263,18 +243,23 @@
       "count": 3
     },
     {
-      "id": "hdbscan-cluster-figure-solution-irrigation-aqueous",
-      "name": "HDBSCAN Cluster: figure, solution, irrigation, aqueous",
-      "count": 3
-    },
-    {
-      "id": "hdbscan-cluster-cerebellum-displacement-skull-fracture",
-      "name": "HDBSCAN Cluster: cerebellum, displacement, skull, fracture",
+      "id": "hdbscan-cluster-syphilis-nervous-been-other",
+      "name": "HDBSCAN Cluster: syphilis, nervous, been, other",
       "count": 3
     },
     {
       "id": "hdbscan-cluster-figure-brain-motor-deafness",
       "name": "HDBSCAN Cluster: figure, brain, motor, deafness",
+      "count": 3
+    },
+    {
+      "id": "hdbscan-cluster-fibers-cortical-cerebellum-university",
+      "name": "HDBSCAN Cluster: fibers, cortical, cerebellum, university",
+      "count": 3
+    },
+    {
+      "id": "hdbscan-cluster-albino-rat-brain-weight",
+      "name": "HDBSCAN Cluster: albino, rat, brain, weight",
       "count": 3
     },
     {
@@ -298,11 +283,6 @@
       "count": 2
     },
     {
-      "id": "hdbscan-cluster-cases-not-any-three",
-      "name": "HDBSCAN Cluster: cases, not, any, three",
-      "count": 2
-    },
-    {
       "id": "hdbscan-cluster-she-right-but-tumor",
       "name": "HDBSCAN Cluster: she, right, but, tumor",
       "count": 2
@@ -315,6 +295,16 @@
     {
       "id": "hdbscan-cluster-insomnia-figure-qeios-national",
       "name": "HDBSCAN Cluster: insomnia, figure, qeios, national",
+      "count": 2
+    },
+    {
+      "id": "hdbscan-cluster-their-his-not-care",
+      "name": "HDBSCAN Cluster: their, his, not, care",
+      "count": 2
+    },
+    {
+      "id": "hdbscan-cluster-danger-its-which-not",
+      "name": "HDBSCAN Cluster: danger, its, which, not",
       "count": 2
     },
     {
@@ -343,13 +333,18 @@
       "count": 2
     },
     {
+      "id": "hdbscan-cluster-side-case-right-should",
+      "name": "HDBSCAN Cluster: side, case, right, should",
+      "count": 2
+    },
+    {
       "id": "hdbscan-cluster-brain-prepared-not-mucoid",
       "name": "HDBSCAN Cluster: brain, prepared, not, mucoid",
       "count": 2
     },
     {
-      "id": "hdbscan-cluster-tetanus-successful-upon-three",
-      "name": "HDBSCAN Cluster: tetanus, successful, upon, three",
+      "id": "hdbscan-cluster-there-goiter-memory-figure",
+      "name": "HDBSCAN Cluster: there, goiter, memory, figure",
       "count": 2
     },
     {
@@ -363,13 +358,18 @@
       "count": 2
     },
     {
-      "id": "hdbscan-cluster-she-her-right-before",
-      "name": "HDBSCAN Cluster: she, her, right, before",
+      "id": "hdbscan-cluster-cerebral-had-years-her",
+      "name": "HDBSCAN Cluster: cerebral, had, years, her",
       "count": 2
     },
     {
       "id": "hdbscan-cluster-case-cholesteatoma-brain-been",
       "name": "HDBSCAN Cluster: case, cholesteatoma, brain, been",
+      "count": 2
+    },
+    {
+      "id": "hdbscan-cluster-which-not-stain-sarcoma",
+      "name": "HDBSCAN Cluster: which, not, stain, sarcoma",
       "count": 2
     },
     {
@@ -393,6 +393,11 @@
       "count": 2
     },
     {
+      "id": "hdbscan-cluster-tube-tumor-also-impossible",
+      "name": "HDBSCAN Cluster: tube, tumor, also, impossible",
+      "count": 2
+    },
+    {
       "id": "hdbscan-cluster-left-urine-side-there",
       "name": "HDBSCAN Cluster: left, urine, side, there",
       "count": 2
@@ -403,23 +408,13 @@
       "count": 2
     },
     {
-      "id": "hdbscan-cluster-brain-macaque-macacus-brain-weights",
-      "name": "HDBSCAN Cluster: brain, macaque, macacus, brain-weights",
+      "id": "hdbscan-cluster-regeneration-other-embryos-factors",
+      "name": "HDBSCAN Cluster: regeneration, other, embryos, factors",
       "count": 2
     },
     {
       "id": "hdbscan-cluster-fissures-transitory-permanent-human",
       "name": "HDBSCAN Cluster: fissures, transitory, permanent, human",
-      "count": 2
-    },
-    {
-      "id": "hdbscan-cluster-epilepsy-surgery-treatment-university",
-      "name": "HDBSCAN Cluster: epilepsy, surgery, treatment, university",
-      "count": 2
-    },
-    {
-      "id": "hdbscan-cluster-all-brains-brain-weight-japanese",
-      "name": "HDBSCAN Cluster: all, brains, brain-weight, japanese",
       "count": 2
     },
     {
@@ -443,18 +438,33 @@
       "count": 2
     },
     {
+      "id": "hdbscan-cluster-brain-his-grams-weighed",
+      "name": "HDBSCAN Cluster: brain, his, grams, weighed",
+      "count": 2
+    },
+    {
       "id": "hdbscan-cluster-each-bullet-wound-brain",
       "name": "HDBSCAN Cluster: each, bullet, wound, brain",
       "count": 2
     },
     {
-      "id": "hdbscan-cluster-arteriosclerosis-cases-cocain-one",
-      "name": "HDBSCAN Cluster: arteriosclerosis, cases, cocain, one",
+      "id": "hdbscan-cluster-have-not-made-handle",
+      "name": "HDBSCAN Cluster: have, not, made, handle",
       "count": 2
     },
     {
       "id": "hdbscan-cluster-lesions-tumors-which-astereognosis",
       "name": "HDBSCAN Cluster: lesions, tumors, which, astereognosis",
+      "count": 2
+    },
+    {
+      "id": "hdbscan-cluster-hospital-great-northern-central",
+      "name": "HDBSCAN Cluster: hospital, great, northern, central",
+      "count": 2
+    },
+    {
+      "id": "hdbscan-cluster-her-had-cases-one",
+      "name": "HDBSCAN Cluster: her, had, cases, one",
       "count": 2
     },
     {
@@ -478,18 +488,13 @@
       "count": 2
     },
     {
-      "id": "hdbscan-cluster-alcohol-pressure-effect-hospital",
-      "name": "HDBSCAN Cluster: alcohol, pressure, effect, hospital",
-      "count": 2
-    },
-    {
       "id": "hdbscan-cluster-cerebral-senile-dementia-danvers",
       "name": "HDBSCAN Cluster: cerebral, senile, dementia, danvers",
       "count": 2
     },
     {
-      "id": "hdbscan-cluster-case-boston-muscular-brain",
-      "name": "HDBSCAN Cluster: case, boston, muscular, brain",
+      "id": "hdbscan-cluster-cured-one-who-which",
+      "name": "HDBSCAN Cluster: cured, one, who, which",
       "count": 2
     },
     {
@@ -513,6 +518,16 @@
       "count": 2
     },
     {
+      "id": "hdbscan-cluster-aneurisms-arteries-brain-aneurism",
+      "name": "HDBSCAN Cluster: aneurisms, arteries, brain, aneurism",
+      "count": 2
+    },
+    {
+      "id": "hdbscan-cluster-discharge-such-they-been",
+      "name": "HDBSCAN Cluster: discharge, such, they, been",
+      "count": 2
+    },
+    {
       "id": "hdbscan-cluster-brain-commission-pathological-present",
       "name": "HDBSCAN Cluster: brain, commission, pathological, present",
       "count": 2
@@ -525,6 +540,11 @@
     {
       "id": "hdbscan-cluster-tumors-diagnosis-cerebrum-topographic",
       "name": "HDBSCAN Cluster: tumors, diagnosis, cerebrum, topographic",
+      "count": 2
+    },
+    {
+      "id": "hdbscan-cluster-had-she-any-spasm",
+      "name": "HDBSCAN Cluster: had, she, any, spasm",
       "count": 2
     },
     {
@@ -543,11 +563,6 @@
       "count": 2
     },
     {
-      "id": "hdbscan-cluster-show-nuclei-fibers-tissue",
-      "name": "HDBSCAN Cluster: show, nuclei, fibers, tissue",
-      "count": 2
-    },
-    {
       "id": "hdbscan-cluster-wrist-their-nervous-system",
       "name": "HDBSCAN Cluster: wrist, their, nervous, system",
       "count": 2
@@ -563,13 +578,18 @@
       "count": 2
     },
     {
+      "id": "hdbscan-cluster-tetany-insane-diathesis-figure",
+      "name": "HDBSCAN Cluster: tetany, insane, diathesis, figure",
+      "count": 2
+    },
+    {
       "id": "hdbscan-cluster-poliomyelitis-epidemic-monkeys-virus",
       "name": "HDBSCAN Cluster: poliomyelitis, epidemic, monkeys, virus",
       "count": 2
     },
     {
-      "id": "hdbscan-cluster-protein-growth-very-tumor",
-      "name": "HDBSCAN Cluster: protein, growth, very, tumor",
+      "id": "hdbscan-cluster-dog-anaphylactic-shock-university",
+      "name": "HDBSCAN Cluster: dog, anaphylactic, shock, university",
       "count": 2
     },
     {
@@ -580,16 +600,6 @@
     {
       "id": "hdbscan-cluster-muscle-treppe-during-movements",
       "name": "HDBSCAN Cluster: muscle, treppe, during, movements",
-      "count": 2
-    },
-    {
-      "id": "hdbscan-cluster-cerebellum-purkinje-cells-university",
-      "name": "HDBSCAN Cluster: cerebellum, purkinje, cells, university",
-      "count": 2
-    },
-    {
-      "id": "hdbscan-cluster-albino-rat-brain-weight",
-      "name": "HDBSCAN Cluster: albino, rat, brain, weight",
       "count": 2
     },
     {
@@ -623,8 +633,8 @@
       "count": 2
     },
     {
-      "id": "hdbscan-cluster-syphilis-been-nervous-system",
-      "name": "HDBSCAN Cluster: syphilis, been, nervous, system",
+      "id": "hdbscan-cluster-symptoms-relation-distribution-atrophy",
+      "name": "HDBSCAN Cluster: symptoms, relation, distribution, atrophy",
       "count": 2
     },
     {
@@ -638,11 +648,6 @@
       "count": 2
     },
     {
-      "id": "hdbscan-cluster-roots-fibers-cortex-sensory",
-      "name": "HDBSCAN Cluster: roots, fibers, cortex, sensory",
-      "count": 2
-    },
-    {
       "id": "hdbscan-cluster-test-figure-field-grs",
       "name": "HDBSCAN Cluster: test, figure, field, grs",
       "count": 2
@@ -653,8 +658,18 @@
       "count": 2
     },
     {
-      "id": "hdbscan-cluster-figure-aneurisms-vessels-brain",
-      "name": "HDBSCAN Cluster: figure, aneurisms, vessels, brain",
+      "id": "hdbscan-cluster-roots-introduction-sensory-rhinencephalon",
+      "name": "HDBSCAN Cluster: roots, introduction, sensory, rhinencephalon",
+      "count": 2
+    },
+    {
+      "id": "hdbscan-cluster-cerebellum-anatomical-pituitary-body",
+      "name": "HDBSCAN Cluster: cerebellum, anatomical, pituitary, body",
+      "count": 2
+    },
+    {
+      "id": "hdbscan-cluster-figure-brain-aneurisms-vessels",
+      "name": "HDBSCAN Cluster: figure, brain, aneurisms, vessels",
       "count": 2
     }
   ]
