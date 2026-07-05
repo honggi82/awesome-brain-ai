@@ -1,12 +1,12 @@
 {
-  "generated": "2026-07-05T06:43:50.179145+00:00",
+  "generated": "2026-07-05T07:16:25.888320+00:00",
   "mode": "extract-only",
   "paperCurationDir": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect",
   "awesomeRepo": "E:\\조선대\\연구\\awesome-brain-ai",
   "extractReport": "data/paper_curation/extract_only_report.json",
   "docsDir": "docs/paper_curation/extract_only",
   "paperDir": "paper/extract_only",
-  "recordCount": 680,
+  "recordCount": 700,
   "syncedPaperSlugs": [
     "003_Hughlings_Jackson_and_the_Cortical_Motor_Centres_in_the_Ligh",
     "015_EXPERIMENTAL_AND_CLINICAL_NOTES_ON_THE_SUBARACHNOID_SPACE",
@@ -687,13 +687,33 @@
     "2441_The_Galactosides_of_the_Brain_I",
     "2764_ABNORMAL_RELATION_BETWEEN_LIVER_AND_BRAIN_WEIGHTS_IN_FORTY-T",
     "2765_EARLY_DEATH_FROM_CEREBRAL_SYPHILIS_WITH_SUCCESSFUL_RABBIT_IN",
-    "2766_The_brain_and_the_frontal_gland_of_the_castes_of_the_White_A"
+    "2766_The_brain_and_the_frontal_gland_of_the_castes_of_the_White_A",
+    "2794_A_revision_of_the_percentage_of_water_in_the_brain_and_in_th",
+    "2795_CEREBELLAR_LOCALIZATION_AN_EXPERIMENTAL_STUDY_BY_A_NEW_METHO",
+    "2796_ON_THE_REACTION_OF_THE_CEREBROSPINAL_FLUID",
+    "2797_The_absorption_of_phenolsulphonephthalein_from_the_subarachn",
+    "2798_On_the_Inositol_of_Brain_and_its_Preparation",
+    "2799_The_Bacteriology_of_the_Urine_in_Lobar_Pneumonia",
+    "2800_ON_DISTURBANCES_OF_THE_LOCALIZATION_AND_DISCRIMINATION_OF_SE",
+    "2801_THE_TRANSPLANTATION_OF_DUCTLESS_GLANDS_WITH_REFERENCE_TO_PER",
+    "2802_TUMORS_OF_THE_THIRD_AND_FOURTH_VENTRICLES",
+    "2803_A_COMPARISON_OF_THE_MENTAL_SYMPTOMS_FOUND_IN_CASES_OF_GENERA",
+    "2804_A_STUDY_OF_NORMAL_AND_PATHOLOGIC_CEREBROSPINAL_FLUIDS_IN_CHI",
+    "2805_NITROGENOUS_CONSTITUENTS_OF_BRAIN_LECITHIN",
+    "2806_STUDIES_OF_THE_SPINAL_FLUID_DURING_IODID_MEDICATION_BY_MOUTH",
+    "2807_LIV_A_Modified_Radical_Operation_for_Chronic_Suppurative_Oti",
+    "2808_The_Histology_of_Disseminated_Sclerosis",
+    "2809_CULTURAL_EXPERIMENTS_WITH_THE_SPIROCHAETA_PALLIDA_DERIVED_FR",
+    "2810_MULTIPLE_ABSCESSES_OF_THE_BRAIN_IN_INFANCY",
+    "2811_RECURRENT_PARALYSIS_OF_THE_FACIAL_NERVE_AND_ITS_RELATION_TO",
+    "2812_INTRACRANIAL_TREATMENT_OF_SYPHILITIC_AND_PARASYPHILITIC_OPTI",
+    "2813_Is_uterine_activity_subject_to_cerebral_control"
   ],
   "copied": [
     {
       "source": "E:\\조선대\\연구\\paper-curation\\paper\\awesome-brain-ai\\_folder_source_extract_report.json",
       "target": "E:\\조선대\\연구\\awesome-brain-ai\\data\\paper_curation\\extract_only_report.json",
-      "bytes": 415081
+      "bytes": 427275
     },
     {
       "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\003_Hughlings_Jackson_and_the_Cortical_Motor_Centres_in_the_Ligh\\text.md",
@@ -11524,6 +11544,366 @@
       "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2766_The_brain_and_the_frontal_gland_of_the_castes_of_the_White_A\\figures\\fig5.png",
       "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2766_The_brain_and_the_frontal_gland_of_the_castes_of_the_White_A\\figures\\fig5.png",
       "bytes": 440804
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2794_A_revision_of_the_percentage_of_water_in_the_brain_and_in_th\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2794_A_revision_of_the_percentage_of_water_in_the_brain_and_in_th\\text.md",
+      "bytes": 84239
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2794_A_revision_of_the_percentage_of_water_in_the_brain_and_in_th\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2794_A_revision_of_the_percentage_of_water_in_the_brain_and_in_th\\text.md",
+      "bytes": 84239
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2795_CEREBELLAR_LOCALIZATION_AN_EXPERIMENTAL_STUDY_BY_A_NEW_METHO\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2795_CEREBELLAR_LOCALIZATION_AN_EXPERIMENTAL_STUDY_BY_A_NEW_METHO\\text.md",
+      "bytes": 44464
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2795_CEREBELLAR_LOCALIZATION_AN_EXPERIMENTAL_STUDY_BY_A_NEW_METHO\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2795_CEREBELLAR_LOCALIZATION_AN_EXPERIMENTAL_STUDY_BY_A_NEW_METHO\\figures\\fig1.png",
+      "bytes": 469568
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2795_CEREBELLAR_LOCALIZATION_AN_EXPERIMENTAL_STUDY_BY_A_NEW_METHO\\figures\\fig14.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2795_CEREBELLAR_LOCALIZATION_AN_EXPERIMENTAL_STUDY_BY_A_NEW_METHO\\figures\\fig14.png",
+      "bytes": 310400
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2795_CEREBELLAR_LOCALIZATION_AN_EXPERIMENTAL_STUDY_BY_A_NEW_METHO\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2795_CEREBELLAR_LOCALIZATION_AN_EXPERIMENTAL_STUDY_BY_A_NEW_METHO\\figures\\fig3.png",
+      "bytes": 657786
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2795_CEREBELLAR_LOCALIZATION_AN_EXPERIMENTAL_STUDY_BY_A_NEW_METHO\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2795_CEREBELLAR_LOCALIZATION_AN_EXPERIMENTAL_STUDY_BY_A_NEW_METHO\\figures\\fig4.png",
+      "bytes": 366483
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2795_CEREBELLAR_LOCALIZATION_AN_EXPERIMENTAL_STUDY_BY_A_NEW_METHO\\figures\\fig8.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2795_CEREBELLAR_LOCALIZATION_AN_EXPERIMENTAL_STUDY_BY_A_NEW_METHO\\figures\\fig8.png",
+      "bytes": 232849
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2795_CEREBELLAR_LOCALIZATION_AN_EXPERIMENTAL_STUDY_BY_A_NEW_METHO\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2795_CEREBELLAR_LOCALIZATION_AN_EXPERIMENTAL_STUDY_BY_A_NEW_METHO\\text.md",
+      "bytes": 44464
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2795_CEREBELLAR_LOCALIZATION_AN_EXPERIMENTAL_STUDY_BY_A_NEW_METHO\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2795_CEREBELLAR_LOCALIZATION_AN_EXPERIMENTAL_STUDY_BY_A_NEW_METHO\\figures\\fig1.png",
+      "bytes": 469568
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2795_CEREBELLAR_LOCALIZATION_AN_EXPERIMENTAL_STUDY_BY_A_NEW_METHO\\figures\\fig14.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2795_CEREBELLAR_LOCALIZATION_AN_EXPERIMENTAL_STUDY_BY_A_NEW_METHO\\figures\\fig14.png",
+      "bytes": 310400
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2795_CEREBELLAR_LOCALIZATION_AN_EXPERIMENTAL_STUDY_BY_A_NEW_METHO\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2795_CEREBELLAR_LOCALIZATION_AN_EXPERIMENTAL_STUDY_BY_A_NEW_METHO\\figures\\fig3.png",
+      "bytes": 657786
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2795_CEREBELLAR_LOCALIZATION_AN_EXPERIMENTAL_STUDY_BY_A_NEW_METHO\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2795_CEREBELLAR_LOCALIZATION_AN_EXPERIMENTAL_STUDY_BY_A_NEW_METHO\\figures\\fig4.png",
+      "bytes": 366483
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2795_CEREBELLAR_LOCALIZATION_AN_EXPERIMENTAL_STUDY_BY_A_NEW_METHO\\figures\\fig8.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2795_CEREBELLAR_LOCALIZATION_AN_EXPERIMENTAL_STUDY_BY_A_NEW_METHO\\figures\\fig8.png",
+      "bytes": 232849
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2796_ON_THE_REACTION_OF_THE_CEREBROSPINAL_FLUID\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2796_ON_THE_REACTION_OF_THE_CEREBROSPINAL_FLUID\\text.md",
+      "bytes": 24617
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2796_ON_THE_REACTION_OF_THE_CEREBROSPINAL_FLUID\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2796_ON_THE_REACTION_OF_THE_CEREBROSPINAL_FLUID\\text.md",
+      "bytes": 24617
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2797_The_absorption_of_phenolsulphonephthalein_from_the_subarachn\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2797_The_absorption_of_phenolsulphonephthalein_from_the_subarachn\\text.md",
+      "bytes": 32085
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2797_The_absorption_of_phenolsulphonephthalein_from_the_subarachn\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2797_The_absorption_of_phenolsulphonephthalein_from_the_subarachn\\text.md",
+      "bytes": 32085
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2798_On_the_Inositol_of_Brain_and_its_Preparation\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2798_On_the_Inositol_of_Brain_and_its_Preparation\\text.md",
+      "bytes": 14937
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2798_On_the_Inositol_of_Brain_and_its_Preparation\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2798_On_the_Inositol_of_Brain_and_its_Preparation\\text.md",
+      "bytes": 14937
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2799_The_Bacteriology_of_the_Urine_in_Lobar_Pneumonia\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2799_The_Bacteriology_of_the_Urine_in_Lobar_Pneumonia\\text.md",
+      "bytes": 7481
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2799_The_Bacteriology_of_the_Urine_in_Lobar_Pneumonia\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2799_The_Bacteriology_of_the_Urine_in_Lobar_Pneumonia\\text.md",
+      "bytes": 7481
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2800_ON_DISTURBANCES_OF_THE_LOCALIZATION_AND_DISCRIMINATION_OF_SE\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2800_ON_DISTURBANCES_OF_THE_LOCALIZATION_AND_DISCRIMINATION_OF_SE\\text.md",
+      "bytes": 301275
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2800_ON_DISTURBANCES_OF_THE_LOCALIZATION_AND_DISCRIMINATION_OF_SE\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2800_ON_DISTURBANCES_OF_THE_LOCALIZATION_AND_DISCRIMINATION_OF_SE\\figures\\fig2.png",
+      "bytes": 1141500
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2800_ON_DISTURBANCES_OF_THE_LOCALIZATION_AND_DISCRIMINATION_OF_SE\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2800_ON_DISTURBANCES_OF_THE_LOCALIZATION_AND_DISCRIMINATION_OF_SE\\text.md",
+      "bytes": 301275
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2800_ON_DISTURBANCES_OF_THE_LOCALIZATION_AND_DISCRIMINATION_OF_SE\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2800_ON_DISTURBANCES_OF_THE_LOCALIZATION_AND_DISCRIMINATION_OF_SE\\figures\\fig2.png",
+      "bytes": 1141500
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2801_THE_TRANSPLANTATION_OF_DUCTLESS_GLANDS_WITH_REFERENCE_TO_PER\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2801_THE_TRANSPLANTATION_OF_DUCTLESS_GLANDS_WITH_REFERENCE_TO_PER\\text.md",
+      "bytes": 21150
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2801_THE_TRANSPLANTATION_OF_DUCTLESS_GLANDS_WITH_REFERENCE_TO_PER\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2801_THE_TRANSPLANTATION_OF_DUCTLESS_GLANDS_WITH_REFERENCE_TO_PER\\text.md",
+      "bytes": 21150
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2802_TUMORS_OF_THE_THIRD_AND_FOURTH_VENTRICLES\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2802_TUMORS_OF_THE_THIRD_AND_FOURTH_VENTRICLES\\text.md",
+      "bytes": 48733
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2802_TUMORS_OF_THE_THIRD_AND_FOURTH_VENTRICLES\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2802_TUMORS_OF_THE_THIRD_AND_FOURTH_VENTRICLES\\figures\\fig1.png",
+      "bytes": 338820
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2802_TUMORS_OF_THE_THIRD_AND_FOURTH_VENTRICLES\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2802_TUMORS_OF_THE_THIRD_AND_FOURTH_VENTRICLES\\figures\\fig2.png",
+      "bytes": 417432
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2802_TUMORS_OF_THE_THIRD_AND_FOURTH_VENTRICLES\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2802_TUMORS_OF_THE_THIRD_AND_FOURTH_VENTRICLES\\figures\\fig3.png",
+      "bytes": 441956
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2802_TUMORS_OF_THE_THIRD_AND_FOURTH_VENTRICLES\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2802_TUMORS_OF_THE_THIRD_AND_FOURTH_VENTRICLES\\figures\\fig5.png",
+      "bytes": 681042
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2802_TUMORS_OF_THE_THIRD_AND_FOURTH_VENTRICLES\\figures\\fig6.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2802_TUMORS_OF_THE_THIRD_AND_FOURTH_VENTRICLES\\figures\\fig6.png",
+      "bytes": 952087
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2802_TUMORS_OF_THE_THIRD_AND_FOURTH_VENTRICLES\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2802_TUMORS_OF_THE_THIRD_AND_FOURTH_VENTRICLES\\text.md",
+      "bytes": 48733
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2802_TUMORS_OF_THE_THIRD_AND_FOURTH_VENTRICLES\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2802_TUMORS_OF_THE_THIRD_AND_FOURTH_VENTRICLES\\figures\\fig1.png",
+      "bytes": 338820
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2802_TUMORS_OF_THE_THIRD_AND_FOURTH_VENTRICLES\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2802_TUMORS_OF_THE_THIRD_AND_FOURTH_VENTRICLES\\figures\\fig2.png",
+      "bytes": 417432
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2802_TUMORS_OF_THE_THIRD_AND_FOURTH_VENTRICLES\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2802_TUMORS_OF_THE_THIRD_AND_FOURTH_VENTRICLES\\figures\\fig3.png",
+      "bytes": 441956
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2802_TUMORS_OF_THE_THIRD_AND_FOURTH_VENTRICLES\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2802_TUMORS_OF_THE_THIRD_AND_FOURTH_VENTRICLES\\figures\\fig5.png",
+      "bytes": 681042
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2802_TUMORS_OF_THE_THIRD_AND_FOURTH_VENTRICLES\\figures\\fig6.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2802_TUMORS_OF_THE_THIRD_AND_FOURTH_VENTRICLES\\figures\\fig6.png",
+      "bytes": 952087
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2803_A_COMPARISON_OF_THE_MENTAL_SYMPTOMS_FOUND_IN_CASES_OF_GENERA\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2803_A_COMPARISON_OF_THE_MENTAL_SYMPTOMS_FOUND_IN_CASES_OF_GENERA\\text.md",
+      "bytes": 381
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2803_A_COMPARISON_OF_THE_MENTAL_SYMPTOMS_FOUND_IN_CASES_OF_GENERA\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2803_A_COMPARISON_OF_THE_MENTAL_SYMPTOMS_FOUND_IN_CASES_OF_GENERA\\text.md",
+      "bytes": 381
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2804_A_STUDY_OF_NORMAL_AND_PATHOLOGIC_CEREBROSPINAL_FLUIDS_IN_CHI\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2804_A_STUDY_OF_NORMAL_AND_PATHOLOGIC_CEREBROSPINAL_FLUIDS_IN_CHI\\text.md",
+      "bytes": 30489
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2804_A_STUDY_OF_NORMAL_AND_PATHOLOGIC_CEREBROSPINAL_FLUIDS_IN_CHI\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2804_A_STUDY_OF_NORMAL_AND_PATHOLOGIC_CEREBROSPINAL_FLUIDS_IN_CHI\\text.md",
+      "bytes": 30489
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2805_NITROGENOUS_CONSTITUENTS_OF_BRAIN_LECITHIN\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2805_NITROGENOUS_CONSTITUENTS_OF_BRAIN_LECITHIN\\text.md",
+      "bytes": 25220
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2805_NITROGENOUS_CONSTITUENTS_OF_BRAIN_LECITHIN\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2805_NITROGENOUS_CONSTITUENTS_OF_BRAIN_LECITHIN\\text.md",
+      "bytes": 25220
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2806_STUDIES_OF_THE_SPINAL_FLUID_DURING_IODID_MEDICATION_BY_MOUTH\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2806_STUDIES_OF_THE_SPINAL_FLUID_DURING_IODID_MEDICATION_BY_MOUTH\\text.md",
+      "bytes": 14279
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2806_STUDIES_OF_THE_SPINAL_FLUID_DURING_IODID_MEDICATION_BY_MOUTH\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2806_STUDIES_OF_THE_SPINAL_FLUID_DURING_IODID_MEDICATION_BY_MOUTH\\text.md",
+      "bytes": 14279
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2807_LIV_A_Modified_Radical_Operation_for_Chronic_Suppurative_Oti\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2807_LIV_A_Modified_Radical_Operation_for_Chronic_Suppurative_Oti\\text.md",
+      "bytes": 10267
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2807_LIV_A_Modified_Radical_Operation_for_Chronic_Suppurative_Oti\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2807_LIV_A_Modified_Radical_Operation_for_Chronic_Suppurative_Oti\\text.md",
+      "bytes": 10267
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2808_The_Histology_of_Disseminated_Sclerosis\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2808_The_Histology_of_Disseminated_Sclerosis\\text.md",
+      "bytes": 98395
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2808_The_Histology_of_Disseminated_Sclerosis\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2808_The_Histology_of_Disseminated_Sclerosis\\text.md",
+      "bytes": 98395
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2809_CULTURAL_EXPERIMENTS_WITH_THE_SPIROCHAETA_PALLIDA_DERIVED_FR\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2809_CULTURAL_EXPERIMENTS_WITH_THE_SPIROCHAETA_PALLIDA_DERIVED_FR\\text.md",
+      "bytes": 12138
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2809_CULTURAL_EXPERIMENTS_WITH_THE_SPIROCHAETA_PALLIDA_DERIVED_FR\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2809_CULTURAL_EXPERIMENTS_WITH_THE_SPIROCHAETA_PALLIDA_DERIVED_FR\\text.md",
+      "bytes": 12138
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2810_MULTIPLE_ABSCESSES_OF_THE_BRAIN_IN_INFANCY\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2810_MULTIPLE_ABSCESSES_OF_THE_BRAIN_IN_INFANCY\\text.md",
+      "bytes": 41064
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2810_MULTIPLE_ABSCESSES_OF_THE_BRAIN_IN_INFANCY\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2810_MULTIPLE_ABSCESSES_OF_THE_BRAIN_IN_INFANCY\\figures\\fig2.png",
+      "bytes": 748524
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2810_MULTIPLE_ABSCESSES_OF_THE_BRAIN_IN_INFANCY\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2810_MULTIPLE_ABSCESSES_OF_THE_BRAIN_IN_INFANCY\\figures\\fig3.png",
+      "bytes": 766451
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2810_MULTIPLE_ABSCESSES_OF_THE_BRAIN_IN_INFANCY\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2810_MULTIPLE_ABSCESSES_OF_THE_BRAIN_IN_INFANCY\\figures\\fig4.png",
+      "bytes": 753773
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2810_MULTIPLE_ABSCESSES_OF_THE_BRAIN_IN_INFANCY\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2810_MULTIPLE_ABSCESSES_OF_THE_BRAIN_IN_INFANCY\\figures\\fig5.png",
+      "bytes": 545793
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2810_MULTIPLE_ABSCESSES_OF_THE_BRAIN_IN_INFANCY\\figures\\fig6.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2810_MULTIPLE_ABSCESSES_OF_THE_BRAIN_IN_INFANCY\\figures\\fig6.png",
+      "bytes": 597294
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2810_MULTIPLE_ABSCESSES_OF_THE_BRAIN_IN_INFANCY\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2810_MULTIPLE_ABSCESSES_OF_THE_BRAIN_IN_INFANCY\\text.md",
+      "bytes": 41064
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2810_MULTIPLE_ABSCESSES_OF_THE_BRAIN_IN_INFANCY\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2810_MULTIPLE_ABSCESSES_OF_THE_BRAIN_IN_INFANCY\\figures\\fig2.png",
+      "bytes": 748524
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2810_MULTIPLE_ABSCESSES_OF_THE_BRAIN_IN_INFANCY\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2810_MULTIPLE_ABSCESSES_OF_THE_BRAIN_IN_INFANCY\\figures\\fig3.png",
+      "bytes": 766451
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2810_MULTIPLE_ABSCESSES_OF_THE_BRAIN_IN_INFANCY\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2810_MULTIPLE_ABSCESSES_OF_THE_BRAIN_IN_INFANCY\\figures\\fig4.png",
+      "bytes": 753773
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2810_MULTIPLE_ABSCESSES_OF_THE_BRAIN_IN_INFANCY\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2810_MULTIPLE_ABSCESSES_OF_THE_BRAIN_IN_INFANCY\\figures\\fig5.png",
+      "bytes": 545793
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2810_MULTIPLE_ABSCESSES_OF_THE_BRAIN_IN_INFANCY\\figures\\fig6.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2810_MULTIPLE_ABSCESSES_OF_THE_BRAIN_IN_INFANCY\\figures\\fig6.png",
+      "bytes": 597294
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2811_RECURRENT_PARALYSIS_OF_THE_FACIAL_NERVE_AND_ITS_RELATION_TO\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2811_RECURRENT_PARALYSIS_OF_THE_FACIAL_NERVE_AND_ITS_RELATION_TO\\text.md",
+      "bytes": 22333
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2811_RECURRENT_PARALYSIS_OF_THE_FACIAL_NERVE_AND_ITS_RELATION_TO\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2811_RECURRENT_PARALYSIS_OF_THE_FACIAL_NERVE_AND_ITS_RELATION_TO\\text.md",
+      "bytes": 22333
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2812_INTRACRANIAL_TREATMENT_OF_SYPHILITIC_AND_PARASYPHILITIC_OPTI\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2812_INTRACRANIAL_TREATMENT_OF_SYPHILITIC_AND_PARASYPHILITIC_OPTI\\text.md",
+      "bytes": 58092
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2812_INTRACRANIAL_TREATMENT_OF_SYPHILITIC_AND_PARASYPHILITIC_OPTI\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2812_INTRACRANIAL_TREATMENT_OF_SYPHILITIC_AND_PARASYPHILITIC_OPTI\\text.md",
+      "bytes": 58092
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2813_Is_uterine_activity_subject_to_cerebral_control\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2813_Is_uterine_activity_subject_to_cerebral_control\\text.md",
+      "bytes": 6443
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2813_Is_uterine_activity_subject_to_cerebral_control\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2813_Is_uterine_activity_subject_to_cerebral_control\\text.md",
+      "bytes": 6443
     }
   ],
   "missing": [],
