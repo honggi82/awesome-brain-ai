@@ -1,12 +1,12 @@
 {
-  "generated": "2026-07-05T05:47:30.663976+00:00",
+  "generated": "2026-07-05T06:19:02.853143+00:00",
   "mode": "extract-only",
   "paperCurationDir": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect",
   "awesomeRepo": "E:\\조선대\\연구\\awesome-brain-ai",
   "extractReport": "data/paper_curation/extract_only_report.json",
   "docsDir": "docs/paper_curation/extract_only",
   "paperDir": "paper/extract_only",
-  "recordCount": 640,
+  "recordCount": 660,
   "syncedPaperSlugs": [
     "003_Hughlings_Jackson_and_the_Cortical_Motor_Centres_in_the_Ligh",
     "015_EXPERIMENTAL_AND_CLINICAL_NOTES_ON_THE_SUBARACHNOID_SPACE",
@@ -647,13 +647,33 @@
     "2670_A_study_of_the_american_negro_brain",
     "2671_Brain_Abscess_in_a_Case_of_Paratyphoid_B",
     "2672_THE_DIFFERENTIATION_OF_CEREBRAL_AND_CARDIAC_TYPES_OF_HYPERAR",
-    "2673_PILOUS_CEREBRAL_ADIPOSITY_A_NEW_SYNDROME"
+    "2673_PILOUS_CEREBRAL_ADIPOSITY_A_NEW_SYNDROME",
+    "2703_FURTHER_STUDIES_ON_THE_SPINAL_FLUID_WITH_REFERENCE_TO_THE_IN",
+    "2704_INVOLVEMENT_OF_THE_EIGHTH_NERVE_IN_SYPHILIS_OF_THE_CENTRAL_N",
+    "2705_Cortical_localisation_and_furrow_formation",
+    "2706_MALIGNANT_SYMPATHICUS_TUMOR_OF_THE_RIGHT_SUPRARENAL",
+    "2707_THE_SPINAL_FLUID_IN_POLIOMYELITIS_AND_ITS_DIFFERENTIATION_FR",
+    "2708_ACUTE_MYELITIS_FOLLOWING_VARICELLA_REPORT_OF_A_CASE",
+    "2709_BRAIN_LIPOID_AS_A_HÆMOSTATIC",
+    "2710_TISSUE_EXTRACT_AS_A_HEMOSTATIC_A_PRELIMINARY_REPORT",
+    "2711_DILATATION_OF_CEREBRAL_VENTRICLES_IN_VARIOUS_FUNCTIONAL_PSYC",
+    "2712_THE_COLLOIDAL_GOLD_AND_OTHER_TESTS_APPLIED_TO_THE_SPINAL_FLU",
+    "2713_SYPHILIS_OF_THE_BRAIN_ITS_OCCURRENCE_SYMPTOMS_AND_PREVENTION",
+    "2714_Abnormally_Long_Styloid_Process_Causing_Throat_Symptoms_Remo",
+    "2715_The_Etiology_of_Otosclerosis",
+    "2716_The_effect_of_thyro-parathyroidectomy_on_the_blood_coagulati",
+    "2717_On_the_brain_weights_of_rats_descended_from_the_cross_betwee",
+    "2718_RECENT_EXPERIENCES_IN_THE_ORIENT_WITH_CHENOPODIUM_AS_A_REMED",
+    "2719_THE_EFFECT_OF_IRRITATION_ON_THE_PERMEABILITY_OF_THE_MENINGES",
+    "2720_INTRATRACHEAL_ETHER_ANESTHESIA_IN_THE_SURGERY_OF_THE_BRAIN_A",
+    "2721_THE_TREATMENT_OF_CEREBROSPINAL_SYPHILIS_THE_OGILVIE_TECHNIC",
+    "2722_Abstracts"
   ],
   "copied": [
     {
       "source": "E:\\조선대\\연구\\paper-curation\\paper\\awesome-brain-ai\\_folder_source_extract_report.json",
       "target": "E:\\조선대\\연구\\awesome-brain-ai\\data\\paper_curation\\extract_only_report.json",
-      "bytes": 390425
+      "bytes": 402356
     },
     {
       "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\003_Hughlings_Jackson_and_the_Cortical_Motor_Centres_in_the_Ligh\\text.md",
@@ -10654,6 +10674,266 @@
       "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2673_PILOUS_CEREBRAL_ADIPOSITY_A_NEW_SYNDROME\\text.md",
       "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2673_PILOUS_CEREBRAL_ADIPOSITY_A_NEW_SYNDROME\\text.md",
       "bytes": 20533
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2703_FURTHER_STUDIES_ON_THE_SPINAL_FLUID_WITH_REFERENCE_TO_THE_IN\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2703_FURTHER_STUDIES_ON_THE_SPINAL_FLUID_WITH_REFERENCE_TO_THE_IN\\text.md",
+      "bytes": 43493
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2703_FURTHER_STUDIES_ON_THE_SPINAL_FLUID_WITH_REFERENCE_TO_THE_IN\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2703_FURTHER_STUDIES_ON_THE_SPINAL_FLUID_WITH_REFERENCE_TO_THE_IN\\text.md",
+      "bytes": 43493
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2704_INVOLVEMENT_OF_THE_EIGHTH_NERVE_IN_SYPHILIS_OF_THE_CENTRAL_N\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2704_INVOLVEMENT_OF_THE_EIGHTH_NERVE_IN_SYPHILIS_OF_THE_CENTRAL_N\\text.md",
+      "bytes": 41505
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2704_INVOLVEMENT_OF_THE_EIGHTH_NERVE_IN_SYPHILIS_OF_THE_CENTRAL_N\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2704_INVOLVEMENT_OF_THE_EIGHTH_NERVE_IN_SYPHILIS_OF_THE_CENTRAL_N\\text.md",
+      "bytes": 41505
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2705_Cortical_localisation_and_furrow_formation\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2705_Cortical_localisation_and_furrow_formation\\text.md",
+      "bytes": 17826
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2705_Cortical_localisation_and_furrow_formation\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2705_Cortical_localisation_and_furrow_formation\\figures\\fig1.png",
+      "bytes": 501320
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2705_Cortical_localisation_and_furrow_formation\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2705_Cortical_localisation_and_furrow_formation\\text.md",
+      "bytes": 17826
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2705_Cortical_localisation_and_furrow_formation\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2705_Cortical_localisation_and_furrow_formation\\figures\\fig1.png",
+      "bytes": 501320
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2706_MALIGNANT_SYMPATHICUS_TUMOR_OF_THE_RIGHT_SUPRARENAL\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2706_MALIGNANT_SYMPATHICUS_TUMOR_OF_THE_RIGHT_SUPRARENAL\\text.md",
+      "bytes": 40100
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2706_MALIGNANT_SYMPATHICUS_TUMOR_OF_THE_RIGHT_SUPRARENAL\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2706_MALIGNANT_SYMPATHICUS_TUMOR_OF_THE_RIGHT_SUPRARENAL\\figures\\fig1.png",
+      "bytes": 944306
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2706_MALIGNANT_SYMPATHICUS_TUMOR_OF_THE_RIGHT_SUPRARENAL\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2706_MALIGNANT_SYMPATHICUS_TUMOR_OF_THE_RIGHT_SUPRARENAL\\figures\\fig2.png",
+      "bytes": 669096
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2706_MALIGNANT_SYMPATHICUS_TUMOR_OF_THE_RIGHT_SUPRARENAL\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2706_MALIGNANT_SYMPATHICUS_TUMOR_OF_THE_RIGHT_SUPRARENAL\\figures\\fig3.png",
+      "bytes": 719272
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2706_MALIGNANT_SYMPATHICUS_TUMOR_OF_THE_RIGHT_SUPRARENAL\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2706_MALIGNANT_SYMPATHICUS_TUMOR_OF_THE_RIGHT_SUPRARENAL\\figures\\fig4.png",
+      "bytes": 502974
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2706_MALIGNANT_SYMPATHICUS_TUMOR_OF_THE_RIGHT_SUPRARENAL\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2706_MALIGNANT_SYMPATHICUS_TUMOR_OF_THE_RIGHT_SUPRARENAL\\figures\\fig5.png",
+      "bytes": 711588
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2706_MALIGNANT_SYMPATHICUS_TUMOR_OF_THE_RIGHT_SUPRARENAL\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2706_MALIGNANT_SYMPATHICUS_TUMOR_OF_THE_RIGHT_SUPRARENAL\\text.md",
+      "bytes": 40100
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2706_MALIGNANT_SYMPATHICUS_TUMOR_OF_THE_RIGHT_SUPRARENAL\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2706_MALIGNANT_SYMPATHICUS_TUMOR_OF_THE_RIGHT_SUPRARENAL\\figures\\fig1.png",
+      "bytes": 944306
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2706_MALIGNANT_SYMPATHICUS_TUMOR_OF_THE_RIGHT_SUPRARENAL\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2706_MALIGNANT_SYMPATHICUS_TUMOR_OF_THE_RIGHT_SUPRARENAL\\figures\\fig2.png",
+      "bytes": 669096
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2706_MALIGNANT_SYMPATHICUS_TUMOR_OF_THE_RIGHT_SUPRARENAL\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2706_MALIGNANT_SYMPATHICUS_TUMOR_OF_THE_RIGHT_SUPRARENAL\\figures\\fig3.png",
+      "bytes": 719272
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2706_MALIGNANT_SYMPATHICUS_TUMOR_OF_THE_RIGHT_SUPRARENAL\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2706_MALIGNANT_SYMPATHICUS_TUMOR_OF_THE_RIGHT_SUPRARENAL\\figures\\fig4.png",
+      "bytes": 502974
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2706_MALIGNANT_SYMPATHICUS_TUMOR_OF_THE_RIGHT_SUPRARENAL\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2706_MALIGNANT_SYMPATHICUS_TUMOR_OF_THE_RIGHT_SUPRARENAL\\figures\\fig5.png",
+      "bytes": 711588
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2707_THE_SPINAL_FLUID_IN_POLIOMYELITIS_AND_ITS_DIFFERENTIATION_FR\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2707_THE_SPINAL_FLUID_IN_POLIOMYELITIS_AND_ITS_DIFFERENTIATION_FR\\text.md",
+      "bytes": 22865
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2707_THE_SPINAL_FLUID_IN_POLIOMYELITIS_AND_ITS_DIFFERENTIATION_FR\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2707_THE_SPINAL_FLUID_IN_POLIOMYELITIS_AND_ITS_DIFFERENTIATION_FR\\text.md",
+      "bytes": 22865
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2708_ACUTE_MYELITIS_FOLLOWING_VARICELLA_REPORT_OF_A_CASE\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2708_ACUTE_MYELITIS_FOLLOWING_VARICELLA_REPORT_OF_A_CASE\\text.md",
+      "bytes": 5165
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2708_ACUTE_MYELITIS_FOLLOWING_VARICELLA_REPORT_OF_A_CASE\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2708_ACUTE_MYELITIS_FOLLOWING_VARICELLA_REPORT_OF_A_CASE\\text.md",
+      "bytes": 5165
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2709_BRAIN_LIPOID_AS_A_HÆMOSTATIC\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2709_BRAIN_LIPOID_AS_A_HÆMOSTATIC\\text.md",
+      "bytes": 13756
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2709_BRAIN_LIPOID_AS_A_HÆMOSTATIC\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2709_BRAIN_LIPOID_AS_A_HÆMOSTATIC\\text.md",
+      "bytes": 13756
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2710_TISSUE_EXTRACT_AS_A_HEMOSTATIC_A_PRELIMINARY_REPORT\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2710_TISSUE_EXTRACT_AS_A_HEMOSTATIC_A_PRELIMINARY_REPORT\\text.md",
+      "bytes": 6816
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2710_TISSUE_EXTRACT_AS_A_HEMOSTATIC_A_PRELIMINARY_REPORT\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2710_TISSUE_EXTRACT_AS_A_HEMOSTATIC_A_PRELIMINARY_REPORT\\text.md",
+      "bytes": 6816
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2711_DILATATION_OF_CEREBRAL_VENTRICLES_IN_VARIOUS_FUNCTIONAL_PSYC\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2711_DILATATION_OF_CEREBRAL_VENTRICLES_IN_VARIOUS_FUNCTIONAL_PSYC\\text.md",
+      "bytes": 84
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2711_DILATATION_OF_CEREBRAL_VENTRICLES_IN_VARIOUS_FUNCTIONAL_PSYC\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2711_DILATATION_OF_CEREBRAL_VENTRICLES_IN_VARIOUS_FUNCTIONAL_PSYC\\text.md",
+      "bytes": 84
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2712_THE_COLLOIDAL_GOLD_AND_OTHER_TESTS_APPLIED_TO_THE_SPINAL_FLU\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2712_THE_COLLOIDAL_GOLD_AND_OTHER_TESTS_APPLIED_TO_THE_SPINAL_FLU\\text.md",
+      "bytes": 37498
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2712_THE_COLLOIDAL_GOLD_AND_OTHER_TESTS_APPLIED_TO_THE_SPINAL_FLU\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2712_THE_COLLOIDAL_GOLD_AND_OTHER_TESTS_APPLIED_TO_THE_SPINAL_FLU\\text.md",
+      "bytes": 37498
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2713_SYPHILIS_OF_THE_BRAIN_ITS_OCCURRENCE_SYMPTOMS_AND_PREVENTION\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2713_SYPHILIS_OF_THE_BRAIN_ITS_OCCURRENCE_SYMPTOMS_AND_PREVENTION\\text.md",
+      "bytes": 42041
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2713_SYPHILIS_OF_THE_BRAIN_ITS_OCCURRENCE_SYMPTOMS_AND_PREVENTION\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2713_SYPHILIS_OF_THE_BRAIN_ITS_OCCURRENCE_SYMPTOMS_AND_PREVENTION\\text.md",
+      "bytes": 42041
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2714_Abnormally_Long_Styloid_Process_Causing_Throat_Symptoms_Remo\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2714_Abnormally_Long_Styloid_Process_Causing_Throat_Symptoms_Remo\\text.md",
+      "bytes": 4506
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2714_Abnormally_Long_Styloid_Process_Causing_Throat_Symptoms_Remo\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2714_Abnormally_Long_Styloid_Process_Causing_Throat_Symptoms_Remo\\text.md",
+      "bytes": 4506
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2715_The_Etiology_of_Otosclerosis\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2715_The_Etiology_of_Otosclerosis\\text.md",
+      "bytes": 22817
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2715_The_Etiology_of_Otosclerosis\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2715_The_Etiology_of_Otosclerosis\\text.md",
+      "bytes": 22817
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2716_The_effect_of_thyro-parathyroidectomy_on_the_blood_coagulati\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2716_The_effect_of_thyro-parathyroidectomy_on_the_blood_coagulati\\text.md",
+      "bytes": 6363
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2716_The_effect_of_thyro-parathyroidectomy_on_the_blood_coagulati\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2716_The_effect_of_thyro-parathyroidectomy_on_the_blood_coagulati\\text.md",
+      "bytes": 6363
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2717_On_the_brain_weights_of_rats_descended_from_the_cross_betwee\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2717_On_the_brain_weights_of_rats_descended_from_the_cross_betwee\\text.md",
+      "bytes": 19636
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2717_On_the_brain_weights_of_rats_descended_from_the_cross_betwee\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2717_On_the_brain_weights_of_rats_descended_from_the_cross_betwee\\text.md",
+      "bytes": 19636
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2718_RECENT_EXPERIENCES_IN_THE_ORIENT_WITH_CHENOPODIUM_AS_A_REMED\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2718_RECENT_EXPERIENCES_IN_THE_ORIENT_WITH_CHENOPODIUM_AS_A_REMED\\text.md",
+      "bytes": 11744
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2718_RECENT_EXPERIENCES_IN_THE_ORIENT_WITH_CHENOPODIUM_AS_A_REMED\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2718_RECENT_EXPERIENCES_IN_THE_ORIENT_WITH_CHENOPODIUM_AS_A_REMED\\text.md",
+      "bytes": 11744
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2719_THE_EFFECT_OF_IRRITATION_ON_THE_PERMEABILITY_OF_THE_MENINGES\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2719_THE_EFFECT_OF_IRRITATION_ON_THE_PERMEABILITY_OF_THE_MENINGES\\text.md",
+      "bytes": 12121
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2719_THE_EFFECT_OF_IRRITATION_ON_THE_PERMEABILITY_OF_THE_MENINGES\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2719_THE_EFFECT_OF_IRRITATION_ON_THE_PERMEABILITY_OF_THE_MENINGES\\text.md",
+      "bytes": 12121
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2720_INTRATRACHEAL_ETHER_ANESTHESIA_IN_THE_SURGERY_OF_THE_BRAIN_A\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2720_INTRATRACHEAL_ETHER_ANESTHESIA_IN_THE_SURGERY_OF_THE_BRAIN_A\\text.md",
+      "bytes": 26261
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2720_INTRATRACHEAL_ETHER_ANESTHESIA_IN_THE_SURGERY_OF_THE_BRAIN_A\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2720_INTRATRACHEAL_ETHER_ANESTHESIA_IN_THE_SURGERY_OF_THE_BRAIN_A\\text.md",
+      "bytes": 26261
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2721_THE_TREATMENT_OF_CEREBROSPINAL_SYPHILIS_THE_OGILVIE_TECHNIC\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2721_THE_TREATMENT_OF_CEREBROSPINAL_SYPHILIS_THE_OGILVIE_TECHNIC\\text.md",
+      "bytes": 22305
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2721_THE_TREATMENT_OF_CEREBROSPINAL_SYPHILIS_THE_OGILVIE_TECHNIC\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2721_THE_TREATMENT_OF_CEREBROSPINAL_SYPHILIS_THE_OGILVIE_TECHNIC\\text.md",
+      "bytes": 22305
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2722_Abstracts\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2722_Abstracts\\text.md",
+      "bytes": 6680
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2722_Abstracts\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2722_Abstracts\\text.md",
+      "bytes": 6680
     }
   ],
   "missing": [],
