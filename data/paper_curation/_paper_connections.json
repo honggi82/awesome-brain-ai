@@ -286,13 +286,13 @@
       "reason": "Codex local embedding similarity"
     },
     {
-      "target": "264_Des_foyers_lacunaires_de_desintegration_et_de_differentes_au",
-      "score": 0.8292,
+      "target": "3152_Note_on_the_anatomy_of_the_areae_postremae",
+      "score": 0.8336,
       "reason": "Codex local embedding similarity"
     },
     {
-      "target": "772_The_Minute_Changes_in_the_Cerebral_Cortex_consecutive_to_Exp",
-      "score": 0.8274,
+      "target": "3161_The_cerebellum_of_Amblystoma",
+      "score": 0.833,
       "reason": "Codex local embedding similarity"
     }
   ],
@@ -367,13 +367,13 @@
       "reason": "Codex local embedding similarity"
     },
     {
-      "target": "1554_Carcinosis_of_the_Central_Nervous_System",
-      "score": 0.8316,
+      "target": "3152_Note_on_the_anatomy_of_the_areae_postremae",
+      "score": 0.8322,
       "reason": "Codex local embedding similarity"
     },
     {
-      "target": "1834_A_CASE_OF_GLIOMA_OF_THE_FRONTAL_LOBE_WITH_INVASION_OF_THE_OP",
-      "score": 0.8284,
+      "target": "1554_Carcinosis_of_the_Central_Nervous_System",
+      "score": 0.8316,
       "reason": "Codex local embedding similarity"
     }
   ],
@@ -1479,8 +1479,8 @@
       "reason": "Codex local embedding similarity"
     },
     {
-      "target": "2428_Meningitis_Sinus_Thrombosis_and_Abscess_of_Brain",
-      "score": 0.9021,
+      "target": "3167_I_Walling_off_the_Subarachnoid_Spaces_Its_Application_to_the",
+      "score": 0.9026,
       "reason": "Codex local embedding similarity"
     }
   ],
@@ -1675,6 +1675,11 @@
   ],
   "288_THE_ETIOLOGY_OF_PARETIC_DEMENTIA": [
     {
+      "target": "3164_A_CASE_OF_CEREBROSPINAL_MENINGITIS_DUE_TO_A_DIPHTHEROID_BACI",
+      "score": 0.8956,
+      "reason": "Codex local embedding similarity"
+    },
+    {
       "target": "804_Certain_Clinical_Types_of_Brain_Syphilis",
       "score": 0.8953,
       "reason": "Codex local embedding similarity"
@@ -1692,11 +1697,6 @@
     {
       "target": "1967_PROPHYLAXIS_IN_EPIDEMIC_CEREBROSPINAL_MENINGITIS",
       "score": 0.8899,
-      "reason": "Codex local embedding similarity"
-    },
-    {
-      "target": "2703_FURTHER_STUDIES_ON_THE_SPINAL_FLUID_WITH_REFERENCE_TO_THE_IN",
-      "score": 0.8896,
       "reason": "Codex local embedding similarity"
     }
   ],
@@ -1965,8 +1965,8 @@
       "reason": "Codex local embedding similarity"
     },
     {
-      "target": "2673_PILOUS_CEREBRAL_ADIPOSITY_A_NEW_SYNDROME",
-      "score": 0.8822,
+      "target": "3160_SNAPPING_OF_THE_BRAIN",
+      "score": 0.8835,
       "reason": "Codex local embedding similarity"
     }
   ],
@@ -2397,8 +2397,8 @@
       "reason": "Codex local embedding similarity"
     },
     {
-      "target": "1587_HISTORY_OF_A_CASE_OF_CEREBRAL_TUMOUR_EIGHT_AND_A-HALF_YEARS",
-      "score": 0.8849,
+      "target": "3160_SNAPPING_OF_THE_BRAIN",
+      "score": 0.8851,
       "reason": "Codex local embedding similarity"
     }
   ],
@@ -2652,6 +2652,11 @@
       "reason": "Codex local embedding similarity"
     },
     {
+      "target": "3167_I_Walling_off_the_Subarachnoid_Spaces_Its_Application_to_the",
+      "score": 0.8881,
+      "reason": "Codex local embedding similarity"
+    },
+    {
       "target": "1646_Iniencephalus",
       "score": 0.8864,
       "reason": "Codex local embedding similarity"
@@ -2664,11 +2669,6 @@
     {
       "target": "2289_Pelvic_Cysts_due_to_Spinal_Meningocele_with_Notes_of_a_Case",
       "score": 0.8806,
-      "reason": "Codex local embedding similarity"
-    },
-    {
-      "target": "2428_Meningitis_Sinus_Thrombosis_and_Abscess_of_Brain",
-      "score": 0.8798,
       "reason": "Codex local embedding similarity"
     }
   ],
@@ -3813,6 +3813,11 @@
       "reason": "Codex local embedding similarity"
     },
     {
+      "target": "3158_Über_einige_Beziehungen_zwischen_Ganglienzellveränderungen_u",
+      "score": 0.9127,
+      "reason": "Codex local embedding similarity"
+    },
+    {
       "target": "1606_Studien_über_Neuroglia",
       "score": 0.9118,
       "reason": "Codex local embedding similarity"
@@ -3825,11 +3830,6 @@
     {
       "target": "1662_Die_Medullaranästhesie_mittelst_Cocain-Suprarenin",
       "score": 0.9055,
-      "reason": "Codex local embedding similarity"
-    },
-    {
-      "target": "265_Das_cerebellum_von_scyllium_canicula",
-      "score": 0.9013,
       "reason": "Codex local embedding similarity"
     }
   ],
@@ -4267,6 +4267,11 @@
   ],
   "1606_Studien_über_Neuroglia": [
     {
+      "target": "3158_Über_einige_Beziehungen_zwischen_Ganglienzellveränderungen_u",
+      "score": 0.9383,
+      "reason": "Codex local embedding similarity"
+    },
+    {
       "target": "2196_Eine_neue_Methode_zur_Darstellung_des_Gliagewebes_nebst_Beit",
       "score": 0.9315,
       "reason": "Codex local embedding similarity"
@@ -4284,11 +4289,6 @@
     {
       "target": "2841_über_Lokalisation_innerhalb_des_Corpus_striatum",
       "score": 0.9182,
-      "reason": "Codex local embedding similarity"
-    },
-    {
-      "target": "1589_Weitere_experimentelle_Untersuchungen_über_die_Beziehungen_d",
-      "score": 0.9118,
       "reason": "Codex local embedding similarity"
     }
   ],
@@ -4714,13 +4714,13 @@
       "reason": "Codex local embedding similarity"
     },
     {
-      "target": "1652_A_study_of_the_functions_of_different_parts_of_the_frogs_bra",
-      "score": 0.8985,
+      "target": "3167_I_Walling_off_the_Subarachnoid_Spaces_Its_Application_to_the",
+      "score": 0.9047,
       "reason": "Codex local embedding similarity"
     },
     {
-      "target": "1578_The_Cortical_Localization_of_the_Auditory_Area",
-      "score": 0.8949,
+      "target": "1652_A_study_of_the_functions_of_different_parts_of_the_frogs_bra",
+      "score": 0.8985,
       "reason": "Codex local embedding similarity"
     }
   ],
@@ -4893,6 +4893,11 @@
       "reason": "Codex local embedding similarity"
     },
     {
+      "target": "3167_I_Walling_off_the_Subarachnoid_Spaces_Its_Application_to_the",
+      "score": 0.8886,
+      "reason": "Codex local embedding similarity"
+    },
+    {
       "target": "282_The_operative_treatment_of_abscess_when_situated_in_the_brai",
       "score": 0.8868,
       "reason": "Codex local embedding similarity"
@@ -4905,11 +4910,6 @@
     {
       "target": "1928_OTITIO_BRAIN_ABSCESS",
       "score": 0.8836,
-      "reason": "Codex local embedding similarity"
-    },
-    {
-      "target": "793_Observations_on_Certain_Cerebral_Localizations",
-      "score": 0.8832,
       "reason": "Codex local embedding similarity"
     }
   ],
@@ -5330,18 +5330,18 @@
       "reason": "Codex local embedding similarity"
     },
     {
+      "target": "3154_The_Basal_Arteries_of_the_Forebrain_and_their_functional_sig",
+      "score": 0.901,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "3155_The_extent_of_the_floor-plate_of_his_and_its_significance",
+      "score": 0.8946,
+      "reason": "Codex local embedding similarity"
+    },
+    {
       "target": "1604_Studies_on_regulation_V_The_relation_between_the_central_ner",
       "score": 0.8943,
-      "reason": "Codex local embedding similarity"
-    },
-    {
-      "target": "2296_A_contribution_to_the_study_of_the_cere_bral_cortex_in_man",
-      "score": 0.8938,
-      "reason": "Codex local embedding similarity"
-    },
-    {
-      "target": "1568_The_microscopic_structure_of_cortical_areas_in_man_and_some",
-      "score": 0.8932,
       "reason": "Codex local embedding similarity"
     }
   ],
@@ -6469,13 +6469,13 @@
       "reason": "Codex local embedding similarity"
     },
     {
-      "target": "1795_OBSERVATIONS_ON_THE_FUNCTIONS_OF_THE_ASSOCIATION_AREAS_CEREB",
-      "score": 0.8777,
+      "target": "3160_SNAPPING_OF_THE_BRAIN",
+      "score": 0.8783,
       "reason": "Codex local embedding similarity"
     },
     {
-      "target": "2980_EPIDEMIC_POLIOENCEPHALITIS",
-      "score": 0.8773,
+      "target": "1795_OBSERVATIONS_ON_THE_FUNCTIONS_OF_THE_ASSOCIATION_AREAS_CEREB",
+      "score": 0.8777,
       "reason": "Codex local embedding similarity"
     }
   ],
@@ -6874,13 +6874,13 @@
       "reason": "Codex local embedding similarity"
     },
     {
-      "target": "3118_THE_EARLY_RECOGNITION_OF_HYDROCEPHALUS_IN_MENINGITIS",
-      "score": 0.8917,
+      "target": "3157_PUNCTURE_OF_THE_CISTERNA_MAGNA",
+      "score": 0.8952,
       "reason": "Codex local embedding similarity"
     },
     {
-      "target": "2055_A_CASE_OF_MENINGEAL_TUMOR_COMPRESSING_THE_CEREBELLUM",
-      "score": 0.8896,
+      "target": "3118_THE_EARLY_RECOGNITION_OF_HYDROCEPHALUS_IN_MENINGITIS",
+      "score": 0.8917,
       "reason": "Codex local embedding similarity"
     }
   ],
@@ -7701,6 +7701,11 @@
       "reason": "Codex local embedding similarity"
     },
     {
+      "target": "3167_I_Walling_off_the_Subarachnoid_Spaces_Its_Application_to_the",
+      "score": 0.8825,
+      "reason": "Codex local embedding similarity"
+    },
+    {
       "target": "257_A_Case_of_Multiple_Cerebral_Hemorrhages_from_Chronic_Lead_Po",
       "score": 0.87,
       "reason": "Codex local embedding similarity"
@@ -7713,11 +7718,6 @@
     {
       "target": "254_A_Brief_Report_of_a_Case_of_Cerebral_Abscess_of_Otitic_Origi",
       "score": 0.8679,
-      "reason": "Codex local embedding similarity"
-    },
-    {
-      "target": "1835_A_CASE_OF_ONE_CEREBRAL_HEMISPHERE_SUPPLYING_BOTH_SIDES_OF_TH",
-      "score": 0.8663,
       "reason": "Codex local embedding similarity"
     }
   ],
@@ -8310,8 +8310,8 @@
       "reason": "Codex local embedding similarity"
     },
     {
-      "target": "2850_The_motor_nuclei_of_the_cerebral_nerves_in_phylogeny-a_study",
-      "score": 0.8766,
+      "target": "3161_The_cerebellum_of_Amblystoma",
+      "score": 0.8795,
       "reason": "Codex local embedding similarity"
     }
   ],
@@ -8688,8 +8688,8 @@
       "reason": "Codex local embedding similarity"
     },
     {
-      "target": "1920_ON_THE_CULTIVATION_OF_THE_MENINGOCOCCUS_IN_THE_PRESENT_EPIDE",
-      "score": 0.8826,
+      "target": "3164_A_CASE_OF_CEREBROSPINAL_MENINGITIS_DUE_TO_A_DIPHTHEROID_BACI",
+      "score": 0.8868,
       "reason": "Codex local embedding similarity"
     }
   ],
@@ -10600,13 +10600,13 @@
       "reason": "Codex local embedding similarity"
     },
     {
-      "target": "775_A_CASE_OF_ASTEREOGNOSIS_RESULTING_FROM_INJURY_OF_THE_BRAIN_I",
-      "score": 0.8811,
+      "target": "3167_I_Walling_off_the_Subarachnoid_Spaces_Its_Application_to_the",
+      "score": 0.885,
       "reason": "Codex local embedding similarity"
     },
     {
-      "target": "3113_XIII_Cerebral_Abscesses_of_the_Frontal_Lobe_Originating_from",
-      "score": 0.8796,
+      "target": "775_A_CASE_OF_ASTEREOGNOSIS_RESULTING_FROM_INJURY_OF_THE_BRAIN_I",
+      "score": 0.8811,
       "reason": "Codex local embedding similarity"
     }
   ],
@@ -10614,6 +10614,11 @@
     {
       "target": "1662_Die_Medullaranästhesie_mittelst_Cocain-Suprarenin",
       "score": 0.9265,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "3158_Über_einige_Beziehungen_zwischen_Ganglienzellveränderungen_u",
+      "score": 0.9259,
       "reason": "Codex local embedding similarity"
     },
     {
@@ -10629,11 +10634,6 @@
     {
       "target": "1569_Ueber_die_Betheiligung_der_Neuroglia_an_der_Narbenbildung_im",
       "score": 0.9109,
-      "reason": "Codex local embedding similarity"
-    },
-    {
-      "target": "2280_Zur_Pharmakologie_der_Bronchialmuskulatur",
-      "score": 0.9069,
       "reason": "Codex local embedding similarity"
     }
   ],
@@ -11086,13 +11086,13 @@
       "reason": "Codex local embedding similarity"
     },
     {
-      "target": "1642_ON_THE_THALAMUS",
-      "score": 0.8801,
+      "target": "3167_I_Walling_off_the_Subarachnoid_Spaces_Its_Application_to_the",
+      "score": 0.8805,
       "reason": "Codex local embedding similarity"
     },
     {
-      "target": "1958_THE_RIPENING_OPERATION_FOR_IMMATURE_SENILE_CATARACT_ITS_PLAC",
-      "score": 0.8776,
+      "target": "1642_ON_THE_THALAMUS",
+      "score": 0.8801,
       "reason": "Codex local embedding similarity"
     }
   ],
@@ -11216,6 +11216,11 @@
       "reason": "Codex local embedding similarity"
     },
     {
+      "target": "3158_Über_einige_Beziehungen_zwischen_Ganglienzellveränderungen_u",
+      "score": 0.9366,
+      "reason": "Codex local embedding similarity"
+    },
+    {
       "target": "1620_Kasuistischer_Beitrag_zur_Lehre_von_den_Tumoren_des_obersten",
       "score": 0.9333,
       "reason": "Codex local embedding similarity"
@@ -11224,14 +11229,14 @@
       "target": "1606_Studien_über_Neuroglia",
       "score": 0.9315,
       "reason": "Codex local embedding similarity"
-    },
-    {
-      "target": "2206_The_Material_Fundamentals_and_the_Prognosis_of_the_Accident",
-      "score": 0.9172,
-      "reason": "Codex local embedding similarity"
     }
   ],
   "2197_The_evolution_of_the_cerebral_cortex": [
+    {
+      "target": "3154_The_Basal_Arteries_of_the_Forebrain_and_their_functional_sig",
+      "score": 0.9182,
+      "reason": "Codex local embedding similarity"
+    },
     {
       "target": "262_The_Brain_of_Acipenser_A_Contribution_to_the_Morphology_of_t",
       "score": 0.9174,
@@ -11250,11 +11255,6 @@
     {
       "target": "1645_A_three_weeks_human_embryo_with_especial_reference_to_the_br",
       "score": 0.9072,
-      "reason": "Codex local embedding similarity"
-    },
-    {
-      "target": "1652_A_study_of_the_functions_of_different_parts_of_the_frogs_bra",
-      "score": 0.9065,
       "reason": "Codex local embedding similarity"
     }
   ],
@@ -11432,6 +11432,11 @@
       "reason": "Codex local embedding similarity"
     },
     {
+      "target": "3168_On_Deep-localization_In_The_Cerebral_Cortex",
+      "score": 0.9843,
+      "reason": "Codex local embedding similarity"
+    },
+    {
       "target": "2286_A_CASE_OF_MULTIPLE_EPENDYMOMATA_OF_THE_BRAIN_AND_SPINAL_CORD",
       "score": 0.9814,
       "reason": "Codex local embedding similarity"
@@ -11439,11 +11444,6 @@
     {
       "target": "2345_MALIGNANT_CHORDOMA_INVOLVING_BRAIN_AND_SPINAL_CORD",
       "score": 0.9811,
-      "reason": "Codex local embedding similarity"
-    },
-    {
-      "target": "2484_CEREBRAL_PALSIES_WITHOUT_DEMONSTRABLE_ANATOMICAL_FINDINGS",
-      "score": 0.9804,
       "reason": "Codex local embedding similarity"
     }
   ],
@@ -12048,6 +12048,11 @@
       "reason": "Codex local embedding similarity"
     },
     {
+      "target": "3154_The_Basal_Arteries_of_the_Forebrain_and_their_functional_sig",
+      "score": 0.9096,
+      "reason": "Codex local embedding similarity"
+    },
+    {
       "target": "2296_A_contribution_to_the_study_of_the_cere_bral_cortex_in_man",
       "score": 0.9044,
       "reason": "Codex local embedding similarity"
@@ -12060,11 +12065,6 @@
     {
       "target": "1576_The_fore-brain_of_Macacus",
       "score": 0.8936,
-      "reason": "Codex local embedding similarity"
-    },
-    {
-      "target": "2197_The_evolution_of_the_cerebral_cortex",
-      "score": 0.893,
       "reason": "Codex local embedding similarity"
     }
   ],
@@ -12156,6 +12156,11 @@
       "reason": "Codex local embedding similarity"
     },
     {
+      "target": "3166_THE_FUNCTIONS_OF_THE_CEREBROSPINAL_FLUID_WITH_A_SPECIAL_CONS",
+      "score": 0.8934,
+      "reason": "Codex local embedding similarity"
+    },
+    {
       "target": "2804_A_STUDY_OF_NORMAL_AND_PATHOLOGIC_CEREBROSPINAL_FLUIDS_IN_CHI",
       "score": 0.8921,
       "reason": "Codex local embedding similarity"
@@ -12168,11 +12173,6 @@
     {
       "target": "2482_The_cephalic_nerves_Suggestions",
       "score": 0.8793,
-      "reason": "Codex local embedding similarity"
-    },
-    {
-      "target": "2583_Stammering_and_Cognate_Defects_of_Speech",
-      "score": 0.8786,
       "reason": "Codex local embedding similarity"
     }
   ],
@@ -12269,6 +12269,11 @@
       "reason": "Codex local embedding similarity"
     },
     {
+      "target": "3167_I_Walling_off_the_Subarachnoid_Spaces_Its_Application_to_the",
+      "score": 0.8915,
+      "reason": "Codex local embedding similarity"
+    },
+    {
       "target": "2707_THE_SPINAL_FLUID_IN_POLIOMYELITIS_AND_ITS_DIFFERENTIATION_FR",
       "score": 0.8885,
       "reason": "Codex local embedding similarity"
@@ -12276,11 +12281,6 @@
     {
       "target": "784_A_TUMOR_NEUROGLIOMA_OF_THE_SUPERIOR_WORM_OF_THE_CEREBELLUM_A",
       "score": 0.8868,
-      "reason": "Codex local embedding similarity"
-    },
-    {
-      "target": "1669_Hyperemesis_Gravidarum",
-      "score": 0.8862,
       "reason": "Codex local embedding similarity"
     }
   ],
@@ -13035,8 +13035,8 @@
       "reason": "Codex local embedding similarity"
     },
     {
-      "target": "1924_Why_are_the_great_motor_and_sensory_tracts_of_the_central_ne",
-      "score": 0.8692,
+      "target": "3159_MOTOR_DISTURBANCES_IN_LETHARGIC_ENCEPHALITIS",
+      "score": 0.8696,
       "reason": "Codex local embedding similarity"
     }
   ],
@@ -13413,8 +13413,8 @@
       "reason": "Codex local embedding similarity"
     },
     {
-      "target": "1783_ATMOSPHERIC_CONDITIONS_AND_THE_OCCURRENCE_OF_CEREBRAL_HÆMORR",
-      "score": 0.8739,
+      "target": "3169_ACUTE_CEREBROCEREBELLAR_ATAXIA_WITH_REPORT_OF_CASES",
+      "score": 0.8749,
       "reason": "Codex local embedding similarity"
     }
   ],
@@ -13732,13 +13732,13 @@
       "reason": "Codex local embedding similarity"
     },
     {
-      "target": "282_The_operative_treatment_of_abscess_when_situated_in_the_brai",
-      "score": 0.9021,
+      "target": "3167_I_Walling_off_the_Subarachnoid_Spaces_Its_Application_to_the",
+      "score": 0.9061,
       "reason": "Codex local embedding similarity"
     },
     {
-      "target": "2443_Epidemic_Cerebrospinal_Meningitis",
-      "score": 0.9011,
+      "target": "282_The_operative_treatment_of_abscess_when_situated_in_the_brai",
+      "score": 0.9021,
       "reason": "Codex local embedding similarity"
     }
   ],
@@ -14240,17 +14240,17 @@
       "reason": "Codex local embedding similarity"
     },
     {
+      "target": "3169_ACUTE_CEREBROCEREBELLAR_ATAXIA_WITH_REPORT_OF_CASES",
+      "score": 0.8857,
+      "reason": "Codex local embedding similarity"
+    },
+    {
       "target": "2244_THE_TOPOGRAPHIC_DIAGNOSIS_OF_SUBTENTORIAL_BRAIN_TUMORS",
       "score": 0.8783,
       "reason": "Codex local embedding similarity"
     },
     {
       "target": "797_PARADOXICAL_PSEUDO-HYPERTROPHY_FOLLOWING_INFANTILE_CEREBRAL",
-      "score": 0.868,
-      "reason": "Codex local embedding similarity"
-    },
-    {
-      "target": "1578_The_Cortical_Localization_of_the_Auditory_Area",
       "score": 0.868,
       "reason": "Codex local embedding similarity"
     }
@@ -14294,6 +14294,11 @@
       "reason": "Codex local embedding similarity"
     },
     {
+      "target": "3167_I_Walling_off_the_Subarachnoid_Spaces_Its_Application_to_the",
+      "score": 0.897,
+      "reason": "Codex local embedding similarity"
+    },
+    {
       "target": "1959_Tumors_of_the_Cerebrum",
       "score": 0.8966,
       "reason": "Codex local embedding similarity"
@@ -14301,11 +14306,6 @@
     {
       "target": "1792_The_Mental_Symptoms_of_Cerebral_Tumor",
       "score": 0.8959,
-      "reason": "Codex local embedding similarity"
-    },
-    {
-      "target": "269_CHANGES_in_the_NEURONAL_CENTRES_in_BERI-BERIC_NEURITIS",
-      "score": 0.8923,
       "reason": "Codex local embedding similarity"
     }
   ],
@@ -14662,6 +14662,11 @@
   ],
   "2519_OCCLUSION_OF_THE_POSTERIOR_INFERIOR_CEREBELLAR_ARTERY_REPORT": [
     {
+      "target": "3169_ACUTE_CEREBROCEREBELLAR_ATAXIA_WITH_REPORT_OF_CASES",
+      "score": 0.908,
+      "reason": "Codex local embedding similarity"
+    },
+    {
       "target": "2016_PATHOLOGIC_REPORT_OF_THE_NERVOUS_SYSTEM_IN_A_CASE_OF_SPONDYL",
       "score": 0.8956,
       "reason": "Codex local embedding similarity"
@@ -14679,11 +14684,6 @@
     {
       "target": "1583_A_CASE_OF_BRAIN_ABSCESS_DUE_TO_LATENT_TYPHOID_INFECTION_OPER",
       "score": 0.8909,
-      "reason": "Codex local embedding similarity"
-    },
-    {
-      "target": "2055_A_CASE_OF_MENINGEAL_TUMOR_COMPRESSING_THE_CEREBELLUM",
-      "score": 0.8906,
       "reason": "Codex local embedding similarity"
     }
   ],
@@ -15175,6 +15175,11 @@
   ],
   "2566_The_parietal_region_in_the_primate_brain": [
     {
+      "target": "3154_The_Basal_Arteries_of_the_Forebrain_and_their_functional_sig",
+      "score": 0.9165,
+      "reason": "Codex local embedding similarity"
+    },
+    {
       "target": "2296_A_contribution_to_the_study_of_the_cere_bral_cortex_in_man",
       "score": 0.9096,
       "reason": "Codex local embedding similarity"
@@ -15192,11 +15197,6 @@
     {
       "target": "2705_Cortical_localisation_and_furrow_formation",
       "score": 0.8986,
-      "reason": "Codex local embedding similarity"
-    },
-    {
-      "target": "2197_The_evolution_of_the_cerebral_cortex",
-      "score": 0.8951,
       "reason": "Codex local embedding similarity"
     }
   ],
@@ -15222,8 +15222,8 @@
       "reason": "Codex local embedding similarity"
     },
     {
-      "target": "1652_A_study_of_the_functions_of_different_parts_of_the_frogs_bra",
-      "score": 0.8912,
+      "target": "3154_The_Basal_Arteries_of_the_Forebrain_and_their_functional_sig",
+      "score": 0.8914,
       "reason": "Codex local embedding similarity"
     }
   ],
@@ -16054,13 +16054,13 @@
       "reason": "Codex local embedding similarity"
     },
     {
-      "target": "292_Purulent_Nasal_Discharges_their_Diagnosis_and_Treatment__By",
-      "score": 0.9025,
+      "target": "3167_I_Walling_off_the_Subarachnoid_Spaces_Its_Application_to_the",
+      "score": 0.9027,
       "reason": "Codex local embedding similarity"
     },
     {
-      "target": "2105_CASE_OF_BRAIN_ABSCESS",
-      "score": 0.9002,
+      "target": "292_Purulent_Nasal_Discharges_their_Diagnosis_and_Treatment__By",
+      "score": 0.9025,
       "reason": "Codex local embedding similarity"
     }
   ],
@@ -16611,6 +16611,11 @@
       "reason": "Codex local embedding similarity"
     },
     {
+      "target": "3166_THE_FUNCTIONS_OF_THE_CEREBROSPINAL_FLUID_WITH_A_SPECIAL_CONS",
+      "score": 0.9097,
+      "reason": "Codex local embedding similarity"
+    },
+    {
       "target": "2334_Book_Review_IV_Practical_Theology_Successful_Teaching",
       "score": 0.9008,
       "reason": "Codex local embedding similarity"
@@ -16623,11 +16628,6 @@
     {
       "target": "2583_Stammering_and_Cognate_Defects_of_Speech",
       "score": 0.8945,
-      "reason": "Codex local embedding similarity"
-    },
-    {
-      "target": "2337_Landmarks_and_Surface_Markings_of_the_Human_Body",
-      "score": 0.8922,
       "reason": "Codex local embedding similarity"
     }
   ],
@@ -16800,6 +16800,11 @@
       "reason": "Codex local embedding similarity"
     },
     {
+      "target": "3154_The_Basal_Arteries_of_the_Forebrain_and_their_functional_sig",
+      "score": 0.9112,
+      "reason": "Codex local embedding similarity"
+    },
+    {
       "target": "2281_Localisation_of_the_motor_area_in_the_sheeps_brain_by_the_hi",
       "score": 0.9003,
       "reason": "Codex local embedding similarity"
@@ -16812,11 +16817,6 @@
     {
       "target": "1568_The_microscopic_structure_of_cortical_areas_in_man_and_some",
       "score": 0.8937,
-      "reason": "Codex local embedding similarity"
-    },
-    {
-      "target": "1578_The_Cortical_Localization_of_the_Auditory_Area",
-      "score": 0.8929,
       "reason": "Codex local embedding similarity"
     }
   ],
@@ -17193,8 +17193,8 @@
       "reason": "Codex local embedding similarity"
     },
     {
-      "target": "2794_A_revision_of_the_percentage_of_water_in_the_brain_and_in_th",
-      "score": 0.8761,
+      "target": "3166_THE_FUNCTIONS_OF_THE_CEREBROSPINAL_FLUID_WITH_A_SPECIAL_CONS",
+      "score": 0.8786,
       "reason": "Codex local embedding similarity"
     }
   ],
@@ -17480,18 +17480,18 @@
       "reason": "Codex local embedding similarity"
     },
     {
+      "target": "3166_THE_FUNCTIONS_OF_THE_CEREBROSPINAL_FLUID_WITH_A_SPECIAL_CONS",
+      "score": 0.9004,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "3154_The_Basal_Arteries_of_the_Forebrain_and_their_functional_sig",
+      "score": 0.8896,
+      "reason": "Codex local embedding similarity"
+    },
+    {
       "target": "2197_The_evolution_of_the_cerebral_cortex",
       "score": 0.8832,
-      "reason": "Codex local embedding similarity"
-    },
-    {
-      "target": "2570_SOME_RELATIONS_OF_THE_BRAIN_AND_OF_THE_OLFACTORY_APPARATUS_T",
-      "score": 0.8832,
-      "reason": "Codex local embedding similarity"
-    },
-    {
-      "target": "2109_A_constant_bursa_in_relation_with_the_bundle_of_His_with_stu",
-      "score": 0.8785,
       "reason": "Codex local embedding similarity"
     }
   ],
@@ -17848,6 +17848,11 @@
   ],
   "2796_ON_THE_REACTION_OF_THE_CEREBROSPINAL_FLUID": [
     {
+      "target": "3166_THE_FUNCTIONS_OF_THE_CEREBROSPINAL_FLUID_WITH_A_SPECIAL_CONS",
+      "score": 0.9147,
+      "reason": "Codex local embedding similarity"
+    },
+    {
       "target": "2755_The_formation_of_the_cranial_subarachnoid_spaces",
       "score": 0.9106,
       "reason": "Codex local embedding similarity"
@@ -17865,11 +17870,6 @@
     {
       "target": "2756_STUDIES_ON_THE_PINEAL_GLAND_I_EXPERIMENTAL_OBSERVATIONS",
       "score": 0.8951,
-      "reason": "Codex local embedding similarity"
-    },
-    {
-      "target": "2614_THE_INTRAMENINGEAL_TREATMENT_OF_TABES_AND_CEREBROSPINAL_SYPH",
-      "score": 0.8921,
       "reason": "Codex local embedding similarity"
     }
   ],
@@ -17939,6 +17939,11 @@
       "reason": "Codex local embedding similarity"
     },
     {
+      "target": "3159_MOTOR_DISTURBANCES_IN_LETHARGIC_ENCEPHALITIS",
+      "score": 0.8648,
+      "reason": "Codex local embedding similarity"
+    },
+    {
       "target": "3070_HISTOPATHOLOGIC_STUDY_ON_TWO_CASES_OF_CENTRAL_NEURITIS_DEMON",
       "score": 0.8646,
       "reason": "Codex local embedding similarity"
@@ -17946,11 +17951,6 @@
     {
       "target": "3066_PERNICIOUS_ANEMIA_WITH_MENTAL_SYMPTOMS_OBSERVATIONS_ON_THE_V",
       "score": 0.8574,
-      "reason": "Codex local embedding similarity"
-    },
-    {
-      "target": "2703_FURTHER_STUDIES_ON_THE_SPINAL_FLUID_WITH_REFERENCE_TO_THE_IN",
-      "score": 0.8571,
       "reason": "Codex local embedding similarity"
     }
   ],
@@ -18165,8 +18165,8 @@
       "reason": "Codex local embedding similarity"
     },
     {
-      "target": "1583_A_CASE_OF_BRAIN_ABSCESS_DUE_TO_LATENT_TYPHOID_INFECTION_OPER",
-      "score": 0.8865,
+      "target": "3167_I_Walling_off_the_Subarachnoid_Spaces_Its_Application_to_the",
+      "score": 0.8876,
       "reason": "Codex local embedding similarity"
     }
   ],
@@ -18199,6 +18199,11 @@
   ],
   "2809_CULTURAL_EXPERIMENTS_WITH_THE_SPIROCHAETA_PALLIDA_DERIVED_FR": [
     {
+      "target": "3164_A_CASE_OF_CEREBROSPINAL_MENINGITIS_DUE_TO_A_DIPHTHEROID_BACI",
+      "score": 0.8959,
+      "reason": "Codex local embedding similarity"
+    },
+    {
       "target": "2899_THE_CEREBROSPINAL_FLUID_IN_POLIOMYELITIS_WITH_ESPECIAL_REFER",
       "score": 0.8953,
       "reason": "Codex local embedding similarity"
@@ -18216,11 +18221,6 @@
     {
       "target": "2348_APHASIA_AND_AGRAPHIA_IN_SOME_PRACTICAL_SURGICAL_RELATIONS",
       "score": 0.8764,
-      "reason": "Codex local embedding similarity"
-    },
-    {
-      "target": "2162_THE_WASSERMANN_REACTION_IN_ITS_RELATION_TO_DISEASES_OF_THE_C",
-      "score": 0.8756,
       "reason": "Codex local embedding similarity"
     }
   ],
@@ -18403,13 +18403,13 @@
       "reason": "Codex local embedding similarity"
     },
     {
-      "target": "2569_Klinischer_und_anatomischer_Beitrag_zur_Kenntnis_der_Catarac",
-      "score": 0.9295,
+      "target": "3158_Über_einige_Beziehungen_zwischen_Ganglienzellveränderungen_u",
+      "score": 0.9387,
       "reason": "Codex local embedding similarity"
     },
     {
-      "target": "2206_The_Material_Fundamentals_and_the_Prognosis_of_the_Accident",
-      "score": 0.9247,
+      "target": "2569_Klinischer_und_anatomischer_Beitrag_zur_Kenntnis_der_Catarac",
+      "score": 0.9295,
       "reason": "Codex local embedding similarity"
     }
   ],
@@ -18641,18 +18641,18 @@
       "reason": "Codex local embedding similarity"
     },
     {
-      "target": "3034_The_relative_volumes_of_the_cortex_and_medulla_of_the_adrena",
-      "score": 0.9094,
+      "target": "3161_The_cerebellum_of_Amblystoma",
+      "score": 0.9294,
       "reason": "Codex local embedding similarity"
     },
     {
-      "target": "3119_A_contribution_to_the_study_of_vasomotor_reflexes",
-      "score": 0.9018,
+      "target": "3152_Note_on_the_anatomy_of_the_areae_postremae",
+      "score": 0.9276,
       "reason": "Codex local embedding similarity"
     },
     {
-      "target": "3109_Factors_influencing_the_behavior_of_the_brain_of_the_albino",
-      "score": 0.9017,
+      "target": "3165_Comparative_studies_on_the_growth_of_the_corpus_callosum_I_O",
+      "score": 0.9186,
       "reason": "Codex local embedding similarity"
     }
   ],
@@ -18906,6 +18906,11 @@
       "reason": "Codex local embedding similarity"
     },
     {
+      "target": "3158_Über_einige_Beziehungen_zwischen_Ganglienzellveränderungen_u",
+      "score": 0.9173,
+      "reason": "Codex local embedding similarity"
+    },
+    {
       "target": "2342_Gedanken_über_die_Wirkung_unserer_Antisyphilitika",
       "score": 0.9093,
       "reason": "Codex local embedding similarity"
@@ -18918,11 +18923,6 @@
     {
       "target": "1606_Studien_über_Neuroglia",
       "score": 0.9085,
-      "reason": "Codex local embedding similarity"
-    },
-    {
-      "target": "1662_Die_Medullaranästhesie_mittelst_Cocain-Suprarenin",
-      "score": 0.9044,
       "reason": "Codex local embedding similarity"
     }
   ],
@@ -19051,13 +19051,13 @@
       "reason": "Codex local embedding similarity"
     },
     {
-      "target": "2204_DEAFNESS_DUE_TO_LESIONS_IN_THE_BRAIN",
-      "score": 0.9759,
+      "target": "3168_On_Deep-localization_In_The_Cerebral_Cortex",
+      "score": 0.9767,
       "reason": "Codex local embedding similarity"
     },
     {
-      "target": "2248_THE_CONTROL_OF_BLEEDING_IN_OPERATIONS_FOR_BRAIN_TUMORS_WITH",
-      "score": 0.9735,
+      "target": "2204_DEAFNESS_DUE_TO_LESIONS_IN_THE_BRAIN",
+      "score": 0.9759,
       "reason": "Codex local embedding similarity"
     }
   ],
@@ -19738,6 +19738,11 @@
   ],
   "2941_TRICHINOSIS_A_REPORT_OF_THREE_CASES_SIMULATING_MENINGITIS_WI": [
     {
+      "target": "3163_ENCEPHALITIS_LETHARGICA",
+      "score": 0.8947,
+      "reason": "Codex local embedding similarity"
+    },
+    {
       "target": "019_A_CASE_OF_TUMOR_AT_THE_BASE_OF_THE_BRAIN_IN_THE_PONTINE_REGI",
       "score": 0.8862,
       "reason": "Codex local embedding similarity"
@@ -19755,11 +19760,6 @@
     {
       "target": "1551_A_CASE_OF_UNUSUAL_CEREBRAL_HEMORRHAGE",
       "score": 0.8816,
-      "reason": "Codex local embedding similarity"
-    },
-    {
-      "target": "1550_A_CASE_OF_TUMOR_OF_THE_CEREBELLUM_AUTOPSY",
-      "score": 0.8809,
       "reason": "Codex local embedding similarity"
     }
   ],
@@ -19851,6 +19851,11 @@
       "reason": "Codex local embedding similarity"
     },
     {
+      "target": "3154_The_Basal_Arteries_of_the_Forebrain_and_their_functional_sig",
+      "score": 0.886,
+      "reason": "Codex local embedding similarity"
+    },
+    {
       "target": "2575_The_Cholesterol_of_the_Brain_III_Note_on_the_Cholesterol_Con",
       "score": 0.8848,
       "reason": "Codex local embedding similarity"
@@ -19863,11 +19868,6 @@
     {
       "target": "2703_FURTHER_STUDIES_ON_THE_SPINAL_FLUID_WITH_REFERENCE_TO_THE_IN",
       "score": 0.8827,
-      "reason": "Codex local embedding similarity"
-    },
-    {
-      "target": "3121_CHEMICAL_ANALYSES_OF_TWO_PATHOLOGICAL_HUMAN_BRAINS",
-      "score": 0.8822,
       "reason": "Codex local embedding similarity"
     }
   ],
@@ -19893,8 +19893,8 @@
       "reason": "Codex local embedding similarity"
     },
     {
-      "target": "255_A_CASE_OF_CEREBRAL_ABSCESS_WITH_OPERATION",
-      "score": 0.8873,
+      "target": "3166_THE_FUNCTIONS_OF_THE_CEREBROSPINAL_FLUID_WITH_A_SPECIAL_CONS",
+      "score": 0.8877,
       "reason": "Codex local embedding similarity"
     }
   ],
@@ -20509,13 +20509,13 @@
       "reason": "Codex local embedding similarity"
     },
     {
-      "target": "2930_XLIII_The_Static_Labyrinth_in_Syphilis",
-      "score": 0.8883,
+      "target": "3166_THE_FUNCTIONS_OF_THE_CEREBROSPINAL_FLUID_WITH_A_SPECIAL_CONS",
+      "score": 0.8901,
       "reason": "Codex local embedding similarity"
     },
     {
-      "target": "2428_Meningitis_Sinus_Thrombosis_and_Abscess_of_Brain",
-      "score": 0.8795,
+      "target": "2930_XLIII_The_Static_Labyrinth_in_Syphilis",
+      "score": 0.8883,
       "reason": "Codex local embedding similarity"
     }
   ],
@@ -20710,6 +20710,11 @@
   ],
   "3028_The_effect_of_abnormal_temperatures_upon_the_developing_nerv": [
     {
+      "target": "3150_Norms_for_some_structural_changes_in_the_human_cerebellum_fr",
+      "score": 0.934,
+      "reason": "Codex local embedding similarity"
+    },
+    {
       "target": "2850_The_motor_nuclei_of_the_cerebral_nerves_in_phylogeny-a_study",
       "score": 0.9336,
       "reason": "Codex local embedding similarity"
@@ -20725,13 +20730,8 @@
       "reason": "Codex local embedding similarity"
     },
     {
-      "target": "3109_Factors_influencing_the_behavior_of_the_brain_of_the_albino",
-      "score": 0.9146,
-      "reason": "Codex local embedding similarity"
-    },
-    {
-      "target": "3119_A_contribution_to_the_study_of_vasomotor_reflexes",
-      "score": 0.9142,
+      "target": "3165_Comparative_studies_on_the_growth_of_the_corpus_callosum_I_O",
+      "score": 0.9206,
       "reason": "Codex local embedding similarity"
     }
   ],
@@ -20872,8 +20872,18 @@
   ],
   "3034_The_relative_volumes_of_the_cortex_and_medulla_of_the_adrena": [
     {
+      "target": "3150_Norms_for_some_structural_changes_in_the_human_cerebellum_fr",
+      "score": 0.9495,
+      "reason": "Codex local embedding similarity"
+    },
+    {
       "target": "3109_Factors_influencing_the_behavior_of_the_brain_of_the_albino",
       "score": 0.9446,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "3165_Comparative_studies_on_the_growth_of_the_corpus_callosum_I_O",
+      "score": 0.9368,
       "reason": "Codex local embedding similarity"
     },
     {
@@ -20882,18 +20892,8 @@
       "reason": "Codex local embedding similarity"
     },
     {
-      "target": "3119_A_contribution_to_the_study_of_vasomotor_reflexes",
-      "score": 0.9235,
-      "reason": "Codex local embedding similarity"
-    },
-    {
-      "target": "3028_The_effect_of_abnormal_temperatures_upon_the_developing_nerv",
-      "score": 0.9234,
-      "reason": "Codex local embedding similarity"
-    },
-    {
-      "target": "3104_Metabolic_activity_of_the_nervous_system_IV_The_content_of_n",
-      "score": 0.9181,
+      "target": "3152_Note_on_the_anatomy_of_the_areae_postremae",
+      "score": 0.9263,
       "reason": "Codex local embedding similarity"
     }
   ],
@@ -20931,6 +20931,11 @@
       "reason": "Codex local embedding similarity"
     },
     {
+      "target": "3150_Norms_for_some_structural_changes_in_the_human_cerebellum_fr",
+      "score": 0.934,
+      "reason": "Codex local embedding similarity"
+    },
+    {
       "target": "3034_The_relative_volumes_of_the_cortex_and_medulla_of_the_adrena",
       "score": 0.9307,
       "reason": "Codex local embedding similarity"
@@ -20941,13 +20946,8 @@
       "reason": "Codex local embedding similarity"
     },
     {
-      "target": "3068_Experimental_studies_on_the_brain_stem_III_The_effects_on_re",
-      "score": 0.9132,
-      "reason": "Codex local embedding similarity"
-    },
-    {
-      "target": "3119_A_contribution_to_the_study_of_vasomotor_reflexes",
-      "score": 0.9125,
+      "target": "3165_Comparative_studies_on_the_growth_of_the_corpus_callosum_I_O",
+      "score": 0.9142,
       "reason": "Codex local embedding similarity"
     }
   ],
@@ -21147,23 +21147,23 @@
       "reason": "Codex local embedding similarity"
     },
     {
+      "target": "3152_Note_on_the_anatomy_of_the_areae_postremae",
+      "score": 0.9242,
+      "reason": "Codex local embedding similarity"
+    },
+    {
       "target": "3104_Metabolic_activity_of_the_nervous_system_IV_The_content_of_n",
       "score": 0.92,
       "reason": "Codex local embedding similarity"
     },
     {
+      "target": "3150_Norms_for_some_structural_changes_in_the_human_cerebellum_fr",
+      "score": 0.9154,
+      "reason": "Codex local embedding similarity"
+    },
+    {
       "target": "3060_Quantitative_chemical_changes_in_the_human_brain_during_grow",
       "score": 0.9132,
-      "reason": "Codex local embedding similarity"
-    },
-    {
-      "target": "3034_The_relative_volumes_of_the_cortex_and_medulla_of_the_adrena",
-      "score": 0.9115,
-      "reason": "Codex local embedding similarity"
-    },
-    {
-      "target": "3109_Factors_influencing_the_behavior_of_the_brain_of_the_albino",
-      "score": 0.9099,
       "reason": "Codex local embedding similarity"
     }
   ],
@@ -21211,13 +21211,13 @@
       "reason": "Codex local embedding similarity"
     },
     {
-      "target": "243_EXPERIMENTAL_WORK_ON_BRAIN_PRESSURE_FOLLOWING_INJURY",
-      "score": 0.8799,
+      "target": "3159_MOTOR_DISTURBANCES_IN_LETHARGIC_ENCEPHALITIS",
+      "score": 0.8827,
       "reason": "Codex local embedding similarity"
     },
     {
-      "target": "2763_Morphological_and_microchemical_variations_in_mitochondria_i",
-      "score": 0.8783,
+      "target": "243_EXPERIMENTAL_WORK_ON_BRAIN_PRESSURE_FOLLOWING_INJURY",
+      "score": 0.8799,
       "reason": "Codex local embedding similarity"
     }
   ],
@@ -21444,6 +21444,11 @@
       "reason": "Codex local embedding similarity"
     },
     {
+      "target": "3150_Norms_for_some_structural_changes_in_the_human_cerebellum_fr",
+      "score": 0.9274,
+      "reason": "Codex local embedding similarity"
+    },
+    {
       "target": "3109_Factors_influencing_the_behavior_of_the_brain_of_the_albino",
       "score": 0.9211,
       "reason": "Codex local embedding similarity"
@@ -21456,11 +21461,6 @@
     {
       "target": "3068_Experimental_studies_on_the_brain_stem_III_The_effects_on_re",
       "score": 0.92,
-      "reason": "Codex local embedding similarity"
-    },
-    {
-      "target": "3034_The_relative_volumes_of_the_cortex_and_medulla_of_the_adrena",
-      "score": 0.9181,
       "reason": "Codex local embedding similarity"
     }
   ],
@@ -21508,13 +21508,13 @@
       "reason": "Codex local embedding similarity"
     },
     {
-      "target": "2054_A_CASE_OF_ANEURYSM_OF_THE_ANTERIOR_CEREBRAL_ARTERY",
-      "score": 0.8707,
+      "target": "3163_ENCEPHALITIS_LETHARGICA",
+      "score": 0.871,
       "reason": "Codex local embedding similarity"
     },
     {
-      "target": "777_Some_Cases_of_Brain_Injury",
-      "score": 0.8704,
+      "target": "2054_A_CASE_OF_ANEURYSM_OF_THE_ANTERIOR_CEREBRAL_ARTERY",
+      "score": 0.8707,
       "reason": "Codex local embedding similarity"
     }
   ],
@@ -21584,18 +21584,18 @@
       "reason": "Codex local embedding similarity"
     },
     {
+      "target": "3150_Norms_for_some_structural_changes_in_the_human_cerebellum_fr",
+      "score": 0.936,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "3165_Comparative_studies_on_the_growth_of_the_corpus_callosum_I_O",
+      "score": 0.9305,
+      "reason": "Codex local embedding similarity"
+    },
+    {
       "target": "3119_A_contribution_to_the_study_of_vasomotor_reflexes",
       "score": 0.9222,
-      "reason": "Codex local embedding similarity"
-    },
-    {
-      "target": "3104_Metabolic_activity_of_the_nervous_system_IV_The_content_of_n",
-      "score": 0.9211,
-      "reason": "Codex local embedding similarity"
-    },
-    {
-      "target": "3028_The_effect_of_abnormal_temperatures_upon_the_developing_nerv",
-      "score": 0.9146,
       "reason": "Codex local embedding similarity"
     }
   ],
@@ -21682,6 +21682,11 @@
   ],
   "3113_XIII_Cerebral_Abscesses_of_the_Frontal_Lobe_Originating_from": [
     {
+      "target": "3167_I_Walling_off_the_Subarachnoid_Spaces_Its_Application_to_the",
+      "score": 0.911,
+      "reason": "Codex local embedding similarity"
+    },
+    {
       "target": "2579_Brain_infection_from_sinus_disease",
       "score": 0.8996,
       "reason": "Codex local embedding similarity"
@@ -21699,11 +21704,6 @@
     {
       "target": "1578_The_Cortical_Localization_of_the_Auditory_Area",
       "score": 0.8928,
-      "reason": "Codex local embedding similarity"
-    },
-    {
-      "target": "2292_THE_CEREBRAL_FORMS_OF_POLIOMYELITIS_AND_THEIR_DIAGNOSIS_FROM",
-      "score": 0.8927,
       "reason": "Codex local embedding similarity"
     }
   ],
@@ -21864,8 +21864,8 @@
       "reason": "Codex local embedding similarity"
     },
     {
-      "target": "3028_The_effect_of_abnormal_temperatures_upon_the_developing_nerv",
-      "score": 0.9142,
+      "target": "3150_Norms_for_some_structural_changes_in_the_human_cerebellum_fr",
+      "score": 0.9198,
       "reason": "Codex local embedding similarity"
     }
   ],
@@ -21947,6 +21947,546 @@
     {
       "target": "2941_TRICHINOSIS_A_REPORT_OF_THREE_CASES_SIMULATING_MENINGITIS_WI",
       "score": 0.8761,
+      "reason": "Codex local embedding similarity"
+    }
+  ],
+  "3150_Norms_for_some_structural_changes_in_the_human_cerebellum_fr": [
+    {
+      "target": "3165_Comparative_studies_on_the_growth_of_the_corpus_callosum_I_O",
+      "score": 0.9503,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "3034_The_relative_volumes_of_the_cortex_and_medulla_of_the_adrena",
+      "score": 0.9495,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "3161_The_cerebellum_of_Amblystoma",
+      "score": 0.9385,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "3109_Factors_influencing_the_behavior_of_the_brain_of_the_albino",
+      "score": 0.936,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "3028_The_effect_of_abnormal_temperatures_upon_the_developing_nerv",
+      "score": 0.934,
+      "reason": "Codex local embedding similarity"
+    }
+  ],
+  "3151_On_the_relative_vascularity_of_various_parts_of_the_central": [
+    {
+      "target": "2711_DILATATION_OF_CEREBRAL_VENTRICLES_IN_VARIOUS_FUNCTIONAL_PSYC",
+      "score": 0.9135,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "2764_ABNORMAL_RELATION_BETWEEN_LIVER_AND_BRAIN_WEIGHTS_IN_FORTY-T",
+      "score": 0.9094,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "3065_PENETRATING_WOUNDS_OF_THE_BRAIN",
+      "score": 0.9058,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "1554_Carcinosis_of_the_Central_Nervous_System",
+      "score": 0.8964,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "245_RECONSTRUCTION_OF_SERIAL_SECTIONS_OF_BRAIN",
+      "score": 0.895,
+      "reason": "Codex local embedding similarity"
+    }
+  ],
+  "3152_Note_on_the_anatomy_of_the_areae_postremae": [
+    {
+      "target": "3161_The_cerebellum_of_Amblystoma",
+      "score": 0.9492,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "3150_Norms_for_some_structural_changes_in_the_human_cerebellum_fr",
+      "score": 0.9306,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "3165_Comparative_studies_on_the_growth_of_the_corpus_callosum_I_O",
+      "score": 0.9282,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "2850_The_motor_nuclei_of_the_cerebral_nerves_in_phylogeny-a_study",
+      "score": 0.9276,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "3034_The_relative_volumes_of_the_cortex_and_medulla_of_the_adrena",
+      "score": 0.9263,
+      "reason": "Codex local embedding similarity"
+    }
+  ],
+  "3153_PATHOLOGIC_ANATOMY_OF_TRAUMATIC_FRACTURES_OF_CRANIAL_BONES_A": [
+    {
+      "target": "2384_MULTIPLE_HEMANGIOPERITHELIOMA_OF_THE_BRAIN",
+      "score": 0.8819,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "1642_ON_THE_THALAMUS",
+      "score": 0.8763,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "275_Destruction_of_Left_Eye_and_Frontal_Lobe_of_Brain_from_a_Sho",
+      "score": 0.8759,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "2148_OTOLOGIC_AND_RHINOLOGIC_COMPLICATIONS_OF_SKULL_FRACTURE",
+      "score": 0.8758,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "1795_OBSERVATIONS_ON_THE_FUNCTIONS_OF_THE_ASSOCIATION_AREAS_CEREB",
+      "score": 0.8729,
+      "reason": "Codex local embedding similarity"
+    }
+  ],
+  "3154_The_Basal_Arteries_of_the_Forebrain_and_their_functional_sig": [
+    {
+      "target": "2197_The_evolution_of_the_cerebral_cortex",
+      "score": 0.9182,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "2566_The_parietal_region_in_the_primate_brain",
+      "score": 0.9165,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "2705_Cortical_localisation_and_furrow_formation",
+      "score": 0.9112,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "2281_Localisation_of_the_motor_area_in_the_sheeps_brain_by_the_hi",
+      "score": 0.9096,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "2296_A_contribution_to_the_study_of_the_cere_bral_cortex_in_man",
+      "score": 0.9043,
+      "reason": "Codex local embedding similarity"
+    }
+  ],
+  "3155_The_extent_of_the_floor-plate_of_his_and_its_significance": [
+    {
+      "target": "1645_A_three_weeks_human_embryo_with_especial_reference_to_the_br",
+      "score": 0.8946,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "2296_A_contribution_to_the_study_of_the_cere_bral_cortex_in_man",
+      "score": 0.8812,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "3031_ON_THE_DEVELOPMENT_OF_THE_EXTERNAL_FORM_OF_THE_HUMAN_CEREBEL",
+      "score": 0.8811,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "1910_The_corpus_ponto-bulbare-A_hitherto_undescribed_nuclear_mass",
+      "score": 0.8803,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "1924_Why_are_the_great_motor_and_sensory_tracts_of_the_central_ne",
+      "score": 0.8793,
+      "reason": "Codex local embedding similarity"
+    }
+  ],
+  "3156_A_STUDY_OF_BRAIN_REPAIR_IN_THE_RAT_BY_THE_USE_OF_TRYPAN_BLUE": [
+    {
+      "target": "2945_A_contribution_to_the_study_of_the_pathways_of_the_cerebrosp",
+      "score": 0.8767,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "2281_Localisation_of_the_motor_area_in_the_sheeps_brain_by_the_hi",
+      "score": 0.8756,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "1568_The_microscopic_structure_of_cortical_areas_in_man_and_some",
+      "score": 0.8731,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "2378_The_Production_of_Antirabic_Immunity_by_Intra-Spinal_Injecti",
+      "score": 0.8731,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "3121_CHEMICAL_ANALYSES_OF_TWO_PATHOLOGICAL_HUMAN_BRAINS",
+      "score": 0.8709,
+      "reason": "Codex local embedding similarity"
+    }
+  ],
+  "3157_PUNCTURE_OF_THE_CISTERNA_MAGNA": [
+    {
+      "target": "2614_THE_INTRAMENINGEAL_TREATMENT_OF_TABES_AND_CEREBROSPINAL_SYPH",
+      "score": 0.9012,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "1822_SURGICAL_TREATMENT_OF_CONGENITAL_HYDROCEPHALUSREPORT_OF_A_CA",
+      "score": 0.8952,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "2144_PROBLEMS_AND_PROCEDURES_IN_CRANIAL_SURGERY",
+      "score": 0.8821,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "2381_DIAGNOSIS_AND_LOCALIZATION_OF_BRAIN_ABSCESS",
+      "score": 0.8814,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "3167_I_Walling_off_the_Subarachnoid_Spaces_Its_Application_to_the",
+      "score": 0.8801,
+      "reason": "Codex local embedding similarity"
+    }
+  ],
+  "3158_Über_einige_Beziehungen_zwischen_Ganglienzellveränderungen_u": [
+    {
+      "target": "2841_über_Lokalisation_innerhalb_des_Corpus_striatum",
+      "score": 0.9387,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "1606_Studien_über_Neuroglia",
+      "score": 0.9383,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "2196_Eine_neue_Methode_zur_Darstellung_des_Gliagewebes_nebst_Beit",
+      "score": 0.9366,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "1569_Ueber_die_Betheiligung_der_Neuroglia_an_der_Narbenbildung_im",
+      "score": 0.9277,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "1620_Kasuistischer_Beitrag_zur_Lehre_von_den_Tumoren_des_obersten",
+      "score": 0.926,
+      "reason": "Codex local embedding similarity"
+    }
+  ],
+  "3159_MOTOR_DISTURBANCES_IN_LETHARGIC_ENCEPHALITIS": [
+    {
+      "target": "243_EXPERIMENTAL_WORK_ON_BRAIN_PRESSURE_FOLLOWING_INJURY",
+      "score": 0.8945,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "283_XII_Laryngeal_Disturbances_in_the_Diseases_of_the_Central_Ne",
+      "score": 0.8899,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "1781_A_STUDY_OF_MENTAL_DISEASES_ASSOCIATED_WITH_CEREBRAL_ARTERIO-",
+      "score": 0.8891,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "2979_THE_HYDROCEPHALUS_OF_POLIOMYELITIS",
+      "score": 0.8852,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "1963_JOINT_AFFECTIONS_IN_NERVOUS_DISEASE",
+      "score": 0.8844,
+      "reason": "Codex local embedding similarity"
+    }
+  ],
+  "3160_SNAPPING_OF_THE_BRAIN": [
+    {
+      "target": "1920_ON_THE_CULTIVATION_OF_THE_MENINGOCOCCUS_IN_THE_PRESENT_EPIDE",
+      "score": 0.897,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "003_Hughlings_Jackson_and_the_Cortical_Motor_Centres_in_the_Ligh",
+      "score": 0.8952,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "285_EVOLUTIONAL_AND_INVOLUTIONAL_TYPES_OF_MENTAL_AND_NERVOUS_DIS",
+      "score": 0.8938,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "1966_PARANOIA_ITS_VARIETIES_AND_MEDICOLEGAL_IMPORTANCE",
+      "score": 0.8927,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "1797_THE_RELATIVE_BRAIN-WEIGHT_OF_MAN_AND_WOMAN",
+      "score": 0.8924,
+      "reason": "Codex local embedding similarity"
+    }
+  ],
+  "3161_The_cerebellum_of_Amblystoma": [
+    {
+      "target": "3152_Note_on_the_anatomy_of_the_areae_postremae",
+      "score": 0.9492,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "3150_Norms_for_some_structural_changes_in_the_human_cerebellum_fr",
+      "score": 0.9385,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "2850_The_motor_nuclei_of_the_cerebral_nerves_in_phylogeny-a_study",
+      "score": 0.9294,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "3165_Comparative_studies_on_the_growth_of_the_corpus_callosum_I_O",
+      "score": 0.9279,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "2850_The_motor_nuclei_of_the_cerebral_nerves_in_phylogeny-a_study",
+      "score": 0.9271,
+      "reason": "Codex local embedding similarity"
+    }
+  ],
+  "3162_SECTION_OF_THE_ANTEROLATERAL_COLUMNS_OF_THE_SPINAL_CORD_FOR": [
+    {
+      "target": "2477_Klinik_der_serösen_und_eitrigen_Labyrinth-Entzündungen__Dr_E",
+      "score": 0.8847,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "2244_THE_TOPOGRAPHIC_DIAGNOSIS_OF_SUBTENTORIAL_BRAIN_TUMORS",
+      "score": 0.8823,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "2144_PROBLEMS_AND_PROCEDURES_IN_CRANIAL_SURGERY",
+      "score": 0.8782,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "3157_PUNCTURE_OF_THE_CISTERNA_MAGNA",
+      "score": 0.8765,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "809_ANÆSTHESIA_BY_SUBARACHNOID_INJECTIONS_OF_COCAINE_IN_THE_LUMB",
+      "score": 0.8743,
+      "reason": "Codex local embedding similarity"
+    }
+  ],
+  "3163_ENCEPHALITIS_LETHARGICA": [
+    {
+      "target": "2941_TRICHINOSIS_A_REPORT_OF_THREE_CASES_SIMULATING_MENINGITIS_WI",
+      "score": 0.8947,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "3122_EPIDEMIC_MENINGITIS_AND_DETECTION_OF_MENINGOCOCCUS_CARRIERS",
+      "score": 0.8746,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "2188_ISOLATED_AND_COMPLETE_PARALYSIS_OF_THE_THIRD_NERVE_OF_TRAUMA",
+      "score": 0.8725,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "292_Purulent_Nasal_Discharges_their_Diagnosis_and_Treatment__By",
+      "score": 0.8717,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "2806_STUDIES_OF_THE_SPINAL_FLUID_DURING_IODID_MEDICATION_BY_MOUTH",
+      "score": 0.8717,
+      "reason": "Codex local embedding similarity"
+    }
+  ],
+  "3164_A_CASE_OF_CEREBROSPINAL_MENINGITIS_DUE_TO_A_DIPHTHEROID_BACI": [
+    {
+      "target": "2809_CULTURAL_EXPERIMENTS_WITH_THE_SPIROCHAETA_PALLIDA_DERIVED_FR",
+      "score": 0.8959,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "288_THE_ETIOLOGY_OF_PARETIC_DEMENTIA",
+      "score": 0.8956,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "1967_PROPHYLAXIS_IN_EPIDEMIC_CEREBROSPINAL_MENINGITIS",
+      "score": 0.8868,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "2703_FURTHER_STUDIES_ON_THE_SPINAL_FLUID_WITH_REFERENCE_TO_THE_IN",
+      "score": 0.8805,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "2887_Part_V_The_Pathology_of_Congenital_Syphilitic_Disease_of_the",
+      "score": 0.8793,
+      "reason": "Codex local embedding similarity"
+    }
+  ],
+  "3165_Comparative_studies_on_the_growth_of_the_corpus_callosum_I_O": [
+    {
+      "target": "3150_Norms_for_some_structural_changes_in_the_human_cerebellum_fr",
+      "score": 0.9503,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "3034_The_relative_volumes_of_the_cortex_and_medulla_of_the_adrena",
+      "score": 0.9368,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "3109_Factors_influencing_the_behavior_of_the_brain_of_the_albino",
+      "score": 0.9305,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "3152_Note_on_the_anatomy_of_the_areae_postremae",
+      "score": 0.9282,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "3161_The_cerebellum_of_Amblystoma",
+      "score": 0.9279,
+      "reason": "Codex local embedding similarity"
+    }
+  ],
+  "3166_THE_FUNCTIONS_OF_THE_CEREBROSPINAL_FLUID_WITH_A_SPECIAL_CONS": [
+    {
+      "target": "2796_ON_THE_REACTION_OF_THE_CEREBROSPINAL_FLUID",
+      "score": 0.9147,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "2669_THE_CEREBROSPINAL_FLUID_IN_HEALTH_AND_DISEASE",
+      "score": 0.9097,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "2614_THE_INTRAMENINGEAL_TREATMENT_OF_TABES_AND_CEREBROSPINAL_SYPH",
+      "score": 0.9053,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "2755_The_formation_of_the_cranial_subarachnoid_spaces",
+      "score": 0.9004,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "2621_THE_CEREBROSPINAL_FLUID_AS_A_PROBLEM_IN_INTRACRANIAL_SURGERY",
+      "score": 0.8955,
+      "reason": "Codex local embedding similarity"
+    }
+  ],
+  "3167_I_Walling_off_the_Subarachnoid_Spaces_Its_Application_to_the": [
+    {
+      "target": "3113_XIII_Cerebral_Abscesses_of_the_Frontal_Lobe_Originating_from",
+      "score": 0.911,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "2428_Meningitis_Sinus_Thrombosis_and_Abscess_of_Brain",
+      "score": 0.9061,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "1622_XXIII_A_Study_of_the_Development_of_the_Nose_and_its_Accesso",
+      "score": 0.9047,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "2622_Royal_Society_of_Medicine-Otological_Section",
+      "score": 0.9027,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "282_The_operative_treatment_of_abscess_when_situated_in_the_brai",
+      "score": 0.9026,
+      "reason": "Codex local embedding similarity"
+    }
+  ],
+  "3168_On_Deep-localization_In_The_Cerebral_Cortex": [
+    {
+      "target": "2204_DEAFNESS_DUE_TO_LESIONS_IN_THE_BRAIN",
+      "score": 0.9843,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "2531_LOCALIZED_ENCEPHALITIS_OF_THE_LEFT_MOTOR_CORTICAL_REGION_WIT",
+      "score": 0.9815,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "2205_MULTIPLE_SCLEROSIS_WITH_PRIMARY_DEGENERATION_OF_THE_MOTOR_CO",
+      "score": 0.9773,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "2890_THE_STRATIGRAPHICAL_ANALYSIS_OF_FINER_CORTEX_CHANGES_IN_CERT",
+      "score": 0.9767,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "2891_CEREBROSPINAL_FLUID_TESTS_ESPECIALLY_THE_GOLD_REACTIONS_IN_P",
+      "score": 0.9766,
+      "reason": "Codex local embedding similarity"
+    }
+  ],
+  "3169_ACUTE_CEREBROCEREBELLAR_ATAXIA_WITH_REPORT_OF_CASES": [
+    {
+      "target": "2519_OCCLUSION_OF_THE_POSTERIOR_INFERIOR_CEREBELLAR_ARTERY_REPORT",
+      "score": 0.908,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "1676_REPORT_OF_TWO_FATAL_CASES_OF_BRAIN_ABSCESS",
+      "score": 0.8962,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "1580_SPONTANEOUS_HEMORRHAGES_IN_NEWBORN_CHILDREN",
+      "score": 0.8919,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "2016_PATHOLOGIC_REPORT_OF_THE_NERVOUS_SYSTEM_IN_A_CASE_OF_SPONDYL",
+      "score": 0.8917,
+      "reason": "Codex local embedding similarity"
+    },
+    {
+      "target": "1583_A_CASE_OF_BRAIN_ABSCESS_DUE_TO_LATENT_TYPHOID_INFECTION_OPER",
+      "score": 0.8891,
       "reason": "Codex local embedding similarity"
     }
   ]

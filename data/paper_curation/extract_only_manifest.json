@@ -1,12 +1,12 @@
 {
-  "generated": "2026-07-05T10:27:43.108046+00:00",
+  "generated": "2026-07-05T10:57:38.674160+00:00",
   "mode": "extract-only",
   "paperCurationDir": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect",
   "awesomeRepo": "E:\\조선대\\연구\\awesome-brain-ai",
   "extractReport": "data/paper_curation/extract_only_report.json",
   "docsDir": "docs/paper_curation/extract_only",
   "paperDir": "paper/extract_only",
-  "recordCount": 840,
+  "recordCount": 860,
   "syncedPaperSlugs": [
     "003_Hughlings_Jackson_and_the_Cortical_Motor_Centres_in_the_Ligh",
     "015_EXPERIMENTAL_AND_CLINICAL_NOTES_ON_THE_SUBARACHNOID_SPACE",
@@ -847,13 +847,33 @@
     "3025_CEREBROSPINAL_FLUID_FINDINGS_IN_HERPES_ZOSTER",
     "3120_Cerebral_Cortex_Nystagmus_in_a_Soldier",
     "3121_CHEMICAL_ANALYSES_OF_TWO_PATHOLOGICAL_HUMAN_BRAINS",
-    "3122_EPIDEMIC_MENINGITIS_AND_DETECTION_OF_MENINGOCOCCUS_CARRIERS"
+    "3122_EPIDEMIC_MENINGITIS_AND_DETECTION_OF_MENINGOCOCCUS_CARRIERS",
+    "3150_Norms_for_some_structural_changes_in_the_human_cerebellum_fr",
+    "3151_On_the_relative_vascularity_of_various_parts_of_the_central",
+    "3152_Note_on_the_anatomy_of_the_areae_postremae",
+    "3153_PATHOLOGIC_ANATOMY_OF_TRAUMATIC_FRACTURES_OF_CRANIAL_BONES_A",
+    "3154_The_Basal_Arteries_of_the_Forebrain_and_their_functional_sig",
+    "3155_The_extent_of_the_floor-plate_of_his_and_its_significance",
+    "3156_A_STUDY_OF_BRAIN_REPAIR_IN_THE_RAT_BY_THE_USE_OF_TRYPAN_BLUE",
+    "3157_PUNCTURE_OF_THE_CISTERNA_MAGNA",
+    "3158_Über_einige_Beziehungen_zwischen_Ganglienzellveränderungen_u",
+    "3159_MOTOR_DISTURBANCES_IN_LETHARGIC_ENCEPHALITIS",
+    "3160_SNAPPING_OF_THE_BRAIN",
+    "3161_The_cerebellum_of_Amblystoma",
+    "3162_SECTION_OF_THE_ANTEROLATERAL_COLUMNS_OF_THE_SPINAL_CORD_FOR",
+    "3163_ENCEPHALITIS_LETHARGICA",
+    "3164_A_CASE_OF_CEREBROSPINAL_MENINGITIS_DUE_TO_A_DIPHTHEROID_BACI",
+    "3165_Comparative_studies_on_the_growth_of_the_corpus_callosum_I_O",
+    "3166_THE_FUNCTIONS_OF_THE_CEREBROSPINAL_FLUID_WITH_A_SPECIAL_CONS",
+    "3167_I_Walling_off_the_Subarachnoid_Spaces_Its_Application_to_the",
+    "3168_On_Deep-localization_In_The_Cerebral_Cortex",
+    "3169_ACUTE_CEREBROCEREBELLAR_ATAXIA_WITH_REPORT_OF_CASES"
   ],
   "copied": [
     {
       "source": "E:\\조선대\\연구\\paper-curation\\paper\\awesome-brain-ai\\_folder_source_extract_report.json",
       "target": "E:\\조선대\\연구\\awesome-brain-ai\\data\\paper_curation\\extract_only_report.json",
-      "bytes": 513306
+      "bytes": 525426
     },
     {
       "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\003_Hughlings_Jackson_and_the_Cortical_Motor_Centres_in_the_Ligh\\text.md",
@@ -14594,6 +14614,446 @@
       "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3122_EPIDEMIC_MENINGITIS_AND_DETECTION_OF_MENINGOCOCCUS_CARRIERS\\text.md",
       "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3122_EPIDEMIC_MENINGITIS_AND_DETECTION_OF_MENINGOCOCCUS_CARRIERS\\text.md",
       "bytes": 38424
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3150_Norms_for_some_structural_changes_in_the_human_cerebellum_fr\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3150_Norms_for_some_structural_changes_in_the_human_cerebellum_fr\\text.md",
+      "bytes": 63557
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3150_Norms_for_some_structural_changes_in_the_human_cerebellum_fr\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3150_Norms_for_some_structural_changes_in_the_human_cerebellum_fr\\figures\\fig1.png",
+      "bytes": 390293
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3150_Norms_for_some_structural_changes_in_the_human_cerebellum_fr\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3150_Norms_for_some_structural_changes_in_the_human_cerebellum_fr\\text.md",
+      "bytes": 63557
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3150_Norms_for_some_structural_changes_in_the_human_cerebellum_fr\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3150_Norms_for_some_structural_changes_in_the_human_cerebellum_fr\\figures\\fig1.png",
+      "bytes": 390293
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3151_On_the_relative_vascularity_of_various_parts_of_the_central\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3151_On_the_relative_vascularity_of_various_parts_of_the_central\\text.md",
+      "bytes": 56
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3151_On_the_relative_vascularity_of_various_parts_of_the_central\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3151_On_the_relative_vascularity_of_various_parts_of_the_central\\text.md",
+      "bytes": 56
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3152_Note_on_the_anatomy_of_the_areae_postremae\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3152_Note_on_the_anatomy_of_the_areae_postremae\\text.md",
+      "bytes": 12677
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3152_Note_on_the_anatomy_of_the_areae_postremae\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3152_Note_on_the_anatomy_of_the_areae_postremae\\text.md",
+      "bytes": 12677
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3153_PATHOLOGIC_ANATOMY_OF_TRAUMATIC_FRACTURES_OF_CRANIAL_BONES_A\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3153_PATHOLOGIC_ANATOMY_OF_TRAUMATIC_FRACTURES_OF_CRANIAL_BONES_A\\text.md",
+      "bytes": 66064
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3153_PATHOLOGIC_ANATOMY_OF_TRAUMATIC_FRACTURES_OF_CRANIAL_BONES_A\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3153_PATHOLOGIC_ANATOMY_OF_TRAUMATIC_FRACTURES_OF_CRANIAL_BONES_A\\figures\\fig1.png",
+      "bytes": 345394
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3153_PATHOLOGIC_ANATOMY_OF_TRAUMATIC_FRACTURES_OF_CRANIAL_BONES_A\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3153_PATHOLOGIC_ANATOMY_OF_TRAUMATIC_FRACTURES_OF_CRANIAL_BONES_A\\figures\\fig2.png",
+      "bytes": 322322
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3153_PATHOLOGIC_ANATOMY_OF_TRAUMATIC_FRACTURES_OF_CRANIAL_BONES_A\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3153_PATHOLOGIC_ANATOMY_OF_TRAUMATIC_FRACTURES_OF_CRANIAL_BONES_A\\figures\\fig4.png",
+      "bytes": 330141
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3153_PATHOLOGIC_ANATOMY_OF_TRAUMATIC_FRACTURES_OF_CRANIAL_BONES_A\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3153_PATHOLOGIC_ANATOMY_OF_TRAUMATIC_FRACTURES_OF_CRANIAL_BONES_A\\figures\\fig5.png",
+      "bytes": 332665
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3153_PATHOLOGIC_ANATOMY_OF_TRAUMATIC_FRACTURES_OF_CRANIAL_BONES_A\\figures\\fig7.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3153_PATHOLOGIC_ANATOMY_OF_TRAUMATIC_FRACTURES_OF_CRANIAL_BONES_A\\figures\\fig7.png",
+      "bytes": 607221
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3153_PATHOLOGIC_ANATOMY_OF_TRAUMATIC_FRACTURES_OF_CRANIAL_BONES_A\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3153_PATHOLOGIC_ANATOMY_OF_TRAUMATIC_FRACTURES_OF_CRANIAL_BONES_A\\text.md",
+      "bytes": 66064
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3153_PATHOLOGIC_ANATOMY_OF_TRAUMATIC_FRACTURES_OF_CRANIAL_BONES_A\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3153_PATHOLOGIC_ANATOMY_OF_TRAUMATIC_FRACTURES_OF_CRANIAL_BONES_A\\figures\\fig1.png",
+      "bytes": 345394
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3153_PATHOLOGIC_ANATOMY_OF_TRAUMATIC_FRACTURES_OF_CRANIAL_BONES_A\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3153_PATHOLOGIC_ANATOMY_OF_TRAUMATIC_FRACTURES_OF_CRANIAL_BONES_A\\figures\\fig2.png",
+      "bytes": 322322
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3153_PATHOLOGIC_ANATOMY_OF_TRAUMATIC_FRACTURES_OF_CRANIAL_BONES_A\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3153_PATHOLOGIC_ANATOMY_OF_TRAUMATIC_FRACTURES_OF_CRANIAL_BONES_A\\figures\\fig4.png",
+      "bytes": 330141
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3153_PATHOLOGIC_ANATOMY_OF_TRAUMATIC_FRACTURES_OF_CRANIAL_BONES_A\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3153_PATHOLOGIC_ANATOMY_OF_TRAUMATIC_FRACTURES_OF_CRANIAL_BONES_A\\figures\\fig5.png",
+      "bytes": 332665
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3153_PATHOLOGIC_ANATOMY_OF_TRAUMATIC_FRACTURES_OF_CRANIAL_BONES_A\\figures\\fig7.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3153_PATHOLOGIC_ANATOMY_OF_TRAUMATIC_FRACTURES_OF_CRANIAL_BONES_A\\figures\\fig7.png",
+      "bytes": 607221
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3154_The_Basal_Arteries_of_the_Forebrain_and_their_functional_sig\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3154_The_Basal_Arteries_of_the_Forebrain_and_their_functional_sig\\text.md",
+      "bytes": 22246
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3154_The_Basal_Arteries_of_the_Forebrain_and_their_functional_sig\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3154_The_Basal_Arteries_of_the_Forebrain_and_their_functional_sig\\figures\\fig1.png",
+      "bytes": 830947
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3154_The_Basal_Arteries_of_the_Forebrain_and_their_functional_sig\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3154_The_Basal_Arteries_of_the_Forebrain_and_their_functional_sig\\figures\\fig2.png",
+      "bytes": 844336
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3154_The_Basal_Arteries_of_the_Forebrain_and_their_functional_sig\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3154_The_Basal_Arteries_of_the_Forebrain_and_their_functional_sig\\figures\\fig3.png",
+      "bytes": 685287
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3154_The_Basal_Arteries_of_the_Forebrain_and_their_functional_sig\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3154_The_Basal_Arteries_of_the_Forebrain_and_their_functional_sig\\figures\\fig4.png",
+      "bytes": 1011385
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3154_The_Basal_Arteries_of_the_Forebrain_and_their_functional_sig\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3154_The_Basal_Arteries_of_the_Forebrain_and_their_functional_sig\\text.md",
+      "bytes": 22246
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3154_The_Basal_Arteries_of_the_Forebrain_and_their_functional_sig\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3154_The_Basal_Arteries_of_the_Forebrain_and_their_functional_sig\\figures\\fig1.png",
+      "bytes": 830947
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3154_The_Basal_Arteries_of_the_Forebrain_and_their_functional_sig\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3154_The_Basal_Arteries_of_the_Forebrain_and_their_functional_sig\\figures\\fig2.png",
+      "bytes": 844336
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3154_The_Basal_Arteries_of_the_Forebrain_and_their_functional_sig\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3154_The_Basal_Arteries_of_the_Forebrain_and_their_functional_sig\\figures\\fig3.png",
+      "bytes": 685287
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3154_The_Basal_Arteries_of_the_Forebrain_and_their_functional_sig\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3154_The_Basal_Arteries_of_the_Forebrain_and_their_functional_sig\\figures\\fig4.png",
+      "bytes": 1011385
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3155_The_extent_of_the_floor-plate_of_his_and_its_significance\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3155_The_extent_of_the_floor-plate_of_his_and_its_significance\\text.md",
+      "bytes": 48082
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3155_The_extent_of_the_floor-plate_of_his_and_its_significance\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3155_The_extent_of_the_floor-plate_of_his_and_its_significance\\figures\\fig1.png",
+      "bytes": 399337
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3155_The_extent_of_the_floor-plate_of_his_and_its_significance\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3155_The_extent_of_the_floor-plate_of_his_and_its_significance\\figures\\fig4.png",
+      "bytes": 395851
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3155_The_extent_of_the_floor-plate_of_his_and_its_significance\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3155_The_extent_of_the_floor-plate_of_his_and_its_significance\\text.md",
+      "bytes": 48082
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3155_The_extent_of_the_floor-plate_of_his_and_its_significance\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3155_The_extent_of_the_floor-plate_of_his_and_its_significance\\figures\\fig1.png",
+      "bytes": 399337
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3155_The_extent_of_the_floor-plate_of_his_and_its_significance\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3155_The_extent_of_the_floor-plate_of_his_and_its_significance\\figures\\fig4.png",
+      "bytes": 395851
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3156_A_STUDY_OF_BRAIN_REPAIR_IN_THE_RAT_BY_THE_USE_OF_TRYPAN_BLUE\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3156_A_STUDY_OF_BRAIN_REPAIR_IN_THE_RAT_BY_THE_USE_OF_TRYPAN_BLUE\\text.md",
+      "bytes": 133278
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3156_A_STUDY_OF_BRAIN_REPAIR_IN_THE_RAT_BY_THE_USE_OF_TRYPAN_BLUE\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3156_A_STUDY_OF_BRAIN_REPAIR_IN_THE_RAT_BY_THE_USE_OF_TRYPAN_BLUE\\text.md",
+      "bytes": 133278
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3157_PUNCTURE_OF_THE_CISTERNA_MAGNA\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3157_PUNCTURE_OF_THE_CISTERNA_MAGNA\\text.md",
+      "bytes": 29965
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3157_PUNCTURE_OF_THE_CISTERNA_MAGNA\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3157_PUNCTURE_OF_THE_CISTERNA_MAGNA\\figures\\fig1.png",
+      "bytes": 775055
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3157_PUNCTURE_OF_THE_CISTERNA_MAGNA\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3157_PUNCTURE_OF_THE_CISTERNA_MAGNA\\figures\\fig3.png",
+      "bytes": 1852850
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3157_PUNCTURE_OF_THE_CISTERNA_MAGNA\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3157_PUNCTURE_OF_THE_CISTERNA_MAGNA\\figures\\fig4.png",
+      "bytes": 568418
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3157_PUNCTURE_OF_THE_CISTERNA_MAGNA\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3157_PUNCTURE_OF_THE_CISTERNA_MAGNA\\figures\\fig5.png",
+      "bytes": 563424
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3157_PUNCTURE_OF_THE_CISTERNA_MAGNA\\figures\\fig7.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3157_PUNCTURE_OF_THE_CISTERNA_MAGNA\\figures\\fig7.png",
+      "bytes": 500040
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3157_PUNCTURE_OF_THE_CISTERNA_MAGNA\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3157_PUNCTURE_OF_THE_CISTERNA_MAGNA\\text.md",
+      "bytes": 29965
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3157_PUNCTURE_OF_THE_CISTERNA_MAGNA\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3157_PUNCTURE_OF_THE_CISTERNA_MAGNA\\figures\\fig1.png",
+      "bytes": 775055
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3157_PUNCTURE_OF_THE_CISTERNA_MAGNA\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3157_PUNCTURE_OF_THE_CISTERNA_MAGNA\\figures\\fig3.png",
+      "bytes": 1852850
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3157_PUNCTURE_OF_THE_CISTERNA_MAGNA\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3157_PUNCTURE_OF_THE_CISTERNA_MAGNA\\figures\\fig4.png",
+      "bytes": 568418
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3157_PUNCTURE_OF_THE_CISTERNA_MAGNA\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3157_PUNCTURE_OF_THE_CISTERNA_MAGNA\\figures\\fig5.png",
+      "bytes": 563424
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3157_PUNCTURE_OF_THE_CISTERNA_MAGNA\\figures\\fig7.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3157_PUNCTURE_OF_THE_CISTERNA_MAGNA\\figures\\fig7.png",
+      "bytes": 500040
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3158_Über_einige_Beziehungen_zwischen_Ganglienzellveränderungen_u\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3158_Über_einige_Beziehungen_zwischen_Ganglienzellveränderungen_u\\text.md",
+      "bytes": 93131
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3158_Über_einige_Beziehungen_zwischen_Ganglienzellveränderungen_u\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3158_Über_einige_Beziehungen_zwischen_Ganglienzellveränderungen_u\\text.md",
+      "bytes": 93131
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3159_MOTOR_DISTURBANCES_IN_LETHARGIC_ENCEPHALITIS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3159_MOTOR_DISTURBANCES_IN_LETHARGIC_ENCEPHALITIS\\text.md",
+      "bytes": 18014
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3159_MOTOR_DISTURBANCES_IN_LETHARGIC_ENCEPHALITIS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3159_MOTOR_DISTURBANCES_IN_LETHARGIC_ENCEPHALITIS\\text.md",
+      "bytes": 18014
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3160_SNAPPING_OF_THE_BRAIN\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3160_SNAPPING_OF_THE_BRAIN\\text.md",
+      "bytes": 8632
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3160_SNAPPING_OF_THE_BRAIN\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3160_SNAPPING_OF_THE_BRAIN\\text.md",
+      "bytes": 8632
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3161_The_cerebellum_of_Amblystoma\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3161_The_cerebellum_of_Amblystoma\\text.md",
+      "bytes": 39631
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3161_The_cerebellum_of_Amblystoma\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3161_The_cerebellum_of_Amblystoma\\figures\\fig1.png",
+      "bytes": 308552
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3161_The_cerebellum_of_Amblystoma\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3161_The_cerebellum_of_Amblystoma\\figures\\fig4.png",
+      "bytes": 601000
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3161_The_cerebellum_of_Amblystoma\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3161_The_cerebellum_of_Amblystoma\\figures\\fig5.png",
+      "bytes": 569546
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3161_The_cerebellum_of_Amblystoma\\figures\\fig7.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3161_The_cerebellum_of_Amblystoma\\figures\\fig7.png",
+      "bytes": 292426
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3161_The_cerebellum_of_Amblystoma\\figures\\fig9.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3161_The_cerebellum_of_Amblystoma\\figures\\fig9.png",
+      "bytes": 514785
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3161_The_cerebellum_of_Amblystoma\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3161_The_cerebellum_of_Amblystoma\\text.md",
+      "bytes": 39631
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3161_The_cerebellum_of_Amblystoma\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3161_The_cerebellum_of_Amblystoma\\figures\\fig1.png",
+      "bytes": 308552
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3161_The_cerebellum_of_Amblystoma\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3161_The_cerebellum_of_Amblystoma\\figures\\fig4.png",
+      "bytes": 601000
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3161_The_cerebellum_of_Amblystoma\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3161_The_cerebellum_of_Amblystoma\\figures\\fig5.png",
+      "bytes": 569546
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3161_The_cerebellum_of_Amblystoma\\figures\\fig7.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3161_The_cerebellum_of_Amblystoma\\figures\\fig7.png",
+      "bytes": 292426
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3161_The_cerebellum_of_Amblystoma\\figures\\fig9.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3161_The_cerebellum_of_Amblystoma\\figures\\fig9.png",
+      "bytes": 514785
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3162_SECTION_OF_THE_ANTEROLATERAL_COLUMNS_OF_THE_SPINAL_CORD_FOR\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3162_SECTION_OF_THE_ANTEROLATERAL_COLUMNS_OF_THE_SPINAL_CORD_FOR\\text.md",
+      "bytes": 31728
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3162_SECTION_OF_THE_ANTEROLATERAL_COLUMNS_OF_THE_SPINAL_CORD_FOR\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3162_SECTION_OF_THE_ANTEROLATERAL_COLUMNS_OF_THE_SPINAL_CORD_FOR\\text.md",
+      "bytes": 31728
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3163_ENCEPHALITIS_LETHARGICA\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3163_ENCEPHALITIS_LETHARGICA\\text.md",
+      "bytes": 8326
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3163_ENCEPHALITIS_LETHARGICA\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3163_ENCEPHALITIS_LETHARGICA\\text.md",
+      "bytes": 8326
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3164_A_CASE_OF_CEREBROSPINAL_MENINGITIS_DUE_TO_A_DIPHTHEROID_BACI\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3164_A_CASE_OF_CEREBROSPINAL_MENINGITIS_DUE_TO_A_DIPHTHEROID_BACI\\text.md",
+      "bytes": 7242
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3164_A_CASE_OF_CEREBROSPINAL_MENINGITIS_DUE_TO_A_DIPHTHEROID_BACI\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3164_A_CASE_OF_CEREBROSPINAL_MENINGITIS_DUE_TO_A_DIPHTHEROID_BACI\\text.md",
+      "bytes": 7242
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3165_Comparative_studies_on_the_growth_of_the_corpus_callosum_I_O\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3165_Comparative_studies_on_the_growth_of_the_corpus_callosum_I_O\\text.md",
+      "bytes": 49646
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3165_Comparative_studies_on_the_growth_of_the_corpus_callosum_I_O\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3165_Comparative_studies_on_the_growth_of_the_corpus_callosum_I_O\\figures\\fig1.png",
+      "bytes": 243205
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3165_Comparative_studies_on_the_growth_of_the_corpus_callosum_I_O\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3165_Comparative_studies_on_the_growth_of_the_corpus_callosum_I_O\\figures\\fig2.png",
+      "bytes": 350172
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3165_Comparative_studies_on_the_growth_of_the_corpus_callosum_I_O\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3165_Comparative_studies_on_the_growth_of_the_corpus_callosum_I_O\\text.md",
+      "bytes": 49646
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3165_Comparative_studies_on_the_growth_of_the_corpus_callosum_I_O\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3165_Comparative_studies_on_the_growth_of_the_corpus_callosum_I_O\\figures\\fig1.png",
+      "bytes": 243205
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3165_Comparative_studies_on_the_growth_of_the_corpus_callosum_I_O\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3165_Comparative_studies_on_the_growth_of_the_corpus_callosum_I_O\\figures\\fig2.png",
+      "bytes": 350172
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3166_THE_FUNCTIONS_OF_THE_CEREBROSPINAL_FLUID_WITH_A_SPECIAL_CONS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3166_THE_FUNCTIONS_OF_THE_CEREBROSPINAL_FLUID_WITH_A_SPECIAL_CONS\\text.md",
+      "bytes": 63073
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3166_THE_FUNCTIONS_OF_THE_CEREBROSPINAL_FLUID_WITH_A_SPECIAL_CONS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3166_THE_FUNCTIONS_OF_THE_CEREBROSPINAL_FLUID_WITH_A_SPECIAL_CONS\\text.md",
+      "bytes": 63073
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3167_I_Walling_off_the_Subarachnoid_Spaces_Its_Application_to_the\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3167_I_Walling_off_the_Subarachnoid_Spaces_Its_Application_to_the\\text.md",
+      "bytes": 68605
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3167_I_Walling_off_the_Subarachnoid_Spaces_Its_Application_to_the\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3167_I_Walling_off_the_Subarachnoid_Spaces_Its_Application_to_the\\text.md",
+      "bytes": 68605
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3168_On_Deep-localization_In_The_Cerebral_Cortex\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3168_On_Deep-localization_In_The_Cerebral_Cortex\\text.md",
+      "bytes": 501
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3168_On_Deep-localization_In_The_Cerebral_Cortex\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3168_On_Deep-localization_In_The_Cerebral_Cortex\\text.md",
+      "bytes": 501
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3169_ACUTE_CEREBROCEREBELLAR_ATAXIA_WITH_REPORT_OF_CASES\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\3169_ACUTE_CEREBROCEREBELLAR_ATAXIA_WITH_REPORT_OF_CASES\\text.md",
+      "bytes": 21426
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\3169_ACUTE_CEREBROCEREBELLAR_ATAXIA_WITH_REPORT_OF_CASES\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\3169_ACUTE_CEREBROCEREBELLAR_ATAXIA_WITH_REPORT_OF_CASES\\text.md",
+      "bytes": 21426
     }
   ],
   "missing": [],
