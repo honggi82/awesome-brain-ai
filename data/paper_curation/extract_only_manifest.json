@@ -1,12 +1,12 @@
 {
-  "generated": "2026-07-05T06:19:02.853143+00:00",
+  "generated": "2026-07-05T06:43:50.179145+00:00",
   "mode": "extract-only",
   "paperCurationDir": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect",
   "awesomeRepo": "E:\\조선대\\연구\\awesome-brain-ai",
   "extractReport": "data/paper_curation/extract_only_report.json",
   "docsDir": "docs/paper_curation/extract_only",
   "paperDir": "paper/extract_only",
-  "recordCount": 660,
+  "recordCount": 680,
   "syncedPaperSlugs": [
     "003_Hughlings_Jackson_and_the_Cortical_Motor_Centres_in_the_Ligh",
     "015_EXPERIMENTAL_AND_CLINICAL_NOTES_ON_THE_SUBARACHNOID_SPACE",
@@ -667,13 +667,33 @@
     "2719_THE_EFFECT_OF_IRRITATION_ON_THE_PERMEABILITY_OF_THE_MENINGES",
     "2720_INTRATRACHEAL_ETHER_ANESTHESIA_IN_THE_SURGERY_OF_THE_BRAIN_A",
     "2721_THE_TREATMENT_OF_CEREBROSPINAL_SYPHILIS_THE_OGILVIE_TECHNIC",
-    "2722_Abstracts"
+    "2722_Abstracts",
+    "2748_TUBERCULOUS_TUMORS_OF_THE_BRAIN_REPORT_OF_A_CASE_AND_BRIEF_S",
+    "2749_A_simple_method_of_brain_dissection",
+    "2750_Brain_infection_of_otic_origin_with_report_of_five_cases",
+    "2751_A_NEW_FAMILIAL_INFANTILE_FORM_OF_DIFFUSE_BRAIN-SCLEROSIS",
+    "2752_The_effect_of_hypophysectomy_in_the_early_embryo_upon_the_ro",
+    "2753_Regeneration_in_the_brain_of_amblystoma_I_The_regeneration_o",
+    "2754_Studies_on_cell_division_in_the_albino_rat_Mus_norvegicus_va",
+    "2755_The_formation_of_the_cranial_subarachnoid_spaces",
+    "2756_STUDIES_ON_THE_PINEAL_GLAND_I_EXPERIMENTAL_OBSERVATIONS",
+    "2757_STUDIES_IN_CEREBRAL_FAT_EMBOLISM_WITH_REFERENCE_TO_THE_PATHO",
+    "2758_THE_FULMINATING_TYPE_OF_CEREBROSPINAL_FEVER_PATHOLOGY_AND_CA",
+    "2759_THE_RELATION_OF_CHOKED_DISK_TO_THE_TENSION_OF_THE_EYEBALL_AN",
+    "2760_On_the_postnatal_growth_of_the_body_and_of_the_central_nervo",
+    "2761_OBSERVATIONS_IN_THE_DIAGNOSIS_AND_TREATMENT_OF_BRAIN_INJURIE",
+    "2762_ANOSMIA_AND_SELLAR_DISTENSION_AS_MISLEADING_SIGNS_IN_THE_LOC",
+    "2763_Morphological_and_microchemical_variations_in_mitochondria_i",
+    "2441_The_Galactosides_of_the_Brain_I",
+    "2764_ABNORMAL_RELATION_BETWEEN_LIVER_AND_BRAIN_WEIGHTS_IN_FORTY-T",
+    "2765_EARLY_DEATH_FROM_CEREBRAL_SYPHILIS_WITH_SUCCESSFUL_RABBIT_IN",
+    "2766_The_brain_and_the_frontal_gland_of_the_castes_of_the_White_A"
   ],
   "copied": [
     {
       "source": "E:\\조선대\\연구\\paper-curation\\paper\\awesome-brain-ai\\_folder_source_extract_report.json",
       "target": "E:\\조선대\\연구\\awesome-brain-ai\\data\\paper_curation\\extract_only_report.json",
-      "bytes": 402356
+      "bytes": 415081
     },
     {
       "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\003_Hughlings_Jackson_and_the_Cortical_Motor_Centres_in_the_Ligh\\text.md",
@@ -10934,6 +10954,576 @@
       "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2722_Abstracts\\text.md",
       "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2722_Abstracts\\text.md",
       "bytes": 6680
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2748_TUBERCULOUS_TUMORS_OF_THE_BRAIN_REPORT_OF_A_CASE_AND_BRIEF_S\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2748_TUBERCULOUS_TUMORS_OF_THE_BRAIN_REPORT_OF_A_CASE_AND_BRIEF_S\\text.md",
+      "bytes": 27679
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2748_TUBERCULOUS_TUMORS_OF_THE_BRAIN_REPORT_OF_A_CASE_AND_BRIEF_S\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2748_TUBERCULOUS_TUMORS_OF_THE_BRAIN_REPORT_OF_A_CASE_AND_BRIEF_S\\figures\\fig1.png",
+      "bytes": 423793
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2748_TUBERCULOUS_TUMORS_OF_THE_BRAIN_REPORT_OF_A_CASE_AND_BRIEF_S\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2748_TUBERCULOUS_TUMORS_OF_THE_BRAIN_REPORT_OF_A_CASE_AND_BRIEF_S\\figures\\fig2.png",
+      "bytes": 856547
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2748_TUBERCULOUS_TUMORS_OF_THE_BRAIN_REPORT_OF_A_CASE_AND_BRIEF_S\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2748_TUBERCULOUS_TUMORS_OF_THE_BRAIN_REPORT_OF_A_CASE_AND_BRIEF_S\\figures\\fig3.png",
+      "bytes": 1109997
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2748_TUBERCULOUS_TUMORS_OF_THE_BRAIN_REPORT_OF_A_CASE_AND_BRIEF_S\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2748_TUBERCULOUS_TUMORS_OF_THE_BRAIN_REPORT_OF_A_CASE_AND_BRIEF_S\\figures\\fig4.png",
+      "bytes": 1106184
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2748_TUBERCULOUS_TUMORS_OF_THE_BRAIN_REPORT_OF_A_CASE_AND_BRIEF_S\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2748_TUBERCULOUS_TUMORS_OF_THE_BRAIN_REPORT_OF_A_CASE_AND_BRIEF_S\\text.md",
+      "bytes": 27679
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2748_TUBERCULOUS_TUMORS_OF_THE_BRAIN_REPORT_OF_A_CASE_AND_BRIEF_S\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2748_TUBERCULOUS_TUMORS_OF_THE_BRAIN_REPORT_OF_A_CASE_AND_BRIEF_S\\figures\\fig1.png",
+      "bytes": 423793
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2748_TUBERCULOUS_TUMORS_OF_THE_BRAIN_REPORT_OF_A_CASE_AND_BRIEF_S\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2748_TUBERCULOUS_TUMORS_OF_THE_BRAIN_REPORT_OF_A_CASE_AND_BRIEF_S\\figures\\fig2.png",
+      "bytes": 856547
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2748_TUBERCULOUS_TUMORS_OF_THE_BRAIN_REPORT_OF_A_CASE_AND_BRIEF_S\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2748_TUBERCULOUS_TUMORS_OF_THE_BRAIN_REPORT_OF_A_CASE_AND_BRIEF_S\\figures\\fig3.png",
+      "bytes": 1109997
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2748_TUBERCULOUS_TUMORS_OF_THE_BRAIN_REPORT_OF_A_CASE_AND_BRIEF_S\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2748_TUBERCULOUS_TUMORS_OF_THE_BRAIN_REPORT_OF_A_CASE_AND_BRIEF_S\\figures\\fig4.png",
+      "bytes": 1106184
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2749_A_simple_method_of_brain_dissection\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2749_A_simple_method_of_brain_dissection\\text.md",
+      "bytes": 8542
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2749_A_simple_method_of_brain_dissection\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2749_A_simple_method_of_brain_dissection\\figures\\fig1.png",
+      "bytes": 541238
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2749_A_simple_method_of_brain_dissection\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2749_A_simple_method_of_brain_dissection\\figures\\fig3.png",
+      "bytes": 507880
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2749_A_simple_method_of_brain_dissection\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2749_A_simple_method_of_brain_dissection\\figures\\fig5.png",
+      "bytes": 605416
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2749_A_simple_method_of_brain_dissection\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2749_A_simple_method_of_brain_dissection\\text.md",
+      "bytes": 8542
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2749_A_simple_method_of_brain_dissection\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2749_A_simple_method_of_brain_dissection\\figures\\fig1.png",
+      "bytes": 541238
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2749_A_simple_method_of_brain_dissection\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2749_A_simple_method_of_brain_dissection\\figures\\fig3.png",
+      "bytes": 507880
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2749_A_simple_method_of_brain_dissection\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2749_A_simple_method_of_brain_dissection\\figures\\fig5.png",
+      "bytes": 605416
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2750_Brain_infection_of_otic_origin_with_report_of_five_cases\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2750_Brain_infection_of_otic_origin_with_report_of_five_cases\\text.md",
+      "bytes": 231
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2750_Brain_infection_of_otic_origin_with_report_of_five_cases\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2750_Brain_infection_of_otic_origin_with_report_of_five_cases\\text.md",
+      "bytes": 231
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2751_A_NEW_FAMILIAL_INFANTILE_FORM_OF_DIFFUSE_BRAIN-SCLEROSIS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2751_A_NEW_FAMILIAL_INFANTILE_FORM_OF_DIFFUSE_BRAIN-SCLEROSIS\\text.md",
+      "bytes": 105035
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2751_A_NEW_FAMILIAL_INFANTILE_FORM_OF_DIFFUSE_BRAIN-SCLEROSIS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2751_A_NEW_FAMILIAL_INFANTILE_FORM_OF_DIFFUSE_BRAIN-SCLEROSIS\\text.md",
+      "bytes": 105035
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2752_The_effect_of_hypophysectomy_in_the_early_embryo_upon_the_ro\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2752_The_effect_of_hypophysectomy_in_the_early_embryo_upon_the_ro\\text.md",
+      "bytes": 13820
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2752_The_effect_of_hypophysectomy_in_the_early_embryo_upon_the_ro\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2752_The_effect_of_hypophysectomy_in_the_early_embryo_upon_the_ro\\figures\\fig1.png",
+      "bytes": 522139
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2752_The_effect_of_hypophysectomy_in_the_early_embryo_upon_the_ro\\figures\\fig7.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2752_The_effect_of_hypophysectomy_in_the_early_embryo_upon_the_ro\\figures\\fig7.png",
+      "bytes": 656244
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2752_The_effect_of_hypophysectomy_in_the_early_embryo_upon_the_ro\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2752_The_effect_of_hypophysectomy_in_the_early_embryo_upon_the_ro\\text.md",
+      "bytes": 13820
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2752_The_effect_of_hypophysectomy_in_the_early_embryo_upon_the_ro\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2752_The_effect_of_hypophysectomy_in_the_early_embryo_upon_the_ro\\figures\\fig1.png",
+      "bytes": 522139
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2752_The_effect_of_hypophysectomy_in_the_early_embryo_upon_the_ro\\figures\\fig7.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2752_The_effect_of_hypophysectomy_in_the_early_embryo_upon_the_ro\\figures\\fig7.png",
+      "bytes": 656244
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2753_Regeneration_in_the_brain_of_amblystoma_I_The_regeneration_o\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2753_Regeneration_in_the_brain_of_amblystoma_I_The_regeneration_o\\text.md",
+      "bytes": 14557
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2753_Regeneration_in_the_brain_of_amblystoma_I_The_regeneration_o\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2753_Regeneration_in_the_brain_of_amblystoma_I_The_regeneration_o\\figures\\fig1.png",
+      "bytes": 669557
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2753_Regeneration_in_the_brain_of_amblystoma_I_The_regeneration_o\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2753_Regeneration_in_the_brain_of_amblystoma_I_The_regeneration_o\\figures\\fig3.png",
+      "bytes": 596813
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2753_Regeneration_in_the_brain_of_amblystoma_I_The_regeneration_o\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2753_Regeneration_in_the_brain_of_amblystoma_I_The_regeneration_o\\figures\\fig4.png",
+      "bytes": 761520
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2753_Regeneration_in_the_brain_of_amblystoma_I_The_regeneration_o\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2753_Regeneration_in_the_brain_of_amblystoma_I_The_regeneration_o\\text.md",
+      "bytes": 14557
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2753_Regeneration_in_the_brain_of_amblystoma_I_The_regeneration_o\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2753_Regeneration_in_the_brain_of_amblystoma_I_The_regeneration_o\\figures\\fig1.png",
+      "bytes": 669557
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2753_Regeneration_in_the_brain_of_amblystoma_I_The_regeneration_o\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2753_Regeneration_in_the_brain_of_amblystoma_I_The_regeneration_o\\figures\\fig3.png",
+      "bytes": 596813
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2753_Regeneration_in_the_brain_of_amblystoma_I_The_regeneration_o\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2753_Regeneration_in_the_brain_of_amblystoma_I_The_regeneration_o\\figures\\fig4.png",
+      "bytes": 761520
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2754_Studies_on_cell_division_in_the_albino_rat_Mus_norvegicus_va\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2754_Studies_on_cell_division_in_the_albino_rat_Mus_norvegicus_va\\text.md",
+      "bytes": 45888
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2754_Studies_on_cell_division_in_the_albino_rat_Mus_norvegicus_va\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2754_Studies_on_cell_division_in_the_albino_rat_Mus_norvegicus_va\\figures\\fig1.png",
+      "bytes": 500886
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2754_Studies_on_cell_division_in_the_albino_rat_Mus_norvegicus_va\\figures\\fig15.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2754_Studies_on_cell_division_in_the_albino_rat_Mus_norvegicus_va\\figures\\fig15.png",
+      "bytes": 531322
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2754_Studies_on_cell_division_in_the_albino_rat_Mus_norvegicus_va\\figures\\fig8.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2754_Studies_on_cell_division_in_the_albino_rat_Mus_norvegicus_va\\figures\\fig8.png",
+      "bytes": 461955
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2754_Studies_on_cell_division_in_the_albino_rat_Mus_norvegicus_va\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2754_Studies_on_cell_division_in_the_albino_rat_Mus_norvegicus_va\\text.md",
+      "bytes": 45888
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2754_Studies_on_cell_division_in_the_albino_rat_Mus_norvegicus_va\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2754_Studies_on_cell_division_in_the_albino_rat_Mus_norvegicus_va\\figures\\fig1.png",
+      "bytes": 500886
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2754_Studies_on_cell_division_in_the_albino_rat_Mus_norvegicus_va\\figures\\fig15.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2754_Studies_on_cell_division_in_the_albino_rat_Mus_norvegicus_va\\figures\\fig15.png",
+      "bytes": 531322
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2754_Studies_on_cell_division_in_the_albino_rat_Mus_norvegicus_va\\figures\\fig8.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2754_Studies_on_cell_division_in_the_albino_rat_Mus_norvegicus_va\\figures\\fig8.png",
+      "bytes": 461955
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2755_The_formation_of_the_cranial_subarachnoid_spaces\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2755_The_formation_of_the_cranial_subarachnoid_spaces\\text.md",
+      "bytes": 14672
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2755_The_formation_of_the_cranial_subarachnoid_spaces\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2755_The_formation_of_the_cranial_subarachnoid_spaces\\text.md",
+      "bytes": 14672
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2756_STUDIES_ON_THE_PINEAL_GLAND_I_EXPERIMENTAL_OBSERVATIONS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2756_STUDIES_ON_THE_PINEAL_GLAND_I_EXPERIMENTAL_OBSERVATIONS\\text.md",
+      "bytes": 49042
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2756_STUDIES_ON_THE_PINEAL_GLAND_I_EXPERIMENTAL_OBSERVATIONS\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2756_STUDIES_ON_THE_PINEAL_GLAND_I_EXPERIMENTAL_OBSERVATIONS\\figures\\fig1.png",
+      "bytes": 191178
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2756_STUDIES_ON_THE_PINEAL_GLAND_I_EXPERIMENTAL_OBSERVATIONS\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2756_STUDIES_ON_THE_PINEAL_GLAND_I_EXPERIMENTAL_OBSERVATIONS\\figures\\fig2.png",
+      "bytes": 232188
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2756_STUDIES_ON_THE_PINEAL_GLAND_I_EXPERIMENTAL_OBSERVATIONS\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2756_STUDIES_ON_THE_PINEAL_GLAND_I_EXPERIMENTAL_OBSERVATIONS\\figures\\fig3.png",
+      "bytes": 190561
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2756_STUDIES_ON_THE_PINEAL_GLAND_I_EXPERIMENTAL_OBSERVATIONS\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2756_STUDIES_ON_THE_PINEAL_GLAND_I_EXPERIMENTAL_OBSERVATIONS\\figures\\fig4.png",
+      "bytes": 224344
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2756_STUDIES_ON_THE_PINEAL_GLAND_I_EXPERIMENTAL_OBSERVATIONS\\figures\\fig6.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2756_STUDIES_ON_THE_PINEAL_GLAND_I_EXPERIMENTAL_OBSERVATIONS\\figures\\fig6.png",
+      "bytes": 435111
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2756_STUDIES_ON_THE_PINEAL_GLAND_I_EXPERIMENTAL_OBSERVATIONS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2756_STUDIES_ON_THE_PINEAL_GLAND_I_EXPERIMENTAL_OBSERVATIONS\\text.md",
+      "bytes": 49042
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2756_STUDIES_ON_THE_PINEAL_GLAND_I_EXPERIMENTAL_OBSERVATIONS\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2756_STUDIES_ON_THE_PINEAL_GLAND_I_EXPERIMENTAL_OBSERVATIONS\\figures\\fig1.png",
+      "bytes": 191178
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2756_STUDIES_ON_THE_PINEAL_GLAND_I_EXPERIMENTAL_OBSERVATIONS\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2756_STUDIES_ON_THE_PINEAL_GLAND_I_EXPERIMENTAL_OBSERVATIONS\\figures\\fig2.png",
+      "bytes": 232188
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2756_STUDIES_ON_THE_PINEAL_GLAND_I_EXPERIMENTAL_OBSERVATIONS\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2756_STUDIES_ON_THE_PINEAL_GLAND_I_EXPERIMENTAL_OBSERVATIONS\\figures\\fig3.png",
+      "bytes": 190561
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2756_STUDIES_ON_THE_PINEAL_GLAND_I_EXPERIMENTAL_OBSERVATIONS\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2756_STUDIES_ON_THE_PINEAL_GLAND_I_EXPERIMENTAL_OBSERVATIONS\\figures\\fig4.png",
+      "bytes": 224344
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2756_STUDIES_ON_THE_PINEAL_GLAND_I_EXPERIMENTAL_OBSERVATIONS\\figures\\fig6.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2756_STUDIES_ON_THE_PINEAL_GLAND_I_EXPERIMENTAL_OBSERVATIONS\\figures\\fig6.png",
+      "bytes": 435111
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2757_STUDIES_IN_CEREBRAL_FAT_EMBOLISM_WITH_REFERENCE_TO_THE_PATHO\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2757_STUDIES_IN_CEREBRAL_FAT_EMBOLISM_WITH_REFERENCE_TO_THE_PATHO\\text.md",
+      "bytes": 69736
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2757_STUDIES_IN_CEREBRAL_FAT_EMBOLISM_WITH_REFERENCE_TO_THE_PATHO\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2757_STUDIES_IN_CEREBRAL_FAT_EMBOLISM_WITH_REFERENCE_TO_THE_PATHO\\figures\\fig1.png",
+      "bytes": 305987
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2757_STUDIES_IN_CEREBRAL_FAT_EMBOLISM_WITH_REFERENCE_TO_THE_PATHO\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2757_STUDIES_IN_CEREBRAL_FAT_EMBOLISM_WITH_REFERENCE_TO_THE_PATHO\\figures\\fig2.png",
+      "bytes": 402862
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2757_STUDIES_IN_CEREBRAL_FAT_EMBOLISM_WITH_REFERENCE_TO_THE_PATHO\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2757_STUDIES_IN_CEREBRAL_FAT_EMBOLISM_WITH_REFERENCE_TO_THE_PATHO\\figures\\fig3.png",
+      "bytes": 256000
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2757_STUDIES_IN_CEREBRAL_FAT_EMBOLISM_WITH_REFERENCE_TO_THE_PATHO\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2757_STUDIES_IN_CEREBRAL_FAT_EMBOLISM_WITH_REFERENCE_TO_THE_PATHO\\figures\\fig4.png",
+      "bytes": 292457
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2757_STUDIES_IN_CEREBRAL_FAT_EMBOLISM_WITH_REFERENCE_TO_THE_PATHO\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2757_STUDIES_IN_CEREBRAL_FAT_EMBOLISM_WITH_REFERENCE_TO_THE_PATHO\\figures\\fig5.png",
+      "bytes": 697972
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2757_STUDIES_IN_CEREBRAL_FAT_EMBOLISM_WITH_REFERENCE_TO_THE_PATHO\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2757_STUDIES_IN_CEREBRAL_FAT_EMBOLISM_WITH_REFERENCE_TO_THE_PATHO\\text.md",
+      "bytes": 69736
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2757_STUDIES_IN_CEREBRAL_FAT_EMBOLISM_WITH_REFERENCE_TO_THE_PATHO\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2757_STUDIES_IN_CEREBRAL_FAT_EMBOLISM_WITH_REFERENCE_TO_THE_PATHO\\figures\\fig1.png",
+      "bytes": 305987
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2757_STUDIES_IN_CEREBRAL_FAT_EMBOLISM_WITH_REFERENCE_TO_THE_PATHO\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2757_STUDIES_IN_CEREBRAL_FAT_EMBOLISM_WITH_REFERENCE_TO_THE_PATHO\\figures\\fig2.png",
+      "bytes": 402862
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2757_STUDIES_IN_CEREBRAL_FAT_EMBOLISM_WITH_REFERENCE_TO_THE_PATHO\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2757_STUDIES_IN_CEREBRAL_FAT_EMBOLISM_WITH_REFERENCE_TO_THE_PATHO\\figures\\fig3.png",
+      "bytes": 256000
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2757_STUDIES_IN_CEREBRAL_FAT_EMBOLISM_WITH_REFERENCE_TO_THE_PATHO\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2757_STUDIES_IN_CEREBRAL_FAT_EMBOLISM_WITH_REFERENCE_TO_THE_PATHO\\figures\\fig4.png",
+      "bytes": 292457
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2757_STUDIES_IN_CEREBRAL_FAT_EMBOLISM_WITH_REFERENCE_TO_THE_PATHO\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2757_STUDIES_IN_CEREBRAL_FAT_EMBOLISM_WITH_REFERENCE_TO_THE_PATHO\\figures\\fig5.png",
+      "bytes": 697972
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2758_THE_FULMINATING_TYPE_OF_CEREBROSPINAL_FEVER_PATHOLOGY_AND_CA\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2758_THE_FULMINATING_TYPE_OF_CEREBROSPINAL_FEVER_PATHOLOGY_AND_CA\\text.md",
+      "bytes": 8563
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2758_THE_FULMINATING_TYPE_OF_CEREBROSPINAL_FEVER_PATHOLOGY_AND_CA\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2758_THE_FULMINATING_TYPE_OF_CEREBROSPINAL_FEVER_PATHOLOGY_AND_CA\\text.md",
+      "bytes": 8563
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2759_THE_RELATION_OF_CHOKED_DISK_TO_THE_TENSION_OF_THE_EYEBALL_AN\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2759_THE_RELATION_OF_CHOKED_DISK_TO_THE_TENSION_OF_THE_EYEBALL_AN\\text.md",
+      "bytes": 31750
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2759_THE_RELATION_OF_CHOKED_DISK_TO_THE_TENSION_OF_THE_EYEBALL_AN\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2759_THE_RELATION_OF_CHOKED_DISK_TO_THE_TENSION_OF_THE_EYEBALL_AN\\figures\\fig1.png",
+      "bytes": 645511
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2759_THE_RELATION_OF_CHOKED_DISK_TO_THE_TENSION_OF_THE_EYEBALL_AN\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2759_THE_RELATION_OF_CHOKED_DISK_TO_THE_TENSION_OF_THE_EYEBALL_AN\\figures\\fig2.png",
+      "bytes": 691701
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2759_THE_RELATION_OF_CHOKED_DISK_TO_THE_TENSION_OF_THE_EYEBALL_AN\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2759_THE_RELATION_OF_CHOKED_DISK_TO_THE_TENSION_OF_THE_EYEBALL_AN\\figures\\fig4.png",
+      "bytes": 1906905
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2759_THE_RELATION_OF_CHOKED_DISK_TO_THE_TENSION_OF_THE_EYEBALL_AN\\figures\\fig6.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2759_THE_RELATION_OF_CHOKED_DISK_TO_THE_TENSION_OF_THE_EYEBALL_AN\\figures\\fig6.png",
+      "bytes": 1934394
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2759_THE_RELATION_OF_CHOKED_DISK_TO_THE_TENSION_OF_THE_EYEBALL_AN\\figures\\fig8.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2759_THE_RELATION_OF_CHOKED_DISK_TO_THE_TENSION_OF_THE_EYEBALL_AN\\figures\\fig8.png",
+      "bytes": 686807
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2759_THE_RELATION_OF_CHOKED_DISK_TO_THE_TENSION_OF_THE_EYEBALL_AN\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2759_THE_RELATION_OF_CHOKED_DISK_TO_THE_TENSION_OF_THE_EYEBALL_AN\\text.md",
+      "bytes": 31750
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2759_THE_RELATION_OF_CHOKED_DISK_TO_THE_TENSION_OF_THE_EYEBALL_AN\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2759_THE_RELATION_OF_CHOKED_DISK_TO_THE_TENSION_OF_THE_EYEBALL_AN\\figures\\fig1.png",
+      "bytes": 645511
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2759_THE_RELATION_OF_CHOKED_DISK_TO_THE_TENSION_OF_THE_EYEBALL_AN\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2759_THE_RELATION_OF_CHOKED_DISK_TO_THE_TENSION_OF_THE_EYEBALL_AN\\figures\\fig2.png",
+      "bytes": 691701
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2759_THE_RELATION_OF_CHOKED_DISK_TO_THE_TENSION_OF_THE_EYEBALL_AN\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2759_THE_RELATION_OF_CHOKED_DISK_TO_THE_TENSION_OF_THE_EYEBALL_AN\\figures\\fig4.png",
+      "bytes": 1906905
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2759_THE_RELATION_OF_CHOKED_DISK_TO_THE_TENSION_OF_THE_EYEBALL_AN\\figures\\fig6.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2759_THE_RELATION_OF_CHOKED_DISK_TO_THE_TENSION_OF_THE_EYEBALL_AN\\figures\\fig6.png",
+      "bytes": 1934394
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2759_THE_RELATION_OF_CHOKED_DISK_TO_THE_TENSION_OF_THE_EYEBALL_AN\\figures\\fig8.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2759_THE_RELATION_OF_CHOKED_DISK_TO_THE_TENSION_OF_THE_EYEBALL_AN\\figures\\fig8.png",
+      "bytes": 686807
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2760_On_the_postnatal_growth_of_the_body_and_of_the_central_nervo\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2760_On_the_postnatal_growth_of_the_body_and_of_the_central_nervo\\text.md",
+      "bytes": 23605
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2760_On_the_postnatal_growth_of_the_body_and_of_the_central_nervo\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2760_On_the_postnatal_growth_of_the_body_and_of_the_central_nervo\\text.md",
+      "bytes": 23605
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2761_OBSERVATIONS_IN_THE_DIAGNOSIS_AND_TREATMENT_OF_BRAIN_INJURIE\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2761_OBSERVATIONS_IN_THE_DIAGNOSIS_AND_TREATMENT_OF_BRAIN_INJURIE\\text.md",
+      "bytes": 34704
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2761_OBSERVATIONS_IN_THE_DIAGNOSIS_AND_TREATMENT_OF_BRAIN_INJURIE\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2761_OBSERVATIONS_IN_THE_DIAGNOSIS_AND_TREATMENT_OF_BRAIN_INJURIE\\text.md",
+      "bytes": 34704
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2762_ANOSMIA_AND_SELLAR_DISTENSION_AS_MISLEADING_SIGNS_IN_THE_LOC\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2762_ANOSMIA_AND_SELLAR_DISTENSION_AS_MISLEADING_SIGNS_IN_THE_LOC\\text.md",
+      "bytes": 261
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2762_ANOSMIA_AND_SELLAR_DISTENSION_AS_MISLEADING_SIGNS_IN_THE_LOC\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2762_ANOSMIA_AND_SELLAR_DISTENSION_AS_MISLEADING_SIGNS_IN_THE_LOC\\text.md",
+      "bytes": 261
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2763_Morphological_and_microchemical_variations_in_mitochondria_i\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2763_Morphological_and_microchemical_variations_in_mitochondria_i\\text.md",
+      "bytes": 38926
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2763_Morphological_and_microchemical_variations_in_mitochondria_i\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2763_Morphological_and_microchemical_variations_in_mitochondria_i\\figures\\fig1.png",
+      "bytes": 514331
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2763_Morphological_and_microchemical_variations_in_mitochondria_i\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2763_Morphological_and_microchemical_variations_in_mitochondria_i\\text.md",
+      "bytes": 38926
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2763_Morphological_and_microchemical_variations_in_mitochondria_i\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2763_Morphological_and_microchemical_variations_in_mitochondria_i\\figures\\fig1.png",
+      "bytes": 514331
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2441_The_Galactosides_of_the_Brain_I\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2441_The_Galactosides_of_the_Brain_I\\text.md",
+      "bytes": 18722
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2441_The_Galactosides_of_the_Brain_I\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2441_The_Galactosides_of_the_Brain_I\\figures\\fig1.png",
+      "bytes": 933533
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2441_The_Galactosides_of_the_Brain_I\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2441_The_Galactosides_of_the_Brain_I\\text.md",
+      "bytes": 18722
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2441_The_Galactosides_of_the_Brain_I\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2441_The_Galactosides_of_the_Brain_I\\figures\\fig1.png",
+      "bytes": 933533
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2764_ABNORMAL_RELATION_BETWEEN_LIVER_AND_BRAIN_WEIGHTS_IN_FORTY-T\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2764_ABNORMAL_RELATION_BETWEEN_LIVER_AND_BRAIN_WEIGHTS_IN_FORTY-T\\text.md",
+      "bytes": 84
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2764_ABNORMAL_RELATION_BETWEEN_LIVER_AND_BRAIN_WEIGHTS_IN_FORTY-T\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2764_ABNORMAL_RELATION_BETWEEN_LIVER_AND_BRAIN_WEIGHTS_IN_FORTY-T\\text.md",
+      "bytes": 84
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2765_EARLY_DEATH_FROM_CEREBRAL_SYPHILIS_WITH_SUCCESSFUL_RABBIT_IN\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2765_EARLY_DEATH_FROM_CEREBRAL_SYPHILIS_WITH_SUCCESSFUL_RABBIT_IN\\text.md",
+      "bytes": 11250
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2765_EARLY_DEATH_FROM_CEREBRAL_SYPHILIS_WITH_SUCCESSFUL_RABBIT_IN\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2765_EARLY_DEATH_FROM_CEREBRAL_SYPHILIS_WITH_SUCCESSFUL_RABBIT_IN\\text.md",
+      "bytes": 11250
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2766_The_brain_and_the_frontal_gland_of_the_castes_of_the_White_A\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2766_The_brain_and_the_frontal_gland_of_the_castes_of_the_White_A\\text.md",
+      "bytes": 88092
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2766_The_brain_and_the_frontal_gland_of_the_castes_of_the_White_A\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2766_The_brain_and_the_frontal_gland_of_the_castes_of_the_White_A\\figures\\fig1.png",
+      "bytes": 399174
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2766_The_brain_and_the_frontal_gland_of_the_castes_of_the_White_A\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2766_The_brain_and_the_frontal_gland_of_the_castes_of_the_White_A\\figures\\fig2.png",
+      "bytes": 386144
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2766_The_brain_and_the_frontal_gland_of_the_castes_of_the_White_A\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2766_The_brain_and_the_frontal_gland_of_the_castes_of_the_White_A\\figures\\fig3.png",
+      "bytes": 404157
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2766_The_brain_and_the_frontal_gland_of_the_castes_of_the_White_A\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2766_The_brain_and_the_frontal_gland_of_the_castes_of_the_White_A\\figures\\fig4.png",
+      "bytes": 425778
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2766_The_brain_and_the_frontal_gland_of_the_castes_of_the_White_A\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2766_The_brain_and_the_frontal_gland_of_the_castes_of_the_White_A\\figures\\fig5.png",
+      "bytes": 440804
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2766_The_brain_and_the_frontal_gland_of_the_castes_of_the_White_A\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2766_The_brain_and_the_frontal_gland_of_the_castes_of_the_White_A\\text.md",
+      "bytes": 88092
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2766_The_brain_and_the_frontal_gland_of_the_castes_of_the_White_A\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2766_The_brain_and_the_frontal_gland_of_the_castes_of_the_White_A\\figures\\fig1.png",
+      "bytes": 399174
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2766_The_brain_and_the_frontal_gland_of_the_castes_of_the_White_A\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2766_The_brain_and_the_frontal_gland_of_the_castes_of_the_White_A\\figures\\fig2.png",
+      "bytes": 386144
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2766_The_brain_and_the_frontal_gland_of_the_castes_of_the_White_A\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2766_The_brain_and_the_frontal_gland_of_the_castes_of_the_White_A\\figures\\fig3.png",
+      "bytes": 404157
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2766_The_brain_and_the_frontal_gland_of_the_castes_of_the_White_A\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2766_The_brain_and_the_frontal_gland_of_the_castes_of_the_White_A\\figures\\fig4.png",
+      "bytes": 425778
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2766_The_brain_and_the_frontal_gland_of_the_castes_of_the_White_A\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2766_The_brain_and_the_frontal_gland_of_the_castes_of_the_White_A\\figures\\fig5.png",
+      "bytes": 440804
     }
   ],
   "missing": [],

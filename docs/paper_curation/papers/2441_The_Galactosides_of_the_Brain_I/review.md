@@ -1,7 +1,7 @@
-# The Galactosides of the Brain. III. Liquid Crystals and the Melting Point of Phrenosin.
+# The Galactosides of the Brain IV. The Constitution of Phrenosin and Kerasin.
 
 ## Essence
-이 논문은 `HDBSCAN Cluster: phrenosin, brain, thudichum, its` 범주에서 중요한 근거 문헌로 분류된다. Codex는 추출된 PDF 본문과 제목을 함께 읽고, 핵심 주제를 `phrenosin, brain, thudichum, its, galactosides, constitution` 중심으로 요약했다. 현재 리뷰는 외부 Claude/Gemini API가 아니라 Codex-native 검토 경로에서 생성되었다.
+이 논문은 `HDBSCAN Cluster: phrenosin, brain, thudichum, its` 범주에서 중요한 근거 문헌로 분류된다. Codex는 추출된 PDF 본문과 제목을 함께 읽고, 핵심 주제를 `phrenosin, brain, constitution, thudichum, its, galactosides` 중심으로 요약했다. 현재 리뷰는 외부 Claude/Gemini API가 아니라 Codex-native 검토 경로에서 생성되었다.
 
 ## Motivation
 연구의 동기는 해당 분야에서 반복적으로 등장하는 문제, 즉 기존 방법의 한계와 더 안정적인 설명 또는 계산 절차의 필요성에 있다. 제목과 본문 단서는 이 논문이 후속 연구에서 재사용될 수 있는 개념적 기준점을 제공한다는 점을 보여준다.
