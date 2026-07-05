@@ -1,12 +1,12 @@
 {
-  "generated": "2026-07-05T08:33:38.450688+00:00",
+  "generated": "2026-07-05T09:02:04.116922+00:00",
   "mode": "extract-only",
   "paperCurationDir": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect",
   "awesomeRepo": "E:\\조선대\\연구\\awesome-brain-ai",
   "extractReport": "data/paper_curation/extract_only_report.json",
   "docsDir": "docs/paper_curation/extract_only",
   "paperDir": "paper/extract_only",
-  "recordCount": 760,
+  "recordCount": 780,
   "syncedPaperSlugs": [
     "003_Hughlings_Jackson_and_the_Cortical_Motor_Centres_in_the_Ligh",
     "015_EXPERIMENTAL_AND_CLINICAL_NOTES_ON_THE_SUBARACHNOID_SPACE",
@@ -767,13 +767,33 @@
     "2847_Comparative_studies_on_the_growth_of_the_cerebral_cortex_I_O",
     "2943_ON_THE_EVOLUTION_OF_THE_NEUROGLIA_AND_SPECIALLY_THEIR_RELATI",
     "2944_HEAT_STROKE_WITH_A_SECOND_STUDY_OF_CEREBRAL_EDEMA",
-    "2945_A_contribution_to_the_study_of_the_pathways_of_the_cerebrosp"
+    "2945_A_contribution_to_the_study_of_the_pathways_of_the_cerebrosp",
+    "2972_PERMEABILITY_OF_THE_MENINGES_TO_ARSENIC_IN_PARESIS_AND_TABES",
+    "2973_THE_NATURE_AND_INTERPRETATION_OF_THE_COLLOIDAL_GOLD_REACTION",
+    "2974_A_Study_of_the_Mechanism_of_the_Agglutination_and_Absorption",
+    "2975_The_toxic_action_of_nitrobenzene_with_special_reference_to_t",
+    "2976_The_rôle_of_afferent_impulses_in_the_control_of_respiratory",
+    "2977_REMOVAL_OF_BRAIN_TUMOR_REPORT_OF_A_CASE_IN_WHICH_THE_PATIENT",
+    "2978_A_METHOD_OF_ESTIMATING_THE_VIBRATORY_SENSATION_WITH_SOME_NOT",
+    "2979_THE_HYDROCEPHALUS_OF_POLIOMYELITIS",
+    "2980_EPIDEMIC_POLIOENCEPHALITIS",
+    "2981_Report_of_two_cases",
+    "2443_Epidemic_Cerebrospinal_Meningitis",
+    "2982_SEROLOGIC_LOCALIZATION_OF_ORGANIC_BRAIN_LESIONS",
+    "2983_INTRATRACHEAL_ANESTHETIC_MACHINE",
+    "2984_NEUROSYPHILIS_ITS_DIAGNOSIS_AND_ECONOMIC_IMPORTANCE",
+    "2985_Remarks_on_von_Monakows_Die_Lokalisation_im_Grosshirn",
+    "2986_OSTEOMA_OF_THE_FRONTAL_SINUS",
+    "2987_Metabolic_activity_of_the_nervous_system_II_The_partition_of",
+    "2988_NOTE_ON_THE_EXTRACTION_OF_A_FOREIGN_BODY_FROM_THE_BRAIN",
+    "2989_Why_are_the_cerebral_motor_and_sensory_cortical_areas_arrang",
+    "2990_XXV_A_Case_of_Otogenous_Temporal_Abscess_with_Hemiplegia_Fac"
   ],
   "copied": [
     {
       "source": "E:\\조선대\\연구\\paper-curation\\paper\\awesome-brain-ai\\_folder_source_extract_report.json",
       "target": "E:\\조선대\\연구\\awesome-brain-ai\\data\\paper_curation\\extract_only_report.json",
-      "bytes": 464572
+      "bytes": 476707
     },
     {
       "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\003_Hughlings_Jackson_and_the_Cortical_Motor_Centres_in_the_Ligh\\text.md",
@@ -13134,6 +13154,336 @@
       "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2945_A_contribution_to_the_study_of_the_pathways_of_the_cerebrosp\\figures\\fig1.png",
       "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2945_A_contribution_to_the_study_of_the_pathways_of_the_cerebrosp\\figures\\fig1.png",
       "bytes": 403225
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2972_PERMEABILITY_OF_THE_MENINGES_TO_ARSENIC_IN_PARESIS_AND_TABES\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2972_PERMEABILITY_OF_THE_MENINGES_TO_ARSENIC_IN_PARESIS_AND_TABES\\text.md",
+      "bytes": 14752
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2972_PERMEABILITY_OF_THE_MENINGES_TO_ARSENIC_IN_PARESIS_AND_TABES\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2972_PERMEABILITY_OF_THE_MENINGES_TO_ARSENIC_IN_PARESIS_AND_TABES\\text.md",
+      "bytes": 14752
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2973_THE_NATURE_AND_INTERPRETATION_OF_THE_COLLOIDAL_GOLD_REACTION\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2973_THE_NATURE_AND_INTERPRETATION_OF_THE_COLLOIDAL_GOLD_REACTION\\text.md",
+      "bytes": 53362
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2973_THE_NATURE_AND_INTERPRETATION_OF_THE_COLLOIDAL_GOLD_REACTION\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2973_THE_NATURE_AND_INTERPRETATION_OF_THE_COLLOIDAL_GOLD_REACTION\\text.md",
+      "bytes": 53362
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2974_A_Study_of_the_Mechanism_of_the_Agglutination_and_Absorption\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2974_A_Study_of_the_Mechanism_of_the_Agglutination_and_Absorption\\text.md",
+      "bytes": 80963
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2974_A_Study_of_the_Mechanism_of_the_Agglutination_and_Absorption\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2974_A_Study_of_the_Mechanism_of_the_Agglutination_and_Absorption\\text.md",
+      "bytes": 80963
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2975_The_toxic_action_of_nitrobenzene_with_special_reference_to_t\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2975_The_toxic_action_of_nitrobenzene_with_special_reference_to_t\\text.md",
+      "bytes": 4101
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2975_The_toxic_action_of_nitrobenzene_with_special_reference_to_t\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2975_The_toxic_action_of_nitrobenzene_with_special_reference_to_t\\text.md",
+      "bytes": 4101
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2976_The_rôle_of_afferent_impulses_in_the_control_of_respiratory\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2976_The_rôle_of_afferent_impulses_in_the_control_of_respiratory\\text.md",
+      "bytes": 3835
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2976_The_rôle_of_afferent_impulses_in_the_control_of_respiratory\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2976_The_rôle_of_afferent_impulses_in_the_control_of_respiratory\\text.md",
+      "bytes": 3835
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2977_REMOVAL_OF_BRAIN_TUMOR_REPORT_OF_A_CASE_IN_WHICH_THE_PATIENT\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2977_REMOVAL_OF_BRAIN_TUMOR_REPORT_OF_A_CASE_IN_WHICH_THE_PATIENT\\text.md",
+      "bytes": 30949
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2977_REMOVAL_OF_BRAIN_TUMOR_REPORT_OF_A_CASE_IN_WHICH_THE_PATIENT\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2977_REMOVAL_OF_BRAIN_TUMOR_REPORT_OF_A_CASE_IN_WHICH_THE_PATIENT\\figures\\fig2.png",
+      "bytes": 945405
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2977_REMOVAL_OF_BRAIN_TUMOR_REPORT_OF_A_CASE_IN_WHICH_THE_PATIENT\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2977_REMOVAL_OF_BRAIN_TUMOR_REPORT_OF_A_CASE_IN_WHICH_THE_PATIENT\\figures\\fig3.png",
+      "bytes": 539975
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2977_REMOVAL_OF_BRAIN_TUMOR_REPORT_OF_A_CASE_IN_WHICH_THE_PATIENT\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2977_REMOVAL_OF_BRAIN_TUMOR_REPORT_OF_A_CASE_IN_WHICH_THE_PATIENT\\figures\\fig4.png",
+      "bytes": 482269
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2977_REMOVAL_OF_BRAIN_TUMOR_REPORT_OF_A_CASE_IN_WHICH_THE_PATIENT\\figures\\fig6.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2977_REMOVAL_OF_BRAIN_TUMOR_REPORT_OF_A_CASE_IN_WHICH_THE_PATIENT\\figures\\fig6.png",
+      "bytes": 1217305
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2977_REMOVAL_OF_BRAIN_TUMOR_REPORT_OF_A_CASE_IN_WHICH_THE_PATIENT\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2977_REMOVAL_OF_BRAIN_TUMOR_REPORT_OF_A_CASE_IN_WHICH_THE_PATIENT\\text.md",
+      "bytes": 30949
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2977_REMOVAL_OF_BRAIN_TUMOR_REPORT_OF_A_CASE_IN_WHICH_THE_PATIENT\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2977_REMOVAL_OF_BRAIN_TUMOR_REPORT_OF_A_CASE_IN_WHICH_THE_PATIENT\\figures\\fig2.png",
+      "bytes": 945405
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2977_REMOVAL_OF_BRAIN_TUMOR_REPORT_OF_A_CASE_IN_WHICH_THE_PATIENT\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2977_REMOVAL_OF_BRAIN_TUMOR_REPORT_OF_A_CASE_IN_WHICH_THE_PATIENT\\figures\\fig3.png",
+      "bytes": 539975
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2977_REMOVAL_OF_BRAIN_TUMOR_REPORT_OF_A_CASE_IN_WHICH_THE_PATIENT\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2977_REMOVAL_OF_BRAIN_TUMOR_REPORT_OF_A_CASE_IN_WHICH_THE_PATIENT\\figures\\fig4.png",
+      "bytes": 482269
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2977_REMOVAL_OF_BRAIN_TUMOR_REPORT_OF_A_CASE_IN_WHICH_THE_PATIENT\\figures\\fig6.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2977_REMOVAL_OF_BRAIN_TUMOR_REPORT_OF_A_CASE_IN_WHICH_THE_PATIENT\\figures\\fig6.png",
+      "bytes": 1217305
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2978_A_METHOD_OF_ESTIMATING_THE_VIBRATORY_SENSATION_WITH_SOME_NOT\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2978_A_METHOD_OF_ESTIMATING_THE_VIBRATORY_SENSATION_WITH_SOME_NOT\\text.md",
+      "bytes": 11266
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2978_A_METHOD_OF_ESTIMATING_THE_VIBRATORY_SENSATION_WITH_SOME_NOT\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2978_A_METHOD_OF_ESTIMATING_THE_VIBRATORY_SENSATION_WITH_SOME_NOT\\figures\\fig1.png",
+      "bytes": 1573005
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2978_A_METHOD_OF_ESTIMATING_THE_VIBRATORY_SENSATION_WITH_SOME_NOT\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2978_A_METHOD_OF_ESTIMATING_THE_VIBRATORY_SENSATION_WITH_SOME_NOT\\figures\\fig3.png",
+      "bytes": 1372282
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2978_A_METHOD_OF_ESTIMATING_THE_VIBRATORY_SENSATION_WITH_SOME_NOT\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2978_A_METHOD_OF_ESTIMATING_THE_VIBRATORY_SENSATION_WITH_SOME_NOT\\text.md",
+      "bytes": 11266
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2978_A_METHOD_OF_ESTIMATING_THE_VIBRATORY_SENSATION_WITH_SOME_NOT\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2978_A_METHOD_OF_ESTIMATING_THE_VIBRATORY_SENSATION_WITH_SOME_NOT\\figures\\fig1.png",
+      "bytes": 1573005
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2978_A_METHOD_OF_ESTIMATING_THE_VIBRATORY_SENSATION_WITH_SOME_NOT\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2978_A_METHOD_OF_ESTIMATING_THE_VIBRATORY_SENSATION_WITH_SOME_NOT\\figures\\fig3.png",
+      "bytes": 1372282
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2979_THE_HYDROCEPHALUS_OF_POLIOMYELITIS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2979_THE_HYDROCEPHALUS_OF_POLIOMYELITIS\\text.md",
+      "bytes": 37977
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2979_THE_HYDROCEPHALUS_OF_POLIOMYELITIS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2979_THE_HYDROCEPHALUS_OF_POLIOMYELITIS\\text.md",
+      "bytes": 37977
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2980_EPIDEMIC_POLIOENCEPHALITIS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2980_EPIDEMIC_POLIOENCEPHALITIS\\text.md",
+      "bytes": 26121
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2980_EPIDEMIC_POLIOENCEPHALITIS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2980_EPIDEMIC_POLIOENCEPHALITIS\\text.md",
+      "bytes": 26121
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2981_Report_of_two_cases\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2981_Report_of_two_cases\\text.md",
+      "bytes": 6006
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2981_Report_of_two_cases\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2981_Report_of_two_cases\\text.md",
+      "bytes": 6006
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2443_Epidemic_Cerebrospinal_Meningitis\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2443_Epidemic_Cerebrospinal_Meningitis\\text.md",
+      "bytes": 1305
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2443_Epidemic_Cerebrospinal_Meningitis\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2443_Epidemic_Cerebrospinal_Meningitis\\text.md",
+      "bytes": 1305
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2982_SEROLOGIC_LOCALIZATION_OF_ORGANIC_BRAIN_LESIONS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2982_SEROLOGIC_LOCALIZATION_OF_ORGANIC_BRAIN_LESIONS\\text.md",
+      "bytes": 34526
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2982_SEROLOGIC_LOCALIZATION_OF_ORGANIC_BRAIN_LESIONS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2982_SEROLOGIC_LOCALIZATION_OF_ORGANIC_BRAIN_LESIONS\\text.md",
+      "bytes": 34526
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2983_INTRATRACHEAL_ANESTHETIC_MACHINE\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2983_INTRATRACHEAL_ANESTHETIC_MACHINE\\text.md",
+      "bytes": 10475
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2983_INTRATRACHEAL_ANESTHETIC_MACHINE\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2983_INTRATRACHEAL_ANESTHETIC_MACHINE\\figures\\fig2.png",
+      "bytes": 472960
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2983_INTRATRACHEAL_ANESTHETIC_MACHINE\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2983_INTRATRACHEAL_ANESTHETIC_MACHINE\\figures\\fig3.png",
+      "bytes": 491017
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2983_INTRATRACHEAL_ANESTHETIC_MACHINE\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2983_INTRATRACHEAL_ANESTHETIC_MACHINE\\text.md",
+      "bytes": 10475
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2983_INTRATRACHEAL_ANESTHETIC_MACHINE\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2983_INTRATRACHEAL_ANESTHETIC_MACHINE\\figures\\fig2.png",
+      "bytes": 472960
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2983_INTRATRACHEAL_ANESTHETIC_MACHINE\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2983_INTRATRACHEAL_ANESTHETIC_MACHINE\\figures\\fig3.png",
+      "bytes": 491017
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2984_NEUROSYPHILIS_ITS_DIAGNOSIS_AND_ECONOMIC_IMPORTANCE\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2984_NEUROSYPHILIS_ITS_DIAGNOSIS_AND_ECONOMIC_IMPORTANCE\\text.md",
+      "bytes": 44125
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2984_NEUROSYPHILIS_ITS_DIAGNOSIS_AND_ECONOMIC_IMPORTANCE\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2984_NEUROSYPHILIS_ITS_DIAGNOSIS_AND_ECONOMIC_IMPORTANCE\\text.md",
+      "bytes": 44125
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2985_Remarks_on_von_Monakows_Die_Lokalisation_im_Grosshirn\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2985_Remarks_on_von_Monakows_Die_Lokalisation_im_Grosshirn\\text.md",
+      "bytes": 58425
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2985_Remarks_on_von_Monakows_Die_Lokalisation_im_Grosshirn\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2985_Remarks_on_von_Monakows_Die_Lokalisation_im_Grosshirn\\text.md",
+      "bytes": 58425
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2986_OSTEOMA_OF_THE_FRONTAL_SINUS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2986_OSTEOMA_OF_THE_FRONTAL_SINUS\\text.md",
+      "bytes": 5399
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2986_OSTEOMA_OF_THE_FRONTAL_SINUS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2986_OSTEOMA_OF_THE_FRONTAL_SINUS\\text.md",
+      "bytes": 5399
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2987_Metabolic_activity_of_the_nervous_system_II_The_partition_of\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2987_Metabolic_activity_of_the_nervous_system_II_The_partition_of\\text.md",
+      "bytes": 37785
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2987_Metabolic_activity_of_the_nervous_system_II_The_partition_of\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2987_Metabolic_activity_of_the_nervous_system_II_The_partition_of\\text.md",
+      "bytes": 37785
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2988_NOTE_ON_THE_EXTRACTION_OF_A_FOREIGN_BODY_FROM_THE_BRAIN\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2988_NOTE_ON_THE_EXTRACTION_OF_A_FOREIGN_BODY_FROM_THE_BRAIN\\text.md",
+      "bytes": 22890
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2988_NOTE_ON_THE_EXTRACTION_OF_A_FOREIGN_BODY_FROM_THE_BRAIN\\figures\\fig14.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2988_NOTE_ON_THE_EXTRACTION_OF_A_FOREIGN_BODY_FROM_THE_BRAIN\\figures\\fig14.png",
+      "bytes": 1714613
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2988_NOTE_ON_THE_EXTRACTION_OF_A_FOREIGN_BODY_FROM_THE_BRAIN\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2988_NOTE_ON_THE_EXTRACTION_OF_A_FOREIGN_BODY_FROM_THE_BRAIN\\figures\\fig2.png",
+      "bytes": 2077576
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2988_NOTE_ON_THE_EXTRACTION_OF_A_FOREIGN_BODY_FROM_THE_BRAIN\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2988_NOTE_ON_THE_EXTRACTION_OF_A_FOREIGN_BODY_FROM_THE_BRAIN\\figures\\fig3.png",
+      "bytes": 1751327
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2988_NOTE_ON_THE_EXTRACTION_OF_A_FOREIGN_BODY_FROM_THE_BRAIN\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2988_NOTE_ON_THE_EXTRACTION_OF_A_FOREIGN_BODY_FROM_THE_BRAIN\\text.md",
+      "bytes": 22890
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2988_NOTE_ON_THE_EXTRACTION_OF_A_FOREIGN_BODY_FROM_THE_BRAIN\\figures\\fig14.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2988_NOTE_ON_THE_EXTRACTION_OF_A_FOREIGN_BODY_FROM_THE_BRAIN\\figures\\fig14.png",
+      "bytes": 1714613
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2988_NOTE_ON_THE_EXTRACTION_OF_A_FOREIGN_BODY_FROM_THE_BRAIN\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2988_NOTE_ON_THE_EXTRACTION_OF_A_FOREIGN_BODY_FROM_THE_BRAIN\\figures\\fig2.png",
+      "bytes": 2077576
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2988_NOTE_ON_THE_EXTRACTION_OF_A_FOREIGN_BODY_FROM_THE_BRAIN\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2988_NOTE_ON_THE_EXTRACTION_OF_A_FOREIGN_BODY_FROM_THE_BRAIN\\figures\\fig3.png",
+      "bytes": 1751327
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2989_Why_are_the_cerebral_motor_and_sensory_cortical_areas_arrang\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2989_Why_are_the_cerebral_motor_and_sensory_cortical_areas_arrang\\text.md",
+      "bytes": 11356
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2989_Why_are_the_cerebral_motor_and_sensory_cortical_areas_arrang\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2989_Why_are_the_cerebral_motor_and_sensory_cortical_areas_arrang\\figures\\fig1.png",
+      "bytes": 403088
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2989_Why_are_the_cerebral_motor_and_sensory_cortical_areas_arrang\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2989_Why_are_the_cerebral_motor_and_sensory_cortical_areas_arrang\\figures\\fig3.png",
+      "bytes": 492652
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2989_Why_are_the_cerebral_motor_and_sensory_cortical_areas_arrang\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2989_Why_are_the_cerebral_motor_and_sensory_cortical_areas_arrang\\text.md",
+      "bytes": 11356
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2989_Why_are_the_cerebral_motor_and_sensory_cortical_areas_arrang\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2989_Why_are_the_cerebral_motor_and_sensory_cortical_areas_arrang\\figures\\fig1.png",
+      "bytes": 403088
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2989_Why_are_the_cerebral_motor_and_sensory_cortical_areas_arrang\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2989_Why_are_the_cerebral_motor_and_sensory_cortical_areas_arrang\\figures\\fig3.png",
+      "bytes": 492652
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2990_XXV_A_Case_of_Otogenous_Temporal_Abscess_with_Hemiplegia_Fac\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2990_XXV_A_Case_of_Otogenous_Temporal_Abscess_with_Hemiplegia_Fac\\text.md",
+      "bytes": 10013
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2990_XXV_A_Case_of_Otogenous_Temporal_Abscess_with_Hemiplegia_Fac\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2990_XXV_A_Case_of_Otogenous_Temporal_Abscess_with_Hemiplegia_Fac\\text.md",
+      "bytes": 10013
     }
   ],
   "missing": [],
