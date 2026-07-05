@@ -1,12 +1,12 @@
 {
-  "generated": "2026-07-05T07:16:25.888320+00:00",
+  "generated": "2026-07-05T07:40:21.227312+00:00",
   "mode": "extract-only",
   "paperCurationDir": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect",
   "awesomeRepo": "E:\\조선대\\연구\\awesome-brain-ai",
   "extractReport": "data/paper_curation/extract_only_report.json",
   "docsDir": "docs/paper_curation/extract_only",
   "paperDir": "paper/extract_only",
-  "recordCount": 700,
+  "recordCount": 720,
   "syncedPaperSlugs": [
     "003_Hughlings_Jackson_and_the_Cortical_Motor_Centres_in_the_Ligh",
     "015_EXPERIMENTAL_AND_CLINICAL_NOTES_ON_THE_SUBARACHNOID_SPACE",
@@ -707,13 +707,33 @@
     "2810_MULTIPLE_ABSCESSES_OF_THE_BRAIN_IN_INFANCY",
     "2811_RECURRENT_PARALYSIS_OF_THE_FACIAL_NERVE_AND_ITS_RELATION_TO",
     "2812_INTRACRANIAL_TREATMENT_OF_SYPHILITIC_AND_PARASYPHILITIC_OPTI",
-    "2813_Is_uterine_activity_subject_to_cerebral_control"
+    "2813_Is_uterine_activity_subject_to_cerebral_control",
+    "2839_Absence_of_chromatolytic_change_in_the_central_nervous_syste",
+    "2840_ARSENOBENZOL_IN_THE_TREATMENT_OF_SYPHILIS",
+    "2841_über_Lokalisation_innerhalb_des_Corpus_striatum",
+    "2842_XIV_Sarcoma_of_the_Nose_Report_of_a_Fatal_Case_with_Metastas",
+    "2843_XLIII_Report_of_a_Case_of_Acute_Mastoiditis_with_Influenzal",
+    "2844_A_CLINICAL_AND_PATHOLOGICAL_STUDY_OF_A_CONDITION_OCCURRING_I",
+    "2845_The_forebrain_of_alligator_mississippiensis",
+    "2846_Primary_and_secondary_findings_in_a_series_of_attempts_to_tr",
+    "2847_Comparative_studies_on_the_growth_of_the_cerebral_cortex_I_O",
+    "2848_The_postnatal_growth_of_the_kidney_of_the_albino_rat_with_ob",
+    "2849_The_Response_of_Plants_to_Illuminating_Gas",
+    "2850_The_motor_nuclei_of_the_cerebral_nerves_in_phylogeny-a_study",
+    "2851_INTERNAL_HYDROCEPHALUS_SECOND_PAPER",
+    "2850_The_motor_nuclei_of_the_cerebral_nerves_in_phylogeny-a_study",
+    "2847_Comparative_studies_on_the_growth_of_the_cerebral_cortex_I_O",
+    "2852_THE_TRANSPLANTATION_OF_SPLENIC_TISSUE_INTO_THE_SUBCUTANEOUS",
+    "2853_The_Hydrogen-ion_Concentration_of_Cerebrospinal_Fluid_Studie",
+    "2854_Some_experiments_on_the_nature_and_function_of_reissners_fib",
+    "2855_The_skull_of_Acanthias_vulgaris",
+    "2856_A_NEW_MASTIC_TEST_FOR_THE_SPINAL_FLUID"
   ],
   "copied": [
     {
       "source": "E:\\조선대\\연구\\paper-curation\\paper\\awesome-brain-ai\\_folder_source_extract_report.json",
       "target": "E:\\조선대\\연구\\awesome-brain-ai\\data\\paper_curation\\extract_only_report.json",
-      "bytes": 427275
+      "bytes": 440016
     },
     {
       "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\003_Hughlings_Jackson_and_the_Cortical_Motor_Centres_in_the_Ligh\\text.md",
@@ -11904,6 +11924,516 @@
       "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2813_Is_uterine_activity_subject_to_cerebral_control\\text.md",
       "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2813_Is_uterine_activity_subject_to_cerebral_control\\text.md",
       "bytes": 6443
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2839_Absence_of_chromatolytic_change_in_the_central_nervous_syste\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2839_Absence_of_chromatolytic_change_in_the_central_nervous_syste\\text.md",
+      "bytes": 16926
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2839_Absence_of_chromatolytic_change_in_the_central_nervous_syste\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2839_Absence_of_chromatolytic_change_in_the_central_nervous_syste\\text.md",
+      "bytes": 16926
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2840_ARSENOBENZOL_IN_THE_TREATMENT_OF_SYPHILIS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2840_ARSENOBENZOL_IN_THE_TREATMENT_OF_SYPHILIS\\text.md",
+      "bytes": 10124
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2840_ARSENOBENZOL_IN_THE_TREATMENT_OF_SYPHILIS\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2840_ARSENOBENZOL_IN_THE_TREATMENT_OF_SYPHILIS\\figures\\fig2.png",
+      "bytes": 762129
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2840_ARSENOBENZOL_IN_THE_TREATMENT_OF_SYPHILIS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2840_ARSENOBENZOL_IN_THE_TREATMENT_OF_SYPHILIS\\text.md",
+      "bytes": 10124
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2840_ARSENOBENZOL_IN_THE_TREATMENT_OF_SYPHILIS\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2840_ARSENOBENZOL_IN_THE_TREATMENT_OF_SYPHILIS\\figures\\fig2.png",
+      "bytes": 762129
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2841_über_Lokalisation_innerhalb_des_Corpus_striatum\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2841_über_Lokalisation_innerhalb_des_Corpus_striatum\\text.md",
+      "bytes": 57645
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2841_über_Lokalisation_innerhalb_des_Corpus_striatum\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2841_über_Lokalisation_innerhalb_des_Corpus_striatum\\figures\\fig1.png",
+      "bytes": 422458
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2841_über_Lokalisation_innerhalb_des_Corpus_striatum\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2841_über_Lokalisation_innerhalb_des_Corpus_striatum\\figures\\fig2.png",
+      "bytes": 766692
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2841_über_Lokalisation_innerhalb_des_Corpus_striatum\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2841_über_Lokalisation_innerhalb_des_Corpus_striatum\\text.md",
+      "bytes": 57645
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2841_über_Lokalisation_innerhalb_des_Corpus_striatum\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2841_über_Lokalisation_innerhalb_des_Corpus_striatum\\figures\\fig1.png",
+      "bytes": 422458
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2841_über_Lokalisation_innerhalb_des_Corpus_striatum\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2841_über_Lokalisation_innerhalb_des_Corpus_striatum\\figures\\fig2.png",
+      "bytes": 766692
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2842_XIV_Sarcoma_of_the_Nose_Report_of_a_Fatal_Case_with_Metastas\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2842_XIV_Sarcoma_of_the_Nose_Report_of_a_Fatal_Case_with_Metastas\\text.md",
+      "bytes": 25857
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2842_XIV_Sarcoma_of_the_Nose_Report_of_a_Fatal_Case_with_Metastas\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2842_XIV_Sarcoma_of_the_Nose_Report_of_a_Fatal_Case_with_Metastas\\figures\\fig1.png",
+      "bytes": 154260
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2842_XIV_Sarcoma_of_the_Nose_Report_of_a_Fatal_Case_with_Metastas\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2842_XIV_Sarcoma_of_the_Nose_Report_of_a_Fatal_Case_with_Metastas\\figures\\fig2.png",
+      "bytes": 274723
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2842_XIV_Sarcoma_of_the_Nose_Report_of_a_Fatal_Case_with_Metastas\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2842_XIV_Sarcoma_of_the_Nose_Report_of_a_Fatal_Case_with_Metastas\\text.md",
+      "bytes": 25857
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2842_XIV_Sarcoma_of_the_Nose_Report_of_a_Fatal_Case_with_Metastas\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2842_XIV_Sarcoma_of_the_Nose_Report_of_a_Fatal_Case_with_Metastas\\figures\\fig1.png",
+      "bytes": 154260
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2842_XIV_Sarcoma_of_the_Nose_Report_of_a_Fatal_Case_with_Metastas\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2842_XIV_Sarcoma_of_the_Nose_Report_of_a_Fatal_Case_with_Metastas\\figures\\fig2.png",
+      "bytes": 274723
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2843_XLIII_Report_of_a_Case_of_Acute_Mastoiditis_with_Influenzal\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2843_XLIII_Report_of_a_Case_of_Acute_Mastoiditis_with_Influenzal\\text.md",
+      "bytes": 7807
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2843_XLIII_Report_of_a_Case_of_Acute_Mastoiditis_with_Influenzal\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2843_XLIII_Report_of_a_Case_of_Acute_Mastoiditis_with_Influenzal\\text.md",
+      "bytes": 7807
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2844_A_CLINICAL_AND_PATHOLOGICAL_STUDY_OF_A_CONDITION_OCCURRING_I\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2844_A_CLINICAL_AND_PATHOLOGICAL_STUDY_OF_A_CONDITION_OCCURRING_I\\text.md",
+      "bytes": 471
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2844_A_CLINICAL_AND_PATHOLOGICAL_STUDY_OF_A_CONDITION_OCCURRING_I\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2844_A_CLINICAL_AND_PATHOLOGICAL_STUDY_OF_A_CONDITION_OCCURRING_I\\text.md",
+      "bytes": 471
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2845_The_forebrain_of_alligator_mississippiensis\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2845_The_forebrain_of_alligator_mississippiensis\\text.md",
+      "bytes": 154776
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2845_The_forebrain_of_alligator_mississippiensis\\figures\\fig29.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2845_The_forebrain_of_alligator_mississippiensis\\figures\\fig29.png",
+      "bytes": 450482
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2845_The_forebrain_of_alligator_mississippiensis\\figures\\fig8.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2845_The_forebrain_of_alligator_mississippiensis\\figures\\fig8.png",
+      "bytes": 487930
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2845_The_forebrain_of_alligator_mississippiensis\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2845_The_forebrain_of_alligator_mississippiensis\\text.md",
+      "bytes": 154776
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2845_The_forebrain_of_alligator_mississippiensis\\figures\\fig29.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2845_The_forebrain_of_alligator_mississippiensis\\figures\\fig29.png",
+      "bytes": 450482
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2845_The_forebrain_of_alligator_mississippiensis\\figures\\fig8.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2845_The_forebrain_of_alligator_mississippiensis\\figures\\fig8.png",
+      "bytes": 487930
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2846_Primary_and_secondary_findings_in_a_series_of_attempts_to_tr\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2846_Primary_and_secondary_findings_in_a_series_of_attempts_to_tr\\text.md",
+      "bytes": 27731
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2846_Primary_and_secondary_findings_in_a_series_of_attempts_to_tr\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2846_Primary_and_secondary_findings_in_a_series_of_attempts_to_tr\\figures\\fig1.png",
+      "bytes": 801395
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2846_Primary_and_secondary_findings_in_a_series_of_attempts_to_tr\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2846_Primary_and_secondary_findings_in_a_series_of_attempts_to_tr\\figures\\fig2.png",
+      "bytes": 709856
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2846_Primary_and_secondary_findings_in_a_series_of_attempts_to_tr\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2846_Primary_and_secondary_findings_in_a_series_of_attempts_to_tr\\figures\\fig3.png",
+      "bytes": 659560
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2846_Primary_and_secondary_findings_in_a_series_of_attempts_to_tr\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2846_Primary_and_secondary_findings_in_a_series_of_attempts_to_tr\\figures\\fig5.png",
+      "bytes": 793530
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2846_Primary_and_secondary_findings_in_a_series_of_attempts_to_tr\\figures\\fig7.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2846_Primary_and_secondary_findings_in_a_series_of_attempts_to_tr\\figures\\fig7.png",
+      "bytes": 697619
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2846_Primary_and_secondary_findings_in_a_series_of_attempts_to_tr\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2846_Primary_and_secondary_findings_in_a_series_of_attempts_to_tr\\text.md",
+      "bytes": 27731
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2846_Primary_and_secondary_findings_in_a_series_of_attempts_to_tr\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2846_Primary_and_secondary_findings_in_a_series_of_attempts_to_tr\\figures\\fig1.png",
+      "bytes": 801395
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2846_Primary_and_secondary_findings_in_a_series_of_attempts_to_tr\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2846_Primary_and_secondary_findings_in_a_series_of_attempts_to_tr\\figures\\fig2.png",
+      "bytes": 709856
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2846_Primary_and_secondary_findings_in_a_series_of_attempts_to_tr\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2846_Primary_and_secondary_findings_in_a_series_of_attempts_to_tr\\figures\\fig3.png",
+      "bytes": 659560
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2846_Primary_and_secondary_findings_in_a_series_of_attempts_to_tr\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2846_Primary_and_secondary_findings_in_a_series_of_attempts_to_tr\\figures\\fig5.png",
+      "bytes": 793530
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2846_Primary_and_secondary_findings_in_a_series_of_attempts_to_tr\\figures\\fig7.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2846_Primary_and_secondary_findings_in_a_series_of_attempts_to_tr\\figures\\fig7.png",
+      "bytes": 697619
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2847_Comparative_studies_on_the_growth_of_the_cerebral_cortex_I_O\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2847_Comparative_studies_on_the_growth_of_the_cerebral_cortex_I_O\\text.md",
+      "bytes": 29803
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2847_Comparative_studies_on_the_growth_of_the_cerebral_cortex_I_O\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2847_Comparative_studies_on_the_growth_of_the_cerebral_cortex_I_O\\figures\\fig1.png",
+      "bytes": 380860
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2847_Comparative_studies_on_the_growth_of_the_cerebral_cortex_I_O\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2847_Comparative_studies_on_the_growth_of_the_cerebral_cortex_I_O\\text.md",
+      "bytes": 29803
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2847_Comparative_studies_on_the_growth_of_the_cerebral_cortex_I_O\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2847_Comparative_studies_on_the_growth_of_the_cerebral_cortex_I_O\\figures\\fig1.png",
+      "bytes": 380860
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2848_The_postnatal_growth_of_the_kidney_of_the_albino_rat_with_ob\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2848_The_postnatal_growth_of_the_kidney_of_the_albino_rat_with_ob\\text.md",
+      "bytes": 49345
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2848_The_postnatal_growth_of_the_kidney_of_the_albino_rat_with_ob\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2848_The_postnatal_growth_of_the_kidney_of_the_albino_rat_with_ob\\text.md",
+      "bytes": 49345
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2849_The_Response_of_Plants_to_Illuminating_Gas\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2849_The_Response_of_Plants_to_Illuminating_Gas\\text.md",
+      "bytes": 31824
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2849_The_Response_of_Plants_to_Illuminating_Gas\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2849_The_Response_of_Plants_to_Illuminating_Gas\\text.md",
+      "bytes": 31824
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2850_The_motor_nuclei_of_the_cerebral_nerves_in_phylogeny-a_study\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2850_The_motor_nuclei_of_the_cerebral_nerves_in_phylogeny-a_study\\text.md",
+      "bytes": 73051
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2850_The_motor_nuclei_of_the_cerebral_nerves_in_phylogeny-a_study\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2850_The_motor_nuclei_of_the_cerebral_nerves_in_phylogeny-a_study\\figures\\fig1.png",
+      "bytes": 769856
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2850_The_motor_nuclei_of_the_cerebral_nerves_in_phylogeny-a_study\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2850_The_motor_nuclei_of_the_cerebral_nerves_in_phylogeny-a_study\\figures\\fig4.png",
+      "bytes": 489648
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2850_The_motor_nuclei_of_the_cerebral_nerves_in_phylogeny-a_study\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2850_The_motor_nuclei_of_the_cerebral_nerves_in_phylogeny-a_study\\figures\\fig5.png",
+      "bytes": 551674
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2850_The_motor_nuclei_of_the_cerebral_nerves_in_phylogeny-a_study\\figures\\fig6.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2850_The_motor_nuclei_of_the_cerebral_nerves_in_phylogeny-a_study\\figures\\fig6.png",
+      "bytes": 658242
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2850_The_motor_nuclei_of_the_cerebral_nerves_in_phylogeny-a_study\\figures\\fig7.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2850_The_motor_nuclei_of_the_cerebral_nerves_in_phylogeny-a_study\\figures\\fig7.png",
+      "bytes": 441030
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2850_The_motor_nuclei_of_the_cerebral_nerves_in_phylogeny-a_study\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2850_The_motor_nuclei_of_the_cerebral_nerves_in_phylogeny-a_study\\text.md",
+      "bytes": 73051
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2850_The_motor_nuclei_of_the_cerebral_nerves_in_phylogeny-a_study\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2850_The_motor_nuclei_of_the_cerebral_nerves_in_phylogeny-a_study\\figures\\fig1.png",
+      "bytes": 769856
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2850_The_motor_nuclei_of_the_cerebral_nerves_in_phylogeny-a_study\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2850_The_motor_nuclei_of_the_cerebral_nerves_in_phylogeny-a_study\\figures\\fig4.png",
+      "bytes": 489648
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2850_The_motor_nuclei_of_the_cerebral_nerves_in_phylogeny-a_study\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2850_The_motor_nuclei_of_the_cerebral_nerves_in_phylogeny-a_study\\figures\\fig5.png",
+      "bytes": 551674
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2850_The_motor_nuclei_of_the_cerebral_nerves_in_phylogeny-a_study\\figures\\fig6.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2850_The_motor_nuclei_of_the_cerebral_nerves_in_phylogeny-a_study\\figures\\fig6.png",
+      "bytes": 658242
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2850_The_motor_nuclei_of_the_cerebral_nerves_in_phylogeny-a_study\\figures\\fig7.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2850_The_motor_nuclei_of_the_cerebral_nerves_in_phylogeny-a_study\\figures\\fig7.png",
+      "bytes": 441030
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2851_INTERNAL_HYDROCEPHALUS_SECOND_PAPER\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2851_INTERNAL_HYDROCEPHALUS_SECOND_PAPER\\text.md",
+      "bytes": 43177
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2851_INTERNAL_HYDROCEPHALUS_SECOND_PAPER\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2851_INTERNAL_HYDROCEPHALUS_SECOND_PAPER\\figures\\fig3.png",
+      "bytes": 722724
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2851_INTERNAL_HYDROCEPHALUS_SECOND_PAPER\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2851_INTERNAL_HYDROCEPHALUS_SECOND_PAPER\\figures\\fig4.png",
+      "bytes": 1018406
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2851_INTERNAL_HYDROCEPHALUS_SECOND_PAPER\\figures\\fig6.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2851_INTERNAL_HYDROCEPHALUS_SECOND_PAPER\\figures\\fig6.png",
+      "bytes": 1044905
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2851_INTERNAL_HYDROCEPHALUS_SECOND_PAPER\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2851_INTERNAL_HYDROCEPHALUS_SECOND_PAPER\\text.md",
+      "bytes": 43177
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2851_INTERNAL_HYDROCEPHALUS_SECOND_PAPER\\figures\\fig3.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2851_INTERNAL_HYDROCEPHALUS_SECOND_PAPER\\figures\\fig3.png",
+      "bytes": 722724
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2851_INTERNAL_HYDROCEPHALUS_SECOND_PAPER\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2851_INTERNAL_HYDROCEPHALUS_SECOND_PAPER\\figures\\fig4.png",
+      "bytes": 1018406
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2851_INTERNAL_HYDROCEPHALUS_SECOND_PAPER\\figures\\fig6.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2851_INTERNAL_HYDROCEPHALUS_SECOND_PAPER\\figures\\fig6.png",
+      "bytes": 1044905
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2850_The_motor_nuclei_of_the_cerebral_nerves_in_phylogeny-a_study\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2850_The_motor_nuclei_of_the_cerebral_nerves_in_phylogeny-a_study\\text.md",
+      "bytes": 73051
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2850_The_motor_nuclei_of_the_cerebral_nerves_in_phylogeny-a_study\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2850_The_motor_nuclei_of_the_cerebral_nerves_in_phylogeny-a_study\\figures\\fig1.png",
+      "bytes": 769856
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2850_The_motor_nuclei_of_the_cerebral_nerves_in_phylogeny-a_study\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2850_The_motor_nuclei_of_the_cerebral_nerves_in_phylogeny-a_study\\figures\\fig4.png",
+      "bytes": 489648
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2850_The_motor_nuclei_of_the_cerebral_nerves_in_phylogeny-a_study\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2850_The_motor_nuclei_of_the_cerebral_nerves_in_phylogeny-a_study\\figures\\fig5.png",
+      "bytes": 551674
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2850_The_motor_nuclei_of_the_cerebral_nerves_in_phylogeny-a_study\\figures\\fig6.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2850_The_motor_nuclei_of_the_cerebral_nerves_in_phylogeny-a_study\\figures\\fig6.png",
+      "bytes": 658242
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2850_The_motor_nuclei_of_the_cerebral_nerves_in_phylogeny-a_study\\figures\\fig7.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2850_The_motor_nuclei_of_the_cerebral_nerves_in_phylogeny-a_study\\figures\\fig7.png",
+      "bytes": 441030
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2850_The_motor_nuclei_of_the_cerebral_nerves_in_phylogeny-a_study\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2850_The_motor_nuclei_of_the_cerebral_nerves_in_phylogeny-a_study\\text.md",
+      "bytes": 73051
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2850_The_motor_nuclei_of_the_cerebral_nerves_in_phylogeny-a_study\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2850_The_motor_nuclei_of_the_cerebral_nerves_in_phylogeny-a_study\\figures\\fig1.png",
+      "bytes": 769856
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2850_The_motor_nuclei_of_the_cerebral_nerves_in_phylogeny-a_study\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2850_The_motor_nuclei_of_the_cerebral_nerves_in_phylogeny-a_study\\figures\\fig4.png",
+      "bytes": 489648
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2850_The_motor_nuclei_of_the_cerebral_nerves_in_phylogeny-a_study\\figures\\fig5.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2850_The_motor_nuclei_of_the_cerebral_nerves_in_phylogeny-a_study\\figures\\fig5.png",
+      "bytes": 551674
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2850_The_motor_nuclei_of_the_cerebral_nerves_in_phylogeny-a_study\\figures\\fig6.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2850_The_motor_nuclei_of_the_cerebral_nerves_in_phylogeny-a_study\\figures\\fig6.png",
+      "bytes": 658242
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2850_The_motor_nuclei_of_the_cerebral_nerves_in_phylogeny-a_study\\figures\\fig7.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2850_The_motor_nuclei_of_the_cerebral_nerves_in_phylogeny-a_study\\figures\\fig7.png",
+      "bytes": 441030
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2847_Comparative_studies_on_the_growth_of_the_cerebral_cortex_I_O\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2847_Comparative_studies_on_the_growth_of_the_cerebral_cortex_I_O\\text.md",
+      "bytes": 29803
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2847_Comparative_studies_on_the_growth_of_the_cerebral_cortex_I_O\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2847_Comparative_studies_on_the_growth_of_the_cerebral_cortex_I_O\\figures\\fig1.png",
+      "bytes": 380860
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2847_Comparative_studies_on_the_growth_of_the_cerebral_cortex_I_O\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2847_Comparative_studies_on_the_growth_of_the_cerebral_cortex_I_O\\text.md",
+      "bytes": 29803
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2847_Comparative_studies_on_the_growth_of_the_cerebral_cortex_I_O\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2847_Comparative_studies_on_the_growth_of_the_cerebral_cortex_I_O\\figures\\fig1.png",
+      "bytes": 380860
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2852_THE_TRANSPLANTATION_OF_SPLENIC_TISSUE_INTO_THE_SUBCUTANEOUS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2852_THE_TRANSPLANTATION_OF_SPLENIC_TISSUE_INTO_THE_SUBCUTANEOUS\\text.md",
+      "bytes": 15128
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2852_THE_TRANSPLANTATION_OF_SPLENIC_TISSUE_INTO_THE_SUBCUTANEOUS\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2852_THE_TRANSPLANTATION_OF_SPLENIC_TISSUE_INTO_THE_SUBCUTANEOUS\\figures\\fig1.png",
+      "bytes": 325385
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2852_THE_TRANSPLANTATION_OF_SPLENIC_TISSUE_INTO_THE_SUBCUTANEOUS\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2852_THE_TRANSPLANTATION_OF_SPLENIC_TISSUE_INTO_THE_SUBCUTANEOUS\\text.md",
+      "bytes": 15128
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2852_THE_TRANSPLANTATION_OF_SPLENIC_TISSUE_INTO_THE_SUBCUTANEOUS\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2852_THE_TRANSPLANTATION_OF_SPLENIC_TISSUE_INTO_THE_SUBCUTANEOUS\\figures\\fig1.png",
+      "bytes": 325385
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2853_The_Hydrogen-ion_Concentration_of_Cerebrospinal_Fluid_Studie\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2853_The_Hydrogen-ion_Concentration_of_Cerebrospinal_Fluid_Studie\\text.md",
+      "bytes": 35862
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2853_The_Hydrogen-ion_Concentration_of_Cerebrospinal_Fluid_Studie\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2853_The_Hydrogen-ion_Concentration_of_Cerebrospinal_Fluid_Studie\\text.md",
+      "bytes": 35862
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2854_Some_experiments_on_the_nature_and_function_of_reissners_fib\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2854_Some_experiments_on_the_nature_and_function_of_reissners_fib\\text.md",
+      "bytes": 183287
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2854_Some_experiments_on_the_nature_and_function_of_reissners_fib\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2854_Some_experiments_on_the_nature_and_function_of_reissners_fib\\text.md",
+      "bytes": 183287
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2855_The_skull_of_Acanthias_vulgaris\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2855_The_skull_of_Acanthias_vulgaris\\text.md",
+      "bytes": 46013
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2855_The_skull_of_Acanthias_vulgaris\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2855_The_skull_of_Acanthias_vulgaris\\figures\\fig4.png",
+      "bytes": 443695
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2855_The_skull_of_Acanthias_vulgaris\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2855_The_skull_of_Acanthias_vulgaris\\text.md",
+      "bytes": 46013
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2855_The_skull_of_Acanthias_vulgaris\\figures\\fig4.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2855_The_skull_of_Acanthias_vulgaris\\figures\\fig4.png",
+      "bytes": 443695
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2856_A_NEW_MASTIC_TEST_FOR_THE_SPINAL_FLUID\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2856_A_NEW_MASTIC_TEST_FOR_THE_SPINAL_FLUID\\text.md",
+      "bytes": 18097
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2856_A_NEW_MASTIC_TEST_FOR_THE_SPINAL_FLUID\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2856_A_NEW_MASTIC_TEST_FOR_THE_SPINAL_FLUID\\figures\\fig1.png",
+      "bytes": 482440
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2856_A_NEW_MASTIC_TEST_FOR_THE_SPINAL_FLUID\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\docs\\paper_curation\\extract_only\\papers\\2856_A_NEW_MASTIC_TEST_FOR_THE_SPINAL_FLUID\\figures\\fig2.png",
+      "bytes": 1001438
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2856_A_NEW_MASTIC_TEST_FOR_THE_SPINAL_FLUID\\text.md",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2856_A_NEW_MASTIC_TEST_FOR_THE_SPINAL_FLUID\\text.md",
+      "bytes": 18097
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2856_A_NEW_MASTIC_TEST_FOR_THE_SPINAL_FLUID\\figures\\fig1.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2856_A_NEW_MASTIC_TEST_FOR_THE_SPINAL_FLUID\\figures\\fig1.png",
+      "bytes": 482440
+    },
+    {
+      "source": "C:\\Users\\user\\AppData\\Local\\Temp\\paper-curation-inspect\\docs\\papers\\2856_A_NEW_MASTIC_TEST_FOR_THE_SPINAL_FLUID\\figures\\fig2.png",
+      "target": "E:\\조선대\\연구\\awesome-brain-ai\\paper\\extract_only\\papers\\2856_A_NEW_MASTIC_TEST_FOR_THE_SPINAL_FLUID\\figures\\fig2.png",
+      "bytes": 1001438
     }
   ],
   "missing": [],
