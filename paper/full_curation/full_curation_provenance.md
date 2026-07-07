@@ -1,12 +1,12 @@
 # Codex-Native Full Curation Provenance
 
-Generated: 2026-07-06T12:45:18.878720+00:00
+Generated: 2026-07-07T00:36:17.771355+00:00
 
 This repository contains Codex-native full-curation artifacts generated from local PDF text and figure extraction evidence.
 
 - Mode: `codex-native-full-curation`
 - Topic: `brain-ai`
-- Processed papers: 1220
+- Processed papers: 1662
 - Source extract report: `E:/조선대/연구/paper-curation/paper/awesome-brain-ai/_folder_source_extract_report.json`
 - Data artifacts: `data/paper_curation`
 - Review artifacts: `docs/paper_curation/papers`
